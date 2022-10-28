@@ -15,14 +15,12 @@ headers: dict = {
 
 def get_now_playing():
     import requests
-    result = requests.get(url, headers=headers).json()
+    result = requests.get(url, headers=headers)
     print(result)
     return result
 
 
 if __name__ == '__main__':
-    get_now_playing().json()
-    # write to file, pretty print, etc.
     import json
     with open('now-playing.json', 'w') as f:
-        json.dump(get_now_playing(), f, indent=2)
+        json.dump(get_now_playing().json(), f, indent=2)
