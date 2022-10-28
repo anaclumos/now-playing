@@ -6,8 +6,8 @@ load_dotenv()
 url: str = 'https://api.music.apple.com/v1/me/recent/played/tracks'
 
 headers: dict = {
-    'Authorization': f'Bearer {os.getenv("APPLE_MUSIC_DEV_TOKEN")}',
-    'Music-User-Token': os.getenv('APPLE_MUSIC_USER_TOKEN'),
+    'Authorization': f'Bearer {os.environ.get("APPLE_MUSIC_DEV_TOKEN")}',
+    'Music-User-Token': os.environ.get('APPLE_MUSIC_USER_TOKEN'),
     'Accept': 'application/json',
     'Content-Type': 'application/json',
 }
@@ -16,7 +16,7 @@ headers: dict = {
 def get_now_playing():
     import requests
     result = requests.get(url, headers=headers)
-    print(result)
+    print(result.json())
     return result
 
 
