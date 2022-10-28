@@ -20,8 +20,8 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python now-playing.py
         env:
-          APPLE_MUSIC_DEV_TOKEN: '${{ secrets.APPLE_MUSIC_DEV_TOKEN }}'
-          APPLE_MUSUC_USER_TOKEN: '${{ secrets.APPLE_MUSUC_USER_TOKEN }}'
+          APPLE_MUSIC_DEV_TOKEN: ${{ secrets.APPLE_MUSIC_DEV_TOKEN }}
+          APPLE_MUSUC_USER_TOKEN: ${{ secrets.APPLE_MUSUC_USER_TOKEN }}
       - run: git config --local user.email "actions@github.com"
       - run: git config --local user.name "GitHub Action"
       - run: git add .
