@@ -8,7 +8,7 @@ on:
       - main
 
 jobs:
-  test_env:
+  Get Current Tracks:
     environment: production
     runs-on: ubuntu-latest
     steps:
