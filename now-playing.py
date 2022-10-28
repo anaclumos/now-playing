@@ -16,7 +16,9 @@ headers: dict = {
 def get_now_playing():
     import requests
     result = requests.get(url, headers=headers)
-    print(result.json())
+    print(result.status_code)
+    print(result.headers)
+    print(result.content)
     return result
 
 
