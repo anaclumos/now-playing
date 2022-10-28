@@ -8,7 +8,7 @@ on:
       - main
 
 jobs:
-  Get Current Tracks:
+  get-current-tracks:
     environment: production
     runs-on: ubuntu-latest
     steps:
