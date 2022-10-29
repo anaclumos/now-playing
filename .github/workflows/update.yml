@@ -5,9 +5,6 @@ on:
   push:
     branches:
       - main
-env:
-  APPLE_MUSIC_DEV_TOKEN: ${{ secrets.APPLE_MUSIC_DEV_TOKEN }}
-  APPLE_MUSUC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
 
 jobs:
   get-current-tracks:
@@ -24,6 +21,9 @@ jobs:
       - run: git config pull.rebase true
       - run: git pull origin main
       - run: python now-playing.py
+        env:
+          APPLE_MUSIC_DEV_TOKEN: ${{ secrets.APPLE_MUSIC_DEV_TOKEN }}
+          APPLE_MUSUC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
       - run: git config --local user.email "github-actions[bot]@users.noreply.github.com"
       - run: git config --local user.name "github-actions[bot]"
       - run: git add now-playing.json
