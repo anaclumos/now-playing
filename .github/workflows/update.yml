@@ -17,17 +17,25 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: pip install -r requirements.txt
-      - run: git config pull.rebase true
-      - run: git pull origin main
-      - run: python now-playing.py
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Rebase Before Running
+        run: |
+          git config pull.rebase true
+          git pull
+      - name: Get Current Tracks
+        run: python3 now-playing.py
         env:
           APPLE_MUSIC_DEV_TOKEN: ${{ secrets.APPLE_MUSIC_DEV_TOKEN }}
           APPLE_MUSUC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
-      - run: git config --local user.email "github-actions[bot]@users.noreply.github.com"
-      - run: git config --local user.name "github-actions[bot]"
-      - run: git add now-playing.json
-      - run: git commit -m "Update now-playing"
+      - name: Commit as Bot
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add now-playing.json
+          git commit -m "Update now-playing"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
