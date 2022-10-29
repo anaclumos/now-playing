@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1603171870",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1603171870",
+      "attributes": {
+        "albumName": "Dawn FM",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2022-01-07",
+        "durationInMillis": 214191,
+        "isrc": "USUG12106689",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/2f/22/a9/2f22a9a6-5af1-5846-a44e-ba016724ed69/21UM1IM58860.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "fffbff",
+          "textColor2": "93c6cf",
+          "textColor3": "cbc8cb",
+          "textColor4": "759fa5"
+        },
+        "composerName": "Abel Tesfaye, Daniel Lopatin, Tomoko Aran & Tetsuro Harada",
+        "url": "https://music.apple.com/us/album/out-of-time/1603171516?i=1603171870",
+        "playParams": {
+          "id": "1603171870",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Out of Time",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9c/0f/ec/9c0fecd4-7e2a-280f-fe82-dd12337e84f2/mzaf_11950336385769736765.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "The Weeknd"
+      }
+    },
+    {
+      "id": "1641655640",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1641655640",
+      "attributes": {
+        "albumName": "Gasoline - The 2nd Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-30",
+        "durationInMillis": 191907,
+        "isrc": "KRA302200162",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/31/6a/fc/316afc42-a5ee-d9a1-9c98-20126beaf14f/KEY_Gasoline_Digital_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "090714",
+          "textColor1": "f8faf9",
+          "textColor2": "f6ddb1",
+          "textColor3": "c8c9cb",
+          "textColor4": "c6b292"
+        },
+        "composerName": "KENZIE, Moonshine, KC & Ninos Hanna",
+        "playParams": {
+          "id": "1641655640",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/gasoline/1641655639?i=1641655640",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Gasoline",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/4f/88/3f4f88cc-bf5f-da7b-7a9b-2e615c15d500/mzaf_2891645739970414452.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "KEY"
+      }
+    },
+    {
+      "id": "1584809295",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1584809295",
+      "attributes": {
+        "albumName": "Love, Yerin - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2021-09-10",
+        "durationInMillis": 245840,
+        "isrc": "KRMIM2135398",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c0/13/22/c01322df-40be-a2c8-56e8-f5be1d3471fa/Yerin_Baek.jpg/{w}x{h}bb.jpg",
+          "bgColor": "cbdce6",
+          "textColor1": "080f0b",
+          "textColor2": "0d1a13",
+          "textColor3": "2f3837",
+          "textColor4": "33403d"
+        },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
+        "playParams": {
+          "id": "1584809295",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Antifreeze",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/ba/af/83baaff3-02f8-7546-ca99-dddc23dc3861/mzaf_8909824249325837832.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yerin Baek"
+      }
+    },
+    {
       "id": "1646621063",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1646621063",
@@ -15,8 +142,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195080,
         "releaseDate": "2022-09-29",
+        "durationInMillis": 195080,
         "isrc": "KRA382207561",
         "artwork": {
           "width": 3000,
@@ -28,14 +155,14 @@
           "textColor3": "dfd1b7",
           "textColor4": "e0d0b5"
         },
-        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
         "playParams": {
           "id": "1646621063",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Complex (feat. ZICO)",
         "previews": [
           {
@@ -56,8 +183,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 188508,
         "releaseDate": "2022-10-07",
+        "durationInMillis": 188508,
         "isrc": "USAT22208889",
         "artwork": {
           "width": 1425,
@@ -70,14 +197,14 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -113,14 +240,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -142,8 +269,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165747,
         "releaseDate": "2022-09-19",
+        "durationInMillis": 165747,
         "isrc": "US5TA2200097",
         "artwork": {
           "width": 3000,
@@ -156,14 +283,14 @@
           "textColor4": "541920"
         },
         "composerName": "Armadillo, Ranga, Frankie Day (THE HUB), Charlotte Wilson (THE HUB), THE HUB 88 & Jonkind",
-        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "playParams": {
           "id": "1642630327",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DICE",
         "previews": [
           {
@@ -199,14 +326,14 @@
           "textColor3": "c3de67",
           "textColor4": "66a9da"
         },
-        "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
         "playParams": {
           "id": "1512931470",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Amor",
         "previews": [
           {
@@ -228,8 +355,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177187,
         "releaseDate": "2022-04-05",
+        "durationInMillis": 177187,
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -247,8 +374,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -290,8 +417,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cookie",
         "previews": [
           {
@@ -333,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Pink Venom",
         "previews": [
           {
@@ -377,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rush Hour (feat. j-hope of BTS)",
         "previews": [
           {
@@ -399,8 +526,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 147427,
         "releaseDate": "2022-09-06",
+        "durationInMillis": 147427,
         "isrc": "KRA492200790",
         "artwork": {
           "width": 1400,
@@ -413,14 +540,14 @@
           "textColor4": "b5b8be"
         },
         "composerName": "ZICO, Pop.time, CK & Louie",
-        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "playParams": {
           "id": "1643565275",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "New Thing (feat. Homies)",
         "previews": [
           {
@@ -442,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -456,14 +583,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -485,8 +612,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 222680,
         "releaseDate": "2017-09-28",
+        "durationInMillis": 222680,
         "isrc": "KRA381702307",
         "artwork": {
           "width": 3000,
@@ -504,8 +631,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "To My Youth",
         "previews": [
           {
@@ -547,8 +674,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Gradation",
         "previews": [
           {
@@ -584,14 +711,14 @@
           "textColor3": "384540",
           "textColor4": "454b3b"
         },
-        "url": "https://music.apple.com/us/album/drawer-inst/1598506867?i=1598506869",
         "playParams": {
           "id": "1598506869",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/drawer-inst/1598506867?i=1598506869",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Drawer (Inst.)",
         "previews": [
           {
@@ -627,14 +754,14 @@
           "textColor3": "384540",
           "textColor4": "454b3b"
         },
-        "url": "https://music.apple.com/us/album/drawer/1598506867?i=1598506868",
         "playParams": {
           "id": "1598506868",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/drawer/1598506867?i=1598506868",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Drawer",
         "previews": [
           {
@@ -656,8 +783,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -676,8 +803,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -698,8 +825,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 180180,
         "releaseDate": "2020-03-09",
+        "durationInMillis": 180180,
         "isrc": "US5TA2000008",
         "artwork": {
           "width": 1400,
@@ -712,14 +839,14 @@
           "textColor4": "c97435"
         },
         "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
-        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
         "playParams": {
           "id": "1608253231",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "THAT'S A NO NO",
         "previews": [
           {
@@ -761,8 +888,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -784,8 +911,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -804,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -827,8 +954,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 162570,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 162570,
         "isrc": "KRA402200024",
         "artwork": {
           "width": 2000,
@@ -841,14 +968,14 @@
           "textColor4": "535353"
         },
         "composerName": "Bianca Blush Atterberry, Max Wolfgang, Freddy Wexler, Teddy, R. Tee & 24",
-        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
         "playParams": {
           "id": "1644440679",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Hard to Love",
         "previews": [
           {
@@ -857,48 +984,6 @@
         ],
         "contentRating": "explicit",
         "artistName": "BLACKPINK"
-      }
-    },
-    {
-      "id": "1584809295",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1584809295",
-      "attributes": {
-        "albumName": "Love, Yerin - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 245840,
-        "releaseDate": "2021-09-10",
-        "isrc": "KRMIM2135398",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c0/13/22/c01322df-40be-a2c8-56e8-f5be1d3471fa/Yerin_Baek.jpg/{w}x{h}bb.jpg",
-          "bgColor": "cbdce6",
-          "textColor1": "080f0b",
-          "textColor2": "0d1a13",
-          "textColor3": "2f3837",
-          "textColor4": "33403d"
-        },
-        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
-        "playParams": {
-          "id": "1584809295",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Antifreeze",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/ba/af/83baaff3-02f8-7546-ca99-dddc23dc3861/mzaf_8909824249325837832.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yerin Baek"
       }
     },
     {
@@ -927,14 +1012,14 @@
           "textColor4": "004a2e"
         },
         "composerName": "\"Hitman\" Bang, Adora, Danke, Hiss noise, Hyuk Shin, Jayrah Gibson, Joni, Jordan Weiner, JUNG BOBBY & Slow Rabbit",
-        "url": "https://music.apple.com/us/album/20cm/1553524319?i=1553524708",
         "playParams": {
           "id": "1553524708",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/20cm/1553524319?i=1553524708",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "20Cm",
         "previews": [
           {
@@ -976,8 +1061,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LO$ER=LO\u2661ER",
         "previews": [
           {
@@ -1018,8 +1103,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Light Switch",
         "previews": [
           {
@@ -1055,14 +1140,14 @@
           "textColor3": "c7a8cb",
           "textColor4": "b285cb"
         },
-        "url": "https://music.apple.com/us/album/punk-right-now-english-version/1441756691?i=1441756692",
         "playParams": {
           "id": "1441756692",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/punk-right-now-english-version/1441756691?i=1441756692",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Punk Right Now (English Version)",
         "previews": [
           {
@@ -1098,14 +1183,14 @@
           "textColor4": "6c4f48"
         },
         "composerName": "Melanie Fontana, Gino Barletta, Britten Newbill, Michel Schulz & BIBI",
-        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
         "playParams": {
           "id": "1579487839",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Second (feat. BIBI)",
         "previews": [
           {
@@ -1126,8 +1211,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 223373,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 223373,
         "isrc": "US5TA2200144",
         "artwork": {
           "width": 1400,
@@ -1140,14 +1225,14 @@
           "textColor4": "d59277"
         },
         "composerName": "Didrik Thott, Hayley Aitken, Sebastian Thott, Sara Davis, Ellie Suh(153/Joombas) & LEEJOOHEE(MUMW)",
-        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
         "playParams": {
           "id": "1648963030",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Boys Like You",
         "previews": [
           {
@@ -1169,8 +1254,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -1189,8 +1274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Nxde",
         "previews": [
           {
@@ -1198,91 +1283,6 @@
           }
         ],
         "artistName": "(G)I-DLE"
-      }
-    },
-    {
-      "id": "1649270425",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649270425",
-      "attributes": {
-        "albumName": "Stupid Love - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-10-13",
-        "durationInMillis": 265703,
-        "isrc": "KRA382207775",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/f5/22/bd/f522bd07-d49b-1cc2-0ddf-afda2f755fb5/cover_KM0016213_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "5e5a5d",
-          "textColor1": "f9faf2",
-          "textColor2": "eaecfb",
-          "textColor3": "dadad5",
-          "textColor4": "cecfdc"
-        },
-        "url": "https://music.apple.com/us/album/stupid-love/1649270424?i=1649270425",
-        "playParams": {
-          "id": "1649270425",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Stupid Love",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/df/7f/10/df7f1095-a286-0ab7-3d4a-f52421e8f7fb/mzaf_11754913002104676695.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Kwon Jin Ah"
-      }
-    },
-    {
-      "id": "1635470002",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635470002",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 177947,
-        "isrc": "USA2P2230224",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Amanda Lundstedt, 250 & Gigi",
-        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
-        "playParams": {
-          "id": "1635470002",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Hurt",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/38/a3/cf38a361-d2e1-a5e7-b948-b924673953a4/mzaf_124166364879994793.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
