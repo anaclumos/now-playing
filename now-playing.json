@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1449619747",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1449619747",
+      "attributes": {
+        "albumName": "Wicked",
+        "genreNames": [
+          "Vocal",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2003-12-16",
+        "durationInMillis": 353920,
+        "isrc": "USUMC0300219",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/97/39/9d/97399db8-5ce5-385e-4ba2-6c61478d3b28/18UMGIM73666.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "92d747",
+          "textColor3": "cbcbcb",
+          "textColor4": "75ac39"
+        },
+        "composerName": "Stephen Schwartz",
+        "playParams": {
+          "id": "1449619747",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/defying-gravity/1449619162?i=1449619747",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Defying Gravity",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a4/1e/95/a41e957c-fbc3-5e4e-5eab-532117c72842/mzaf_5312357557470036704.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Kristin Chenoweth & Idina Menzel"
+      }
+    },
+    {
+      "id": "1633318780",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1633318780",
+      "attributes": {
+        "albumName": "CHARLIE",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2022-10-07",
+        "durationInMillis": 188508,
+        "isrc": "USAT22208889",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dadad8",
+          "textColor1": "040404",
+          "textColor2": "2c2c2b",
+          "textColor3": "2e2e2e",
+          "textColor4": "4e4e4d"
+        },
+        "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
+        "playParams": {
+          "id": "1633318780",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "I Don't Think That I Like Her",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e0/e6/75/e0e675a3-b528-475f-949a-b696595a24ab/mzaf_14467144304382032423.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Charlie Puth"
+      }
+    },
+    {
+      "id": "1609049613",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1609049613",
+      "attributes": {
+        "albumName": "INVU - The 3rd Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-02-14",
+        "durationInMillis": 204973,
+        "isrc": "KRA302200026",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/83/31578320-668c-39ac-9b69-20beba684835/03_INVU.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1a1a1a",
+          "textColor1": "c9be8a",
+          "textColor2": "a7bbd8",
+          "textColor3": "a59d73",
+          "textColor4": "8a9bb2"
+        },
+        "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
+        "playParams": {
+          "id": "1609049613",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "INVU",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/32/f4/32/32f4320b-9c80-1144-4a73-99768659e2bc/mzaf_18432216400216579717.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TAEYEON"
+      }
+    },
+    {
       "id": "1619757892",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1619757892",
@@ -33,8 +160,8 @@
         },
         "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Beyond Love (feat. 10cm)",
         "previews": [
           {
@@ -70,11 +197,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Danke, ABIR, Kayofkaj, Nermin Harambasic (Dsign Music), Lady V, \uae40\uc778\ud615 & Sunshine (Cazzi Opeia & Ellen Berg)",
+        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "playParams": {
           "id": "1621089856",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -118,8 +245,8 @@
         },
         "url": "https://music.apple.com/us/album/number-feat-big-naughty/1649890265?i=1649890266",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Number (feat. BIG Naughty)",
         "previews": [
           {
@@ -142,8 +269,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177467,
         "releaseDate": "2022-08-26",
+        "durationInMillis": 177467,
         "isrc": "US5TA2200073",
         "artwork": {
           "width": 1400,
@@ -156,11 +283,11 @@
           "textColor4": "7a3959"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
-        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "playParams": {
           "id": "1635656417",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -205,8 +332,8 @@
         },
         "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Amor",
         "previews": [
           {
@@ -229,8 +356,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 243324,
         "releaseDate": "2013-01-12",
+        "durationInMillis": 243324,
         "isrc": "KRA381206130",
         "artwork": {
           "width": 1909,
@@ -242,11 +369,11 @@
           "textColor3": "525449",
           "textColor4": "57574e"
         },
-        "url": "https://music.apple.com/us/album/every-moment-of-you/1438197885?i=1438197886",
         "playParams": {
           "id": "1438197886",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/every-moment-of-you/1438197885?i=1438197886",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -271,8 +398,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -291,8 +418,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -314,8 +441,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 175889,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 175889,
         "isrc": "KRA402200020",
         "artwork": {
           "width": 2000,
@@ -334,8 +461,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Shut Down",
         "previews": [
           {
@@ -358,8 +485,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -377,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -420,8 +547,8 @@
         },
         "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -443,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -457,11 +584,11 @@
           "textColor4": "e79876"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "playParams": {
           "id": "1645995263",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -486,8 +613,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -500,11 +627,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -543,11 +670,11 @@
           "textColor3": "c8ca92",
           "textColor4": "c1afab"
         },
+        "url": "https://music.apple.com/us/album/arirang-medley/1530315816?i=1530315824",
         "playParams": {
           "id": "1530315824",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/arirang-medley/1530315816?i=1530315824",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -585,11 +712,11 @@
           "textColor3": "605048",
           "textColor4": "64544f"
         },
+        "url": "https://music.apple.com/us/album/laughter-just-like-a-medicine-radio-version/1435173781?i=1435173787",
         "playParams": {
           "id": "1435173787",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/laughter-just-like-a-medicine-radio-version/1435173781?i=1435173787",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -627,11 +754,11 @@
           "textColor4": "c6c5ce"
         },
         "composerName": "Joanna Starling, Michael James Ambrosino, Olivier Heldens, Stavros Adamantios Tsarouhas & Sydney Lea Sahr",
+        "url": "https://music.apple.com/us/album/never-look-back-feat-syd-silvair/1552236551?i=1552236554",
         "playParams": {
           "id": "1552236554",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/never-look-back-feat-syd-silvair/1552236551?i=1552236554",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -676,8 +803,8 @@
         },
         "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -718,8 +845,8 @@
         },
         "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "THAT'S A NO NO",
         "previews": [
           {
@@ -741,8 +868,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 162570,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 162570,
         "isrc": "KRA402200024",
         "artwork": {
           "width": 2000,
@@ -755,11 +882,11 @@
           "textColor4": "535353"
         },
         "composerName": "Bianca Blush Atterberry, Max Wolfgang, Freddy Wexler, Teddy, R. Tee & 24",
-        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
         "playParams": {
           "id": "1644440679",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -785,8 +912,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -805,8 +932,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -827,8 +954,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 219143,
         "releaseDate": "2020-03-09",
+        "durationInMillis": 219143,
         "isrc": "US5TA2000007",
         "artwork": {
           "width": 1400,
@@ -841,11 +968,11 @@
           "textColor4": "c97435"
         },
         "composerName": "Warren \"Oak\" Felder, Jane \"Jin Jin\" Bennett, Oliver Heldens, Lee Seu-Ran, Penomeco & Kang Eunjung",
-        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "playParams": {
           "id": "1608253225",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -883,11 +1010,11 @@
           "textColor3": "2f3837",
           "textColor4": "33403d"
         },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "playParams": {
           "id": "1584809295",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -926,11 +1053,11 @@
           "textColor3": "563442",
           "textColor4": "533d3d"
         },
+        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "playParams": {
           "id": "1632365364",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -975,8 +1102,8 @@
         },
         "url": "https://music.apple.com/us/album/20cm/1553524319?i=1553524708",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "20Cm",
         "previews": [
           {
@@ -998,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 199919,
         "releaseDate": "2021-08-17",
+        "durationInMillis": 199919,
         "isrc": "USA2P2119859",
         "artwork": {
           "width": 1400,
@@ -1018,8 +1145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LO$ER=LO\u2661ER",
         "previews": [
           {
@@ -1060,8 +1187,8 @@
         },
         "url": "https://music.apple.com/us/album/light-switch/1633318292?i=1633318562",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Light Switch",
         "previews": [
           {
@@ -1097,11 +1224,11 @@
           "textColor3": "c7a8cb",
           "textColor4": "b285cb"
         },
+        "url": "https://music.apple.com/us/album/punk-right-now-english-version/1441756691?i=1441756692",
         "playParams": {
           "id": "1441756692",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/punk-right-now-english-version/1441756691?i=1441756692",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1140,11 +1267,11 @@
           "textColor4": "6c4f48"
         },
         "composerName": "Melanie Fontana, Gino Barletta, Britten Newbill, Michel Schulz & BIBI",
+        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
         "playParams": {
           "id": "1579487839",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1155,133 +1282,6 @@
           }
         ],
         "artistName": "HYO"
-      }
-    },
-    {
-      "id": "1648963030",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1648963030",
-      "attributes": {
-        "albumName": "Boys Like You - Single",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 223373,
-        "releaseDate": "2022-10-21",
-        "isrc": "US5TA2200144",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/11/65/61/11656143-021f-f1ef-0ed6-15c7336e12ef/738676860184_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "6d27b1",
-          "textColor1": "f9fbf6",
-          "textColor2": "efad69",
-          "textColor3": "ddd1e8",
-          "textColor4": "d59277"
-        },
-        "composerName": "Didrik Thott, Hayley Aitken, Sebastian Thott, Sara Davis, Ellie Suh(153/Joombas) & LEEJOOHEE(MUMW)",
-        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
-        "playParams": {
-          "id": "1648963030",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Boys Like You",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/eb/f5/90/ebf59051-492c-c660-0178-8402efdc2b97/mzaf_3414986770697029129.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ITZY"
-      }
-    },
-    {
-      "id": "1649270425",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649270425",
-      "attributes": {
-        "albumName": "Stupid Love - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 265703,
-        "releaseDate": "2022-10-13",
-        "isrc": "KRA382207775",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/f5/22/bd/f522bd07-d49b-1cc2-0ddf-afda2f755fb5/cover_KM0016213_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "5e5a5d",
-          "textColor1": "f9faf2",
-          "textColor2": "eaecfb",
-          "textColor3": "dadad5",
-          "textColor4": "cecfdc"
-        },
-        "url": "https://music.apple.com/us/album/stupid-love/1649270424?i=1649270425",
-        "playParams": {
-          "id": "1649270425",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Stupid Love",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/df/7f/10/df7f1095-a286-0ab7-3d4a-f52421e8f7fb/mzaf_11754913002104676695.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Kwon Jin Ah"
-      }
-    },
-    {
-      "id": "1635470002",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635470002",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "durationInMillis": 177947,
-        "releaseDate": "2022-08-01",
-        "isrc": "USA2P2230224",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Amanda Lundstedt, 250 & Gigi",
-        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
-        "playParams": {
-          "id": "1635470002",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Hurt",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/38/a3/cf38a361-d2e1-a5e7-b948-b924673953a4/mzaf_124166364879994793.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
