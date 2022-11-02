@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1643119337",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1643119337",
+      "attributes": {
+        "albumName": "Mimmi",
+        "genreNames": [
+          "Indian Pop",
+          "Music",
+          "Indian"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-09-02",
+        "durationInMillis": 193426,
+        "isrc": "TCAGL2219867",
+        "artwork": {
+          "width": 2100,
+          "height": 2100,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/a5/0f/e5/a50fe50d-0b1f-d716-dbbc-488058695794/859765489564_cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "231d1d",
+          "textColor1": "d4c9b0",
+          "textColor2": "c7c2a8",
+          "textColor3": "b0a792",
+          "textColor4": "a6a18c"
+        },
+        "composerName": "Ritviz, Anvita Bharti & Ritviz Srivastava",
+        "playParams": {
+          "id": "1643119337",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/aaj-na/1643118915?i=1643119337",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Aaj Na",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/00/6c/a3/006ca366-012e-9c2b-6731-a65971ea3769/mzaf_15377090205407704128.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Ritviz"
+      }
+    },
+    {
       "id": "1438197886",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1438197886",
@@ -14,8 +57,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2013-01-12",
         "durationInMillis": 243324,
+        "releaseDate": "2013-01-12",
         "isrc": "KRA381206130",
         "artwork": {
           "width": 1909,
@@ -33,8 +76,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Every Moment of You",
         "previews": [
           {
@@ -69,11 +112,11 @@
           "textColor4": "5b4a34"
         },
         "composerName": "Harry Styles, Kid Harpoon & Tyler Johnson",
-        "url": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008",
         "playParams": {
           "id": "1615585008",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -98,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-21",
         "durationInMillis": 210253,
+        "releaseDate": "2022-03-21",
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -118,8 +161,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -156,14 +199,14 @@
           "textColor4": "7a3959"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
-        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "playParams": {
           "id": "1635656417",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Talk that Talk",
         "previews": [
           {
@@ -184,8 +227,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2014-05-26",
         "durationInMillis": 239317,
+        "releaseDate": "2014-05-26",
         "isrc": "GBUM71308836",
         "artwork": {
           "width": 3000,
@@ -240,11 +283,11 @@
           "textColor4": "b95307"
         },
         "composerName": "Abel Tesfaye, Martin McKinney, Mejdi Rhars, Dylan Wiggins, Magnus H\u00f8iberg, William Walsh & Henry Walter",
-        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "playParams": {
           "id": "1440870395",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -269,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-05",
         "durationInMillis": 202533,
+        "releaseDate": "2022-08-05",
         "isrc": "KRA302200135",
         "artwork": {
           "width": 5000,
@@ -312,8 +355,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 156355,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -356,8 +399,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-10-19",
         "durationInMillis": 205333,
+        "releaseDate": "2021-10-19",
         "isrc": "KRA382163256",
         "artwork": {
           "width": 3000,
@@ -411,11 +454,11 @@
           "textColor3": "523a34",
           "textColor4": "5c4a46"
         },
-        "url": "https://music.apple.com/us/album/congratulations/1037939986?i=1037940002",
         "playParams": {
           "id": "1037940002",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/congratulations/1037939986?i=1037940002",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -440,8 +483,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-02-06",
         "durationInMillis": 283160,
+        "releaseDate": "2017-02-06",
         "isrc": "US5TA1700019",
         "artwork": {
           "width": 3000,
@@ -460,8 +503,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "You Were Beautiful",
         "previews": [
           {
@@ -484,8 +527,8 @@
           "Rock"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-07-15",
         "durationInMillis": 205576,
+        "releaseDate": "2019-07-15",
         "isrc": "US5TA1900062",
         "artwork": {
           "width": 3000,
@@ -503,8 +546,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Time of Our Life",
         "previews": [
           {
@@ -540,14 +583,14 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy, 24, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
         "playParams": {
           "id": "1644440670",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Pink Venom",
         "previews": [
           {
@@ -570,8 +613,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-10-11",
         "durationInMillis": 188942,
+        "releaseDate": "2018-10-11",
         "isrc": "KRMIM1809449",
         "artwork": {
           "width": 3000,
@@ -589,8 +632,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Amor",
         "previews": [
           {
@@ -627,14 +670,14 @@
           "textColor4": "724641"
         },
         "composerName": "Crush & \ud64d\uc18c\uc9c4",
-        "url": "https://music.apple.com/us/album/rush-hour-feat-j-hope-of-bts/1645506162?i=1645506323",
         "playParams": {
           "id": "1645506323",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rush-hour-feat-j-hope-of-bts/1645506162?i=1645506323",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rush Hour (feat. j-hope of BTS)",
         "previews": [
           {
@@ -669,11 +712,11 @@
           "textColor4": "b5b8be"
         },
         "composerName": "ZICO, Pop.time, CK & Louie",
-        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "playParams": {
           "id": "1643565275",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -697,8 +740,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 200690,
+        "releaseDate": "2022-10-21",
         "isrc": "USUG12205736",
         "artwork": {
           "width": 3000,
@@ -717,8 +760,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -754,11 +797,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -796,11 +839,11 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -825,8 +868,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-02-14",
         "durationInMillis": 204973,
+        "releaseDate": "2022-02-14",
         "isrc": "KRA302200026",
         "artwork": {
           "width": 4000,
@@ -845,8 +888,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "INVU",
         "previews": [
           {
@@ -869,8 +912,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-20",
         "durationInMillis": 188707,
+        "releaseDate": "2022-04-20",
         "isrc": "KRA382204596",
         "artwork": {
           "width": 3000,
@@ -888,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Beyond Love (feat. 10cm)",
         "previews": [
           {
@@ -925,11 +968,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Danke, ABIR, Kayofkaj, Nermin Harambasic (Dsign Music), Lady V, \uae40\uc778\ud615 & Sunshine (Cazzi Opeia & Ellen Berg)",
-        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "playParams": {
           "id": "1621089856",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -967,14 +1010,14 @@
           "textColor4": "c24e00"
         },
         "composerName": "Leellamarz, BIG Naughty, MIDAS P & BOYCOLD",
-        "url": "https://music.apple.com/us/album/number-feat-big-naughty/1649890265?i=1649890266",
         "playParams": {
           "id": "1649890266",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/number-feat-big-naughty/1649890265?i=1649890266",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Number (feat. BIG Naughty)",
         "previews": [
           {
@@ -1010,14 +1053,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -1053,14 +1096,14 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy & 24",
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "playParams": {
           "id": "1644440674",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Shut Down",
         "previews": [
           {
@@ -1096,11 +1139,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1125,8 +1168,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 178453,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -1145,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Nxde",
         "previews": [
           {
@@ -1182,11 +1225,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1212,8 +1255,8 @@
           "Worldwide"
         ],
         "trackNumber": 6,
-        "releaseDate": "2019-03-18",
         "durationInMillis": 295336,
+        "releaseDate": "2019-03-18",
         "isrc": "KRB921906406",
         "artwork": {
           "width": 1488,
@@ -1240,48 +1283,6 @@
           }
         ],
         "artistName": "South-North Korea Haegeum Ensemble 'Hanaro'"
-      }
-    },
-    {
-      "id": "1435173787",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1435173787",
-      "attributes": {
-        "albumName": "Laughter Just Like a Medicine (Radio Version) - Single",
-        "genreNames": [
-          "Contemporary Gospel",
-          "Music",
-          "Christian"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2018-09-28",
-        "durationInMillis": 233989,
-        "isrc": "USMR51842786",
-        "artwork": {
-          "width": 1423,
-          "height": 1423,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ce/92/f6/ce92f63d-99b9-e272-be71-b603381e4dd8/dj.iehyupns.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "38241b",
-          "textColor2": "3d2a23",
-          "textColor3": "605048",
-          "textColor4": "64544f"
-        },
-        "url": "https://music.apple.com/us/album/laughter-just-like-a-medicine-radio-version/1435173781?i=1435173787",
-        "playParams": {
-          "id": "1435173787",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Laughter Just Like a Medicine (Radio Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/4b/69/3a4b691e-5783-d5c1-20c7-f3960951f455/mzaf_8618418700796894855.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BeBe Winans"
       }
     }
   ]
