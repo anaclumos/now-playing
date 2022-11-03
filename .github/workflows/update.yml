@@ -35,7 +35,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add now-playing.json
-          git commit -m "Update now-playing"
+          git diff-index --quiet HEAD || git commit -m "Update now-playing"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
