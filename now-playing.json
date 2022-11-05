@@ -2,6 +2,132 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1650841730",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1650841730",
+      "attributes": {
+        "albumName": "Midnights (3am Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2022-10-21",
+        "durationInMillis": 174783,
+        "isrc": "USUG12205712",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eae7e2",
+          "textColor1": "120b14",
+          "textColor2": "412423",
+          "textColor3": "3d373d",
+          "textColor4": "634b49"
+        },
+        "composerName": "Taylor Swift & Jack Antonoff",
+        "playParams": {
+          "id": "1650841730",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/midnight-rain/1650841512?i=1650841730",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Midnight Rain",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ba/ea/2f/baea2f92-9b29-1f31-5fd8-79b84b83c6ab/mzaf_8327653652646119848.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Taylor Swift"
+      }
+    },
+    {
+      "id": "1621817894",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1621817894",
+      "attributes": {
+        "albumName": "Top Gun: Maverick (Music from the Motion Picture)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2022-05-27",
+        "durationInMillis": 148486,
+        "isrc": "USUM72206227",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1f1303",
+          "textColor1": "f6e7a8",
+          "textColor2": "f8e193",
+          "textColor3": "cbbd87",
+          "textColor4": "ccb876"
+        },
+        "composerName": "Ryan Tedder, Brent Kutzle, Tyler Spry, John Eriksson, Peter Mor\u00e9n & Bj\u00f6rn Yttling",
+        "playParams": {
+          "id": "1621817894",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/i-aint-worried/1621817793?i=1621817894",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "I Ain't Worried",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5c/f0/8a/5cf08acf-596f-c264-affa-9c387a7410e8/mzaf_2952444090080507083.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "OneRepublic"
+      }
+    },
+    {
+      "id": "1633318759",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1633318759",
+      "attributes": {
+        "albumName": "CHARLIE",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 6,
+        "durationInMillis": 154487,
+        "releaseDate": "2022-06-24",
+        "isrc": "USAT22206972",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dadad8",
+          "textColor1": "040404",
+          "textColor2": "2c2c2b",
+          "textColor3": "2e2e2e",
+          "textColor4": "4e4e4d"
+        },
+        "composerName": "Charlie Puth & Jacob Kasher Hindlin",
+        "url": "https://music.apple.com/us/album/left-and-right/1633318292?i=1633318759",
+        "playParams": {
+          "id": "1633318759",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Left and Right",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/08/ff/52/08ff524f-1a3a-8434-9cbc-8b4cab55c26e/mzaf_17925949593571206167.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Charlie Puth & Jung Kook"
+      }
+    },
+    {
       "id": "1643565275",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1643565275",
@@ -12,8 +138,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-06",
         "durationInMillis": 147427,
+        "releaseDate": "2022-09-06",
         "isrc": "KRA492200790",
         "artwork": {
           "width": 1400,
@@ -26,14 +152,14 @@
           "textColor4": "b5b8be"
         },
         "composerName": "ZICO, Pop.time, CK & Louie",
+        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "playParams": {
           "id": "1643565275",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "New Thing (feat. Homies)",
         "previews": [
           {
@@ -56,8 +182,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-09",
         "durationInMillis": 240840,
+        "releaseDate": "2022-06-09",
         "isrc": "KRA382205622",
         "artwork": {
           "width": 3000,
@@ -69,14 +195,14 @@
           "textColor3": "d6d6e1",
           "textColor4": "d0d5eb"
         },
+        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "playParams": {
           "id": "1628243993",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Romance Symphony (feat. CHANGMO & Jay Park)",
         "previews": [
           {
@@ -140,8 +266,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -154,14 +280,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -227,8 +353,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 203413,
         "releaseDate": "2016-06-20",
+        "durationInMillis": 203413,
         "isrc": "US5TA1600031",
         "artwork": {
           "width": 2800,
@@ -240,14 +366,14 @@
           "textColor3": "cdbbb5",
           "textColor4": "ba9fa2"
         },
-        "url": "https://music.apple.com/us/album/bye-bye-my-blue/1125890995?i=1125891115",
         "playParams": {
           "id": "1125891115",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/bye-bye-my-blue/1125890995?i=1125891115",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Bye Bye My Blue",
         "previews": [
           {
@@ -355,8 +481,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 187733,
         "releaseDate": "2022-04-24",
+        "durationInMillis": 187733,
         "isrc": "KRA382204714",
         "artwork": {
           "width": 3000,
@@ -368,14 +494,14 @@
           "textColor3": "b7c0ae",
           "textColor4": "a2bbb3"
         },
-        "url": "https://music.apple.com/us/album/dear-my-x/1620807858?i=1620807860",
         "playParams": {
           "id": "1620807860",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dear-my-x/1620807858?i=1620807860",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dear my X",
         "previews": [
           {
@@ -439,8 +565,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -453,14 +579,14 @@
           "textColor4": "e79876"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "playParams": {
           "id": "1645995263",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nxde",
         "previews": [
           {
@@ -482,8 +608,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -495,14 +621,14 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -523,8 +649,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 181831,
         "releaseDate": "2022-10-28",
+        "durationInMillis": 181831,
         "isrc": "USRC12203632",
         "artwork": {
           "width": 3000,
@@ -537,14 +663,14 @@
           "textColor4": "8483bd"
         },
         "composerName": "SZA, Rodney Jerkins & Rob Gueringer",
-        "url": "https://music.apple.com/us/album/shirt/1648735510?i=1648735704",
         "playParams": {
           "id": "1648735704",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shirt/1648735510?i=1648735704",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Shirt",
         "previews": [
           {
@@ -566,8 +692,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193733,
         "releaseDate": "2022-07-06",
+        "durationInMillis": 193733,
         "isrc": "USWB12103472",
         "artwork": {
           "width": 1500,
@@ -580,14 +706,14 @@
           "textColor4": "aaaaaa"
         },
         "composerName": "Benson Boone, JT Daly, Nolan Sipe & Tushar Apte",
-        "url": "https://music.apple.com/us/album/ghost-town/1587414055?i=1587414059",
         "playParams": {
           "id": "1587414059",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ghost-town/1587414055?i=1587414059",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "GHOST TOWN",
         "previews": [
           {
@@ -651,8 +777,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2017-11-09",
         "durationInMillis": 165900,
+        "releaseDate": "2017-11-09",
         "isrc": "USAT21704212",
         "artwork": {
           "width": 1425,
@@ -665,14 +791,14 @@
           "textColor4": "c7979b"
         },
         "composerName": "Greg Kurstin & Sia",
+        "url": "https://music.apple.com/us/album/snowman/1440098012?i=1440098017",
         "playParams": {
           "id": "1440098017",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/snowman/1440098012?i=1440098017",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Snowman",
         "previews": [
           {
@@ -738,8 +864,8 @@
           "Rock"
         ],
         "trackNumber": 2,
-        "durationInMillis": 201653,
         "releaseDate": "2014-08-28",
+        "durationInMillis": 201653,
         "isrc": "KRB471403431",
         "artwork": {
           "width": 3000,
@@ -751,14 +877,14 @@
           "textColor3": "d64431",
           "textColor4": "d62721"
         },
-        "url": "https://music.apple.com/us/album/baby-i-need-you/1466693693?i=1466693931",
         "playParams": {
           "id": "1466693931",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/baby-i-need-you/1466693693?i=1466693931",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Baby I Need You",
         "previews": [
           {
@@ -822,8 +948,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-10-07",
         "durationInMillis": 188508,
+        "releaseDate": "2022-10-07",
         "isrc": "USAT22208889",
         "artwork": {
           "width": 1425,
@@ -836,14 +962,14 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -865,8 +991,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 201895,
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -879,14 +1005,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Flame",
         "previews": [
           {
@@ -908,8 +1034,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 166491,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 166491,
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -922,14 +1048,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No Celestial",
         "previews": [
           {
@@ -951,8 +1077,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 235562,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -965,14 +1091,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cookie",
         "previews": [
           {
@@ -994,8 +1120,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-19",
         "durationInMillis": 165747,
+        "releaseDate": "2022-09-19",
         "isrc": "US5TA2200097",
         "artwork": {
           "width": 3000,
@@ -1008,14 +1134,14 @@
           "textColor4": "541920"
         },
         "composerName": "Armadillo, Ranga, Frankie Day (THE HUB), Charlotte Wilson (THE HUB), THE HUB 88 & Jonkind",
+        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "playParams": {
           "id": "1642630327",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DICE",
         "previews": [
           {
@@ -1023,48 +1149,6 @@
           }
         ],
         "artistName": "NMIXX"
-      }
-    },
-    {
-      "id": "1648963030",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1648963030",
-      "attributes": {
-        "albumName": "Boys Like You - Single",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 223373,
-        "releaseDate": "2022-10-21",
-        "isrc": "US5TA2200144",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/11/65/61/11656143-021f-f1ef-0ed6-15c7336e12ef/738676860184_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "6d27b1",
-          "textColor1": "f9fbf6",
-          "textColor2": "efad69",
-          "textColor3": "ddd1e8",
-          "textColor4": "d59277"
-        },
-        "composerName": "Didrik Thott, Hayley Aitken, Sebastian Thott, Sara Davis, Ellie Suh(153/Joombas) & LEEJOOHEE(MUMW)",
-        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
-        "playParams": {
-          "id": "1648963030",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Boys Like You",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/eb/f5/90/ebf59051-492c-c660-0178-8402efdc2b97/mzaf_3414986770697029129.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ITZY"
       }
     },
     {
@@ -1079,8 +1163,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178520,
         "releaseDate": "2020-07-23",
+        "durationInMillis": 178520,
         "isrc": "KRC712000044",
         "artwork": {
           "width": 1400,
@@ -1093,14 +1177,14 @@
           "textColor4": "3f2d2d"
         },
         "composerName": "\uc548\uc2e0\uc560",
-        "url": "https://music.apple.com/us/album/holo/1570374778?i=1570374781",
         "playParams": {
           "id": "1570374781",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/holo/1570374778?i=1570374781",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HOLO",
         "previews": [
           {
@@ -1165,8 +1249,8 @@
           "K-Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2016-03-09",
         "durationInMillis": 288915,
+        "releaseDate": "2016-03-09",
         "isrc": "KRA401600024",
         "artwork": {
           "width": 4000,
@@ -1178,14 +1262,14 @@
           "textColor3": "2f343c",
           "textColor4": "333548"
         },
+        "url": "https://music.apple.com/us/album/breathe/1315575138?i=1315576194",
         "playParams": {
           "id": "1315576194",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/breathe/1315575138?i=1315576194",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "BREATHE",
         "previews": [
           {
@@ -1193,91 +1277,6 @@
           }
         ],
         "artistName": "LeeHi"
-      }
-    },
-    {
-      "id": "1584615664",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1584615664",
-      "attributes": {
-        "albumName": "4 ONLY",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 10,
-        "releaseDate": "2021-08-27",
-        "durationInMillis": 240907,
-        "isrc": "KRC712100039",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/d9/5a/a9/d95aa943-0e9b-ae75-3157-ab372f5b831a/8809704422604_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "dfd1a4",
-          "textColor1": "0e090f",
-          "textColor2": "600b1d",
-          "textColor3": "38312d",
-          "textColor4": "7a3338"
-        },
-        "composerName": "\uc548\uc2e0\uc560",
-        "playParams": {
-          "id": "1584615664",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/only/1584615645?i=1584615664",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "ONLY",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e0/97/97/e09797b7-767f-ee51-727b-79606188fffb/mzaf_16336361018561570198.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LeeHi"
-      }
-    },
-    {
-      "id": "1450149270",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1450149270",
-      "attributes": {
-        "albumName": "Song Request (feat. SUGA) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-01-22",
-        "durationInMillis": 281067,
-        "isrc": "KRMIM1901199",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/d9/e6/d1d9e63e-afc5-6c02-e597-35ad1561bbcd/jacket-843552.jpg/{w}x{h}bb.jpg",
-          "bgColor": "2f1734",
-          "textColor1": "ebf0d5",
-          "textColor2": "c8e8f2",
-          "textColor3": "c6c5b4",
-          "textColor4": "aabecc"
-        },
-        "composerName": "Tablo",
-        "playParams": {
-          "id": "1450149270",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/song-request-feat-suga/1450149269?i=1450149270",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Song Request (feat. SUGA)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/21/8a/a4218a54-6098-7b43-6328-eace0af4d791/mzaf_7692710714198497613.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Lee Sora"
       }
     }
   ]
