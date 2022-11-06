@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1536993857",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1536993857",
+      "attributes": {
+        "albumName": "In the Lonely Hour (Drowning Shadows Videos Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 5,
+        "durationInMillis": 239317,
+        "releaseDate": "2014-05-26",
+        "isrc": "GBUM71308836",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "56534e",
+          "textColor1": "ffffff",
+          "textColor2": "f6f5f1",
+          "textColor3": "dddcdb",
+          "textColor4": "d6d4d1"
+        },
+        "composerName": "Sam Smith & James Napier",
+        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
+        "playParams": {
+          "id": "1536993857",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "I'm Not the Only One",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/56/87/e5/5687e5ea-d69a-f6eb-d6f3-abade40e8ad9/mzaf_8942483326211033891.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sam Smith"
+      }
+    },
+    {
+      "id": "1650841515",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1650841515",
+      "attributes": {
+        "albumName": "Midnights (3am Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-21",
+        "durationInMillis": 200690,
+        "isrc": "USUG12205736",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eae7e2",
+          "textColor1": "120b14",
+          "textColor2": "412423",
+          "textColor3": "3d373d",
+          "textColor4": "634b49"
+        },
+        "composerName": "Taylor Swift & Jack Antonoff",
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
+        "playParams": {
+          "id": "1650841515",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Anti-Hero",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Taylor Swift"
+      }
+    },
+    {
+      "id": "1635469851",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469851",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
+        "isrc": "USA2P2230222",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
+        "playParams": {
+          "id": "1635469851",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Hype Boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1594292084",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1594292084",
@@ -14,8 +141,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -55,8 +182,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-28",
         "durationInMillis": 196520,
+        "releaseDate": "2022-10-28",
         "isrc": "QMJMT2204481",
         "artwork": {
           "width": 3000,
@@ -98,8 +225,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 235562,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 235562,
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -118,8 +245,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cookie",
         "previews": [
           {
@@ -141,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -161,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -203,8 +330,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STAY",
         "previews": [
           {
@@ -290,8 +417,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -332,8 +459,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Haeyo (2022)",
         "previews": [
           {
@@ -355,8 +482,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 156355,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -399,8 +526,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "durationInMillis": 167573,
         "releaseDate": "2020-05-06",
+        "durationInMillis": 167573,
         "isrc": "KRA382001418",
         "artwork": {
           "width": 3000,
@@ -418,8 +545,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "eight (feat. SUGA)",
         "previews": [
           {
@@ -440,8 +567,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-01-29",
         "durationInMillis": 199146,
+        "releaseDate": "2016-01-29",
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -483,8 +610,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-30",
         "durationInMillis": 189733,
+        "releaseDate": "2022-10-30",
         "isrc": "KRA382208188",
         "artwork": {
           "width": 3000,
@@ -544,8 +671,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "CHECKLIST (Instrumental)",
         "previews": [
           {
@@ -566,8 +693,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 226627,
         "releaseDate": "2022-08-12",
+        "durationInMillis": 226627,
         "isrc": "QZAKB2166405",
         "artwork": {
           "width": 3000,
@@ -586,8 +713,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "B.O.T.A. (Baddest Of Them All) [Edit]",
         "previews": [
           {
@@ -608,8 +735,8 @@
           "Music"
         ],
         "trackNumber": 12,
-        "releaseDate": "2022-11-04",
         "durationInMillis": 356389,
+        "releaseDate": "2022-11-04",
         "isrc": "USUG12208609",
         "artwork": {
           "width": 3000,
@@ -671,8 +798,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Tit\u00ed Me Pregunt\u00f3",
         "previews": [
           {
@@ -694,8 +821,8 @@
           "Indian"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193426,
         "releaseDate": "2022-09-02",
+        "durationInMillis": 193426,
         "isrc": "TCAGL2219867",
         "artwork": {
           "width": 2100,
@@ -714,8 +841,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Aaj Na",
         "previews": [
           {
@@ -738,8 +865,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2013-01-12",
         "durationInMillis": 243324,
+        "releaseDate": "2013-01-12",
         "isrc": "KRA381206130",
         "artwork": {
           "width": 1909,
@@ -779,8 +906,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 167303,
         "releaseDate": "2022-03-31",
+        "durationInMillis": 167303,
         "isrc": "USSM12200612",
         "artwork": {
           "width": 3000,
@@ -799,8 +926,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "As It Was",
         "previews": [
           {
@@ -898,48 +1025,6 @@
       }
     },
     {
-      "id": "1536993857",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1536993857",
-      "attributes": {
-        "albumName": "In the Lonely Hour (Drowning Shadows Videos Edition)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 5,
-        "durationInMillis": 239317,
-        "releaseDate": "2014-05-26",
-        "isrc": "GBUM71308836",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "56534e",
-          "textColor1": "ffffff",
-          "textColor2": "f6f5f1",
-          "textColor3": "dddcdb",
-          "textColor4": "d6d4d1"
-        },
-        "composerName": "Sam Smith & James Napier",
-        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
-        "playParams": {
-          "id": "1536993857",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "I'm Not the Only One",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/56/87/e5/5687e5ea-d69a-f6eb-d6f3-abade40e8ad9/mzaf_8942483326211033891.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sam Smith"
-      }
-    },
-    {
       "id": "1440870395",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1440870395",
@@ -970,8 +1055,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Die For You",
         "previews": [
           {
@@ -993,8 +1078,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 202533,
         "releaseDate": "2022-08-05",
+        "durationInMillis": 202533,
         "isrc": "KRA302200135",
         "artwork": {
           "width": 5000,
@@ -1013,8 +1098,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FOREVER 1",
         "previews": [
           {
@@ -1079,8 +1164,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 229293,
         "releaseDate": "2015-09-07",
+        "durationInMillis": 229293,
         "isrc": "US5TA1500073",
         "artwork": {
           "width": 2362,
@@ -1098,8 +1183,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Congratulations",
         "previews": [
           {
@@ -1121,8 +1206,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 283160,
         "releaseDate": "2017-02-06",
+        "durationInMillis": 283160,
         "isrc": "US5TA1700019",
         "artwork": {
           "width": 3000,
@@ -1141,8 +1226,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "You Were Beautiful",
         "previews": [
           {
@@ -1165,8 +1250,8 @@
           "Rock"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-07-15",
         "durationInMillis": 205576,
+        "releaseDate": "2019-07-15",
         "isrc": "US5TA1900062",
         "artwork": {
           "width": 3000,
@@ -1193,92 +1278,6 @@
           }
         ],
         "artistName": "Day6"
-      }
-    },
-    {
-      "id": "1644440670",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1644440670",
-      "attributes": {
-        "albumName": "BORN PINK",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-19",
-        "durationInMillis": 186964,
-        "isrc": "KRA402200017",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e8e8e8",
-          "textColor1": "0f0609",
-          "textColor2": "2d2d2d",
-          "textColor3": "3a3335",
-          "textColor4": "535353"
-        },
-        "composerName": "Teddy, 24, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
-        "playParams": {
-          "id": "1644440670",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Pink Venom",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/76/f8/ca/76f8ca68-ff8d-5c41-12aa-41772c23f7d8/mzaf_2322786095877386594.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BLACKPINK"
-      }
-    },
-    {
-      "id": "1512931470",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1512931470",
-      "attributes": {
-        "albumName": "Amor - Single",
-        "genreNames": [
-          "Folk",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2018-10-11",
-        "durationInMillis": 188942,
-        "isrc": "KRMIM1809449",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a4/ae/f3/a4aef345-7ec9-8c09-a462-7389200876f9/BaekA_Amor_3000.jpg/{w}x{h}bb.jpg",
-          "bgColor": "425b46",
-          "textColor1": "e4ff70",
-          "textColor2": "6fbdff",
-          "textColor3": "c3de67",
-          "textColor4": "66a9da"
-        },
-        "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
-        "playParams": {
-          "id": "1512931470",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Amor",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5c/31/a1/5c31a1c8-5f8d-b870-297f-778a97540ae7/mzaf_3298854292620078949.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Baek A"
       }
     }
   ]
