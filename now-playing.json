@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1635469854",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469854",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 235562,
+        "isrc": "USA2P2230223",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
+        "playParams": {
+          "id": "1635469854",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Cookie",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/71/fe/0171feef-a9e6-8fcd-a42a-2a75d6b35416/mzaf_4783706318511182821.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1639416903",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639416903",
+      "attributes": {
+        "albumName": "After LIKE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
+        "isrc": "QMBZ92254957",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00ff00",
+          "textColor1": "000000",
+          "textColor2": "002f00",
+          "textColor3": "003300",
+          "textColor4": "005800"
+        },
+        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
+        "playParams": {
+          "id": "1639416903",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "After LIKE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1574378625",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1574378625",
+      "attributes": {
+        "albumName": "STAY - Single",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-07-09",
+        "durationInMillis": 141806,
+        "isrc": "USSM12103949",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e8/eb/cc/e8ebcc8d-6293-6e7f-7cc5-defa2bdbd4bd/886449399895.jpg/{w}x{h}bb.jpg",
+          "bgColor": "121317",
+          "textColor1": "bcf1fc",
+          "textColor2": "9ae4f0",
+          "textColor3": "9ac4ce",
+          "textColor4": "7fbac4"
+        },
+        "composerName": "Justin Bieber, Charlton Howard, Blake Slatkin, Omer Fedi, Charlie Puth, Magnus H\u00f8iberg, Michael Mule, Isaac DeBoni & Subhaan Rahmaan",
+        "url": "https://music.apple.com/us/album/stay/1574378620?i=1574378625",
+        "playParams": {
+          "id": "1574378625",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "STAY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/90/ee/82/90ee8296-f5b0-100b-77ff-c4bb90c73343/mzaf_16580826137185975579.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "The Kid LAROI & Justin Bieber",
+        "contentRating": "explicit"
+      }
+    },
+    {
       "id": "1635470002",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1635470002",
@@ -13,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 177947,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 177947,
         "isrc": "USA2P2230224",
         "artwork": {
           "width": 1400,
@@ -27,11 +156,11 @@
           "textColor4": "424556"
         },
         "composerName": "Amanda Lundstedt, 250 & Gigi",
-        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
         "playParams": {
           "id": "1635470002",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -56,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -99,8 +228,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 238071,
         "releaseDate": "2022-06-07",
+        "durationInMillis": 238071,
         "isrc": "KRB472200975",
         "artwork": {
           "width": 3000,
@@ -112,11 +241,11 @@
           "textColor3": "303232",
           "textColor4": "4a4641"
         },
-        "url": "https://music.apple.com/us/album/haeyo-2022/1627665646?i=1627665647",
         "playParams": {
           "id": "1627665647",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/haeyo-2022/1627665646?i=1627665647",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -141,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 156355,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 156355,
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -155,11 +284,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Nolan Lambroza, SCORE(13), MEGATONE(13), \ud5c8\uc724\uc9c4, Danke, \uc0ac\ucfe0\ub77c, Cha Yubeen, Alex Bilo, Jenna Andrews & salem ilese",
-        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "playParams": {
           "id": "1647830404",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -185,8 +314,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "durationInMillis": 167573,
         "releaseDate": "2020-05-06",
+        "durationInMillis": 167573,
         "isrc": "KRA382001418",
         "artwork": {
           "width": 3000,
@@ -198,11 +327,11 @@
           "textColor3": "e1d5c6",
           "textColor4": "e0a8a0"
         },
-        "url": "https://music.apple.com/us/album/eight-feat-suga/1511885175?i=1511885178",
         "playParams": {
           "id": "1511885178",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eight-feat-suga/1511885175?i=1511885178",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -240,14 +369,14 @@
           "textColor4": "515811"
         },
         "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "playParams": {
           "id": "1031416180",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Dangerously",
         "previews": [
           {
@@ -282,14 +411,14 @@
           "textColor3": "434330",
           "textColor4": "4a4033"
         },
-        "url": "https://music.apple.com/us/album/checklist/1652595418?i=1652595419",
         "playParams": {
           "id": "1652595419",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/checklist/1652595418?i=1652595419",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "CHECKLIST",
         "previews": [
           {
@@ -311,8 +440,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 189720,
         "releaseDate": "2022-10-30",
+        "durationInMillis": 189720,
         "isrc": "KRA382208189",
         "artwork": {
           "width": 3000,
@@ -324,11 +453,11 @@
           "textColor3": "434330",
           "textColor4": "4a4033"
         },
-        "url": "https://music.apple.com/us/album/checklist-instrumental/1652595418?i=1652595420",
         "playParams": {
           "id": "1652595420",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/checklist-instrumental/1652595418?i=1652595420",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -366,14 +495,14 @@
           "textColor4": "c87f51"
         },
         "composerName": "Eliza Rose & Interplanetary Criminal",
-        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "playParams": {
           "id": "1639317826",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "B.O.T.A. (Baddest Of Them All) [Edit]",
         "previews": [
           {
@@ -408,22 +537,22 @@
           "textColor4": "3c2b39"
         },
         "composerName": "Aubrey Drake Graham, O. Yildirim, N. Cadastre, N. D. Frascona, T. Friedrich, L. Leibfried, K. Gamble, A. Huff, C. Giles, L. L. James, J. Jones & D. Pittman",
-        "url": "https://music.apple.com/us/album/middle-of-the-ocean/1652998965?i=1652999567",
         "playParams": {
           "id": "1652999567",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/middle-of-the-ocean/1652998965?i=1652999567",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Middle of the Ocean",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ba/24/f1/ba24f15d-5603-4da9-f507-d83697117ca2/mzaf_6440289732301200811.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Drake"
+        "artistName": "Drake",
+        "contentRating": "explicit"
       }
     },
     {
@@ -451,14 +580,14 @@
           "textColor4": "4d403e"
         },
         "composerName": "Benito Antonio Mart\u00ednez Ocasio",
-        "url": "https://music.apple.com/us/album/tit%C3%AD-me-pregunt%C3%B3/1622045624?i=1622045635",
         "playParams": {
           "id": "1622045635",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tit%C3%AD-me-pregunt%C3%B3/1622045624?i=1622045635",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Tit\u00ed Me Pregunt\u00f3",
         "previews": [
           {
@@ -500,8 +629,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Aaj Na",
         "previews": [
           {
@@ -537,14 +666,14 @@
           "textColor3": "525449",
           "textColor4": "57574e"
         },
-        "url": "https://music.apple.com/us/album/every-moment-of-you/1438197885?i=1438197886",
         "playParams": {
           "id": "1438197886",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/every-moment-of-you/1438197885?i=1438197886",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Every Moment of You",
         "previews": [
           {
@@ -585,8 +714,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "As It Was",
         "previews": [
           {
@@ -622,14 +751,14 @@
           "textColor4": "143d30"
         },
         "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
-        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "playParams": {
           "id": "1614179710",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -666,14 +795,14 @@
           "textColor4": "7a3959"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
-        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "playParams": {
           "id": "1635656417",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Talk that Talk",
         "previews": [
           {
@@ -694,8 +823,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 239317,
         "releaseDate": "2014-05-26",
+        "durationInMillis": 239317,
         "isrc": "GBUM71308836",
         "artwork": {
           "width": 3000,
@@ -708,11 +837,11 @@
           "textColor4": "d6d4d1"
         },
         "composerName": "Sam Smith & James Napier",
-        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "playParams": {
           "id": "1536993857",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -756,8 +885,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Die For You",
         "previews": [
           {
@@ -779,8 +908,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 202533,
         "releaseDate": "2022-08-05",
+        "durationInMillis": 202533,
         "isrc": "KRA302200135",
         "artwork": {
           "width": 5000,
@@ -793,11 +922,11 @@
           "textColor4": "5e243b"
         },
         "composerName": "KENZIE & Ylva Dimberg",
-        "url": "https://music.apple.com/us/album/forever-1/1637554836?i=1637554838",
         "playParams": {
           "id": "1637554838",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/forever-1/1637554836?i=1637554838",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -842,8 +971,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "strawberry moon",
         "previews": [
           {
@@ -865,8 +994,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 229293,
         "releaseDate": "2015-09-07",
+        "durationInMillis": 229293,
         "isrc": "US5TA1500073",
         "artwork": {
           "width": 2362,
@@ -921,14 +1050,14 @@
           "textColor4": "61335f"
         },
         "composerName": "Young K, \uc6d0\ud544, \uc774\uc6b0\ubbfc \u201ccollapsedone\u201d & \ud64d\uc9c0\uc0c1",
-        "url": "https://music.apple.com/us/album/you-were-beautiful/1628758013?i=1628758023",
         "playParams": {
           "id": "1628758023",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/you-were-beautiful/1628758013?i=1628758023",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "You Were Beautiful",
         "previews": [
           {
@@ -970,8 +1099,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Time of Our Life",
         "previews": [
           {
@@ -993,8 +1122,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 186964,
         "releaseDate": "2022-08-19",
+        "durationInMillis": 186964,
         "isrc": "KRA402200017",
         "artwork": {
           "width": 2000,
@@ -1037,8 +1166,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 188942,
         "releaseDate": "2018-10-11",
+        "durationInMillis": 188942,
         "isrc": "KRMIM1809449",
         "artwork": {
           "width": 3000,
@@ -1100,8 +1229,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rush Hour (feat. j-hope of BTS)",
         "previews": [
           {
@@ -1122,8 +1251,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 147427,
         "releaseDate": "2022-09-06",
+        "durationInMillis": 147427,
         "isrc": "KRA492200790",
         "artwork": {
           "width": 1400,
@@ -1151,135 +1280,6 @@
           }
         ],
         "artistName": "ZICO"
-      }
-    },
-    {
-      "id": "1616649362",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616649362",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2022-03-30",
-        "durationInMillis": 300787,
-        "isrc": "KRA382204244",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "110d01",
-          "textColor2": "442217",
-          "textColor3": "403e34",
-          "textColor4": "694e46"
-        },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
-        "playParams": {
-          "id": "1616649362",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Event Horizon",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
-      }
-    },
-    {
-      "id": "1465212911",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1465212911",
-      "attributes": {
-        "albumName": "24\u2103 - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 194596,
-        "releaseDate": "2019-05-30",
-        "isrc": "KRA401900037",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/f4/c8/19/f4c81919-1af6-f17c-c089-d163bf9361ef/LEEHI_24C_COVER_5000px.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b12900",
-          "textColor1": "ffdd54",
-          "textColor2": "fccd09",
-          "textColor3": "efb943",
-          "textColor4": "edac07"
-        },
-        "url": "https://music.apple.com/us/album/no-one-feat-b-i/1465212910?i=1465212911",
-        "playParams": {
-          "id": "1465212911",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "NO ONE (feat. B.I)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/c5/37/59c53761-8f88-4955-d4a6-790e12434a01/mzaf_17318511794283173437.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LeeHi"
-      }
-    },
-    {
-      "id": "1570374781",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1570374781",
-      "attributes": {
-        "albumName": "HOLO - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 178520,
-        "releaseDate": "2020-07-23",
-        "isrc": "KRC712000044",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/8d/54/59/8d5459b9-d7ae-6a33-a539-822a78461f4d/8809704418461_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b88582",
-          "textColor1": "140b0c",
-          "textColor2": "211718",
-          "textColor3": "352323",
-          "textColor4": "3f2d2d"
-        },
-        "composerName": "\uc548\uc2e0\uc560",
-        "url": "https://music.apple.com/us/album/holo/1570374778?i=1570374781",
-        "playParams": {
-          "id": "1570374781",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "HOLO",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/1e/94/3f1e947a-eb1b-0303-4eba-f535ecd3a0ee/mzaf_9232510153726113773.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LeeHi"
       }
     }
   ]
