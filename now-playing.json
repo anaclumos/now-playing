@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1555390187",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1555390187",
+      "attributes": {
+        "albumName": "Fancy You - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-04-22",
+        "durationInMillis": 213880,
+        "isrc": "US5TA1900042",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/03/76/e6/0376e6f9-f6d8-68f7-ae85-1a4ef17002aa/00602508875229_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fac4b8",
+          "textColor1": "1c0300",
+          "textColor2": "392933",
+          "textColor3": "482924",
+          "textColor4": "5f484d"
+        },
+        "composerName": "Eyed Pilseung Black & Jeon Goon",
+        "url": "https://music.apple.com/us/album/fancy/1555390183?i=1555390187",
+        "playParams": {
+          "id": "1555390187",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "FANCY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/fe/1d/cafe1df9-e706-1538-bf34-238efafe7f60/mzaf_5940680492365100371.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
       "id": "1608253225",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1608253225",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 219143,
         "releaseDate": "2020-03-09",
+        "durationInMillis": 219143,
         "isrc": "US5TA2000007",
         "artwork": {
           "width": 1400,
@@ -75,8 +118,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -98,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -141,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 162570,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 162570,
         "isrc": "KRA402200024",
         "artwork": {
           "width": 2000,
@@ -161,16 +204,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Hard to Love",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
           }
         ],
-        "artistName": "BLACKPINK",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "BLACKPINK"
       }
     },
     {
@@ -186,8 +229,8 @@
           "Folk"
         ],
         "trackNumber": 1,
-        "durationInMillis": 201280,
         "releaseDate": "2022-07-03",
+        "durationInMillis": 201280,
         "isrc": "KRF252200137",
         "artwork": {
           "width": 3000,
@@ -271,8 +314,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -398,8 +441,8 @@
           "Indian"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193426,
         "releaseDate": "2022-09-02",
+        "durationInMillis": 193426,
         "isrc": "TCAGL2219867",
         "artwork": {
           "width": 2100,
@@ -418,8 +461,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Aaj Na",
         "previews": [
           {
@@ -461,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Every Moment of You",
         "previews": [
           {
@@ -483,8 +526,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 167303,
         "releaseDate": "2022-03-31",
+        "durationInMillis": 167303,
         "isrc": "USSM12200612",
         "artwork": {
           "width": 3000,
@@ -546,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -590,8 +633,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Talk that Talk",
         "previews": [
           {
@@ -632,8 +675,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "I'm Not the Only One",
         "previews": [
           {
@@ -697,8 +740,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 202533,
         "releaseDate": "2022-08-05",
+        "durationInMillis": 202533,
         "isrc": "KRA302200135",
         "artwork": {
           "width": 5000,
@@ -717,8 +760,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FOREVER 1",
         "previews": [
           {
@@ -803,8 +846,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "strawberry moon",
         "previews": [
           {
@@ -868,8 +911,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 283160,
         "releaseDate": "2017-02-06",
+        "durationInMillis": 283160,
         "isrc": "US5TA1700019",
         "artwork": {
           "width": 3000,
@@ -888,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "You Were Beautiful",
         "previews": [
           {
@@ -1041,8 +1084,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177303,
         "releaseDate": "2022-09-22",
+        "durationInMillis": 177303,
         "isrc": "KSA012184974",
         "artwork": {
           "width": 3000,
@@ -1061,8 +1104,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rush Hour (feat. j-hope of BTS)",
         "previews": [
           {
@@ -1127,8 +1170,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 194596,
         "releaseDate": "2019-05-30",
+        "durationInMillis": 194596,
         "isrc": "KRA401900037",
         "artwork": {
           "width": 5000,
@@ -1146,8 +1189,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "NO ONE (feat. B.I)",
         "previews": [
           {
@@ -1169,8 +1212,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178520,
         "releaseDate": "2020-07-23",
+        "durationInMillis": 178520,
         "isrc": "KRC712000044",
         "artwork": {
           "width": 1400,
@@ -1212,8 +1255,8 @@
           "K-Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 288915,
         "releaseDate": "2016-03-09",
+        "durationInMillis": 288915,
         "isrc": "KRA401600024",
         "artwork": {
           "width": 4000,
@@ -1231,54 +1274,12 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "BREATHE",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7d/1c/77/7d1c77c0-f986-6850-8209-1b1e430d393f/mzaf_14026391959138436643.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LeeHi"
-      }
-    },
-    {
-      "id": "1584615664",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1584615664",
-      "attributes": {
-        "albumName": "4 ONLY",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 10,
-        "durationInMillis": 240907,
-        "releaseDate": "2021-08-27",
-        "isrc": "KRC712100039",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/d9/5a/a9/d95aa943-0e9b-ae75-3157-ab372f5b831a/8809704422604_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "dfd1a4",
-          "textColor1": "0e090f",
-          "textColor2": "600b1d",
-          "textColor3": "38312d",
-          "textColor4": "7a3338"
-        },
-        "composerName": "\uc548\uc2e0\uc560",
-        "url": "https://music.apple.com/us/album/only/1584615645?i=1584615664",
-        "playParams": {
-          "id": "1584615664",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "ONLY",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e0/97/97/e09797b7-767f-ee51-727b-79606188fffb/mzaf_16336361018561570198.plus.aac.p.m4a"
           }
         ],
         "artistName": "LeeHi"
