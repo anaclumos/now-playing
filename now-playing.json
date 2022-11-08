@@ -2,6 +2,34 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.eoD8A7PFkaYRBvJ",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.eoD8A7PFkaYRBvJ",
+      "attributes": {
+        "discNumber": 1,
+        "albumName": "Square One",
+        "genreNames": [
+          "Rap / Hip-hop"
+        ],
+        "trackNumber": 2,
+        "hasLyrics": false,
+        "durationInMillis": 240793,
+        "name": "\ubd90\ubc14\uc57c",
+        "artistName": "Blackpink",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/08/c3/58/08c35851-0298-210a-7743-3793b5ad040c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221108T235047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221108%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=58f3b90964c751a7c7ea545b3f6eca7c04da254a291ca9f2edb220648708a1d4"
+        },
+        "playParams": {
+          "id": "i.eoD8A7PFkaYRBvJ",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1588085591",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1588085591",
@@ -50,20 +78,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6BLzTvEldPV2",
       "attributes": {
-        "albumName": "Piano White",
         "discNumber": 0,
+        "albumName": "Piano White",
         "genreNames": [
           "Piano"
         ],
-        "hasLyrics": false,
         "trackNumber": 2,
+        "hasLyrics": false,
         "durationInMillis": 238421,
         "name": "Bboom Bboom",
         "artistName": "DooPiano",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/03/bc/f4/03bcf421-1c4d-75cb-53d1-0c835f5de8f6/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221108T234055Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221108%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=cf32fb43cefa518a42b9fde37663d0798f2e4291e5c30bf16d15ef8731c89ac3"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/03/bc/f4/03bcf421-1c4d-75cb-53d1-0c835f5de8f6/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221108T235047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221108%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=f7e762560fea901b37e02aa357029f3062b3cb6ca210190c422605e3ac2b8c0d"
         },
         "playParams": {
           "id": "i.XMD6BLzTvEldPV2",
@@ -85,8 +113,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 2,
-        "durationInMillis": 193746,
         "releaseDate": "2018-03-31",
+        "durationInMillis": 193746,
         "isrc": "KRA491800263",
         "artwork": {
           "width": 1400,
@@ -99,11 +127,11 @@
           "textColor4": "cec766"
         },
         "composerName": "Hangzoo, Boi B, RAUDI & CHIN CHILLA",
+        "url": "https://music.apple.com/us/album/young-wave-feat-hangzoo-boi-b/1615701090?i=1615701431",
         "playParams": {
           "id": "1615701431",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/young-wave-feat-hangzoo-boi-b/1615701090?i=1615701431",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -129,8 +157,8 @@
           "Rock"
         ],
         "trackNumber": 8,
-        "durationInMillis": 265000,
         "releaseDate": "2019-03-13",
+        "durationInMillis": 265000,
         "isrc": "KRA381900671",
         "artwork": {
           "width": 3000,
@@ -171,8 +199,8 @@
           "Pop"
         ],
         "trackNumber": 14,
-        "durationInMillis": 240339,
         "releaseDate": "2018-08-24",
+        "durationInMillis": 240339,
         "isrc": "QM6MZ1886143",
         "artwork": {
           "width": 1400,
@@ -185,14 +213,14 @@
           "textColor4": "40343b"
         },
         "composerName": "Ashton Foster, Candace Sosa, Jordan \"DJ Swivel\" Young, \uc724\uae30\ud0c0, \uc815\ubc14\ube44, P-DOGG, SUGA, Samantha Harper, j-hope, Lauren Dyson, RM & Ray Michael Djan",
+        "url": "https://music.apple.com/us/album/im-fine/1598730614?i=1598730975",
         "playParams": {
           "id": "1598730975",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-fine/1598730614?i=1598730975",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I'm Fine",
         "previews": [
           {
@@ -213,8 +241,8 @@
           "Music"
         ],
         "trackNumber": 18,
-        "durationInMillis": 223447,
         "releaseDate": "2021-10-15",
+        "durationInMillis": 223447,
         "isrc": "KRA492101079",
         "artwork": {
           "width": 1400,
@@ -227,11 +255,11 @@
           "textColor4": "b7a9a8"
         },
         "composerName": "Lee Tae Hyun",
+        "url": "https://music.apple.com/us/album/undercover/1590111319?i=1590112325",
         "playParams": {
           "id": "1590112325",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/undercover/1590111319?i=1590112325",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -256,8 +284,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 194941,
         "releaseDate": "2017-12-28",
+        "durationInMillis": 194941,
         "isrc": "KRE081700034",
         "artwork": {
           "width": 3000,
@@ -298,8 +326,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180956,
         "releaseDate": "2020-06-26",
+        "durationInMillis": 180956,
         "isrc": "KRA402000111",
         "artwork": {
           "width": 4000,
@@ -312,14 +340,14 @@
           "textColor4": "c9788b"
         },
         "composerName": "Teddy, 24 & R. Tee",
+        "url": "https://music.apple.com/us/album/how-you-like-that/1533894050?i=1533894669",
         "playParams": {
           "id": "1533894669",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/how-you-like-that/1533894050?i=1533894669",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "How You Like That",
         "previews": [
           {
@@ -382,8 +410,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199146,
         "releaseDate": "2016-01-29",
+        "durationInMillis": 199146,
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -396,14 +424,14 @@
           "textColor4": "515811"
         },
         "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
+        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "playParams": {
           "id": "1031416180",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Dangerously",
         "previews": [
           {
@@ -424,8 +452,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 226627,
         "releaseDate": "2022-08-12",
+        "durationInMillis": 226627,
         "isrc": "QZAKB2166405",
         "artwork": {
           "width": 3000,
@@ -468,8 +496,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 195507,
         "releaseDate": "2022-09-25",
+        "durationInMillis": 195507,
         "isrc": "KRA382207591",
         "artwork": {
           "width": 3000,
@@ -481,14 +509,14 @@
           "textColor3": "c8c7cc",
           "textColor4": "b6bcc7"
         },
+        "url": "https://music.apple.com/us/album/just-10-centimeters/1646603847?i=1646603848",
         "playParams": {
           "id": "1646603848",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/just-10-centimeters/1646603847?i=1646603848",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Just 10 centimeters",
         "previews": [
           {
@@ -509,8 +537,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 187704,
         "releaseDate": "2022-01-20",
+        "durationInMillis": 187704,
         "isrc": "USAT22107359",
         "artwork": {
           "width": 1425,
@@ -551,8 +579,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 194207,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 194207,
         "isrc": "USUG12205711",
         "artwork": {
           "width": 3000,
@@ -593,8 +621,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 209027,
         "releaseDate": "2022-09-29",
+        "durationInMillis": 209027,
         "isrc": "GBAHS2201129",
         "artwork": {
           "width": 4000,
@@ -607,11 +635,11 @@
           "textColor4": "1b3939"
         },
         "composerName": "Ed Sheeran, Johnny McDaid & Steve Mac",
+        "url": "https://music.apple.com/us/album/celestial/1641565065?i=1641565456",
         "playParams": {
           "id": "1641565456",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/celestial/1641565065?i=1641565456",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -679,8 +707,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 188369,
         "releaseDate": "2022-04-05",
+        "durationInMillis": 188369,
         "isrc": "KRA402100165",
         "artwork": {
           "width": 4000,
@@ -692,11 +720,11 @@
           "textColor3": "3c3533",
           "textColor4": "355872"
         },
+        "url": "https://music.apple.com/us/album/still-life/1616762362?i=1616762366",
         "playParams": {
           "id": "1616762366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/still-life/1616762362?i=1616762366",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -807,8 +835,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2021-12-01",
+        "durationInMillis": 178453,
         "isrc": "KRA382163861",
         "artwork": {
           "width": 3000,
@@ -820,14 +848,14 @@
           "textColor3": "f0bfd5",
           "textColor4": "f0aea2"
         },
+        "url": "https://music.apple.com/us/album/eleven/1597404250?i=1597404252",
         "playParams": {
           "id": "1597404252",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eleven/1597404250?i=1597404252",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ELEVEN",
         "previews": [
           {
@@ -876,8 +904,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b9/6d/61/b96d6137-5af5-f672-84e7-43e14e2e716e/mzaf_16654493376522601826.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Taylor Swift",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Taylor Swift"
       }
     },
     {
@@ -892,8 +920,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 279267,
         "releaseDate": "2006-10-10",
+        "durationInMillis": 279267,
         "isrc": "KRA341504300",
         "artwork": {
           "width": 3000,
@@ -936,8 +964,8 @@
           "Folk"
         ],
         "trackNumber": 1,
-        "durationInMillis": 201280,
         "releaseDate": "2022-07-03",
+        "durationInMillis": 201280,
         "isrc": "KRF252200137",
         "artwork": {
           "width": 3000,
@@ -949,11 +977,11 @@
           "textColor3": "563442",
           "textColor4": "533d3d"
         },
+        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "playParams": {
           "id": "1632365364",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -978,8 +1006,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 191965,
         "releaseDate": "2022-10-07",
+        "durationInMillis": 191965,
         "isrc": "US5TA2200101",
         "artwork": {
           "width": 1400,
@@ -992,11 +1020,11 @@
           "textColor4": "d396bc"
         },
         "composerName": "Bang Chan (3RACHA), Changbin (3RACHA), HAN 3RACHA, Raphael (Producing Lab.), Daviid (3SCAPE) & Yosia (3SCAPE)",
+        "url": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109",
         "playParams": {
           "id": "1644436109",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1021,8 +1049,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 162570,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 162570,
         "isrc": "KRA402200024",
         "artwork": {
           "width": 2000,
@@ -1035,11 +1063,11 @@
           "textColor4": "535353"
         },
         "composerName": "Bianca Blush Atterberry, Max Wolfgang, Freddy Wexler, Teddy, R. Tee & 24",
+        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
         "playParams": {
           "id": "1644440679",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1065,8 +1093,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189413,
         "releaseDate": "2022-10-04",
+        "durationInMillis": 189413,
         "isrc": "KRA302200212",
         "artwork": {
           "width": 4000,
@@ -1079,14 +1107,14 @@
           "textColor4": "c7232e"
         },
         "composerName": "YOO YOUNG JIN, Sean Kennedy, Johan Fransson, Henrik Goranson & Kriz",
+        "url": "https://music.apple.com/us/album/28-reasons/1647324049?i=1647324051",
         "playParams": {
           "id": "1647324051",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/28-reasons/1647324049?i=1647324051",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "28 Reasons",
         "previews": [
           {
@@ -1107,8 +1135,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 231101,
         "releaseDate": "2022-10-16",
+        "durationInMillis": 231101,
         "isrc": "KRE132200061",
         "artwork": {
           "width": 1400,
@@ -1121,11 +1149,11 @@
           "textColor4": "c24e00"
         },
         "composerName": "Leellamarz, BIG Naughty, MIDAS P & BOYCOLD",
+        "url": "https://music.apple.com/us/album/number-feat-big-naughty/1649890265?i=1649890266",
         "playParams": {
           "id": "1649890266",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/number-feat-big-naughty/1649890265?i=1649890266",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1149,8 +1177,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 144934,
         "releaseDate": "2022-04-08",
+        "durationInMillis": 144934,
         "isrc": "USAT22202621",
         "artwork": {
           "width": 1425,
@@ -1194,8 +1222,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177303,
         "releaseDate": "2022-09-22",
+        "durationInMillis": 177303,
         "isrc": "KSA012184974",
         "artwork": {
           "width": 3000,
@@ -1208,14 +1236,14 @@
           "textColor4": "724641"
         },
         "composerName": "Crush & \ud64d\uc18c\uc9c4",
+        "url": "https://music.apple.com/us/album/rush-hour-feat-j-hope-of-bts/1645506162?i=1645506323",
         "playParams": {
           "id": "1645506323",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rush-hour-feat-j-hope-of-bts/1645506162?i=1645506323",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rush Hour (feat. j-hope of BTS)",
         "previews": [
           {
@@ -1223,48 +1251,6 @@
           }
         ],
         "artistName": "Crush"
-      }
-    },
-    {
-      "id": "1615585008",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1615585008",
-      "attributes": {
-        "albumName": "Harry's House",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2022-03-31",
-        "durationInMillis": 167303,
-        "isrc": "USSM12200612",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d2c8ad",
-          "textColor1": "090f12",
-          "textColor2": "3d2b16",
-          "textColor3": "313431",
-          "textColor4": "5b4a34"
-        },
-        "composerName": "Harry Styles, Kid Harpoon & Tyler Johnson",
-        "url": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008",
-        "playParams": {
-          "id": "1615585008",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "As It Was",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/96/7e/ea/967eea0f-3d8e-9bb6-b4c5-fb255f50b906/mzaf_5689924871570671055.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Harry Styles"
       }
     }
   ]
