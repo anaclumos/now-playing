@@ -2,6 +2,114 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1444045214",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1444045214",
+      "attributes": {
+        "albumName": "Rokstarr (Special Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 202627,
+        "releaseDate": "2009-10-12",
+        "isrc": "GBUM71003721",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/fe/7c/ef/fe7cef93-ad06-bc9a-56fd-55af7379f5c3/11UMGIM13376.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0a0a0a",
+          "textColor1": "dcd2b8",
+          "textColor2": "db9776",
+          "textColor3": "b2aa95",
+          "textColor4": "b17b61"
+        },
+        "composerName": "Taio Cruz, Max Martin, Lukasz Gottwald, Benjamin Levin & Bonnie McKee",
+        "url": "https://music.apple.com/us/album/dynamite/1444045212?i=1444045214",
+        "playParams": {
+          "id": "1444045214",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Dynamite",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/61/7c/df/617cdfde-0a0e-b7ed-f8ff-74147cc58081/mzaf_4634587951341372416.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Taio Cruz"
+      }
+    },
+    {
+      "id": "1565510604",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1565510604",
+      "attributes": {
+        "albumName": "Hot Sauce - The 1st Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 192827,
+        "releaseDate": "2021-05-10",
+        "isrc": "KRA302100146",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/14/97/ec/1497ec04-8807-2477-7be4-2b98797f6875/NCTD_01_Hot_Sauce_DC-F_0429.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dfff00",
+          "textColor1": "0b0e12",
+          "textColor2": "003300",
+          "textColor3": "353e0f",
+          "textColor4": "2c5c00"
+        },
+        "composerName": "David Wilson, Wyatt Sanders & James Abrahart",
+        "url": "https://music.apple.com/us/album/dive-into-you/1565510601?i=1565510604",
+        "playParams": {
+          "id": "1565510604",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Dive Into You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/93/6b/7c936bbd-b01a-4074-5145-1317fe99555d/mzaf_18123779322906696642.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NCT DREAM"
+      }
+    },
+    {
+      "id": "i.RBrMLRxF15KXVPZ",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.RBrMLRxF15KXVPZ",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "Piano Orange",
+        "genreNames": [
+          "Piano"
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 220334,
+        "name": "ITZY: WANNABE",
+        "artistName": "DooPiano",
+        "playParams": {
+          "id": "i.RBrMLRxF15KXVPZ",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1588085591",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1588085591",
@@ -28,14 +136,14 @@
           "textColor3": "323232",
           "textColor4": "3e3e3e"
         },
+        "url": "https://music.apple.com/us/album/fame-feat-song-ga-in-chancellor/1588085586?i=1588085591",
         "playParams": {
           "id": "1588085591",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fame-feat-song-ga-in-chancellor/1588085586?i=1588085591",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FAME (feat. Song Ga In & Chancellor)",
         "previews": [
           {
@@ -63,7 +171,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/08/c3/58/08c35851-0298-210a-7743-3793b5ad040c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221109T061302Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221109%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=c6d46386d7bdc3284710342d1c25912c063b90c227310c73e8805f8ed14de32e"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/08/c3/58/08c35851-0298-210a-7743-3793b5ad040c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221109T062918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221109%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=59f03d4df42fbab2d9c6f630f5fac302372e7a249896f60462b36b69dda57067"
         },
         "playParams": {
           "id": "i.eoD8A7PFkaYRBvJ",
@@ -83,15 +191,15 @@
         "genreNames": [
           "Piano"
         ],
-        "trackNumber": 2,
         "hasLyrics": false,
+        "trackNumber": 2,
         "durationInMillis": 238421,
         "name": "Bboom Bboom",
         "artistName": "DooPiano",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/03/bc/f4/03bcf421-1c4d-75cb-53d1-0c835f5de8f6/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221109T061302Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221109%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=55a5e261d6137785e5639cac453b0b344eb2d4e15c7b5c3995fa26d5e21c7f73"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/03/bc/f4/03bcf421-1c4d-75cb-53d1-0c835f5de8f6/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221109T062918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221109%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=eeafb885c0af7f6c1aa57b34ccdab8c97c9614daeff886dcf3e42ee2cc02b313"
         },
         "playParams": {
           "id": "i.XMD6BLzTvEldPV2",
@@ -127,14 +235,14 @@
           "textColor4": "cec766"
         },
         "composerName": "Hangzoo, Boi B, RAUDI & CHIN CHILLA",
+        "url": "https://music.apple.com/us/album/young-wave-feat-hangzoo-boi-b/1615701090?i=1615701431",
         "playParams": {
           "id": "1615701431",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/young-wave-feat-hangzoo-boi-b/1615701090?i=1615701431",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Young Wave (feat. Hangzoo & Boi B)",
         "previews": [
           {
@@ -170,14 +278,14 @@
           "textColor3": "342910",
           "textColor4": "3a4424"
         },
+        "url": "https://music.apple.com/us/album/for-lovers-who-hesitate/1456102975?i=1456103133",
         "playParams": {
           "id": "1456103133",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/for-lovers-who-hesitate/1456102975?i=1456103133",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "For Lovers Who Hesitate",
         "previews": [
           {
@@ -199,8 +307,8 @@
           "Pop"
         ],
         "trackNumber": 14,
-        "durationInMillis": 240339,
         "releaseDate": "2018-08-24",
+        "durationInMillis": 240339,
         "isrc": "QM6MZ1886143",
         "artwork": {
           "width": 1400,
@@ -213,11 +321,11 @@
           "textColor4": "40343b"
         },
         "composerName": "Ashton Foster, Candace Sosa, Jordan \"DJ Swivel\" Young, \uc724\uae30\ud0c0, \uc815\ubc14\ube44, P-DOGG, SUGA, Samantha Harper, j-hope, Lauren Dyson, RM & Ray Michael Djan",
+        "url": "https://music.apple.com/us/album/im-fine/1598730614?i=1598730975",
         "playParams": {
           "id": "1598730975",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-fine/1598730614?i=1598730975",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -241,8 +349,8 @@
           "Music"
         ],
         "trackNumber": 18,
-        "durationInMillis": 223447,
         "releaseDate": "2021-10-15",
+        "durationInMillis": 223447,
         "isrc": "KRA492101079",
         "artwork": {
           "width": 1400,
@@ -255,11 +363,11 @@
           "textColor4": "b7a9a8"
         },
         "composerName": "Lee Tae Hyun",
+        "url": "https://music.apple.com/us/album/undercover/1590111319?i=1590112325",
         "playParams": {
           "id": "1590112325",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/undercover/1590111319?i=1590112325",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -270,133 +378,6 @@
           }
         ],
         "artistName": "Lee Tae Hyun"
-      }
-    },
-    {
-      "id": "1329847015",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1329847015",
-      "attributes": {
-        "albumName": "Chuu - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 194941,
-        "releaseDate": "2017-12-28",
-        "isrc": "KRE081700034",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/24/6c/92/246c9266-33d1-8ef9-4c3a-9f681c97c9f8/8809550037526.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "010100",
-          "textColor2": "121a1c",
-          "textColor3": "343433",
-          "textColor4": "414849"
-        },
-        "playParams": {
-          "id": "1329847015",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/heart-attack-chuu/1329847014?i=1329847015",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Heart Attack (Chuu)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/f0/a5/e1f0a504-0b6f-88bd-d9b5-9cb703bf70e6/mzaf_12041124602099532958.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LOONA"
-      }
-    },
-    {
-      "id": "1533894669",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1533894669",
-      "attributes": {
-        "albumName": "THE ALBUM",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 180956,
-        "releaseDate": "2020-06-26",
-        "isrc": "KRA402000111",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/c3/64/46/c364465f-6271-8aae-93a8-b9979d2befe5/20UMGIM82075.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0e0508",
-          "textColor1": "feb6c8",
-          "textColor2": "f795ac",
-          "textColor3": "ce93a2",
-          "textColor4": "c9788b"
-        },
-        "composerName": "Teddy, 24 & R. Tee",
-        "playParams": {
-          "id": "1533894669",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/how-you-like-that/1533894050?i=1533894669",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "How You Like That",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/25/ec/a9/25eca954-9680-a780-906f-923f8dcd3871/mzaf_11844014312473818635.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BLACKPINK"
-      }
-    },
-    {
-      "id": "1610509195",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1610509195",
-      "attributes": {
-        "albumName": "2",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 5,
-        "durationInMillis": 206474,
-        "releaseDate": "2015-07-24",
-        "isrc": "KRA381211194",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/05/c4/69/05c469db-9656-9fa3-f22f-fa9818ce223b/8809603542427_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "bf966a",
-          "textColor1": "100d0e",
-          "textColor2": "110f0d",
-          "textColor3": "332820",
-          "textColor4": "332a20"
-        },
-        "composerName": "Primary & SURAN",
-        "playParams": {
-          "id": "1610509195",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/don-t-be-shy-feat-cho-a-iron/1610509023?i=1610509195",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Don\u2032t Be Shy (feat. Cho A & Iron)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c7/b4/fb/c7b4fb9b-6050-1a8d-5b4f-3db6ac68746a/mzaf_8965566012701839247.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Primary"
       }
     },
     {
@@ -426,14 +407,14 @@
           "textColor4": "7a3959"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
+        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "playParams": {
           "id": "1635656417",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Talk that Talk",
         "previews": [
           {
@@ -468,14 +449,14 @@
           "textColor4": "d6d4d1"
         },
         "composerName": "Sam Smith & James Napier",
+        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "playParams": {
           "id": "1536993857",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "I'm Not the Only One",
         "previews": [
           {
@@ -510,14 +491,14 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "playParams": {
           "id": "1650841515",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -553,14 +534,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -583,8 +564,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "durationInMillis": 206627,
         "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -596,11 +577,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -638,14 +619,14 @@
           "textColor4": "2d2d2d"
         },
         "composerName": "Ludwig G\u00f6ransson, Temilade Openiyi, Robyn Rihanna Fenty & Ryan Coogler",
+        "url": "https://music.apple.com/us/album/lift-me-up-from-black-panther-wakanda-forever-music/1651763191?i=1651763192",
         "playParams": {
           "id": "1651763192",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lift-me-up-from-black-panther-wakanda-forever-music/1651763191?i=1651763192",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "previews": [
           {
@@ -681,14 +662,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cookie",
         "previews": [
           {
@@ -710,8 +691,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -724,11 +705,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -766,22 +747,22 @@
           "textColor4": "7fbac4"
         },
         "composerName": "Justin Bieber, Charlton Howard, Blake Slatkin, Omer Fedi, Charlie Puth, Magnus H\u00f8iberg, Michael Mule, Isaac DeBoni & Subhaan Rahmaan",
+        "url": "https://music.apple.com/us/album/stay/1574378620?i=1574378625",
         "playParams": {
           "id": "1574378625",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/stay/1574378620?i=1574378625",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STAY",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/90/ee/82/90ee8296-f5b0-100b-77ff-c4bb90c73343/mzaf_16580826137185975579.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "The Kid LAROI & Justin Bieber"
+        "artistName": "The Kid LAROI & Justin Bieber",
+        "contentRating": "explicit"
       }
     },
     {
@@ -796,8 +777,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 177947,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 177947,
         "isrc": "USA2P2230224",
         "artwork": {
           "width": 1400,
@@ -810,11 +791,11 @@
           "textColor4": "424556"
         },
         "composerName": "Amanda Lundstedt, 250 & Gigi",
+        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
         "playParams": {
           "id": "1635470002",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -839,8 +820,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -853,11 +834,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -882,8 +863,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 238071,
         "releaseDate": "2022-06-07",
+        "durationInMillis": 238071,
         "isrc": "KRB472200975",
         "artwork": {
           "width": 3000,
@@ -895,11 +876,11 @@
           "textColor3": "303232",
           "textColor4": "4a4641"
         },
+        "url": "https://music.apple.com/us/album/haeyo-2022/1627665646?i=1627665647",
         "playParams": {
           "id": "1627665647",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/haeyo-2022/1627665646?i=1627665647",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -924,8 +905,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 156355,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 156355,
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -938,11 +919,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Nolan Lambroza, SCORE(13), MEGATONE(13), \ud5c8\uc724\uc9c4, Danke, \uc0ac\ucfe0\ub77c, Cha Yubeen, Alex Bilo, Jenna Andrews & salem ilese",
+        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "playParams": {
           "id": "1647830404",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -968,8 +949,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "durationInMillis": 167573,
         "releaseDate": "2020-05-06",
+        "durationInMillis": 167573,
         "isrc": "KRA382001418",
         "artwork": {
           "width": 3000,
@@ -981,11 +962,11 @@
           "textColor3": "e1d5c6",
           "textColor4": "e0a8a0"
         },
+        "url": "https://music.apple.com/us/album/eight-feat-suga/1511885175?i=1511885178",
         "playParams": {
           "id": "1511885178",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eight-feat-suga/1511885175?i=1511885178",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1009,8 +990,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199146,
         "releaseDate": "2016-01-29",
+        "durationInMillis": 199146,
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -1023,11 +1004,11 @@
           "textColor4": "515811"
         },
         "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
+        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "playParams": {
           "id": "1031416180",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1065,14 +1046,14 @@
           "textColor3": "434330",
           "textColor4": "4a4033"
         },
+        "url": "https://music.apple.com/us/album/checklist/1652595418?i=1652595419",
         "playParams": {
           "id": "1652595419",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/checklist/1652595418?i=1652595419",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "CHECKLIST",
         "previews": [
           {
@@ -1094,8 +1075,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 189720,
         "releaseDate": "2022-10-30",
+        "durationInMillis": 189720,
         "isrc": "KRA382208189",
         "artwork": {
           "width": 3000,
@@ -1107,11 +1088,11 @@
           "textColor3": "434330",
           "textColor4": "4a4033"
         },
+        "url": "https://music.apple.com/us/album/checklist-instrumental/1652595418?i=1652595420",
         "playParams": {
           "id": "1652595420",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/checklist-instrumental/1652595418?i=1652595420",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -1135,8 +1116,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 226627,
         "releaseDate": "2022-08-12",
+        "durationInMillis": 226627,
         "isrc": "QZAKB2166405",
         "artwork": {
           "width": 3000,
@@ -1149,11 +1130,11 @@
           "textColor4": "c87f51"
         },
         "composerName": "Eliza Rose & Interplanetary Criminal",
+        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "playParams": {
           "id": "1639317826",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1191,14 +1172,14 @@
           "textColor4": "3c2b39"
         },
         "composerName": "Aubrey Drake Graham, O. Yildirim, N. Cadastre, N. D. Frascona, T. Friedrich, L. Leibfried, K. Gamble, A. Huff, C. Giles, L. L. James, J. Jones & D. Pittman",
+        "url": "https://music.apple.com/us/album/middle-of-the-ocean/1652998965?i=1652999567",
         "playParams": {
           "id": "1652999567",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/middle-of-the-ocean/1652998965?i=1652999567",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Middle of the Ocean",
         "previews": [
           {
@@ -1220,8 +1201,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 243717,
         "releaseDate": "2022-05-06",
+        "durationInMillis": 243717,
         "isrc": "QM6MZ2214878",
         "artwork": {
           "width": 3000,
@@ -1234,11 +1215,11 @@
           "textColor4": "4d403e"
         },
         "composerName": "Benito Antonio Mart\u00ednez Ocasio",
+        "url": "https://music.apple.com/us/album/tit%C3%AD-me-pregunt%C3%B3/1622045624?i=1622045635",
         "playParams": {
           "id": "1622045635",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tit%C3%AD-me-pregunt%C3%B3/1622045624?i=1622045635",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
