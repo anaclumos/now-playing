@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1647830390",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1647830390",
+      "attributes": {
+        "albumName": "ANTIFRAGILE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
+        "isrc": "USA2P2230329",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "212121",
+          "textColor3": "333333",
+          "textColor4": "4e4e4e"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
+        "playParams": {
+          "id": "1647830390",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "ANTIFRAGILE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/df/4e/cddf4e72-5eb3-18e4-2ddb-bec4ef91b8f6/mzaf_2899720442644351065.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
       "id": "1444045214",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1444045214",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2009-10-12",
         "durationInMillis": 202627,
+        "releaseDate": "2009-10-12",
         "isrc": "GBUM71003721",
         "artwork": {
           "width": 1500,
@@ -55,8 +98,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-05-10",
         "durationInMillis": 192827,
+        "releaseDate": "2021-05-10",
         "isrc": "KRA302100146",
         "artwork": {
           "width": 4000,
@@ -91,8 +134,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.RBrMLRxF15KXVPZ",
       "attributes": {
-        "discNumber": 0,
         "albumName": "Piano Orange",
+        "discNumber": 0,
         "genreNames": [
           "Piano"
         ],
@@ -123,8 +166,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-10-25",
         "durationInMillis": 241920,
+        "releaseDate": "2019-10-25",
         "isrc": "KRA301900513",
         "artwork": {
           "width": 3000,
@@ -158,8 +201,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.eoD8A7PFkaYRBvJ",
       "attributes": {
-        "discNumber": 1,
         "albumName": "Square One",
+        "discNumber": 1,
         "genreNames": [
           "Rap / Hip-hop"
         ],
@@ -171,7 +214,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/08/c3/58/08c35851-0298-210a-7743-3793b5ad040c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221109T081038Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221109%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=ee9ea9aeea647cf24d030bfde5389b4740130273cbcb4797dcf974db11333540"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/08/c3/58/08c35851-0298-210a-7743-3793b5ad040c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221109T082526Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221109%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=ef00218b920fec781ef8e5b20dd7e1d18c2ae220970ac25f1495271eff5198b3"
         },
         "playParams": {
           "id": "i.eoD8A7PFkaYRBvJ",
@@ -194,8 +237,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-26",
         "durationInMillis": 177467,
+        "releaseDate": "2022-08-26",
         "isrc": "US5TA2200073",
         "artwork": {
           "width": 1400,
@@ -236,8 +279,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2014-05-26",
         "durationInMillis": 239317,
+        "releaseDate": "2014-05-26",
         "isrc": "GBUM71308836",
         "artwork": {
           "width": 3000,
@@ -278,8 +321,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 200690,
+        "releaseDate": "2022-10-21",
         "isrc": "USUG12205736",
         "artwork": {
           "width": 3000,
@@ -321,8 +364,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -365,8 +408,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -406,8 +449,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-28",
         "durationInMillis": 196520,
+        "releaseDate": "2022-10-28",
         "isrc": "QMJMT2204481",
         "artwork": {
           "width": 3000,
@@ -449,8 +492,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 235562,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -492,8 +535,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -534,8 +577,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-07-09",
         "durationInMillis": 141806,
+        "releaseDate": "2021-07-09",
         "isrc": "USSM12103949",
         "artwork": {
           "width": 3000,
@@ -578,8 +621,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 177947,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230224",
         "artwork": {
           "width": 1400,
@@ -621,8 +664,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -664,8 +707,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-06-07",
         "durationInMillis": 238071,
+        "releaseDate": "2022-06-07",
         "isrc": "KRB472200975",
         "artwork": {
           "width": 3000,
@@ -706,8 +749,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 156355,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -750,8 +793,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-05-06",
         "durationInMillis": 167573,
+        "releaseDate": "2020-05-06",
         "isrc": "KRA382001418",
         "artwork": {
           "width": 3000,
@@ -791,8 +834,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-01-29",
         "durationInMillis": 199146,
+        "releaseDate": "2016-01-29",
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -834,8 +877,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-30",
         "durationInMillis": 189733,
+        "releaseDate": "2022-10-30",
         "isrc": "KRA382208188",
         "artwork": {
           "width": 3000,
@@ -876,8 +919,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-30",
         "durationInMillis": 189720,
+        "releaseDate": "2022-10-30",
         "isrc": "KRA382208189",
         "artwork": {
           "width": 3000,
@@ -917,8 +960,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-12",
         "durationInMillis": 226627,
+        "releaseDate": "2022-08-12",
         "isrc": "QZAKB2166405",
         "artwork": {
           "width": 3000,
@@ -959,8 +1002,8 @@
           "Music"
         ],
         "trackNumber": 12,
-        "releaseDate": "2022-11-04",
         "durationInMillis": 356389,
+        "releaseDate": "2022-11-04",
         "isrc": "USUG12208609",
         "artwork": {
           "width": 3000,
@@ -1002,8 +1045,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-05-06",
         "durationInMillis": 243717,
+        "releaseDate": "2022-05-06",
         "isrc": "QM6MZ2214878",
         "artwork": {
           "width": 3000,
@@ -1046,8 +1089,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-25",
         "durationInMillis": 195507,
+        "releaseDate": "2022-09-25",
         "isrc": "KRA382207591",
         "artwork": {
           "width": 3000,
@@ -1087,8 +1130,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-01-20",
         "durationInMillis": 187704,
+        "releaseDate": "2022-01-20",
         "isrc": "USAT22107359",
         "artwork": {
           "width": 1425,
@@ -1129,8 +1172,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 194207,
+        "releaseDate": "2022-10-21",
         "isrc": "USUG12205711",
         "artwork": {
           "width": 3000,
@@ -1171,8 +1214,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-29",
         "durationInMillis": 209027,
+        "releaseDate": "2022-09-29",
         "isrc": "GBAHS2201129",
         "artwork": {
           "width": 4000,
@@ -1200,49 +1243,6 @@
           }
         ],
         "artistName": "Ed Sheeran"
-      }
-    },
-    {
-      "id": "1619757892",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1619757892",
-      "attributes": {
-        "albumName": "Beyond Love (feat. 10cm) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "R&B/Soul"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-04-20",
-        "durationInMillis": 188707,
-        "isrc": "KRA382204596",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/58/af/da/58afdace-2164-0453-07ac-c51d3d235d26/cover_KM0015085_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "bfbcb7",
-          "textColor1": "010101",
-          "textColor2": "1a1a1a",
-          "textColor3": "272726",
-          "textColor4": "3b3a39"
-        },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
-        "playParams": {
-          "id": "1619757892",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Beyond Love (feat. 10cm)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ff/c7/c1/ffc7c109-2f7a-d879-81e4-0bee0d503bb9/mzaf_8361359506493914122.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BIG Naughty"
       }
     }
   ]
