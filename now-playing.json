@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1640343360",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1640343360",
+      "attributes": {
+        "albumName": "A Different Kind Of Human (Step II)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2019-01-24",
+        "durationInMillis": 215401,
+        "isrc": "GBUM71807807",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/2d/69/cc2d69d3-61f2-1c69-159c-898bac81cc14/5056167113911.jpg/{w}x{h}bb.jpg",
+          "bgColor": "9f371c",
+          "textColor1": "f1e6ee",
+          "textColor2": "f0dfe3",
+          "textColor3": "e1c3c4",
+          "textColor4": "dfbebb"
+        },
+        "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
+        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
+        "playParams": {
+          "id": "1640343360",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Animal",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f8/4d/4e/f84d4eb5-cf99-b873-be52-db3accd5ce85/mzaf_10462744601116846985.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "AURORA"
+      }
+    },
+    {
       "id": "1546592580",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1546592580",
@@ -33,8 +75,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Prince of the sea",
         "previews": [
           {
@@ -123,48 +165,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8e/5a/a3/8e5aa376-44a5-d159-cad6-8e068c93d2cb/mzaf_11235335675970121166.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "AURORA"
-      }
-    },
-    {
-      "id": "1640343360",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1640343360",
-      "attributes": {
-        "albumName": "A Different Kind Of Human (Step II)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2019-01-24",
-        "durationInMillis": 215401,
-        "isrc": "GBUM71807807",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/2d/69/cc2d69d3-61f2-1c69-159c-898bac81cc14/5056167113911.jpg/{w}x{h}bb.jpg",
-          "bgColor": "9f371c",
-          "textColor1": "f1e6ee",
-          "textColor2": "f0dfe3",
-          "textColor3": "e1c3c4",
-          "textColor4": "dfbebb"
-        },
-        "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
-        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
-        "playParams": {
-          "id": "1640343360",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Animal",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f8/4d/4e/f84d4eb5-cf99-b873-be52-db3accd5ce85/mzaf_10462744601116846985.plus.aac.p.m4a"
           }
         ],
         "artistName": "AURORA"
@@ -285,8 +285,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "A Different Kind Of Human",
         "previews": [
           {
@@ -327,8 +327,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "In Bottles",
         "previews": [
           {
@@ -369,8 +369,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Soulless Creatures",
         "previews": [
           {
@@ -411,8 +411,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Hunger",
         "previews": [
           {
@@ -495,8 +495,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Shouldn't Have... (feat. Young K)",
         "previews": [
           {
@@ -538,8 +538,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -581,8 +581,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -624,8 +624,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -709,8 +709,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Gradation",
         "previews": [
           {
@@ -794,8 +794,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Girls",
         "previews": [
           {
@@ -965,8 +965,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "My pleasure Is That You Ride The Bentley",
         "previews": [
           {
@@ -1008,8 +1008,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -1050,8 +1050,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Lavender Haze",
         "previews": [
           {
@@ -1180,8 +1180,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FANCY",
         "previews": [
           {
@@ -1266,8 +1266,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
