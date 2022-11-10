@@ -2,6 +2,140 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1529336929",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1529336929",
+      "attributes": {
+        "albumName": "Ice Cream - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-08-28",
+        "durationInMillis": 175813,
+        "isrc": "KRA402000131",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/6b/8d/10/6b8d1099-2a26-bf3d-425e-136ed7db76aa/20UMGIM70903.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1c1114",
+          "textColor1": "f99fa8",
+          "textColor2": "f7728c",
+          "textColor3": "cc838b",
+          "textColor4": "cb5e74"
+        },
+        "composerName": "Selena Gomez, Bekuh Boom, Victoria Mon\u00e9t, Teddy, Tommy Brown, Mr. Franks, 24 & Ariana Grande",
+        "url": "https://music.apple.com/us/album/ice-cream/1529336927?i=1529336929",
+        "playParams": {
+          "id": "1529336929",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Ice Cream",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/64/59/f2/6459f220-0882-9fa9-50c5-e18c0ad72119/mzaf_8010727352961278861.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BLACKPINK & Selena Gomez"
+      }
+    },
+    {
+      "id": "484346310",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/484346310",
+      "attributes": {
+        "albumName": "Last Fantasy",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "J-Pop",
+          "Worldwide",
+          "Japanese Pop",
+          "Rock",
+          "Dance",
+          "Asia"
+        ],
+        "trackNumber": 10,
+        "releaseDate": "2011-11-29",
+        "durationInMillis": 241269,
+        "isrc": "KRA381002296",
+        "artwork": {
+          "width": 1166,
+          "height": 1184,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music/61/42/2c/mzi.mezumbpd.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fffffd",
+          "textColor1": "0e0905",
+          "textColor2": "16110b",
+          "textColor3": "3e3a37",
+          "textColor4": "45413b"
+        },
+        "url": "https://music.apple.com/us/album/teacher-feat-ra-d/484346200?i=484346310",
+        "playParams": {
+          "id": "484346310",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Teacher (feat. Ra.D)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/a6/2e/ffa62ef0-d84e-a39d-a9aa-9d90cd562917/mzaf_1372156596187672699.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IU"
+      }
+    },
+    {
+      "id": "1478349010",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1478349010",
+      "attributes": {
+        "albumName": "Astronomia (Remix) - Single",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "House"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-08-28",
+        "durationInMillis": 146260,
+        "isrc": "QZHN31944816",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/05/41/51/054151b8-f7c3-9bfb-d29b-bd072e7e32f2/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "060027",
+          "textColor1": "fdfdff",
+          "textColor2": "518ee3",
+          "textColor3": "cbcad3",
+          "textColor4": "4272be"
+        },
+        "composerName": "Tony Igy",
+        "url": "https://music.apple.com/us/album/astronomia-remix/1478349009?i=1478349010",
+        "playParams": {
+          "id": "1478349010",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Astronomia (Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ad/cf/e5/adcfe5cb-3e43-4451-5aa7-260dbcce1b63/mzaf_12025500906153458434.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Spark"
+      }
+    },
+    {
       "id": "1124895618",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1124895618",
@@ -32,8 +166,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "No Matter What (Instrumental)",
         "previews": [
           {
@@ -75,8 +209,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Beautiful (feat. ZICO)",
         "previews": [
           {
@@ -118,8 +252,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BUNGEE (Fall in Love)",
         "previews": [
           {
@@ -161,8 +295,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Sunday (feat. HEIZE & Jay Park)",
         "previews": [
           {
@@ -182,15 +316,15 @@
         "genreNames": [
           "New Age"
         ],
-        "trackNumber": 13,
         "hasLyrics": false,
+        "trackNumber": 13,
         "durationInMillis": 258324,
         "name": "Magnolia",
         "artistName": "Acoustic Cafe",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6a/fe/e1/6afee1fb-197b-d9ab-578c-21e38c987a45/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221110T111707Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221110%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=3c7cf9b059d68c347a338558a61fa10743fcfc4561ba0174f3fad88735eaa228"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6a/fe/e1/6afee1fb-197b-d9ab-578c-21e38c987a45/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221110T112814Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221110%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=b60c7013fbda617c4f947e6aa4b2a2b5f3b35c7b4201376af311b32684d070f3"
         },
         "playParams": {
           "id": "i.ldDOD5PF8LaVGWo",
@@ -198,6 +332,48 @@
           "isLibrary": true,
           "reporting": false
         }
+      }
+    },
+    {
+      "id": "1613316884",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1613316884",
+      "attributes": {
+        "albumName": "wonderlust - EP",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2016-10-14",
+        "durationInMillis": 231572,
+        "isrc": "KRA381602012",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/2b/dc/1c/2bdc1cf3-a45d-bc28-3957-51b7013d7f1b/8809603542557_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "2c2714",
+          "textColor1": "ced6ea",
+          "textColor2": "7db4df",
+          "textColor3": "aeb3bf",
+          "textColor4": "6c98b7"
+        },
+        "composerName": "Crush, \uc2e0\uc6a9\uc2dd & Gaeko",
+        "url": "https://music.apple.com/us/album/fall/1613316878?i=1613316884",
+        "playParams": {
+          "id": "1613316884",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Fall",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/08/0b/e6/080be666-3c52-0a39-2aa4-5ee113b09e1b/mzaf_6955782721679103225.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Crush"
       }
     },
     {
@@ -232,8 +408,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "How Do You Think",
         "previews": [
           {
@@ -275,8 +451,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SO CURIOUS",
         "previews": [
           {
@@ -318,8 +494,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Jam Jam",
         "previews": [
           {
@@ -360,8 +536,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "A Moment of Tranquility",
         "previews": [
           {
@@ -403,8 +579,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Devil",
         "previews": [
           {
@@ -424,15 +600,15 @@
         "genreNames": [
           "Piano"
         ],
-        "trackNumber": 9,
         "hasLyrics": false,
+        "trackNumber": 9,
         "durationInMillis": 287554,
         "name": "instagram",
         "artistName": "DooPiano",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/81/c5/e9/81c5e925-d431-e92d-246a-ed2aed3c5712/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221110T111707Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221110%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=02206af56bb655955caa317ebedfe5701bd95561adff6dafe712b55178e25e8f"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/81/c5/e9/81c5e925-d431-e92d-246a-ed2aed3c5712/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221110T112814Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221110%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=9622df1ff5bf266053a9d444afbb8b1af68341cba1a81a2f197f881c2cd68b98"
         },
         "playParams": {
           "id": "i.GEG74xaHPDMx3R9",
@@ -474,8 +650,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "We Are (feat. Loco & GRAY)",
         "previews": [
           {
@@ -516,8 +692,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Animal",
         "previews": [
           {
@@ -559,8 +735,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Prince of the sea",
         "previews": [
           {
@@ -601,8 +777,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "\ud574\ubcc0\uc758 \uc5ec\uc778",
         "previews": [
           {
@@ -643,8 +819,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Seed",
         "previews": [
           {
@@ -685,8 +861,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Daydreamer",
         "previews": [
           {
@@ -727,8 +903,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The River",
         "previews": [
           {
@@ -769,8 +945,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "A Different Kind Of Human",
         "previews": [
           {
@@ -811,8 +987,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "In Bottles",
         "previews": [
           {
@@ -853,8 +1029,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Soulless Creatures",
         "previews": [
           {
@@ -895,8 +1071,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Hunger",
         "previews": [
           {
@@ -904,90 +1080,6 @@
           }
         ],
         "artistName": "AURORA"
-      }
-    },
-    {
-      "id": "1653336383",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1653336383",
-      "attributes": {
-        "albumName": "Love is for Suckers (Original Soundtrack), Pt. 5 - Single",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-11-09",
-        "durationInMillis": 197667,
-        "isrc": "KRB472202105",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/85/20/a8/8520a87c-964f-8258-9abb-044e5cd2005e/83144954.jpg/{w}x{h}bb.jpg",
-          "bgColor": "011f14",
-          "textColor1": "e4e3ea",
-          "textColor2": "ced8bb",
-          "textColor3": "b7bcbf",
-          "textColor4": "a5b39a"
-        },
-        "url": "https://music.apple.com/us/album/slowly/1653336382?i=1653336383",
-        "playParams": {
-          "id": "1653336383",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Slowly",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/69/1f/35/691f3508-dccc-907d-493d-e8fe80a1b066/mzaf_743697439616989107.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Baek A Yeon"
-      }
-    },
-    {
-      "id": "1628757836",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1628757836",
-      "attributes": {
-        "albumName": "Shouldn't Have... - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2015-05-20",
-        "durationInMillis": 212762,
-        "isrc": "US5TA1500025",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/a4/22/4c/a4224cf4-3241-3efe-a302-480a0c14918c/799975600253.jpg/{w}x{h}bb.jpg",
-          "bgColor": "bebebe",
-          "textColor1": "201a15",
-          "textColor2": "3d2014",
-          "textColor3": "403b37",
-          "textColor4": "574036"
-        },
-        "composerName": "\uc2ec\uc740\uc9c0 & Baek A Yeon",
-        "url": "https://music.apple.com/us/album/shouldnt-have-feat-young-k/1628757823?i=1628757836",
-        "playParams": {
-          "id": "1628757836",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Shouldn't Have... (feat. Young K)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/82/f7/12/82f71245-ef21-ecce-b2f5-97bd04c56319/mzaf_14239020861763025940.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Baek A Yeon"
       }
     },
     {
@@ -1022,8 +1114,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -1065,8 +1157,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -1108,8 +1200,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -1150,8 +1242,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Look Back (feat. Syd Silvair)",
         "previews": [
           {
@@ -1159,91 +1251,6 @@
           }
         ],
         "artistName": "Oliver Heldens"
-      }
-    },
-    {
-      "id": "1632365364",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1632365364",
-      "attributes": {
-        "albumName": "5.3 (Gradation) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Folk"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-07-03",
-        "durationInMillis": 201280,
-        "isrc": "KRF252200137",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8a/74/c68a7489-f22b-a65e-34c8-764f03d7e000/cover_KM0015646_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "70e5e2",
-          "textColor1": "4f081a",
-          "textColor2": "4b1313",
-          "textColor3": "563442",
-          "textColor4": "533d3d"
-        },
-        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
-        "playParams": {
-          "id": "1632365364",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Gradation",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d7/76/6c/d7766c0a-755e-7af5-36a6-f2bc62e3a6b0/mzaf_17692561092939831176.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "10cm"
-      }
-    },
-    {
-      "id": "1648963030",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1648963030",
-      "attributes": {
-        "albumName": "Boys Like You - Single",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-10-21",
-        "durationInMillis": 223373,
-        "isrc": "US5TA2200144",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/11/65/61/11656143-021f-f1ef-0ed6-15c7336e12ef/738676860184_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "6d27b1",
-          "textColor1": "f9fbf6",
-          "textColor2": "efad69",
-          "textColor3": "ddd1e8",
-          "textColor4": "d59277"
-        },
-        "composerName": "Didrik Thott, Hayley Aitken, Sebastian Thott, Sara Davis, Ellie Suh(153/Joombas) & LEEJOOHEE(MUMW)",
-        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
-        "playParams": {
-          "id": "1648963030",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Boys Like You",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/eb/f5/90/ebf59051-492c-c660-0178-8402efdc2b97/mzaf_3414986770697029129.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ITZY"
       }
     }
   ]
