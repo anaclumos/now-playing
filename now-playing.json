@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1640344068",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1640344068",
+      "attributes": {
+        "albumName": "A Different Kind Of Human (Step II)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 10,
+        "durationInMillis": 266969,
+        "releaseDate": "2019-04-05",
+        "isrc": "GBUM71808078",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/2d/69/cc2d69d3-61f2-1c69-159c-898bac81cc14/5056167113911.jpg/{w}x{h}bb.jpg",
+          "bgColor": "9f371c",
+          "textColor1": "f1e6ee",
+          "textColor2": "f0dfe3",
+          "textColor3": "e1c3c4",
+          "textColor4": "dfbebb"
+        },
+        "composerName": "Aurora Aksnes, Michelle Leonard & Nico Rebscher",
+        "url": "https://music.apple.com/us/album/the-seed/1640343353?i=1640344068",
+        "playParams": {
+          "id": "1640344068",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "The Seed",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8e/5a/a3/8e5aa376-44a5-d159-cad6-8e068c93d2cb/mzaf_11235335675970121166.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "AURORA"
+      }
+    },
+    {
       "id": "1640343360",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1640343360",
@@ -12,8 +54,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-01-24",
         "durationInMillis": 215401,
+        "releaseDate": "2019-01-24",
         "isrc": "GBUM71807807",
         "artwork": {
           "width": 3000,
@@ -32,8 +74,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Animal",
         "previews": [
           {
@@ -54,8 +96,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2019-04-05",
         "durationInMillis": 219058,
+        "releaseDate": "2019-04-05",
         "isrc": "GBUM71808077",
         "artwork": {
           "width": 3000,
@@ -74,8 +116,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Daydreamer",
         "previews": [
           {
@@ -110,11 +152,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Magnus Skylstad, Aurora Aksnes & Odd Martin Skaalnes",
-        "url": "https://music.apple.com/us/album/the-river/1640343353?i=1640343356",
         "playParams": {
           "id": "1640343356",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-river/1640343353?i=1640343356",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -152,11 +194,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/a-different-kind-of-human/1640343353?i=1640343967",
         "playParams": {
           "id": "1640343967",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/a-different-kind-of-human/1640343353?i=1640343967",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -180,8 +222,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "durationInMillis": 238173,
         "releaseDate": "2019-04-05",
+        "durationInMillis": 238173,
         "isrc": "GBUM71808083",
         "artwork": {
           "width": 3000,
@@ -194,11 +236,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes & Magnus Skylstad",
-        "url": "https://music.apple.com/us/album/in-bottles/1640343353?i=1640343836",
         "playParams": {
           "id": "1640343836",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/in-bottles/1640343353?i=1640343836",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -222,8 +264,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "durationInMillis": 302045,
         "releaseDate": "2019-04-05",
+        "durationInMillis": 302045,
         "isrc": "GBUM71808075",
         "artwork": {
           "width": 3000,
@@ -236,11 +278,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes, Timothy Bran & Roy Kerr",
-        "url": "https://music.apple.com/us/album/soulless-creatures/1640343353?i=1640343375",
         "playParams": {
           "id": "1640343375",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/soulless-creatures/1640343353?i=1640343375",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -278,11 +320,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes & Fiona Bevan",
-        "url": "https://music.apple.com/us/album/hunger/1640343353?i=1640343371",
         "playParams": {
           "id": "1640343371",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hunger/1640343353?i=1640343371",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -325,8 +367,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Slowly",
         "previews": [
           {
@@ -348,8 +390,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2015-05-20",
         "durationInMillis": 212762,
+        "releaseDate": "2015-05-20",
         "isrc": "US5TA1500025",
         "artwork": {
           "width": 3000,
@@ -368,8 +410,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Shouldn't Have... (feat. Young K)",
         "previews": [
           {
@@ -391,8 +433,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -411,8 +453,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -454,8 +496,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -497,8 +539,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -519,8 +561,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-19",
         "durationInMillis": 208308,
+        "releaseDate": "2021-02-19",
         "isrc": "ZZOPM2104359",
         "artwork": {
           "width": 2000,
@@ -539,8 +581,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Look Back (feat. Syd Silvair)",
         "previews": [
           {
@@ -582,8 +624,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Gradation",
         "previews": [
           {
@@ -604,8 +646,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 223373,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 223373,
         "isrc": "US5TA2200144",
         "artwork": {
           "width": 1400,
@@ -618,11 +660,11 @@
           "textColor4": "d59277"
         },
         "composerName": "Didrik Thott, Hayley Aitken, Sebastian Thott, Sara Davis, Ellie Suh(153/Joombas) & LEEJOOHEE(MUMW)",
-        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
         "playParams": {
           "id": "1648963030",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -647,8 +689,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-07-08",
         "durationInMillis": 240440,
+        "releaseDate": "2022-07-08",
         "isrc": "KRA302200097",
         "artwork": {
           "width": 4000,
@@ -667,8 +709,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Girls",
         "previews": [
           {
@@ -690,8 +732,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 166491,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 166491,
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -704,11 +746,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -734,8 +776,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "durationInMillis": 216280,
         "releaseDate": "2022-05-04",
+        "durationInMillis": 216280,
         "isrc": "KRA382204921",
         "artwork": {
           "width": 3000,
@@ -747,11 +789,11 @@
           "textColor3": "cedae5",
           "textColor4": "ced9d8"
         },
-        "url": "https://music.apple.com/us/album/vancouver/1622167330?i=1622167332",
         "playParams": {
           "id": "1622167332",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/vancouver/1622167330?i=1622167332",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -776,8 +818,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 198559,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -795,8 +837,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -832,11 +874,11 @@
           "textColor4": "4a453e"
         },
         "composerName": "Kim Seungmin, Minit & BASECAMP",
-        "url": "https://music.apple.com/us/album/my-pleasure-is-that-you-ride-the-bentley/1590591029?i=1590591377",
         "playParams": {
           "id": "1590591377",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/my-pleasure-is-that-you-ride-the-bentley/1590591029?i=1590591377",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -881,8 +923,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -917,11 +959,11 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift, Jack Antonoff, Zo\u00eb Kravitz, Mark Anthony Spears, Jahaan Akil Sweet & Sam Dew",
-        "url": "https://music.apple.com/us/album/lavender-haze/1650841512?i=1650841513",
         "playParams": {
           "id": "1650841513",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lavender-haze/1650841512?i=1650841513",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -948,8 +990,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177467,
         "releaseDate": "2022-08-26",
+        "durationInMillis": 177467,
         "isrc": "US5TA2200073",
         "artwork": {
           "width": 1400,
@@ -962,11 +1004,11 @@
           "textColor4": "7a3959"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
-        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "playParams": {
           "id": "1635656417",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1004,11 +1046,11 @@
           "textColor4": "c97435"
         },
         "composerName": "Warren \"Oak\" Felder, Jane \"Jin Jin\" Bennett, Oliver Heldens, Lee Seu-Ran, Penomeco & Kang Eunjung",
-        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "playParams": {
           "id": "1608253225",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1047,11 +1089,11 @@
           "textColor4": "5f484d"
         },
         "composerName": "Eyed Pilseung Black & Jeon Goon",
-        "url": "https://music.apple.com/us/album/fancy/1555390183?i=1555390187",
         "playParams": {
           "id": "1555390187",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fancy/1555390183?i=1555390187",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1096,8 +1138,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Change",
         "previews": [
           {
@@ -1133,11 +1175,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1162,8 +1204,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 162570,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 162570,
         "isrc": "KRA402200024",
         "artwork": {
           "width": 2000,
@@ -1176,11 +1218,11 @@
           "textColor4": "535353"
         },
         "composerName": "Bianca Blush Atterberry, Max Wolfgang, Freddy Wexler, Teddy, R. Tee & 24",
-        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
         "playParams": {
           "id": "1644440679",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1190,8 +1232,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "BLACKPINK"
+        "artistName": "BLACKPINK",
+        "contentRating": "explicit"
       }
     },
     {
@@ -1205,8 +1247,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 239317,
         "releaseDate": "2014-05-26",
+        "durationInMillis": 239317,
         "isrc": "GBUM71308836",
         "artwork": {
           "width": 3000,
@@ -1219,11 +1261,11 @@
           "textColor4": "d6d4d1"
         },
         "composerName": "Sam Smith & James Napier",
-        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "playParams": {
           "id": "1536993857",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1234,48 +1276,6 @@
           }
         ],
         "artistName": "Sam Smith"
-      }
-    },
-    {
-      "id": "1650841515",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1650841515",
-      "attributes": {
-        "albumName": "Midnights (3am Edition)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-10-21",
-        "durationInMillis": 200690,
-        "isrc": "USUG12205736",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eae7e2",
-          "textColor1": "120b14",
-          "textColor2": "412423",
-          "textColor3": "3d373d",
-          "textColor4": "634b49"
-        },
-        "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
-        "playParams": {
-          "id": "1650841515",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Anti-Hero",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Taylor Swift"
       }
     }
   ]
