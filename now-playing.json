@@ -2,48 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1536993857",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1536993857",
-      "attributes": {
-        "albumName": "In the Lonely Hour (Drowning Shadows Videos Edition)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 5,
-        "releaseDate": "2014-05-26",
-        "durationInMillis": 239317,
-        "isrc": "GBUM71308836",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "56534e",
-          "textColor1": "ffffff",
-          "textColor2": "f6f5f1",
-          "textColor3": "dddcdb",
-          "textColor4": "d6d4d1"
-        },
-        "composerName": "Sam Smith & James Napier",
-        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
-        "playParams": {
-          "id": "1536993857",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "I'm Not the Only One",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/56/87/e5/5687e5ea-d69a-f6eb-d6f3-abade40e8ad9/mzaf_8942483326211033891.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sam Smith"
-      }
-    },
-    {
       "id": "1649293727",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1649293727",
@@ -55,8 +13,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 198559,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -86,6 +44,48 @@
       }
     },
     {
+      "id": "1536993857",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1536993857",
+      "attributes": {
+        "albumName": "In the Lonely Hour (Drowning Shadows Videos Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2014-05-26",
+        "durationInMillis": 239317,
+        "isrc": "GBUM71308836",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "56534e",
+          "textColor1": "ffffff",
+          "textColor2": "f6f5f1",
+          "textColor3": "dddcdb",
+          "textColor4": "d6d4d1"
+        },
+        "composerName": "Sam Smith & James Napier",
+        "playParams": {
+          "id": "1536993857",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "I'm Not the Only One",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/56/87/e5/5687e5ea-d69a-f6eb-d6f3-abade40e8ad9/mzaf_8942483326211033891.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sam Smith"
+      }
+    },
+    {
       "id": "1640363202",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1640363202",
@@ -97,8 +97,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 230293,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA302200149",
         "artwork": {
           "width": 4000,
@@ -154,14 +154,14 @@
           "textColor4": "8a9bb2"
         },
         "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "playParams": {
           "id": "1609049613",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -197,14 +197,14 @@
           "textColor4": "5e243b"
         },
         "composerName": "KENZIE & Ylva Dimberg",
-        "url": "https://music.apple.com/us/album/forever-1/1637554836?i=1637554838",
         "playParams": {
           "id": "1637554838",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/forever-1/1637554836?i=1637554838",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FOREVER 1",
         "previews": [
           {
@@ -241,14 +241,14 @@
           "textColor3": "1a2a38",
           "textColor4": "292c2d"
         },
-        "url": "https://music.apple.com/us/album/love-me/1618400068?i=1618400071",
         "playParams": {
           "id": "1618400071",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-me/1618400068?i=1618400071",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE me",
         "previews": [
           {
@@ -284,14 +284,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "Dennis DeKo Kordnejad, Hanif Hitmanic Sabzevari, Pontus PJ Ljung, RYAN JHUN, Rodnae \"Chikk\" Bell & YOO YOUNG JIN",
-        "url": "https://music.apple.com/us/album/girls/1626752981?i=1626752985",
         "playParams": {
           "id": "1626752985",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/girls/1626752981?i=1626752985",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Girls",
         "previews": [
           {
@@ -313,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-21",
         "durationInMillis": 210253,
+        "releaseDate": "2022-03-21",
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -357,8 +357,8 @@
           "Rock"
         ],
         "trackNumber": 8,
-        "releaseDate": "2019-03-13",
         "durationInMillis": 265000,
+        "releaseDate": "2019-03-13",
         "isrc": "KRA381900671",
         "artwork": {
           "width": 3000,
@@ -413,14 +413,14 @@
           "textColor3": "c3b4d0",
           "textColor4": "b7a6c6"
         },
-        "url": "https://music.apple.com/us/album/strawberry-moon/1590459601?i=1590459636",
         "playParams": {
           "id": "1590459636",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/strawberry-moon/1590459601?i=1590459636",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "strawberry moon",
         "previews": [
           {
@@ -455,14 +455,14 @@
           "textColor3": "cfcece",
           "textColor4": "b69e9c"
         },
-        "url": "https://music.apple.com/us/album/monologue/1645815508?i=1645815509",
         "playParams": {
           "id": "1645815509",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/monologue/1645815508?i=1645815509",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Monologue",
         "previews": [
           {
@@ -497,14 +497,14 @@
           "textColor4": "b95307"
         },
         "composerName": "Abel Tesfaye, Martin McKinney, Mejdi Rhars, Dylan Wiggins, Magnus H\u00f8iberg, William Walsh & Henry Walter",
-        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "playParams": {
           "id": "1440870395",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Die For You",
         "previews": [
           {
@@ -540,14 +540,14 @@
           "textColor3": "d6d6e1",
           "textColor4": "d0d5eb"
         },
-        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "playParams": {
           "id": "1628243993",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Romance Symphony (feat. CHANGMO & Jay Park)",
         "previews": [
           {
@@ -583,14 +583,14 @@
           "textColor4": "25caa3"
         },
         "composerName": "Guy Berryman, J\u00f3hann J\u00f3hannsson, Moses Martin, JIN, Kyrre G\u00f8rvell-Dahll, Joan La Barbara, Jonny Buckland, Will Champion & Christopher Martin",
-        "url": "https://music.apple.com/us/album/the-astronaut/1649563458?i=1649563461",
         "playParams": {
           "id": "1649563461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-astronaut/1649563458?i=1649563461",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Astronaut",
         "previews": [
           {
@@ -611,8 +611,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-11-04",
         "durationInMillis": 170502,
+        "releaseDate": "2022-11-04",
         "isrc": "USUG12208599",
         "artwork": {
           "width": 3000,
@@ -656,8 +656,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-04",
         "durationInMillis": 216280,
+        "releaseDate": "2022-05-04",
         "isrc": "KRA382204921",
         "artwork": {
           "width": 3000,
@@ -711,22 +711,22 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Charlie Puth & Jacob Kasher Hindlin",
-        "url": "https://music.apple.com/us/album/thats-hilarious/1633318292?i=1633318546",
         "playParams": {
           "id": "1633318546",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thats-hilarious/1633318292?i=1633318546",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "That's Hilarious",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/78/ac/8378ac90-8aa7-fd0e-e5e9-b0713454f39c/mzaf_16193074131465976322.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Charlie Puth"
+        "artistName": "Charlie Puth",
+        "contentRating": "explicit"
       }
     },
     {
@@ -741,8 +741,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 201895,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -798,14 +798,14 @@
           "textColor4": "4a453e"
         },
         "composerName": "Kim Seungmin, Minit & BASECAMP",
-        "url": "https://music.apple.com/us/album/my-pleasure-is-that-you-ride-the-bentley/1590591029?i=1590591377",
         "playParams": {
           "id": "1590591377",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/my-pleasure-is-that-you-ride-the-bentley/1590591029?i=1590591377",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "My pleasure Is That You Ride The Bentley",
         "previews": [
           {
@@ -827,8 +827,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -885,14 +885,14 @@
           "textColor4": "724641"
         },
         "composerName": "Crush & \ud64d\uc18c\uc9c4",
-        "url": "https://music.apple.com/us/album/rush-hour-feat-j-hope-of-bts/1645506162?i=1645506323",
         "playParams": {
           "id": "1645506323",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rush-hour-feat-j-hope-of-bts/1645506162?i=1645506323",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rush Hour (feat. j-hope of BTS)",
         "previews": [
           {
@@ -927,14 +927,14 @@
           "textColor4": "b5b8be"
         },
         "composerName": "ZICO, Pop.time, CK & Louie",
-        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "playParams": {
           "id": "1643565275",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "New Thing (feat. Homies)",
         "previews": [
           {
@@ -956,8 +956,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 235562,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -1012,14 +1012,14 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "playParams": {
           "id": "1650841515",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -1042,8 +1042,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-10-11",
         "durationInMillis": 188942,
+        "releaseDate": "2018-10-11",
         "isrc": "KRMIM1809449",
         "artwork": {
           "width": 3000,
@@ -1083,8 +1083,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2016-10-14",
         "durationInMillis": 231572,
+        "releaseDate": "2016-10-14",
         "isrc": "KRA381602012",
         "artwork": {
           "width": 1400,
@@ -1126,8 +1126,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 175889,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200020",
         "artwork": {
           "width": 2000,
@@ -1169,8 +1169,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -1226,14 +1226,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -1255,8 +1255,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
