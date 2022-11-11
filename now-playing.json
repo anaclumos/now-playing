@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1640343360",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1640343360",
+      "attributes": {
+        "albumName": "A Different Kind Of Human (Step II)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 215401,
+        "releaseDate": "2019-01-24",
+        "isrc": "GBUM71807807",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/2d/69/cc2d69d3-61f2-1c69-159c-898bac81cc14/5056167113911.jpg/{w}x{h}bb.jpg",
+          "bgColor": "9f371c",
+          "textColor1": "f1e6ee",
+          "textColor2": "f0dfe3",
+          "textColor3": "e1c3c4",
+          "textColor4": "dfbebb"
+        },
+        "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
+        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
+        "playParams": {
+          "id": "1640343360",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Animal",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f8/4d/4e/f84d4eb5-cf99-b873-be52-db3accd5ce85/mzaf_10462744601116846985.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "AURORA"
+      }
+    },
+    {
+      "id": "1640555978",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1640555978",
+      "attributes": {
+        "albumName": "Apple Tree (Georgia Remix) - Single",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 217853,
+        "releaseDate": "2019-05-03",
+        "isrc": "GBUM71901087",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/a8/c3/99/a8c399e2-637a-76bb-7349-7596e9fbbf9d/5056167117124.jpg/{w}x{h}bb.jpg",
+          "bgColor": "070029",
+          "textColor1": "f86277",
+          "textColor2": "e9555c",
+          "textColor3": "c84e67",
+          "textColor4": "bc4452"
+        },
+        "composerName": "Magnus Skylstad, Aurora Aksnes & Odd Martin Skaalnes",
+        "url": "https://music.apple.com/us/album/the-river/1640555962?i=1640555978",
+        "playParams": {
+          "id": "1640555978",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "The River",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/79/62/87/796287bf-af7d-ac99-110a-5f160c558182/mzaf_8822008424524691608.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "AURORA"
+      }
+    },
+    {
       "id": "1649293727",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1649293727",
@@ -13,8 +97,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 198559,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -32,8 +116,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -86,90 +170,6 @@
       }
     },
     {
-      "id": "1640343360",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1640343360",
-      "attributes": {
-        "albumName": "A Different Kind Of Human (Step II)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2019-01-24",
-        "durationInMillis": 215401,
-        "isrc": "GBUM71807807",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/2d/69/cc2d69d3-61f2-1c69-159c-898bac81cc14/5056167113911.jpg/{w}x{h}bb.jpg",
-          "bgColor": "9f371c",
-          "textColor1": "f1e6ee",
-          "textColor2": "f0dfe3",
-          "textColor3": "e1c3c4",
-          "textColor4": "dfbebb"
-        },
-        "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
-        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
-        "playParams": {
-          "id": "1640343360",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Animal",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f8/4d/4e/f84d4eb5-cf99-b873-be52-db3accd5ce85/mzaf_10462744601116846985.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "AURORA"
-      }
-    },
-    {
-      "id": "1640555978",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1640555978",
-      "attributes": {
-        "albumName": "Apple Tree (Georgia Remix) - Single",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2019-05-03",
-        "durationInMillis": 217853,
-        "isrc": "GBUM71901087",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/a8/c3/99/a8c399e2-637a-76bb-7349-7596e9fbbf9d/5056167117124.jpg/{w}x{h}bb.jpg",
-          "bgColor": "070029",
-          "textColor1": "f86277",
-          "textColor2": "e9555c",
-          "textColor3": "c84e67",
-          "textColor4": "bc4452"
-        },
-        "composerName": "Magnus Skylstad, Aurora Aksnes & Odd Martin Skaalnes",
-        "url": "https://music.apple.com/us/album/the-river/1640555962?i=1640555978",
-        "playParams": {
-          "id": "1640555978",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "The River",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/79/62/87/796287bf-af7d-ac99-110a-5f160c558182/mzaf_8822008424524691608.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "AURORA"
-      }
-    },
-    {
       "id": "1649293728",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1649293728",
@@ -181,8 +181,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 224760,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200057",
         "artwork": {
           "width": 4000,
@@ -200,8 +200,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Time! Stop!",
         "previews": [
           {
@@ -223,8 +223,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 177021,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200054",
         "artwork": {
           "width": 4000,
@@ -285,8 +285,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -396,8 +396,8 @@
           "Rock"
         ],
         "trackNumber": 8,
-        "releaseDate": "2019-03-13",
         "durationInMillis": 265000,
+        "releaseDate": "2019-03-13",
         "isrc": "KRA381900671",
         "artwork": {
           "width": 3000,
@@ -415,8 +415,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "For Lovers Who Hesitate",
         "previews": [
           {
@@ -523,8 +523,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-12-28",
         "durationInMillis": 194941,
+        "releaseDate": "2017-12-28",
         "isrc": "KRE081700034",
         "artwork": {
           "width": 3000,
@@ -584,8 +584,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Don\u2032t Be Shy (feat. Cho A & Iron)",
         "previews": [
           {
@@ -607,8 +607,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-06-26",
         "durationInMillis": 180956,
+        "releaseDate": "2020-06-26",
         "isrc": "KRA402000111",
         "artwork": {
           "width": 4000,
@@ -627,8 +627,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "How You Like That",
         "previews": [
           {
@@ -670,8 +670,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -713,8 +713,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -737,8 +737,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -778,8 +778,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-19",
         "durationInMillis": 208308,
+        "releaseDate": "2021-02-19",
         "isrc": "ZZOPM2104359",
         "artwork": {
           "width": 2000,
@@ -798,8 +798,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Look Back (feat. Syd Silvair)",
         "previews": [
           {
@@ -906,8 +906,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-07-08",
         "durationInMillis": 240440,
+        "releaseDate": "2022-07-08",
         "isrc": "KRA302200097",
         "artwork": {
           "width": 4000,
@@ -993,8 +993,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-04",
         "durationInMillis": 216280,
+        "releaseDate": "2022-05-04",
         "isrc": "KRA382204921",
         "artwork": {
           "width": 3000,
@@ -1055,8 +1055,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "My pleasure Is That You Ride The Bentley",
         "previews": [
           {
@@ -1078,8 +1078,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -1140,16 +1140,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Lavender Haze",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5a/45/1c/5a451c75-aed0-4240-9754-4f65527c8335/mzaf_7980919253906856722.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Taylor Swift"
+        "artistName": "Taylor Swift",
+        "contentRating": "explicit"
       }
     },
     {
@@ -1185,8 +1185,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Talk that Talk",
         "previews": [
           {
@@ -1250,8 +1250,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-04-22",
         "durationInMillis": 213880,
+        "releaseDate": "2019-04-22",
         "isrc": "US5TA1900042",
         "artwork": {
           "width": 1400,
@@ -1270,8 +1270,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FANCY",
         "previews": [
           {
