@@ -2,6 +2,136 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "854927955",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/854927955",
+      "attributes": {
+        "albumName": "Into the New World - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance",
+          "Worldwide"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2007-08-03",
+        "durationInMillis": 265378,
+        "isrc": "KRA300802908",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/96/9b/d8/969bd840-2623-9385-81a6-2ee655e0447a/asset.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1c0516",
+          "textColor1": "f7f9f6",
+          "textColor2": "f3f3a9",
+          "textColor3": "cbc8c9",
+          "textColor4": "c8c38c"
+        },
+        "playParams": {
+          "id": "854927955",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/into-the-new-world/854926859?i=854927955",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Into the New World",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/9d/9c/979d9c60-7195-b8bd-42c4-3722014ae5af/mzaf_13650552613985728166.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Girls' Generation"
+      }
+    },
+    {
+      "id": "1435681362",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1435681362",
+      "attributes": {
+        "albumName": "Lento - Single",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 169251,
+        "releaseDate": "2018-09-19",
+        "isrc": "QM24S1834070",
+        "artwork": {
+          "width": 3648,
+          "height": 3648,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8d/e0/c8/8de0c819-36e8-971c-0376-becf3b15761f/193436022262_01_img001.jpg/{w}x{h}bb.jpg",
+          "bgColor": "251e18",
+          "textColor1": "d0c8b7",
+          "textColor2": "c4c6b0",
+          "textColor3": "aea697",
+          "textColor4": "a4a492"
+        },
+        "composerName": "Rudy Mancuso, Jamie Almos, David Julca, Jonathan Julca & Felipe Ospina",
+        "url": "https://music.apple.com/us/album/lento/1435681269?i=1435681362",
+        "playParams": {
+          "id": "1435681362",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Lento",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/09/84/4f098452-9593-5fa1-8bb9-8bd93c884f8c/mzaf_13231904296827595281.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Rudy Mancuso"
+      }
+    },
+    {
+      "id": "1541677062",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1541677062",
+      "attributes": {
+        "albumName": "While The World Was Burning",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "House"
+        ],
+        "trackNumber": 14,
+        "releaseDate": "2019-05-04",
+        "durationInMillis": 176867,
+        "isrc": "RUB421901499",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/19/9e/92199e4d-56ff-3bb9-55fe-43d51a8ffdee/190296801341.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "3bd7ce",
+          "textColor2": "fa3437",
+          "textColor3": "2faca5",
+          "textColor4": "c8292c"
+        },
+        "composerName": "Carlos St. John, Lee Stashenko, PHILLIPS CARLOS ST. JOHN & STANSHENKO LEE",
+        "playParams": {
+          "id": "1541677062",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/roses-imanbek-remix/1541676865?i=1541677062",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Roses (Imanbek Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bf/4a/22/bf4a22a1-fd98-2ef1-99f6-b24f73d1fb0f/mzaf_14098595526798150778.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "SAINt JHN"
+      }
+    },
+    {
       "id": "1555401611",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1555401611",
@@ -33,8 +163,8 @@
         },
         "url": "https://music.apple.com/us/album/what-is-love/1555401452?i=1555401611",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "What is Love?",
         "previews": [
           {
@@ -57,8 +187,8 @@
           "Dance"
         ],
         "trackNumber": 3,
-        "releaseDate": "2019-05-20",
         "durationInMillis": 216937,
+        "releaseDate": "2019-05-20",
         "isrc": "KRA381901987",
         "artwork": {
           "width": 3000,
@@ -70,11 +200,11 @@
           "textColor3": "283133",
           "textColor4": "283133"
         },
+        "url": "https://music.apple.com/us/album/close-to-you/1464498534?i=1464498777",
         "playParams": {
           "id": "1464498777",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/close-to-you/1464498534?i=1464498777",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -99,8 +229,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2018-06-15",
         "durationInMillis": 197790,
+        "releaseDate": "2018-06-15",
         "isrc": "KRA401800098",
         "artwork": {
           "width": 4000,
@@ -113,11 +243,11 @@
           "textColor4": "473438"
         },
         "composerName": "Teddy, Danny Chung & Robin L. Cho",
+        "url": "https://music.apple.com/us/album/really/1551479990?i=1551480155",
         "playParams": {
           "id": "1551480155",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/really/1551479990?i=1551480155",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -142,8 +272,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2018-10-29",
         "durationInMillis": 250579,
+        "releaseDate": "2018-10-29",
         "isrc": "KRA871800022",
         "artwork": {
           "width": 3000,
@@ -156,11 +286,11 @@
           "textColor4": "55212d"
         },
         "composerName": "Hirotaka Hayakawa & Belex",
+        "url": "https://music.apple.com/us/album/suki-ni-nacchaudarou-iz-one-version/1533391521?i=1533391528",
         "playParams": {
           "id": "1533391528",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/suki-ni-nacchaudarou-iz-one-version/1533391521?i=1533391528",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -199,14 +329,14 @@
           "textColor3": "33c3ae",
           "textColor4": "ce8db6"
         },
-        "url": "https://music.apple.com/us/album/somewhere-feat-%EC%88%98%EB%9E%80-ph-1/1262990203?i=1262990211",
         "playParams": {
           "id": "1262990211",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/somewhere-feat-%EC%88%98%EB%9E%80-ph-1/1262990203?i=1262990211",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Somewhere (feat. \uc218\ub780 & pH-1)",
         "previews": [
           {
@@ -227,8 +357,8 @@
           "Music"
         ],
         "trackNumber": 19,
-        "releaseDate": "2016-09-05",
         "durationInMillis": 210907,
+        "releaseDate": "2016-09-05",
         "isrc": "USRC11601818",
         "artwork": {
           "width": 1500,
@@ -241,11 +371,11 @@
           "textColor4": "32302c"
         },
         "composerName": "Sia, Greg Kurstin & Blair Mackichan",
+        "url": "https://music.apple.com/us/album/the-greatest/1162482526?i=1162482667",
         "playParams": {
           "id": "1162482667",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-greatest/1162482526?i=1162482667",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -283,14 +413,14 @@
           "textColor4": "b3b5b4"
         },
         "composerName": "Les Gordon",
-        "url": "https://music.apple.com/us/album/flirting-with-june/1386394845?i=1386394958",
         "playParams": {
           "id": "1386394958",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flirting-with-june/1386394845?i=1386394958",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Flirting With June",
         "previews": [
           {
@@ -331,8 +461,8 @@
         },
         "url": "https://music.apple.com/us/album/not-the-one/1582461676?i=1582461679",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not The One",
         "previews": [
           {
@@ -368,14 +498,14 @@
           "textColor4": "763042"
         },
         "composerName": "MosPick, \ubbf8\uc57c\uc640\ud0a4 \uc0ac\ucfe0\ub77c & \uc57c\ubd80\ud0a4 \ub098\ucf54",
-        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "playParams": {
           "id": "1569282900",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Secret Story of the Swan (Japanese Version)",
         "previews": [
           {
@@ -396,8 +526,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2021-04-01",
         "durationInMillis": 215508,
+        "releaseDate": "2021-04-01",
         "isrc": "USUG12101240",
         "artwork": {
           "width": 3000,
@@ -410,11 +540,11 @@
           "textColor4": "decedf"
         },
         "composerName": "Olivia Rodrigo, Daniel Nigro, Taylor Swift, Jack Antonoff & Annie Clark",
+        "url": "https://music.apple.com/us/album/deja-vu/1560735414?i=1560735548",
         "playParams": {
           "id": "1560735548",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/deja-vu/1560735414?i=1560735548",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -424,8 +554,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/45/0d/c6/450dc66a-d6f5-5bdd-19d7-3ba3c0a6f9fb/mzaf_8198542298496411575.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Olivia Rodrigo"
+        "artistName": "Olivia Rodrigo",
+        "contentRating": "explicit"
       }
     },
     {
@@ -439,8 +569,8 @@
           "Music"
         ],
         "trackNumber": 14,
-        "releaseDate": "2016-01-29",
         "durationInMillis": 210227,
+        "releaseDate": "2016-01-29",
         "isrc": "USRC11601332",
         "artwork": {
           "width": 1500,
@@ -453,11 +583,11 @@
           "textColor4": "32302c"
         },
         "composerName": "Kendrick Lamar, Sia, Greg Kurstin & Blair Mackichan",
+        "url": "https://music.apple.com/us/album/the-greatest-feat-kendrick-lamar/1162482526?i=1162482639",
         "playParams": {
           "id": "1162482639",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-greatest-feat-kendrick-lamar/1162482526?i=1162482639",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -495,14 +625,14 @@
           "textColor3": "373737",
           "textColor4": "484848"
         },
-        "url": "https://music.apple.com/us/album/rain/1080295545?i=1080296146",
         "playParams": {
           "id": "1080296146",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rain/1080295545?i=1080296146",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rain",
         "previews": [
           {
@@ -537,14 +667,14 @@
           "textColor4": "515811"
         },
         "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "playParams": {
           "id": "1031416180",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Dangerously",
         "previews": [
           {
@@ -566,8 +696,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 177947,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230224",
         "artwork": {
           "width": 1400,
@@ -609,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-12-01",
         "durationInMillis": 178453,
+        "releaseDate": "2021-12-01",
         "isrc": "KRA382163861",
         "artwork": {
           "width": 3000,
@@ -622,11 +752,11 @@
           "textColor3": "f0bfd5",
           "textColor4": "f0aea2"
         },
+        "url": "https://music.apple.com/us/album/eleven/1597404250?i=1597404252",
         "playParams": {
           "id": "1597404252",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eleven/1597404250?i=1597404252",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -665,14 +795,14 @@
           "textColor3": "272726",
           "textColor4": "3b3a39"
         },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "playParams": {
           "id": "1619757892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Beyond Love (feat. 10cm)",
         "previews": [
           {
@@ -714,8 +844,8 @@
         },
         "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Gradation",
         "previews": [
           {
@@ -738,8 +868,8 @@
           "Rock"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-07-15",
         "durationInMillis": 205576,
+        "releaseDate": "2019-07-15",
         "isrc": "US5TA1900062",
         "artwork": {
           "width": 3000,
@@ -800,8 +930,8 @@
         },
         "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No Celestial",
         "previews": [
           {
@@ -824,8 +954,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -837,11 +967,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -865,8 +995,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-12",
         "durationInMillis": 193495,
+        "releaseDate": "2022-10-12",
         "isrc": "JPU902203702",
         "artwork": {
           "width": 3000,
@@ -879,11 +1009,11 @@
           "textColor4": "afc890"
         },
         "composerName": "Kenshi Yonezu",
+        "url": "https://music.apple.com/us/album/kick-back/1648272179?i=1648272180",
         "playParams": {
           "id": "1648272180",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/kick-back/1648272179?i=1648272180",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -922,14 +1052,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TOMBOY",
         "previews": [
           {
@@ -971,8 +1101,8 @@
         },
         "url": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "CASE 143",
         "previews": [
           {
@@ -993,8 +1123,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "releaseDate": "2022-05-27",
         "durationInMillis": 148486,
+        "releaseDate": "2022-05-27",
         "isrc": "USUM72206227",
         "artwork": {
           "width": 3000,
@@ -1037,8 +1167,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-25",
         "durationInMillis": 195507,
+        "releaseDate": "2022-09-25",
         "isrc": "KRA382207591",
         "artwork": {
           "width": 3000,
@@ -1050,11 +1180,11 @@
           "textColor3": "c8c7cc",
           "textColor4": "b6bcc7"
         },
+        "url": "https://music.apple.com/us/album/just-10-centimeters/1646603847?i=1646603848",
         "playParams": {
           "id": "1646603848",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/just-10-centimeters/1646603847?i=1646603848",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1093,14 +1223,14 @@
           "textColor4": "541920"
         },
         "composerName": "Armadillo, Ranga, Frankie Day (THE HUB), Charlotte Wilson (THE HUB), THE HUB 88 & Jonkind",
-        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "playParams": {
           "id": "1642630327",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DICE",
         "previews": [
           {
@@ -1135,14 +1265,14 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -1150,136 +1280,6 @@
           }
         ],
         "artistName": "Charlie Puth"
-      }
-    },
-    {
-      "id": "1621089608",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1621089608",
-      "attributes": {
-        "albumName": "FEARLESS - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-05-02",
-        "durationInMillis": 168437,
-        "isrc": "USA2P2219222",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/90/dc/9f/90dc9fdb-c0f3-f506-0942-0e33c94d26f4/196922016622_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "dedede",
-          "textColor3": "cbcbcb",
-          "textColor4": "b1b1b1"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "playParams": {
-          "id": "1621089608",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "FEARLESS",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6c/48/dc/6c48dc81-2c94-4736-99c9-b6124a2c489a/mzaf_1495979440763322400.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1646621063",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1646621063",
-      "attributes": {
-        "albumName": "FIVE SENSES",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Hip-Hop/Rap",
-          "Korean Hip-Hop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-09-29",
-        "durationInMillis": 195080,
-        "isrc": "KRA382207561",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/95/10/ea/9510ea47-36ba-f0e1-5a52-f2443f738342/cover_KM0016150_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "6e6150",
-          "textColor1": "fceed0",
-          "textColor2": "fcecce",
-          "textColor3": "dfd1b7",
-          "textColor4": "e0d0b5"
-        },
-        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
-        "playParams": {
-          "id": "1646621063",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Complex (feat. ZICO)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/31/19/47/31194738-f627-d1b7-e92b-c7aaea78f567/mzaf_1958269871205971443.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BE'O"
-      }
-    },
-    {
-      "id": "1644440670",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1644440670",
-      "attributes": {
-        "albumName": "BORN PINK",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-19",
-        "durationInMillis": 186964,
-        "isrc": "KRA402200017",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e8e8e8",
-          "textColor1": "0f0609",
-          "textColor2": "2d2d2d",
-          "textColor3": "3a3335",
-          "textColor4": "535353"
-        },
-        "composerName": "Teddy, 24, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
-        "playParams": {
-          "id": "1644440670",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Pink Venom",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/76/f8/ca/76f8ca68-ff8d-5c41-12aa-41772c23f7d8/mzaf_2322786095877386594.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BLACKPINK"
       }
     }
   ]
