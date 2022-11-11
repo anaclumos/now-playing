@@ -2,6 +2,120 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1611504819",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1611504819",
+      "attributes": {
+        "albumName": "I NEVER DIE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
+        "isrc": "KRA392100081",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/9c/fe/5e/9cfe5eec-89b5-240f-5229-59244360e89d/8804775250422_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "fc2860",
+          "textColor2": "fa0b4e",
+          "textColor3": "c9204d",
+          "textColor4": "c8093f"
+        },
+        "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
+        "playParams": {
+          "id": "1611504819",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Never Stop Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6e/e7/51/6ee75107-541b-b088-9fa2-6bd685027dab/mzaf_4257761033281358972.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1322938679",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1322938679",
+      "attributes": {
+        "albumName": "Christmas Day - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "R&B/Soul"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 239637,
+        "releaseDate": "2017-12-08",
+        "isrc": "KRA381702785",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/2a/4d/ae/2a4dae98-cc58-f57b-544c-e003a5f707d6/cover-_2017.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a8000b",
+          "textColor1": "fefffd",
+          "textColor2": "fcdbde",
+          "textColor3": "eccbcc",
+          "textColor4": "ebafb4"
+        },
+        "url": "https://music.apple.com/us/album/christmas-day/1322938661?i=1322938679",
+        "playParams": {
+          "id": "1322938679",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Christmas Day",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/81/f5/4f/81f54f71-b20c-1798-ace9-3409666d337c/mzaf_7881051169431150995.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "K.Will, SoYou, BOYFRIEND, MONSTA X, WJSN, Mad Clown, Junggigo, #GUN, Yu Seung Woo, BrotherSu, MIND U, Duetto, JEONG SEWOON & LEE KWANGHYUN"
+      }
+    },
+    {
+      "id": "i.eoD8JW8hkaYRBvJ",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.eoD8JW8hkaYRBvJ",
+      "attributes": {
+        "albumName": "NELL X GROOVYROOM",
+        "discNumber": 1,
+        "genreNames": [
+          "Rock"
+        ],
+        "hasLyrics": false,
+        "trackNumber": 1,
+        "durationInMillis": 255608,
+        "name": "\uc624\ub298\uc740",
+        "artistName": "GroovyRoom",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/be/61/c0/be61c042-9fc7-cefb-d862-d54dd168d09b/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221111T083227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221111%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=de691746959c30458ff31d41ea94c1f6b1f112a3f1bf6e703e725b501f07f89c"
+        },
+        "playParams": {
+          "id": "i.eoD8JW8hkaYRBvJ",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1267423231",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1267423231",
@@ -12,8 +126,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2015-10-16",
         "durationInMillis": 190554,
+        "releaseDate": "2015-10-16",
         "isrc": "FR89R1500005",
         "artwork": {
           "width": 1500,
@@ -74,8 +188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
         "previews": [
           {
@@ -96,8 +210,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-01-27",
         "durationInMillis": 169128,
+        "releaseDate": "2021-01-27",
         "isrc": "USAT22100185",
         "artwork": {
           "width": 1425,
@@ -139,8 +253,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-07-13",
         "durationInMillis": 207252,
+        "releaseDate": "2020-07-13",
         "isrc": "KRA382002434",
         "artwork": {
           "width": 3000,
@@ -201,8 +315,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Obliviate",
         "previews": [
           {
@@ -225,8 +339,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-10-04",
         "durationInMillis": 191587,
+        "releaseDate": "2018-10-04",
         "isrc": "KRA381801387",
         "artwork": {
           "width": 4000,
@@ -287,8 +401,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love O'clock",
         "previews": [
           {
@@ -310,8 +424,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2018-01-09",
         "durationInMillis": 184731,
+        "releaseDate": "2018-01-09",
         "isrc": "KRA381703007",
         "artwork": {
           "width": 3000,
@@ -352,8 +466,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2015-06-05",
         "durationInMillis": 233376,
+        "releaseDate": "2015-06-05",
         "isrc": "KRA381210877",
         "artwork": {
           "width": 1400,
@@ -396,8 +510,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 1,
-        "releaseDate": "2013-09-10",
         "durationInMillis": 249497,
+        "releaseDate": "2013-09-10",
         "isrc": "KRA381205041",
         "artwork": {
           "width": 1417,
@@ -439,8 +553,8 @@
           "K-Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2017-04-24",
         "durationInMillis": 241692,
+        "releaseDate": "2017-04-24",
         "isrc": "KRC081700004",
         "artwork": {
           "width": 3000,
@@ -483,8 +597,8 @@
           "Worldwide"
         ],
         "trackNumber": 1,
-        "releaseDate": "2007-08-03",
         "durationInMillis": 265378,
+        "releaseDate": "2007-08-03",
         "isrc": "KRA300802908",
         "artwork": {
           "width": 1400,
@@ -595,8 +709,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bf/4a/22/bf4a22a1-fd98-2ef1-99f6-b24f73d1fb0f/mzaf_14098595526798150778.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "SAINt JHN"
+        "artistName": "SAINt JHN",
+        "contentRating": "explicit"
       }
     },
     {
@@ -674,8 +788,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Close to You",
         "previews": [
           {
@@ -717,8 +831,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Really",
         "previews": [
           {
@@ -760,8 +874,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Suki Ni Nacchaudarou? (IZ*ONE Version)",
         "previews": [
           {
@@ -784,8 +898,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 3,
-        "releaseDate": "2017-07-24",
         "durationInMillis": 209141,
+        "releaseDate": "2017-07-24",
         "isrc": "KRA381701667",
         "artwork": {
           "width": 2362,
@@ -803,8 +917,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Somewhere (feat. \uc218\ub780 & pH-1)",
         "previews": [
           {
@@ -845,8 +959,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Greatest",
         "previews": [
           {
@@ -867,8 +981,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2018-06-29",
         "durationInMillis": 166733,
+        "releaseDate": "2018-06-29",
         "isrc": "FRZ051800280",
         "artwork": {
           "width": 3000,
@@ -929,8 +1043,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not The One",
         "previews": [
           {
@@ -1014,16 +1128,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "deja vu",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/45/0d/c6/450dc66a-d6f5-5bdd-19d7-3ba3c0a6f9fb/mzaf_8198542298496411575.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Olivia Rodrigo"
+        "artistName": "Olivia Rodrigo",
+        "contentRating": "explicit"
       }
     },
     {
@@ -1080,8 +1194,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-02-03",
         "durationInMillis": 222047,
+        "releaseDate": "2016-02-03",
         "isrc": "KRA301500733",
         "artwork": {
           "width": 5000,
@@ -1099,8 +1213,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rain",
         "previews": [
           {
@@ -1121,8 +1235,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-01-29",
         "durationInMillis": 199146,
+        "releaseDate": "2016-01-29",
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -1150,134 +1264,6 @@
           }
         ],
         "artistName": "Charlie Puth"
-      }
-    },
-    {
-      "id": "1635470002",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635470002",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 177947,
-        "isrc": "USA2P2230224",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Amanda Lundstedt, 250 & Gigi",
-        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
-        "playParams": {
-          "id": "1635470002",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Hurt",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/38/a3/cf38a361-d2e1-a5e7-b948-b924673953a4/mzaf_124166364879994793.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1597404252",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1597404252",
-      "attributes": {
-        "albumName": "ELEVEN - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-12-01",
-        "durationInMillis": 178453,
-        "isrc": "KRA382163861",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/63/4a/d3634a37-8dd2-8fc6-d138-895b3d237611/IVE_OnlineCover_fix.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b70b57",
-          "textColor1": "ffecf5",
-          "textColor2": "ffd7b6",
-          "textColor3": "f0bfd5",
-          "textColor4": "f0aea2"
-        },
-        "url": "https://music.apple.com/us/album/eleven/1597404250?i=1597404252",
-        "playParams": {
-          "id": "1597404252",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "ELEVEN",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6b/c2/94/6bc2946d-d25c-d3c9-6288-f37b3902d93d/mzaf_16667388664843464458.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1619757892",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1619757892",
-      "attributes": {
-        "albumName": "Beyond Love (feat. 10cm) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "R&B/Soul"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-04-20",
-        "durationInMillis": 188707,
-        "isrc": "KRA382204596",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/58/af/da/58afdace-2164-0453-07ac-c51d3d235d26/cover_KM0015085_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "bfbcb7",
-          "textColor1": "010101",
-          "textColor2": "1a1a1a",
-          "textColor3": "272726",
-          "textColor4": "3b3a39"
-        },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
-        "playParams": {
-          "id": "1619757892",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Beyond Love (feat. 10cm)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ff/c7/c1/ffc7c109-2f7a-d879-81e4-0bee0d503bb9/mzaf_8361359506493914122.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BIG Naughty"
       }
     }
   ]
