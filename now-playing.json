@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1640343360",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1640343360",
+      "attributes": {
+        "albumName": "A Different Kind Of Human (Step II)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2019-01-24",
+        "durationInMillis": 215401,
+        "isrc": "GBUM71807807",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/2d/69/cc2d69d3-61f2-1c69-159c-898bac81cc14/5056167113911.jpg/{w}x{h}bb.jpg",
+          "bgColor": "9f371c",
+          "textColor1": "f1e6ee",
+          "textColor2": "f0dfe3",
+          "textColor3": "e1c3c4",
+          "textColor4": "dfbebb"
+        },
+        "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
+        "playParams": {
+          "id": "1640343360",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Animal",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f8/4d/4e/f84d4eb5-cf99-b873-be52-db3accd5ce85/mzaf_10462744601116846985.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "AURORA"
+      }
+    },
+    {
+      "id": "1640555978",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1640555978",
+      "attributes": {
+        "albumName": "Apple Tree (Georgia Remix) - Single",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2019-05-03",
+        "durationInMillis": 217853,
+        "isrc": "GBUM71901087",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/a8/c3/99/a8c399e2-637a-76bb-7349-7596e9fbbf9d/5056167117124.jpg/{w}x{h}bb.jpg",
+          "bgColor": "070029",
+          "textColor1": "f86277",
+          "textColor2": "e9555c",
+          "textColor3": "c84e67",
+          "textColor4": "bc4452"
+        },
+        "composerName": "Magnus Skylstad, Aurora Aksnes & Odd Martin Skaalnes",
+        "playParams": {
+          "id": "1640555978",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/the-river/1640555962?i=1640555978",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "The River",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/79/62/87/796287bf-af7d-ac99-110a-5f160c558182/mzaf_8822008424524691608.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "AURORA"
+      }
+    },
+    {
       "id": "1611504819",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1611504819",
@@ -27,14 +111,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -70,11 +154,11 @@
           "textColor3": "eccbcc",
           "textColor4": "ebafb4"
         },
-        "url": "https://music.apple.com/us/album/christmas-day/1322938661?i=1322938679",
         "playParams": {
           "id": "1322938679",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/christmas-day/1322938661?i=1322938679",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -97,15 +181,15 @@
         "genreNames": [
           "Rock"
         ],
-        "trackNumber": 1,
         "hasLyrics": false,
+        "trackNumber": 1,
         "durationInMillis": 255608,
         "name": "\uc624\ub298\uc740",
         "artistName": "GroovyRoom",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/be/61/c0/be61c042-9fc7-cefb-d862-d54dd168d09b/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221111T100745Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221111%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=b4f1d60ab30cc470c5d37de9cf9cfed6c8c52d0ec437090c8e9af3b9edf393a1"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/be/61/c0/be61c042-9fc7-cefb-d862-d54dd168d09b/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221111T102132Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20221111%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=e76aa6b9fb3b876ddfe0a6d87e2c002616586f10e0522d3fcd138e2602ff842d"
         },
         "playParams": {
           "id": "i.eoD8JW8hkaYRBvJ",
@@ -140,11 +224,11 @@
           "textColor4": "a7abc7"
         },
         "composerName": "Arnaud de Bosredon Combrailles, Charles Delaporte, Hugues Payen de la Garanderie, Antoine Toustou, Aur\u00e9lien Amzallag & Sonia Fernandez Velasco",
-        "url": "https://music.apple.com/us/album/wonderland/1267421240?i=1267423231",
         "playParams": {
           "id": "1267423231",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/wonderland/1267421240?i=1267423231",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -182,14 +266,14 @@
           "textColor4": "b69880"
         },
         "composerName": "Taylor Swift, Max Martin & Shellback",
-        "url": "https://music.apple.com/us/album/message-in-a-bottle-taylors-version-from-the-vault/1590368275?i=1590368919",
         "playParams": {
           "id": "1590368919",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/message-in-a-bottle-taylors-version-from-the-vault/1590368275?i=1590368919",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
         "previews": [
           {
@@ -224,14 +308,14 @@
           "textColor4": "4b4346"
         },
         "composerName": "David Bowden, John Hill & Kehlani",
-        "url": "https://music.apple.com/us/album/at-my-worst-feat-kehlani/1550409669?i=1550409671",
         "playParams": {
           "id": "1550409671",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/at-my-worst-feat-kehlani/1550409669?i=1550409671",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "At My Worst (feat. Kehlani)",
         "previews": [
           {
@@ -266,14 +350,14 @@
           "textColor3": "2a2a2c",
           "textColor4": "385664"
         },
-        "url": "https://music.apple.com/us/album/apple/1522664709?i=1522664710",
         "playParams": {
           "id": "1522664710",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/apple/1522664709?i=1522664710",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Apple",
         "previews": [
           {
@@ -395,11 +479,11 @@
           "textColor4": "c69880"
         },
         "composerName": "Andreas \u00d6berg & Maria Marcus",
-        "url": "https://music.apple.com/us/album/love-oclock/1478601914?i=1478601919",
         "playParams": {
           "id": "1478601919",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-oclock/1478601914?i=1478601919",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -438,11 +522,11 @@
           "textColor4": "c69880"
         },
         "composerName": "Andreas \u00d6berg, Skylar Mones & Tiaan Williams",
-        "url": "https://music.apple.com/us/album/magic/1478601914?i=1478602226",
         "playParams": {
           "id": "1478602226",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/magic/1478601914?i=1478602226",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -523,14 +607,14 @@
           "textColor3": "3f3f3f",
           "textColor4": "575757"
         },
-        "url": "https://music.apple.com/us/album/stupid-in-love/703256749?i=703256756",
         "playParams": {
           "id": "703256756",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/stupid-in-love/703256749?i=703256756",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Stupid in Love",
         "previews": [
           {
@@ -566,11 +650,11 @@
           "textColor3": "cbc6c1",
           "textColor4": "c0bfad"
         },
-        "url": "https://music.apple.com/us/album/tomboy/1450778313?i=1450778317",
         "playParams": {
           "id": "1450778317",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1450778313?i=1450778317",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -610,14 +694,14 @@
           "textColor3": "cbc8c9",
           "textColor4": "c8c38c"
         },
-        "url": "https://music.apple.com/us/album/into-the-new-world/854926859?i=854927955",
         "playParams": {
           "id": "854927955",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/into-the-new-world/854926859?i=854927955",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Into the New World",
         "previews": [
           {
@@ -695,22 +779,22 @@
           "textColor4": "c8292c"
         },
         "composerName": "Carlos St. John, Lee Stashenko, PHILLIPS CARLOS ST. JOHN & STANSHENKO LEE",
-        "url": "https://music.apple.com/us/album/roses-imanbek-remix/1541676865?i=1541677062",
         "playParams": {
           "id": "1541677062",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/roses-imanbek-remix/1541676865?i=1541677062",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Roses (Imanbek Remix)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bf/4a/22/bf4a22a1-fd98-2ef1-99f6-b24f73d1fb0f/mzaf_14098595526798150778.plus.aac.p.m4a"
           }
         ],
-        "artistName": "SAINt JHN",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "SAINt JHN"
       }
     },
     {
@@ -782,11 +866,11 @@
           "textColor3": "283133",
           "textColor4": "283133"
         },
-        "url": "https://music.apple.com/us/album/close-to-you/1464498534?i=1464498777",
         "playParams": {
           "id": "1464498777",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/close-to-you/1464498534?i=1464498777",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -868,11 +952,11 @@
           "textColor4": "55212d"
         },
         "composerName": "Hirotaka Hayakawa & Belex",
-        "url": "https://music.apple.com/us/album/suki-ni-nacchaudarou-iz-one-version/1533391521?i=1533391528",
         "playParams": {
           "id": "1533391528",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/suki-ni-nacchaudarou-iz-one-version/1533391521?i=1533391528",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -911,14 +995,14 @@
           "textColor3": "33c3ae",
           "textColor4": "ce8db6"
         },
-        "url": "https://music.apple.com/us/album/somewhere-feat-%EC%88%98%EB%9E%80-ph-1/1262990203?i=1262990211",
         "playParams": {
           "id": "1262990211",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/somewhere-feat-%EC%88%98%EB%9E%80-ph-1/1262990203?i=1262990211",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Somewhere (feat. \uc218\ub780 & pH-1)",
         "previews": [
           {
@@ -953,14 +1037,14 @@
           "textColor4": "32302c"
         },
         "composerName": "Sia, Greg Kurstin & Blair Mackichan",
-        "url": "https://music.apple.com/us/album/the-greatest/1162482526?i=1162482667",
         "playParams": {
           "id": "1162482667",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-greatest/1162482526?i=1162482667",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Greatest",
         "previews": [
           {
@@ -995,11 +1079,11 @@
           "textColor4": "b3b5b4"
         },
         "composerName": "Les Gordon",
-        "url": "https://music.apple.com/us/album/flirting-with-june/1386394845?i=1386394958",
         "playParams": {
           "id": "1386394958",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flirting-with-june/1386394845?i=1386394958",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1080,11 +1164,11 @@
           "textColor4": "763042"
         },
         "composerName": "MosPick, \ubbf8\uc57c\uc640\ud0a4 \uc0ac\ucfe0\ub77c & \uc57c\ubd80\ud0a4 \ub098\ucf54",
-        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "playParams": {
           "id": "1569282900",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1122,22 +1206,22 @@
           "textColor4": "decedf"
         },
         "composerName": "Olivia Rodrigo, Daniel Nigro, Taylor Swift, Jack Antonoff & Annie Clark",
-        "url": "https://music.apple.com/us/album/deja-vu/1560735414?i=1560735548",
         "playParams": {
           "id": "1560735548",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/deja-vu/1560735414?i=1560735548",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "deja vu",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/45/0d/c6/450dc66a-d6f5-5bdd-19d7-3ba3c0a6f9fb/mzaf_8198542298496411575.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Olivia Rodrigo",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Olivia Rodrigo"
       }
     },
     {
@@ -1165,11 +1249,11 @@
           "textColor4": "32302c"
         },
         "composerName": "Kendrick Lamar, Sia, Greg Kurstin & Blair Mackichan",
-        "url": "https://music.apple.com/us/album/the-greatest-feat-kendrick-lamar/1162482526?i=1162482639",
         "playParams": {
           "id": "1162482639",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-greatest-feat-kendrick-lamar/1162482526?i=1162482639",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1180,90 +1264,6 @@
           }
         ],
         "artistName": "Sia"
-      }
-    },
-    {
-      "id": "1080296146",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1080296146",
-      "attributes": {
-        "albumName": "TAEYEON 'Rain' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2016-02-03",
-        "durationInMillis": 222047,
-        "isrc": "KRA301500733",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/b7/19/25/b7192532-3aaf-135a-50be-154718cafadc/dj.axrvzqrv.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "050505",
-          "textColor2": "1b1b1b",
-          "textColor3": "373737",
-          "textColor4": "484848"
-        },
-        "url": "https://music.apple.com/us/album/rain/1080295545?i=1080296146",
-        "playParams": {
-          "id": "1080296146",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Rain",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/6e/96/586e9676-0a86-9374-44d2-6e290ce589c4/mzaf_8657459177787297495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TAEYEON"
-      }
-    },
-    {
-      "id": "1031416180",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1031416180",
-      "attributes": {
-        "albumName": "Nine Track Mind",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2016-01-29",
-        "durationInMillis": 199146,
-        "isrc": "USAT21502916",
-        "artwork": {
-          "width": 1425,
-          "height": 1425,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f6e514",
-          "textColor1": "0a0200",
-          "textColor2": "283510",
-          "textColor3": "392f04",
-          "textColor4": "515811"
-        },
-        "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
-        "playParams": {
-          "id": "1031416180",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Dangerously",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5d/fe/bd/5dfebd59-b059-5bdb-caa0-03708fa6d29b/mzaf_4426948284131638540.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Charlie Puth"
       }
     }
   ]
