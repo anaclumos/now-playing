@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1635469854",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469854",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 235562,
+        "isrc": "USA2P2230223",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
+        "playParams": {
+          "id": "1635469854",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Cookie",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/71/fe/0171feef-a9e6-8fcd-a42a-2a75d6b35416/mzaf_4783706318511182821.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1650841515",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1650841515",
+      "attributes": {
+        "albumName": "Midnights (3am Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-21",
+        "durationInMillis": 200690,
+        "isrc": "USUG12205736",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eae7e2",
+          "textColor1": "120b14",
+          "textColor2": "412423",
+          "textColor3": "3d373d",
+          "textColor4": "634b49"
+        },
+        "composerName": "Taylor Swift & Jack Antonoff",
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
+        "playParams": {
+          "id": "1650841515",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Anti-Hero",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Taylor Swift"
+      }
+    },
+    {
+      "id": "1512931470",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1512931470",
+      "attributes": {
+        "albumName": "Amor - Single",
+        "genreNames": [
+          "Folk",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-10-11",
+        "durationInMillis": 188942,
+        "isrc": "KRMIM1809449",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a4/ae/f3/a4aef345-7ec9-8c09-a462-7389200876f9/BaekA_Amor_3000.jpg/{w}x{h}bb.jpg",
+          "bgColor": "425b46",
+          "textColor1": "e4ff70",
+          "textColor2": "6fbdff",
+          "textColor3": "c3de67",
+          "textColor4": "66a9da"
+        },
+        "playParams": {
+          "id": "1512931470",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Amor",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5c/31/a1/5c31a1c8-5f8d-b870-297f-778a97540ae7/mzaf_3298854292620078949.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Baek A"
+      }
+    },
+    {
       "id": "1644440674",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1644440674",
@@ -70,11 +198,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -113,11 +241,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -156,11 +284,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -242,11 +370,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -272,8 +400,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -285,14 +413,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -327,11 +455,11 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -355,8 +483,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 215401,
         "releaseDate": "2019-01-24",
+        "durationInMillis": 215401,
         "isrc": "GBUM71807807",
         "artwork": {
           "width": 3000,
@@ -375,8 +503,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Animal",
         "previews": [
           {
@@ -397,8 +525,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 217853,
         "releaseDate": "2019-05-03",
+        "durationInMillis": 217853,
         "isrc": "GBUM71901087",
         "artwork": {
           "width": 3000,
@@ -417,8 +545,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The River",
         "previews": [
           {
@@ -495,11 +623,11 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
-        "url": "https://music.apple.com/us/album/time-stop/1649293510?i=1649293728",
         "playParams": {
           "id": "1649293728",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/time-stop/1649293510?i=1649293728",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -580,11 +708,11 @@
           "textColor4": "bea4ac"
         },
         "composerName": "kz, B.O., F.A.B., Nthonius, \uc81c\uc778\uc2a4 & \uc9c0\uc608\uc900",
-        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "playParams": {
           "id": "1569286889",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -611,8 +739,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 241920,
         "releaseDate": "2019-10-25",
+        "durationInMillis": 241920,
         "isrc": "KRA301900513",
         "artwork": {
           "width": 3000,
@@ -624,14 +752,14 @@
           "textColor3": "323232",
           "textColor4": "3e3e3e"
         },
-        "url": "https://music.apple.com/us/album/fame-feat-song-ga-in-chancellor/1588085586?i=1588085591",
         "playParams": {
           "id": "1588085591",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fame-feat-song-ga-in-chancellor/1588085586?i=1588085591",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FAME (feat. Song Ga In & Chancellor)",
         "previews": [
           {
@@ -653,8 +781,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 2,
-        "durationInMillis": 193746,
         "releaseDate": "2018-03-31",
+        "durationInMillis": 193746,
         "isrc": "KRA491800263",
         "artwork": {
           "width": 1400,
@@ -667,14 +795,14 @@
           "textColor4": "cec766"
         },
         "composerName": "Hangzoo, Boi B, RAUDI & CHIN CHILLA",
-        "url": "https://music.apple.com/us/album/young-wave-feat-hangzoo-boi-b/1615701090?i=1615701431",
         "playParams": {
           "id": "1615701431",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/young-wave-feat-hangzoo-boi-b/1615701090?i=1615701431",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Young Wave (feat. Hangzoo & Boi B)",
         "previews": [
           {
@@ -697,8 +825,8 @@
           "Rock"
         ],
         "trackNumber": 8,
-        "durationInMillis": 265000,
         "releaseDate": "2019-03-13",
+        "durationInMillis": 265000,
         "isrc": "KRA381900671",
         "artwork": {
           "width": 3000,
@@ -710,14 +838,14 @@
           "textColor3": "342910",
           "textColor4": "3a4424"
         },
-        "url": "https://music.apple.com/us/album/for-lovers-who-hesitate/1456102975?i=1456103133",
         "playParams": {
           "id": "1456103133",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/for-lovers-who-hesitate/1456102975?i=1456103133",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "For Lovers Who Hesitate",
         "previews": [
           {
@@ -824,8 +952,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 194941,
         "releaseDate": "2017-12-28",
+        "durationInMillis": 194941,
         "isrc": "KRE081700034",
         "artwork": {
           "width": 3000,
@@ -843,8 +971,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heart Attack (Chuu)",
         "previews": [
           {
@@ -879,11 +1007,11 @@
           "textColor4": "332a20"
         },
         "composerName": "Primary & SURAN",
-        "url": "https://music.apple.com/us/album/don-t-be-shy-feat-cho-a-iron/1610509023?i=1610509195",
         "playParams": {
           "id": "1610509195",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/don-t-be-shy-feat-cho-a-iron/1610509023?i=1610509195",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -908,8 +1036,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180956,
         "releaseDate": "2020-06-26",
+        "durationInMillis": 180956,
         "isrc": "KRA402000111",
         "artwork": {
           "width": 4000,
@@ -928,8 +1056,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "How You Like That",
         "previews": [
           {
@@ -951,8 +1079,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -965,14 +1093,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -993,8 +1121,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 208308,
         "releaseDate": "2021-02-19",
+        "durationInMillis": 208308,
         "isrc": "ZZOPM2104359",
         "artwork": {
           "width": 2000,
@@ -1013,8 +1141,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Look Back (feat. Syd Silvair)",
         "previews": [
           {
@@ -1092,11 +1220,11 @@
           "textColor4": "d59277"
         },
         "composerName": "Didrik Thott, Hayley Aitken, Sebastian Thott, Sara Davis, Ellie Suh(153/Joombas) & LEEJOOHEE(MUMW)",
-        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
         "playParams": {
           "id": "1648963030",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/boys-like-you/1648963019?i=1648963030",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1121,8 +1249,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 240440,
         "releaseDate": "2022-07-08",
+        "durationInMillis": 240440,
         "isrc": "KRA302200097",
         "artwork": {
           "width": 4000,
@@ -1135,14 +1263,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "Dennis DeKo Kordnejad, Hanif Hitmanic Sabzevari, Pontus PJ Ljung, RYAN JHUN, Rodnae \"Chikk\" Bell & YOO YOUNG JIN",
-        "url": "https://music.apple.com/us/album/girls/1626752981?i=1626752985",
         "playParams": {
           "id": "1626752985",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/girls/1626752981?i=1626752985",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Girls",
         "previews": [
           {
@@ -1150,135 +1278,6 @@
           }
         ],
         "artistName": "aespa"
-      }
-    },
-    {
-      "id": "1647830401",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1647830401",
-      "attributes": {
-        "albumName": "ANTIFRAGILE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "durationInMillis": 166491,
-        "releaseDate": "2022-10-17",
-        "isrc": "USA2P2230331",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "212121",
-          "textColor3": "333333",
-          "textColor4": "4e4e4e"
-        },
-        "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
-        "playParams": {
-          "id": "1647830401",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "No Celestial",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0a/1a/8f/0a1a8f9c-7899-719a-32d2-0fca51b4810c/mzaf_14152309364360016338.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1622167332",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1622167332",
-      "attributes": {
-        "albumName": "Lovey Dovey - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "R&B/Soul"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 216280,
-        "releaseDate": "2022-05-04",
-        "isrc": "KRA382204921",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/25/12/60/25126097-f534-0393-d6a2-3c168a9ea47e/cover_KM0015226_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "2b6593",
-          "textColor1": "f6f8fa",
-          "textColor2": "f6f6ea",
-          "textColor3": "cedae5",
-          "textColor4": "ced9d8"
-        },
-        "url": "https://music.apple.com/us/album/vancouver/1622167330?i=1622167332",
-        "playParams": {
-          "id": "1622167332",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Vancouver",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/45/13/36/45133665-88a1-e8db-17d8-5f5a3e6b99cf/mzaf_17032582723239657416.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BIG Naughty"
-      }
-    },
-    {
-      "id": "1590591377",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1590591377",
-      "attributes": {
-        "albumName": "PROTOTYPE RESEARCH #0063",
-        "genreNames": [
-          "Hip-Hop",
-          "Music",
-          "Hip-Hop/Rap"
-        ],
-        "trackNumber": 12,
-        "durationInMillis": 181800,
-        "releaseDate": "2021-10-19",
-        "isrc": "KRMIM2140976",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/5e/bc/8e/5ebc8ee4-3812-79c7-4db4-96143677a45b/888272087574_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e4d3c3",
-          "textColor1": "050402",
-          "textColor2": "23221d",
-          "textColor3": "312e29",
-          "textColor4": "4a453e"
-        },
-        "composerName": "Kim Seungmin, Minit & BASECAMP",
-        "url": "https://music.apple.com/us/album/my-pleasure-is-that-you-ride-the-bentley/1590591029?i=1590591377",
-        "playParams": {
-          "id": "1590591377",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "My pleasure Is That You Ride The Bentley",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/21/d1/81/21d18123-4851-d406-ff4e-a914855f3c67/mzaf_5132494338898128163.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Kim Seungmin"
       }
     }
   ]
