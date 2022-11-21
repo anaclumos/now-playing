@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1392611101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1392611101",
+      "attributes": {
+        "albumName": "Reverse (feat. G-Eazy) - Single",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-06-08",
+        "durationInMillis": 211893,
+        "isrc": "QMJMT1801690",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/2f/24/bd/2f24bda8-2450-4aec-f601-ea7b0504df25/18UMGIM32836.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "cc0006",
+          "textColor1": "fcf2f2",
+          "textColor2": "f9e5e6",
+          "textColor3": "f2c1c3",
+          "textColor4": "f0b7b9"
+        },
+        "composerName": "Victor Mensah, Marshmello, Gerald Gillum & Edgar Machuca",
+        "url": "https://music.apple.com/us/album/reverse-feat-g-eazy/1392610669?i=1392611101",
+        "playParams": {
+          "id": "1392611101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Reverse (feat. G-Eazy)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/1f/f0/4d1ff029-4592-c5a8-ef47-26566a8d5439/mzaf_6347793333094940744.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "VIC MENSA"
+      }
+    },
+    {
       "id": "1647830390",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1647830390",
@@ -1239,49 +1282,6 @@
           }
         ],
         "artistName": "Shin Hae Chul"
-      }
-    },
-    {
-      "id": "1261291986",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1261291986",
-      "attributes": {
-        "albumName": "SUMMER EPISODE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-07-20",
-        "durationInMillis": 240572,
-        "isrc": "KRA401700205",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/30/90/16/3090163e-ab9e-d944-8dca-c8038b36fd1b/akmu_cover_4000.jpg/{w}x{h}bb.jpg",
-          "bgColor": "84c7d0",
-          "textColor1": "050e0f",
-          "textColor2": "161616",
-          "textColor3": "1e3336",
-          "textColor4": "2c3a3b"
-        },
-        "url": "https://music.apple.com/us/album/dinosaur/1261291981?i=1261291986",
-        "playParams": {
-          "id": "1261291986",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "DINOSAUR",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5b/99/bc/5b99bc67-f48b-52b4-4224-626ca50aa12e/mzaf_17491742332511001310.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "AKMU"
       }
     }
   ]
