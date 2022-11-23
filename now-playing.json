@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1608253231",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1608253231",
+      "attributes": {
+        "albumName": "IT'z ME",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 180180,
+        "releaseDate": "2020-03-09",
+        "isrc": "US5TA2000008",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/40/b0/1a/40b01aff-1aa6-5dda-4263-00384501ae35/192641939570_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0c2960",
+          "textColor1": "e1b894",
+          "textColor2": "f8872b",
+          "textColor3": "b69b8a",
+          "textColor4": "c97435"
+        },
+        "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
+        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
+        "playParams": {
+          "id": "1608253231",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "THAT'S A NO NO",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e7/8f/58/e78f5800-d6a7-93b0-3f24-d1c4e0efbea6/mzaf_757988966849194679.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ITZY"
+      }
+    },
+    {
+      "id": "1645995269",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1645995269",
+      "attributes": {
+        "albumName": "I love - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 204040,
+        "releaseDate": "2022-10-17",
+        "isrc": "KRA392200040",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b2/20/a2/b220a21f-19ce-fae4-625b-c0a7223d45e2/196922202544_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "980400",
+          "textColor1": "f9cca9",
+          "textColor2": "fbbd94",
+          "textColor3": "e5a487",
+          "textColor4": "e79876"
+        },
+        "composerName": "Minnie, BreadBeat & So-yeon",
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
+        "playParams": {
+          "id": "1645995269",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Change",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/13/76/e5/1376e5fa-42f1-8af6-6a20-5ceb01bbd266/mzaf_8125914815218749458.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1639416903",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639416903",
+      "attributes": {
+        "albumName": "After LIKE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
+        "isrc": "QMBZ92254957",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00ff00",
+          "textColor1": "000000",
+          "textColor2": "002f00",
+          "textColor3": "003300",
+          "textColor4": "005800"
+        },
+        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "playParams": {
+          "id": "1639416903",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "After LIKE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
       "id": "1618867163",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1618867163",
@@ -26,11 +154,11 @@
           "textColor4": "434647"
         },
         "composerName": "Ho Jun Lee",
-        "url": "https://music.apple.com/us/album/%EC%96%B4%EC%A0%AF%EB%B0%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0/1618867162?i=1618867163",
         "playParams": {
           "id": "1618867163",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%EC%96%B4%EC%A0%AF%EB%B0%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0/1618867162?i=1618867163",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -55,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -75,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -99,8 +227,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -118,8 +246,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -155,11 +283,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -184,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 178453,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -204,8 +332,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nxde",
         "previews": [
           {
@@ -241,11 +369,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -284,11 +412,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -327,11 +455,11 @@
           "textColor4": "d396bc"
         },
         "composerName": "Bang Chan (3RACHA), Changbin (3RACHA), HAN 3RACHA, Raphael (Producing Lab.), Daviid (3SCAPE) & Yosia (3SCAPE)",
-        "url": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109",
         "playParams": {
           "id": "1644436109",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -356,8 +484,8 @@
           "Holiday"
         ],
         "trackNumber": 2,
-        "releaseDate": "1994-10-29",
         "durationInMillis": 241562,
+        "releaseDate": "1994-10-29",
         "isrc": "USSM19400325",
         "artwork": {
           "width": 1471,
@@ -376,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "All I Want For Christmas Is You",
         "previews": [
           {
@@ -399,8 +527,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -419,8 +547,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No Celestial",
         "previews": [
           {
@@ -456,11 +584,11 @@
           "textColor4": "541920"
         },
         "composerName": "Armadillo, Ranga, Frankie Day (THE HUB), Charlotte Wilson (THE HUB), THE HUB 88 & Jonkind",
-        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "playParams": {
           "id": "1642630327",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -484,8 +612,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-10-07",
         "durationInMillis": 188508,
+        "releaseDate": "2022-10-07",
         "isrc": "USAT22208889",
         "artwork": {
           "width": 1425,
@@ -504,8 +632,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -526,8 +654,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-06",
         "durationInMillis": 147427,
+        "releaseDate": "2022-09-06",
         "isrc": "KRA492200790",
         "artwork": {
           "width": 1400,
@@ -546,8 +674,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "New Thing (feat. Homies)",
         "previews": [
           {
@@ -584,11 +712,11 @@
           "textColor3": "dfd1b7",
           "textColor4": "e0d0b5"
         },
-        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
         "playParams": {
           "id": "1646621063",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -627,11 +755,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -670,11 +798,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy, 24, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
         "playParams": {
           "id": "1644440670",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -713,11 +841,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -755,11 +883,11 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "playParams": {
           "id": "1650841515",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -784,8 +912,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -803,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -840,11 +968,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy & 24",
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "playParams": {
           "id": "1644440674",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -870,8 +998,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-10-11",
         "durationInMillis": 188942,
+        "releaseDate": "2018-10-11",
         "isrc": "KRMIM1809449",
         "artwork": {
           "width": 3000,
@@ -889,8 +1017,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Amor",
         "previews": [
           {
@@ -912,8 +1040,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -932,8 +1060,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -941,49 +1069,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1639416903",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639416903",
-      "attributes": {
-        "albumName": "After LIKE - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-22",
-        "durationInMillis": 176973,
-        "isrc": "QMBZ92254957",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00ff00",
-          "textColor1": "000000",
-          "textColor2": "002f00",
-          "textColor3": "003300",
-          "textColor4": "005800"
-        },
-        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
-        "playParams": {
-          "id": "1639416903",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "After LIKE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     },
     {
@@ -1011,11 +1096,11 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1041,8 +1126,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-22",
         "durationInMillis": 177303,
+        "releaseDate": "2022-09-22",
         "isrc": "KSA012184974",
         "artwork": {
           "width": 3000,
@@ -1061,8 +1146,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rush Hour (feat. j-hope of BTS)",
         "previews": [
           {
@@ -1097,11 +1182,11 @@
           "textColor4": "b2aaa3"
         },
         "composerName": "Sam Smith, Kim Petras, James Napier, Ilya Salmanzadeh, Henry Walter, Blake Slatkin & Omer Fedi",
-        "url": "https://music.apple.com/us/album/unholy/1643168265?i=1643168566",
         "playParams": {
           "id": "1643168566",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unholy/1643168265?i=1643168566",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1139,11 +1224,11 @@
           "textColor4": "f0b7b9"
         },
         "composerName": "Victor Mensah, Marshmello, Gerald Gillum & Edgar Machuca",
-        "url": "https://music.apple.com/us/album/reverse-feat-g-eazy/1392610669?i=1392611101",
         "playParams": {
           "id": "1392611101",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/reverse-feat-g-eazy/1392610669?i=1392611101",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1153,8 +1238,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/1f/f0/4d1ff029-4592-c5a8-ef47-26566a8d5439/mzaf_6347793333094940744.plus.aac.p.m4a"
           }
         ],
-        "artistName": "VIC MENSA",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "VIC MENSA"
       }
     },
     {
@@ -1169,8 +1254,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2011-02-10",
         "durationInMillis": 172760,
+        "releaseDate": "2011-02-10",
         "isrc": "UK6821400359",
         "artwork": {
           "width": 1413,
@@ -1189,8 +1274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love In the Milky Way Cafe",
         "previews": [
           {
@@ -1198,92 +1283,6 @@
           }
         ],
         "artistName": "10cm"
-      }
-    },
-    {
-      "id": "1610080888",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1610080888",
-      "attributes": {
-        "albumName": "Pieces, Pt. 1",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 15,
-        "releaseDate": "2008-04-17",
-        "durationInMillis": 301720,
-        "isrc": "KRA490800202",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/70/0d/d3700dea-ad51-4863-afaf-9fe8bc016010/08809231381580_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "030303",
-          "textColor2": "2d2e2c",
-          "textColor3": "353535",
-          "textColor4": "575856"
-        },
-        "composerName": "Tablo & Mithra Jin",
-        "url": "https://music.apple.com/us/album/%EC%9A%B0%EC%82%B0-feat-younha/1610080362?i=1610080888",
-        "playParams": {
-          "id": "1610080888",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "\uc6b0\uc0b0 (feat. Younha)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0b/e0/ef/0be0efda-ae53-97d2-feba-687ab7dec76a/mzaf_12606196641011700553.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Epik High"
-      }
-    },
-    {
-      "id": "1493161366",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1493161366",
-      "attributes": {
-        "albumName": "Unstable Mindset - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-01-06",
-        "durationInMillis": 221133,
-        "isrc": "KRA381905455",
-        "artwork": {
-          "width": 2968,
-          "height": 2968,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/cd/f1/e2/cdf1e246-ae9f-f091-dfcd-f8e5ac45316c/cover_-_-_3.jpg/{w}x{h}bb.jpg",
-          "bgColor": "aabcd4",
-          "textColor1": "0e1422",
-          "textColor2": "101b2d",
-          "textColor3": "2d3546",
-          "textColor4": "2f3b4e"
-        },
-        "url": "https://music.apple.com/us/album/winter-flower-feat-rm/1493161365?i=1493161366",
-        "playParams": {
-          "id": "1493161366",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Winter Flower (feat. RM)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5b/a3/36/5ba3360c-531d-eff1-f6a4-7ee94f660ff2/mzaf_17044392799870678518.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
       }
     }
   ]
