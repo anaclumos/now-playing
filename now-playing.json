@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1456559866",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1456559866",
+      "attributes": {
+        "albumName": "Baby Hotline / Tea Errors - Single",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Alternative"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 291318,
+        "releaseDate": "2019-03-21",
+        "isrc": "QZES51978188",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/38/98/ac/3898ac66-a371-040e-c54a-790062fb58b8/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "f0e4c6",
+          "textColor2": "e6e2ba",
+          "textColor3": "c0b79f",
+          "textColor4": "b8b595"
+        },
+        "composerName": "Jack Stauber",
+        "url": "https://music.apple.com/us/album/baby-hotline/1456559865?i=1456559866",
+        "playParams": {
+          "id": "1456559866",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Baby Hotline",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/76/1d/0f761ded-613d-58bc-ea43-9f6d3dedefec/mzaf_6758399270634921061.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Jack Stauber's Micropop"
+      }
+    },
+    {
+      "id": "1223267132",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1223267132",
+      "attributes": {
+        "albumName": "Pop Food",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Alternative"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2017-03-25",
+        "durationInMillis": 208026,
+        "isrc": "QMPKX1703669",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/49/a6/99/49a69902-5144-f1fe-d225-d1542b8337ad/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "2e6f57",
+          "textColor1": "f8fc77",
+          "textColor2": "f4f6b3",
+          "textColor3": "d0df70",
+          "textColor4": "cddba0"
+        },
+        "composerName": "Jack Stauber",
+        "playParams": {
+          "id": "1223267132",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/buttercup/1223266768?i=1223267132",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Buttercup",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/9a/94/a09a9415-36a7-4d8e-10c7-f5d6c821574a/mzaf_5541266077978643453.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Jack Stauber"
+      }
+    },
+    {
       "id": "1095175470",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1095175470",
@@ -54,8 +140,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2019-04-05",
         "durationInMillis": 219058,
+        "releaseDate": "2019-04-05",
         "isrc": "GBUM71808077",
         "artwork": {
           "width": 3000,
@@ -68,11 +154,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes",
+        "url": "https://music.apple.com/us/album/daydreamer/1640343353?i=1640343366",
         "playParams": {
           "id": "1640343366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/daydreamer/1640343353?i=1640343366",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -96,8 +182,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-01-24",
         "durationInMillis": 215401,
+        "releaseDate": "2019-01-24",
         "isrc": "GBUM71807807",
         "artwork": {
           "width": 3000,
@@ -110,11 +196,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
+        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
         "playParams": {
           "id": "1640343360",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -138,8 +224,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 267960,
         "releaseDate": "2022-11-18",
+        "durationInMillis": 267960,
         "isrc": "USUG12207578",
         "artwork": {
           "width": 3000,
@@ -152,14 +238,14 @@
           "textColor4": "53414a"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero-illenium-remix/1655024524?i=1655024534",
         "playParams": {
           "id": "1655024534",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/anti-hero-illenium-remix/1655024524?i=1655024534",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero (ILLENIUM Remix)",
         "previews": [
           {
@@ -180,8 +266,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 200690,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 200690,
         "isrc": "USUG12205736",
         "artwork": {
           "width": 3000,
@@ -194,14 +280,14 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "playParams": {
           "id": "1650841515",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -222,8 +308,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 217853,
         "releaseDate": "2019-05-03",
+        "durationInMillis": 217853,
         "isrc": "GBUM71901087",
         "artwork": {
           "width": 3000,
@@ -236,14 +322,14 @@
           "textColor4": "bc4452"
         },
         "composerName": "Magnus Skylstad, Aurora Aksnes & Odd Martin Skaalnes",
-        "url": "https://music.apple.com/us/album/the-river/1640555962?i=1640555978",
         "playParams": {
           "id": "1640555978",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-river/1640555962?i=1640555978",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The River",
         "previews": [
           {
@@ -266,8 +352,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "durationInMillis": 206627,
         "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -279,14 +365,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -307,8 +393,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 219143,
         "releaseDate": "2020-03-09",
+        "durationInMillis": 219143,
         "isrc": "US5TA2000007",
         "artwork": {
           "width": 1400,
@@ -321,14 +407,14 @@
           "textColor4": "c97435"
         },
         "composerName": "Warren \"Oak\" Felder, Jane \"Jin Jin\" Bennett, Oliver Heldens, Lee Seu-Ran, Penomeco & Kang Eunjung",
-        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "playParams": {
           "id": "1608253225",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TING TING TING",
         "previews": [
           {
@@ -394,8 +480,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -408,11 +494,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -456,8 +542,8 @@
         },
         "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "THAT'S A NO NO",
         "previews": [
           {
@@ -479,8 +565,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 204040,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -493,11 +579,11 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -542,8 +628,8 @@
         },
         "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -651,8 +737,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -664,14 +750,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -713,8 +799,8 @@
         },
         "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nxde",
         "previews": [
           {
@@ -756,8 +842,8 @@
         },
         "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -779,8 +865,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-07",
         "durationInMillis": 191965,
+        "releaseDate": "2022-10-07",
         "isrc": "US5TA2200101",
         "artwork": {
           "width": 1400,
@@ -793,11 +879,11 @@
           "textColor4": "d396bc"
         },
         "composerName": "Bang Chan (3RACHA), Changbin (3RACHA), HAN 3RACHA, Raphael (Producing Lab.), Daviid (3SCAPE) & Yosia (3SCAPE)",
+        "url": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109",
         "playParams": {
           "id": "1644436109",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -822,8 +908,8 @@
           "Holiday"
         ],
         "trackNumber": 2,
-        "durationInMillis": 241562,
         "releaseDate": "1994-10-29",
+        "durationInMillis": 241562,
         "isrc": "USSM19400325",
         "artwork": {
           "width": 1471,
@@ -836,14 +922,14 @@
           "textColor4": "754746"
         },
         "composerName": "Mariah Carey & Walter Afanasieff",
-        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
         "playParams": {
           "id": "585972803",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "All I Want For Christmas Is You",
         "previews": [
           {
@@ -865,8 +951,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -879,11 +965,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -928,8 +1014,8 @@
         },
         "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DICE",
         "previews": [
           {
@@ -950,8 +1036,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 188508,
         "releaseDate": "2022-10-07",
+        "durationInMillis": 188508,
         "isrc": "USAT22208889",
         "artwork": {
           "width": 1425,
@@ -964,14 +1050,14 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -1012,8 +1098,8 @@
         },
         "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "New Thing (feat. Homies)",
         "previews": [
           {
@@ -1122,8 +1208,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-19",
         "durationInMillis": 186964,
+        "releaseDate": "2022-08-19",
         "isrc": "KRA402200017",
         "artwork": {
           "width": 2000,
@@ -1136,11 +1222,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy, 24, R. Tee & Ido",
+        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
         "playParams": {
           "id": "1644440670",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1185,8 +1271,8 @@
         },
         "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cookie",
         "previews": [
           {
@@ -1194,91 +1280,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1616804152",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616804152",
-      "attributes": {
-        "albumName": "LOVE DIVE - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-04-05",
-        "durationInMillis": 177187,
-        "isrc": "KRA382204375",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/67/f8/16/67f8164a-bfc2-f29b-e241-800426a968ef/cover_KM0015013_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "006eb8",
-          "textColor1": "f6f8fc",
-          "textColor2": "f6f8fc",
-          "textColor3": "c5dcef",
-          "textColor4": "c5dcef"
-        },
-        "playParams": {
-          "id": "1616804152",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "LOVE DIVE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a3/f2/04/a3f20464-c068-fbc5-8f76-42f9947c1b61/mzaf_177491966313232028.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1644440674",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1644440674",
-      "attributes": {
-        "albumName": "BORN PINK",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-09-16",
-        "durationInMillis": 175889,
-        "isrc": "KRA402200020",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e8e8e8",
-          "textColor1": "0f0609",
-          "textColor2": "2d2d2d",
-          "textColor3": "3a3335",
-          "textColor4": "535353"
-        },
-        "composerName": "Teddy & 24",
-        "playParams": {
-          "id": "1644440674",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Shut Down",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/05/73/fa/0573facb-fe0b-6140-d138-a06b369e361f/mzaf_10208397920911583709.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BLACKPINK"
       }
     }
   ]
