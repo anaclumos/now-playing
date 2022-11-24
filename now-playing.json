@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1650698738",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1650698738",
+      "attributes": {
+        "albumName": "Lowlife Princess: Noir",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Alternative"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2022-10-24",
+        "durationInMillis": 66430,
+        "isrc": "KRE432200006",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/a5/3a/07/a53a0707-7a8d-db99-b707-7c6453f8d83c/5054197381287.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e2e3db",
+          "textColor1": "070706",
+          "textColor2": "2a2e32",
+          "textColor3": "333331",
+          "textColor4": "4f5254"
+        },
+        "composerName": "HyoungSeo Kim & Zoey Cho",
+        "playParams": {
+          "id": "1650698738",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/sweet-sorrow-of-mother/1650698227?i=1650698738",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Sweet Sorrow of Mother",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/49/61/69/4961699e-98c7-6395-aded-b61f36b683ad/mzaf_11291919344851185392.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BIBI"
+      }
+    },
+    {
+      "id": "1651598644",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1651598644",
+      "attributes": {
+        "albumName": "Acid Angel from Asia <ACCESS> - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-10-28",
+        "durationInMillis": 164187,
+        "isrc": "KRA382208119",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/75/c2/75/75c2751b-1253-cd4f-3377-b3a11a0dc70b/cover_KM0016292_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b5b6b0",
+          "textColor1": "0e0d0c",
+          "textColor2": "2d281f",
+          "textColor3": "302e2d",
+          "textColor4": "48443c"
+        },
+        "url": "https://music.apple.com/us/album/generation/1651598641?i=1651598644",
+        "playParams": {
+          "id": "1651598644",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Generation",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7d/ee/42/7dee42ec-df77-def0-88d8-db43ea823b13/mzaf_15355698545116610781.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "tripleS"
+      }
+    },
+    {
+      "id": "1642630327",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1642630327",
+      "attributes": {
+        "albumName": "ENTWURF - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 165747,
+        "releaseDate": "2022-09-19",
+        "isrc": "US5TA2200097",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/62/74/51627487-69ca-f998-616a-bb83e961cc0a/738676860016.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f05d4b",
+          "textColor1": "120308",
+          "textColor2": "2d0816",
+          "textColor3": "3e1515",
+          "textColor4": "541920"
+        },
+        "composerName": "Armadillo, Ranga, Frankie Day (THE HUB), Charlotte Wilson (THE HUB), THE HUB 88 & Jonkind",
+        "url": "https://music.apple.com/us/album/dice/1642630313?i=1642630327",
+        "playParams": {
+          "id": "1642630327",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "DICE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/55/64/b8/5564b806-9d97-e1c1-56bf-c33dfce17efe/mzaf_1125655638661844892.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NMIXX"
+      }
+    },
+    {
       "id": "1648272180",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1648272180",
@@ -32,8 +160,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "KICK BACK",
         "previews": [
           {
@@ -75,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -112,11 +240,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -156,11 +284,11 @@
           "textColor3": "dfd1b7",
           "textColor4": "e0d0b5"
         },
+        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
         "playParams": {
           "id": "1646621063",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -185,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -205,8 +333,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -248,8 +376,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Pink Venom",
         "previews": [
           {
@@ -315,8 +443,8 @@
           "Dance"
         ],
         "trackNumber": 3,
-        "durationInMillis": 194325,
         "releaseDate": "2015-10-23",
+        "durationInMillis": 194325,
         "isrc": "KRA381500393",
         "artwork": {
           "width": 1400,
@@ -357,8 +485,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -376,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -398,8 +526,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 200690,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 200690,
         "isrc": "USUG12205736",
         "artwork": {
           "width": 3000,
@@ -441,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 175889,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200020",
         "artwork": {
           "width": 2000,
@@ -461,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Shut Down",
         "previews": [
           {
@@ -498,11 +626,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -528,8 +656,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-10-11",
         "durationInMillis": 188942,
+        "releaseDate": "2018-10-11",
         "isrc": "KRMIM1809449",
         "artwork": {
           "width": 3000,
@@ -547,8 +675,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Amor",
         "previews": [
           {
@@ -570,8 +698,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -590,8 +718,8 @@
         },
         "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -613,8 +741,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -627,14 +755,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -656,8 +784,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -676,8 +804,8 @@
         },
         "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nxde",
         "previews": [
           {
@@ -699,8 +827,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -713,14 +841,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -742,8 +870,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -762,8 +890,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -786,8 +914,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -805,8 +933,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -871,8 +999,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189933,
         "releaseDate": "2021-10-07",
+        "durationInMillis": 189933,
         "isrc": "KRA492101033",
         "artwork": {
           "width": 1400,
@@ -885,11 +1013,11 @@
           "textColor4": "312020"
         },
         "composerName": "\ubc15\uc6b0\uc0c1, Bottle Paik, \ubcf4\ub780, Inner Child(MonoTree) & \ud669\uc720\ube48",
-        "url": "https://music.apple.com/us/album/glassy/1588860459?i=1588860462",
         "playParams": {
           "id": "1588860462",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/glassy/1588860459?i=1588860462",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -934,8 +1062,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Loveable",
         "previews": [
           {
@@ -970,11 +1098,11 @@
           "textColor4": "494643"
         },
         "composerName": "Yejune Synn, Deeno & Hero",
+        "url": "https://music.apple.com/us/album/round-and-around/1626232826?i=1626232827",
         "playParams": {
           "id": "1626232827",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/round-and-around/1626232826?i=1626232827",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -999,8 +1127,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 185213,
         "releaseDate": "2021-10-07",
+        "durationInMillis": 185213,
         "isrc": "KRA492101034",
         "artwork": {
           "width": 1400,
@@ -1013,14 +1141,14 @@
           "textColor4": "312020"
         },
         "composerName": "\ubc15\uc6b0\uc0c1, Hyezoo, Kyum LYK & Honest",
-        "url": "https://music.apple.com/us/album/express-moon/1588860459?i=1588860481",
         "playParams": {
           "id": "1588860481",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/express-moon/1588860459?i=1588860481",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Express moon",
         "previews": [
           {
@@ -1035,13 +1163,13 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD608xTvEldPV2",
       "attributes": {
-        "albumName": "IZ*X",
         "discNumber": 0,
+        "albumName": "IZ*X",
         "genreNames": [
           "K-Pop"
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 151415,
         "name": "SELFISH & Above",
         "artistName": "\uae40\ucc44\uc6d0 & \ubb38\ubcc4 & \ud654\uc0ac",
@@ -1065,8 +1193,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 227107,
         "releaseDate": "2016-11-16",
+        "durationInMillis": 227107,
         "isrc": "JPKI01618695",
         "artwork": {
           "width": 1412,
@@ -1084,8 +1212,8 @@
         },
         "url": "https://music.apple.com/us/album/high-tension/1169934783?i=1169934976",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "High Tension",
         "previews": [
           {
@@ -1136,134 +1264,6 @@
           }
         ],
         "artistName": "Stray Kids"
-      }
-    },
-    {
-      "id": "1456559866",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1456559866",
-      "attributes": {
-        "albumName": "Baby Hotline / Tea Errors - Single",
-        "genreNames": [
-          "Pop",
-          "Music",
-          "Alternative"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 291318,
-        "releaseDate": "2019-03-21",
-        "isrc": "QZES51978188",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/38/98/ac/3898ac66-a371-040e-c54a-790062fb58b8/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "f0e4c6",
-          "textColor2": "e6e2ba",
-          "textColor3": "c0b79f",
-          "textColor4": "b8b595"
-        },
-        "composerName": "Jack Stauber",
-        "url": "https://music.apple.com/us/album/baby-hotline/1456559865?i=1456559866",
-        "playParams": {
-          "id": "1456559866",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Baby Hotline",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/76/1d/0f761ded-613d-58bc-ea43-9f6d3dedefec/mzaf_6758399270634921061.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Jack Stauber's Micropop"
-      }
-    },
-    {
-      "id": "1223267132",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1223267132",
-      "attributes": {
-        "albumName": "Pop Food",
-        "genreNames": [
-          "Pop",
-          "Music",
-          "Alternative"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 208026,
-        "releaseDate": "2017-03-25",
-        "isrc": "QMPKX1703669",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/49/a6/99/49a69902-5144-f1fe-d225-d1542b8337ad/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "2e6f57",
-          "textColor1": "f8fc77",
-          "textColor2": "f4f6b3",
-          "textColor3": "d0df70",
-          "textColor4": "cddba0"
-        },
-        "composerName": "Jack Stauber",
-        "url": "https://music.apple.com/us/album/buttercup/1223266768?i=1223267132",
-        "playParams": {
-          "id": "1223267132",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Buttercup",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/9a/94/a09a9415-36a7-4d8e-10c7-f5d6c821574a/mzaf_5541266077978643453.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Jack Stauber"
-      }
-    },
-    {
-      "id": "1095175470",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1095175470",
-      "attributes": {
-        "albumName": "Before the Night",
-        "genreNames": [
-          "Electronic",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 272039,
-        "releaseDate": "2014-12-28",
-        "isrc": "QM4DW1609449",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3e/37/a0/3e37a0d8-7fa3-b44b-7940-06b7cd4e98a9/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f1eff0",
-          "textColor1": "241f23",
-          "textColor2": "2f2a2f",
-          "textColor3": "4d494c",
-          "textColor4": "565156"
-        },
-        "composerName": "Home",
-        "url": "https://music.apple.com/us/album/were-finally-landing/1095175466?i=1095175470",
-        "playParams": {
-          "id": "1095175470",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "We're Finally Landing",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fb/c2/33/fbc23367-4ff4-e89d-7463-f845a837cc89/mzaf_7106752721073030963.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Home"
       }
     }
   ]
