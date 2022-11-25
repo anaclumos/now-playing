@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1650841515",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1650841515",
+      "attributes": {
+        "albumName": "Midnights (3am Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 200690,
+        "releaseDate": "2022-10-21",
+        "isrc": "USUG12205736",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eae7e2",
+          "textColor1": "120b14",
+          "textColor2": "412423",
+          "textColor3": "3d373d",
+          "textColor4": "634b49"
+        },
+        "composerName": "Taylor Swift & Jack Antonoff",
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
+        "playParams": {
+          "id": "1650841515",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Anti-Hero",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Taylor Swift"
+      }
+    },
+    {
       "id": "1632365364",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1632365364",
@@ -99,8 +141,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -112,11 +154,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -140,8 +182,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 226627,
         "releaseDate": "2022-08-12",
+        "durationInMillis": 226627,
         "isrc": "QZAKB2166405",
         "artwork": {
           "width": 3000,
@@ -154,11 +196,11 @@
           "textColor4": "c87f51"
         },
         "composerName": "Eliza Rose & Interplanetary Criminal",
-        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "playParams": {
           "id": "1639317826",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -384,48 +426,6 @@
       }
     },
     {
-      "id": "1650841515",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1650841515",
-      "attributes": {
-        "albumName": "Midnights (3am Edition)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 200690,
-        "releaseDate": "2022-10-21",
-        "isrc": "USUG12205736",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eae7e2",
-          "textColor1": "120b14",
-          "textColor2": "412423",
-          "textColor3": "3d373d",
-          "textColor4": "634b49"
-        },
-        "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
-        "playParams": {
-          "id": "1650841515",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Anti-Hero",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Taylor Swift"
-      }
-    },
-    {
       "id": "1650698738",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1650698738",
@@ -437,8 +437,8 @@
           "Alternative"
         ],
         "trackNumber": 6,
-        "durationInMillis": 66430,
         "releaseDate": "2022-10-24",
+        "durationInMillis": 66430,
         "isrc": "KRE432200006",
         "artwork": {
           "width": 3000,
@@ -451,11 +451,11 @@
           "textColor4": "4f5254"
         },
         "composerName": "HyoungSeo Kim & Zoey Cho",
-        "url": "https://music.apple.com/us/album/sweet-sorrow-of-mother/1650698227?i=1650698738",
         "playParams": {
           "id": "1650698738",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sweet-sorrow-of-mother/1650698227?i=1650698738",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -564,8 +564,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-12",
         "durationInMillis": 193495,
+        "releaseDate": "2022-10-12",
         "isrc": "JPU902203702",
         "artwork": {
           "width": 3000,
@@ -578,11 +578,11 @@
           "textColor4": "afc890"
         },
         "composerName": "Kenshi Yonezu",
+        "url": "https://music.apple.com/us/album/kick-back/1648272179?i=1648272180",
         "playParams": {
           "id": "1648272180",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/kick-back/1648272179?i=1648272180",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -607,8 +607,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -621,11 +621,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -652,8 +652,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195080,
         "releaseDate": "2022-09-29",
+        "durationInMillis": 195080,
         "isrc": "KRA382207561",
         "artwork": {
           "width": 3000,
@@ -665,11 +665,11 @@
           "textColor3": "dfd1b7",
           "textColor4": "e0d0b5"
         },
-        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
         "playParams": {
           "id": "1646621063",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/complex-feat-zico/1646621060?i=1646621063",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -694,8 +694,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -708,11 +708,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -780,8 +780,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 235562,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 235562,
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -794,11 +794,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -824,8 +824,8 @@
           "Dance"
         ],
         "trackNumber": 3,
-        "releaseDate": "2015-10-23",
         "durationInMillis": 194325,
+        "releaseDate": "2015-10-23",
         "isrc": "KRA381500393",
         "artwork": {
           "width": 1400,
@@ -837,11 +837,11 @@
           "textColor3": "cfcacd",
           "textColor4": "c1946a"
         },
+        "url": "https://music.apple.com/us/album/twenty-three/1051977837?i=1051977842",
         "playParams": {
           "id": "1051977842",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/twenty-three/1051977837?i=1051977842",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -866,8 +866,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -879,11 +879,11 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -952,8 +952,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 188942,
         "releaseDate": "2018-10-11",
+        "durationInMillis": 188942,
         "isrc": "KRMIM1809449",
         "artwork": {
           "width": 3000,
@@ -965,11 +965,11 @@
           "textColor3": "c3de67",
           "textColor4": "66a9da"
         },
-        "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
         "playParams": {
           "id": "1512931470",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1123,8 +1123,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -1137,11 +1137,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
