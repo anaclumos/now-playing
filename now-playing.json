@@ -2,48 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1649293727",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649293727",
-      "attributes": {
-        "albumName": "ERROR",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-10-17",
-        "durationInMillis": 198559,
-        "isrc": "KRA402200056",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/e3/c3/54e3c30a-c472-a4cb-2956-6c9991e70ef3/LCH_ERROR_DS_4000x4000.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0f085d",
-          "textColor1": "dde1fe",
-          "textColor2": "ecd1f8",
-          "textColor3": "b4b5de",
-          "textColor4": "c0a9d9"
-        },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
-        "playParams": {
-          "id": "1649293727",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Panorama",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b9/b6/76/b9b67685-f9b6-6ae5-6e46-4b5769ee90f8/mzaf_4205881934948374429.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LEE CHANHYUK"
-      }
-    },
-    {
       "id": "1650841515",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1650841515",
@@ -74,8 +32,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -83,6 +41,48 @@
           }
         ],
         "artistName": "Taylor Swift"
+      }
+    },
+    {
+      "id": "1649293727",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1649293727",
+      "attributes": {
+        "albumName": "ERROR",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 198559,
+        "isrc": "KRA402200056",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/e3/c3/54e3c30a-c472-a4cb-2956-6c9991e70ef3/LCH_ERROR_DS_4000x4000.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0f085d",
+          "textColor1": "dde1fe",
+          "textColor2": "ecd1f8",
+          "textColor3": "b4b5de",
+          "textColor4": "c0a9d9"
+        },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
+        "playParams": {
+          "id": "1649293727",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Panorama",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b9/b6/76/b9b67685-f9b6-6ae5-6e46-4b5769ee90f8/mzaf_4205881934948374429.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LEE CHANHYUK"
       }
     },
     {
@@ -98,8 +98,8 @@
           "Folk"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-07-03",
         "durationInMillis": 201280,
+        "releaseDate": "2022-07-03",
         "isrc": "KRF252200137",
         "artwork": {
           "width": 3000,
@@ -139,8 +139,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-19",
         "durationInMillis": 208308,
+        "releaseDate": "2021-02-19",
         "isrc": "ZZOPM2104359",
         "artwork": {
           "width": 2000,
@@ -202,8 +202,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -244,8 +244,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "B.O.T.A. (Baddest Of Them All) [Edit]",
         "previews": [
           {
@@ -266,8 +266,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 215401,
         "releaseDate": "2019-01-24",
+        "durationInMillis": 215401,
         "isrc": "GBUM71807807",
         "artwork": {
           "width": 3000,
@@ -329,8 +329,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -371,8 +371,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "\uc5b4\uc82f\ubc24 \uc774\uc57c\uae30",
         "previews": [
           {
@@ -414,8 +414,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -437,8 +437,8 @@
           "Alternative"
         ],
         "trackNumber": 6,
-        "durationInMillis": 66430,
         "releaseDate": "2022-10-24",
+        "durationInMillis": 66430,
         "isrc": "KRE432200006",
         "artwork": {
           "width": 3000,
@@ -499,8 +499,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Generation",
         "previews": [
           {
@@ -522,8 +522,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165747,
         "releaseDate": "2022-09-19",
+        "durationInMillis": 165747,
         "isrc": "US5TA2200097",
         "artwork": {
           "width": 3000,
@@ -564,8 +564,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193495,
         "releaseDate": "2022-10-12",
+        "durationInMillis": 193495,
         "isrc": "JPU902203702",
         "artwork": {
           "width": 3000,
@@ -607,8 +607,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -652,8 +652,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195080,
         "releaseDate": "2022-09-29",
+        "durationInMillis": 195080,
         "isrc": "KRA382207561",
         "artwork": {
           "width": 3000,
@@ -694,8 +694,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -737,8 +737,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-19",
         "durationInMillis": 186964,
+        "releaseDate": "2022-08-19",
         "isrc": "KRA402200017",
         "artwork": {
           "width": 2000,
@@ -780,8 +780,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 235562,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -843,8 +843,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Twenty-Three",
         "previews": [
           {
@@ -885,8 +885,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -928,8 +928,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Shut Down",
         "previews": [
           {
@@ -971,8 +971,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Amor",
         "previews": [
           {
@@ -994,8 +994,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -1057,8 +1057,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -1080,8 +1080,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -1143,8 +1143,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -1186,8 +1186,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -1209,8 +1209,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-02",
         "durationInMillis": 199067,
+        "releaseDate": "2022-06-02",
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -1272,8 +1272,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Loveable",
         "previews": [
           {
