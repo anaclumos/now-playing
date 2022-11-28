@@ -2,6 +2,136 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1588085591",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588085591",
+      "attributes": {
+        "albumName": "CHANNEL 8",
+        "genreNames": [
+          "Korean Hip-Hop",
+          "Music",
+          "Hip-Hop/Rap",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2019-10-25",
+        "durationInMillis": 241920,
+        "isrc": "KRA301900513",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/67/e7/7067e7cc-547e-d85b-7afd-5486a56b3db1/191953093925.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0f0f0",
+          "textColor1": "030303",
+          "textColor2": "121212",
+          "textColor3": "323232",
+          "textColor4": "3e3e3e"
+        },
+        "playParams": {
+          "id": "1588085591",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/fame-feat-song-ga-in-chancellor/1588085586?i=1588085591",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "FAME (feat. Song Ga In & Chancellor)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/6a/86/c36a867a-6e53-3a55-a300-93997f47d6c9/mzaf_11755468662849869354.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "MC MONG"
+      }
+    },
+    {
+      "id": "1653034232",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1653034232",
+      "attributes": {
+        "albumName": "Dope Boy - Single",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-11-11",
+        "durationInMillis": 165134,
+        "isrc": "USUM72202591",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/55/32/99/55329991-9f14-93c6-8fac-398921baea94/22UM1IM27313.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f4ae2b",
+          "textColor1": "360f30",
+          "textColor2": "4b1316",
+          "textColor3": "5c2f2f",
+          "textColor4": "6c321b"
+        },
+        "composerName": "David Brewster, Francis Ubiera, Daniel Garcia, Lenard Rodriguez, Charles Colon & Kevin Volpe",
+        "playParams": {
+          "id": "1653034232",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/dope-boy/1653034231?i=1653034232",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Dope Boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/28/15/81/2815818c-9c6d-7588-8b12-6c0dca0a7a1f/mzaf_16923315463425093877.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Dave East"
+      }
+    },
+    {
+      "id": "1521791796",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1521791796",
+      "attributes": {
+        "albumName": "Monster - The 1st Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-07-06",
+        "durationInMillis": 178413,
+        "isrc": "KRA302000345",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/c5/c8/02c5c888-3715-34b6-bc27-7e8228618de8/Digital_Cover_Red_Velvet_-_IRENE_SEULGI_Monster.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0f0f11",
+          "textColor1": "e9e8e4",
+          "textColor2": "e1ccc0",
+          "textColor3": "bebdb9",
+          "textColor4": "b7a69d"
+        },
+        "composerName": "Yaakov \u2018Yash\u2019 Gruzman, Delaney Jane, Jenson Vaughn & YOO YOUNG JIN",
+        "playParams": {
+          "id": "1521791796",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/monster/1521791554?i=1521791796",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Monster",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/58/be/d458be37-1632-d66b-7268-290d29c9f9ee/mzaf_17133203538091315500.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Red Velvet - IRENE & SEULGI"
+      }
+    },
+    {
       "id": "1640343360",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1640343360",
@@ -12,8 +142,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 215401,
         "releaseDate": "2019-01-24",
+        "durationInMillis": 215401,
         "isrc": "GBUM71807807",
         "artwork": {
           "width": 3000,
@@ -32,8 +162,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Animal",
         "previews": [
           {
@@ -55,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 198559,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 198559,
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -74,8 +204,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -153,14 +283,14 @@
           "textColor3": "cedaea",
           "textColor4": "cdd3d7"
         },
+        "url": "https://music.apple.com/us/album/atlantis-princess/1061503103?i=1061503105",
         "playParams": {
           "id": "1061503105",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/atlantis-princess/1061503103?i=1061503105",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Atlantis Princess",
         "previews": [
           {
@@ -196,14 +326,14 @@
           "textColor4": "7c3f41"
         },
         "composerName": "Meredith Willson",
+        "url": "https://music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/1592739844?i=1592740089",
         "playParams": {
           "id": "1592740089",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/1592739844?i=1592740089",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "It's Beginning to Look a Lot like Christmas",
         "previews": [
           {
@@ -225,8 +355,8 @@
           "Holiday"
         ],
         "trackNumber": 5,
-        "durationInMillis": 186241,
         "releaseDate": "1963-11-22",
+        "durationInMillis": 186241,
         "isrc": "USSM10905166",
         "artwork": {
           "width": 604,
@@ -245,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sleigh Ride",
         "previews": [
           {
@@ -275,8 +405,8 @@
           "Traditional Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 152570,
         "releaseDate": "1963-10-14",
+        "durationInMillis": 152570,
         "isrc": "USSM16300086",
         "artwork": {
           "width": 600,
@@ -289,11 +419,11 @@
           "textColor4": "f1c3bf"
         },
         "composerName": "Edward Pola & George Wyle",
-        "url": "https://music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594",
         "playParams": {
           "id": "171434594",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -318,8 +448,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 235562,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 235562,
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -338,8 +468,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cookie",
         "previews": [
           {
@@ -362,8 +492,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -381,8 +511,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -509,14 +639,14 @@
           "textColor4": "435442"
         },
         "composerName": "Johnny Marks",
+        "url": "https://music.apple.com/us/album/a-holly-jolly-christmas-single-version/1444213347?i=1444213351",
         "playParams": {
           "id": "1444213351",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/a-holly-jolly-christmas-single-version/1444213347?i=1444213351",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "A Holly Jolly Christmas (Single Version)",
         "previews": [
           {
@@ -583,8 +713,8 @@
           "Christmas"
         ],
         "trackNumber": 1,
-        "durationInMillis": 126267,
         "releaseDate": "1958-01-01",
+        "durationInMillis": 126267,
         "isrc": "USMC15848998",
         "artwork": {
           "width": 1426,
@@ -603,8 +733,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rockin' Around the Christmas Tree (Single)",
         "previews": [
           {
@@ -625,8 +755,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 130973,
         "releaseDate": "1957-01-01",
+        "durationInMillis": 130973,
         "isrc": "USMC15746480",
         "artwork": {
           "width": 3000,
@@ -645,8 +775,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Jingle Bell Rock",
         "previews": [
           {
@@ -681,14 +811,14 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "playParams": {
           "id": "1650841515",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -711,8 +841,8 @@
           "Folk"
         ],
         "trackNumber": 1,
-        "durationInMillis": 201280,
         "releaseDate": "2022-07-03",
+        "durationInMillis": 201280,
         "isrc": "KRF252200137",
         "artwork": {
           "width": 3000,
@@ -724,11 +854,11 @@
           "textColor3": "563442",
           "textColor4": "533d3d"
         },
-        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "playParams": {
           "id": "1632365364",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -752,8 +882,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 208308,
         "releaseDate": "2021-02-19",
+        "durationInMillis": 208308,
         "isrc": "ZZOPM2104359",
         "artwork": {
           "width": 2000,
@@ -772,8 +902,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Look Back (feat. Syd Silvair)",
         "previews": [
           {
@@ -922,8 +1052,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 164187,
         "releaseDate": "2022-10-28",
+        "durationInMillis": 164187,
         "isrc": "KRA382208119",
         "artwork": {
           "width": 3000,
@@ -941,8 +1071,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Generation",
         "previews": [
           {
@@ -1049,8 +1179,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 166491,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 166491,
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -1063,11 +1193,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1094,8 +1224,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195080,
         "releaseDate": "2022-09-29",
+        "durationInMillis": 195080,
         "isrc": "KRA382207561",
         "artwork": {
           "width": 3000,
@@ -1113,8 +1243,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Complex (feat. ZICO)",
         "previews": [
           {
@@ -1165,134 +1295,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1644440670",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1644440670",
-      "attributes": {
-        "albumName": "BORN PINK",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-19",
-        "durationInMillis": 186964,
-        "isrc": "KRA402200017",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e8e8e8",
-          "textColor1": "0f0609",
-          "textColor2": "2d2d2d",
-          "textColor3": "3a3335",
-          "textColor4": "535353"
-        },
-        "composerName": "Teddy, 24, R. Tee & Ido",
-        "playParams": {
-          "id": "1644440670",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Pink Venom",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/76/f8/ca/76f8ca68-ff8d-5c41-12aa-41772c23f7d8/mzaf_2322786095877386594.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BLACKPINK"
-      }
-    },
-    {
-      "id": "1051977842",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1051977842",
-      "attributes": {
-        "albumName": "CHAT-SHIRE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 194325,
-        "releaseDate": "2015-10-23",
-        "isrc": "KRA381500393",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f8/75/d2/f875d2e2-1317-7f5a-2025-7ca9513dbb3d/COVER-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "1a0410",
-          "textColor1": "fcfcfc",
-          "textColor2": "ebb981",
-          "textColor3": "cfcacd",
-          "textColor4": "c1946a"
-        },
-        "url": "https://music.apple.com/us/album/twenty-three/1051977837?i=1051977842",
-        "playParams": {
-          "id": "1051977842",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Twenty-Three",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/64/ad/1164ad34-d7e3-8183-3928-56ce14271cb3/mzaf_6230257126281102763.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IU"
-      }
-    },
-    {
-      "id": "1616804152",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616804152",
-      "attributes": {
-        "albumName": "LOVE DIVE - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-04-05",
-        "durationInMillis": 177187,
-        "isrc": "KRA382204375",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/67/f8/16/67f8164a-bfc2-f29b-e241-800426a968ef/cover_KM0015013_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "006eb8",
-          "textColor1": "f6f8fc",
-          "textColor2": "f6f8fc",
-          "textColor3": "c5dcef",
-          "textColor4": "c5dcef"
-        },
-        "playParams": {
-          "id": "1616804152",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "LOVE DIVE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a3/f2/04/a3f20464-c068-fbc5-8f76-42f9947c1b61/mzaf_177491966313232028.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     }
   ]
