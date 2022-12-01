@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1650841515",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1650841515",
+      "attributes": {
+        "albumName": "Midnights (3am Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-21",
+        "durationInMillis": 200690,
+        "isrc": "USUG12205736",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eae7e2",
+          "textColor1": "120b14",
+          "textColor2": "412423",
+          "textColor3": "3d373d",
+          "textColor4": "634b49"
+        },
+        "composerName": "Taylor Swift & Jack Antonoff",
+        "playParams": {
+          "id": "1650841515",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Anti-Hero",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Taylor Swift"
+      }
+    },
+    {
+      "id": "388152069",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/388152069",
+      "attributes": {
+        "albumName": "Escape (Bonus Track Version)",
+        "genreNames": [
+          "Rock",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1981-07-31",
+        "durationInMillis": 250987,
+        "isrc": "USSM18100116",
+        "artwork": {
+          "width": 3900,
+          "height": 3900,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/e1/2c/0f/e12c0f90-9ff9-9ac7-c2c1-9d1132487863/884977725803.jpg/{w}x{h}bb.jpg",
+          "bgColor": "24150d",
+          "textColor1": "a3ccaf",
+          "textColor2": "47b6d0",
+          "textColor3": "89a78f",
+          "textColor4": "4096a9"
+        },
+        "composerName": "Steve Perry, Neal Schon & Jonathan Cain",
+        "playParams": {
+          "id": "388152069",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/dont-stop-believin/388152046?i=388152069",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Don't Stop Believin'",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/d7/70/2dd77003-c8e6-3cc2-b96f-a6a7a24d5db3/mzaf_17364497044478791359.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Journey"
+      }
+    },
+    {
       "id": "1647830390",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1647830390",
@@ -13,8 +97,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -27,11 +111,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -57,8 +141,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -70,11 +154,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -99,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 175889,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 175889,
         "isrc": "KRA402200020",
         "artwork": {
           "width": 2000,
@@ -113,14 +197,14 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy & 24",
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "playParams": {
           "id": "1644440674",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Shut Down",
         "previews": [
           {
@@ -248,8 +332,8 @@
         },
         "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -271,8 +355,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -285,11 +369,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -313,8 +397,8 @@
           "Music"
         ],
         "trackNumber": 18,
-        "releaseDate": "2017-10-25",
         "durationInMillis": 147421,
+        "releaseDate": "2017-10-25",
         "isrc": "AUSEI1600021",
         "artwork": {
           "width": 3000,
@@ -326,11 +410,11 @@
           "textColor3": "342b08",
           "textColor4": "5e511c"
         },
+        "url": "https://music.apple.com/us/album/come-to-church-feat-geraldine-viswanathan-benson-jack/1299045414?i=1299046525",
         "playParams": {
           "id": "1299046525",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/come-to-church-feat-geraldine-viswanathan-benson-jack/1299045414?i=1299046525",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -341,48 +425,6 @@
           }
         ],
         "artistName": "Jon Prasida & Jordan Hare"
-      }
-    },
-    {
-      "id": "388152069",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/388152069",
-      "attributes": {
-        "albumName": "Escape (Bonus Track Version)",
-        "genreNames": [
-          "Rock",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 250987,
-        "releaseDate": "1981-07-31",
-        "isrc": "USSM18100116",
-        "artwork": {
-          "width": 3900,
-          "height": 3900,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/e1/2c/0f/e12c0f90-9ff9-9ac7-c2c1-9d1132487863/884977725803.jpg/{w}x{h}bb.jpg",
-          "bgColor": "24150d",
-          "textColor1": "a3ccaf",
-          "textColor2": "47b6d0",
-          "textColor3": "89a78f",
-          "textColor4": "4096a9"
-        },
-        "composerName": "Steve Perry, Neal Schon & Jonathan Cain",
-        "url": "https://music.apple.com/us/album/dont-stop-believin/388152046?i=388152069",
-        "playParams": {
-          "id": "388152069",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Don't Stop Believin'",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/d7/70/2dd77003-c8e6-3cc2-b96f-a6a7a24d5db3/mzaf_17364497044478791359.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Journey"
       }
     },
     {
@@ -416,8 +458,8 @@
         },
         "url": "https://music.apple.com/us/album/star-walkin-league-of-legends-worlds-anthem/1642613175?i=1642613664",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "previews": [
           {
@@ -440,8 +482,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -454,11 +496,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -526,8 +568,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165134,
         "releaseDate": "2022-11-11",
+        "durationInMillis": 165134,
         "isrc": "USUM72202591",
         "artwork": {
           "width": 3000,
@@ -540,14 +582,14 @@
           "textColor4": "6c321b"
         },
         "composerName": "David Brewster, Francis Ubiera, Daniel Garcia, Lenard Rodriguez, Charles Colon & Kevin Volpe",
-        "url": "https://music.apple.com/us/album/dope-boy/1653034231?i=1653034232",
         "playParams": {
           "id": "1653034232",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dope-boy/1653034231?i=1653034232",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Dope Boy",
         "previews": [
           {
@@ -590,8 +632,8 @@
         },
         "url": "https://music.apple.com/us/album/monster/1521791554?i=1521791796",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Monster",
         "previews": [
           {
@@ -612,8 +654,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 215401,
         "releaseDate": "2019-01-24",
+        "durationInMillis": 215401,
         "isrc": "GBUM71807807",
         "artwork": {
           "width": 3000,
@@ -626,14 +668,14 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
-        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
         "playParams": {
           "id": "1640343360",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Animal",
         "previews": [
           {
@@ -674,8 +716,8 @@
         },
         "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -697,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 224373,
         "releaseDate": "2003-05-30",
+        "durationInMillis": 224373,
         "isrc": "KRA300800458",
         "artwork": {
           "width": 2022,
@@ -710,14 +752,14 @@
           "textColor3": "cedaea",
           "textColor4": "cdd3d7"
         },
-        "url": "https://music.apple.com/us/album/atlantis-princess/1061503103?i=1061503105",
         "playParams": {
           "id": "1061503105",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/atlantis-princess/1061503103?i=1061503105",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Atlantis Princess",
         "previews": [
           {
@@ -759,8 +801,8 @@
         },
         "url": "https://music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/1592739844?i=1592740089",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "It's Beginning to Look a Lot like Christmas",
         "previews": [
           {
@@ -802,8 +844,8 @@
         },
         "url": "https://music.apple.com/us/album/sleigh-ride/336036941?i=336037282",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Sleigh Ride",
         "previews": [
           {
@@ -852,8 +894,8 @@
         },
         "url": "https://music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "It's the Most Wonderful Time of the Year",
         "previews": [
           {
@@ -875,8 +917,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 235562,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 235562,
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -889,14 +931,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cookie",
         "previews": [
           {
@@ -918,8 +960,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -932,14 +974,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -960,8 +1002,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-11-04",
         "durationInMillis": 206834,
+        "releaseDate": "2022-11-04",
         "isrc": "USUYG1448817",
         "artwork": {
           "width": 3000,
@@ -974,11 +1016,11 @@
           "textColor4": "e8a387"
         },
         "composerName": "Vince Guaraldi & Lee Maurice Mendelson",
+        "url": "https://music.apple.com/us/album/christmas-time-is-here/1651348683?i=1651348939",
         "playParams": {
           "id": "1651348939",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/christmas-time-is-here/1651348683?i=1651348939",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1052,8 +1094,8 @@
           "Holiday"
         ],
         "trackNumber": 2,
-        "durationInMillis": 241562,
         "releaseDate": "1994-10-29",
+        "durationInMillis": 241562,
         "isrc": "USSM19400325",
         "artwork": {
           "width": 1471,
@@ -1066,14 +1108,14 @@
           "textColor4": "754746"
         },
         "composerName": "Mariah Carey & Walter Afanasieff",
-        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
         "playParams": {
           "id": "585972803",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "All I Want For Christmas Is You",
         "previews": [
           {
@@ -1097,8 +1139,8 @@
           "Christmas"
         ],
         "trackNumber": 1,
-        "releaseDate": "1958-01-01",
         "durationInMillis": 126267,
+        "releaseDate": "1958-01-01",
         "isrc": "USMC15848998",
         "artwork": {
           "width": 1426,
@@ -1111,11 +1153,11 @@
           "textColor4": "2f5a46"
         },
         "composerName": "Johnny Marks",
+        "url": "https://music.apple.com/us/album/rockin-around-the-christmas-tree-single/1444032014?i=1444032015",
         "playParams": {
           "id": "1444032015",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rockin-around-the-christmas-tree-single/1444032014?i=1444032015",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1168,48 +1210,6 @@
           }
         ],
         "artistName": "Bobby Helms"
-      }
-    },
-    {
-      "id": "1650841515",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1650841515",
-      "attributes": {
-        "albumName": "Midnights (3am Edition)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-10-21",
-        "durationInMillis": 200690,
-        "isrc": "USUG12205736",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eae7e2",
-          "textColor1": "120b14",
-          "textColor2": "412423",
-          "textColor3": "3d373d",
-          "textColor4": "634b49"
-        },
-        "composerName": "Taylor Swift & Jack Antonoff",
-        "playParams": {
-          "id": "1650841515",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Anti-Hero",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Taylor Swift"
       }
     },
     {
@@ -1266,8 +1266,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-19",
         "durationInMillis": 208308,
+        "releaseDate": "2021-02-19",
         "isrc": "ZZOPM2104359",
         "artwork": {
           "width": 2000,
@@ -1280,11 +1280,11 @@
           "textColor4": "c6c5ce"
         },
         "composerName": "Joanna Starling, Michael James Ambrosino, Olivier Heldens, Stavros Adamantios Tsarouhas & Sydney Lea Sahr",
+        "url": "https://music.apple.com/us/album/never-look-back-feat-syd-silvair/1552236551?i=1552236554",
         "playParams": {
           "id": "1552236554",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/never-look-back-feat-syd-silvair/1552236551?i=1552236554",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
