@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1619282186",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1619282186",
+      "attributes": {
+        "albumName": "Seoul - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-04-20",
+        "durationInMillis": 197333,
+        "isrc": "KRA922200006",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/90/43/16/9043167b-e627-c025-ff6f-576ea8524e02/191953169354.jpg/{w}x{h}bb.jpg",
+          "bgColor": "64bfd7",
+          "textColor1": "1b1b1a",
+          "textColor2": "1b2119",
+          "textColor3": "2a3b3f",
+          "textColor4": "2a403f"
+        },
+        "composerName": "Jiyoung Ahn & Vanilla Man",
+        "url": "https://music.apple.com/us/album/love-story/1619282185?i=1619282186",
+        "playParams": {
+          "id": "1619282186",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Love story",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/29/e5/f5/29e5f5cc-7074-0dd0-73ef-6deaba31c6fd/mzaf_10922988317046421924.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BOL4"
+      }
+    },
+    {
+      "id": "1612870682",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1612870682",
+      "attributes": {
+        "albumName": "WeCrashed (Original Series Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-03-18",
+        "durationInMillis": 269613,
+        "isrc": "US23A1545560",
+        "artwork": {
+          "width": 3840,
+          "height": 3840,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/64/54/d7/6454d7d8-4b22-2d3e-683f-9b1f48467d08/5059449067032.png/{w}x{h}bb.jpg",
+          "bgColor": "022035",
+          "textColor1": "a8c6dc",
+          "textColor2": "a4bdd0",
+          "textColor3": "87a5bb",
+          "textColor4": "849eb1"
+        },
+        "composerName": "Christopher Nicholas Bangs",
+        "url": "https://music.apple.com/us/album/selling-an-experience/1612870681?i=1612870682",
+        "playParams": {
+          "id": "1612870682",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Selling An Experience",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c7/ba/e4/c7bae4da-92ca-e66c-d21c-7103942bbd94/mzaf_6371596676674599127.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Christopher Nicholas Bangs"
+      }
+    },
+    {
+      "id": "1635469694",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469694",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
+        "isrc": "USA2P2230221",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
+        "playParams": {
+          "id": "1635469694",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Attention",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/79/51/13795136-c3d0-1191-cc43-dcc16579a2f2/mzaf_8604667655746746744.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1441652821",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1441652821",
@@ -12,8 +140,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 300840,
         "releaseDate": "1985-08-05",
+        "durationInMillis": 300840,
         "isrc": "GBAYE1800884",
         "artwork": {
           "width": 4000,
@@ -55,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 162570,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 162570,
         "isrc": "KRA402200024",
         "artwork": {
           "width": 2000,
@@ -75,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Hard to Love",
         "previews": [
           {
@@ -118,8 +246,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Out of Time",
         "previews": [
           {
@@ -160,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kiss Me",
         "previews": [
           {
@@ -187,8 +315,8 @@
           "Vocal"
         ],
         "trackNumber": 11,
-        "durationInMillis": 200201,
         "releaseDate": "2012-12-20",
+        "durationInMillis": 200201,
         "isrc": "USUM71310270",
         "artwork": {
           "width": 1500,
@@ -207,8 +335,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Popular Song",
         "previews": [
           {
@@ -230,8 +358,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 192449,
         "releaseDate": "2021-02-14",
+        "durationInMillis": 192449,
         "isrc": "QZFZ32182416",
         "artwork": {
           "width": 3000,
@@ -250,8 +378,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Arcade Love",
         "previews": [
           {
@@ -272,8 +400,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 150697,
         "releaseDate": "2022-05-27",
+        "durationInMillis": 150697,
         "isrc": "USKLP2200329",
         "artwork": {
           "width": 3000,
@@ -315,8 +443,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 177947,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 177947,
         "isrc": "USA2P2230224",
         "artwork": {
           "width": 1400,
@@ -443,8 +571,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 245840,
         "releaseDate": "2021-09-10",
+        "durationInMillis": 245840,
         "isrc": "KRMIM2135398",
         "artwork": {
           "width": 3000,
@@ -462,8 +590,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Antifreeze",
         "previews": [
           {
@@ -548,8 +676,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heart Burn",
         "previews": [
           {
@@ -571,8 +699,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -591,8 +719,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Change",
         "previews": [
           {
@@ -613,8 +741,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 167303,
         "releaseDate": "2022-03-31",
+        "durationInMillis": 167303,
         "isrc": "USSM12200612",
         "artwork": {
           "width": 3000,
@@ -633,8 +761,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "As It Was",
         "previews": [
           {
@@ -656,8 +784,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 201613,
         "releaseDate": "2022-04-27",
+        "durationInMillis": 201613,
         "isrc": "KRA392200020",
         "artwork": {
           "width": 1400,
@@ -719,8 +847,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -761,8 +889,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Catgroove",
         "previews": [
           {
@@ -784,8 +912,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210827,
         "releaseDate": "2019-07-31",
+        "durationInMillis": 210827,
         "isrc": "KRA381903771",
         "artwork": {
           "width": 1400,
@@ -804,8 +932,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Beep Beep",
         "previews": [
           {
@@ -890,8 +1018,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Flip That",
         "previews": [
           {
@@ -976,8 +1104,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Travel",
         "previews": [
           {
@@ -1000,8 +1128,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185000,
         "releaseDate": "2022-02-18",
+        "durationInMillis": 185000,
         "isrc": "KRA382203167",
         "artwork": {
           "width": 3000,
@@ -1086,8 +1214,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213853,
         "releaseDate": "2016-08-29",
+        "durationInMillis": 213853,
         "isrc": "KRA921600019",
         "artwork": {
           "width": 2400,
@@ -1156,134 +1284,6 @@
           }
         ],
         "artistName": "OneRepublic"
-      }
-    },
-    {
-      "id": "1608253231",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1608253231",
-      "attributes": {
-        "albumName": "IT'z ME",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2020-03-09",
-        "durationInMillis": 180180,
-        "isrc": "US5TA2000008",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/40/b0/1a/40b01aff-1aa6-5dda-4263-00384501ae35/192641939570_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c2960",
-          "textColor1": "e1b894",
-          "textColor2": "f8872b",
-          "textColor3": "b69b8a",
-          "textColor4": "c97435"
-        },
-        "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
-        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
-        "playParams": {
-          "id": "1608253231",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "THAT'S A NO NO",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e7/8f/58/e78f5800-d6a7-93b0-3f24-d1c4e0efbea6/mzaf_757988966849194679.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ITZY"
-      }
-    },
-    {
-      "id": "1567326688",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1567326688",
-      "attributes": {
-        "albumName": "Next Level - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-05-17",
-        "durationInMillis": 221573,
-        "isrc": "KRA302100169",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/60/8d/ac/608dacc2-d6d6-462d-26f0-d693e4364751/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0b0b0d",
-          "textColor1": "ffe4a8",
-          "textColor2": "f2ab70",
-          "textColor3": "ceb888",
-          "textColor4": "c48b5c"
-        },
-        "composerName": "Mario Marchetti, Adam McInnis, YOO YOUNG JIN & Sophie Curtis",
-        "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
-        "playParams": {
-          "id": "1567326688",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Next Level",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/1e/0a/431e0a24-2c04-e738-2632-87462a20984d/mzaf_3158159453623406671.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
-      }
-    },
-    {
-      "id": "1454646609",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1454646609",
-      "attributes": {
-        "albumName": "I Wanna Be - The 1st Album Repackage",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 193263,
-        "releaseDate": "2019-03-04",
-        "isrc": "KRA301900120",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d4/6b/c5/d46bc510-eef5-97d1-edcf-0a4d4a2ae860/KEY_01R_DigitalCover_l3.jpg/{w}x{h}bb.jpg",
-          "bgColor": "043883",
-          "textColor1": "feffff",
-          "textColor2": "dbe2ed",
-          "textColor3": "cbd7e6",
-          "textColor4": "b0c0d8"
-        },
-        "composerName": "DallasK, DEEZ & Theron Thomas",
-        "url": "https://music.apple.com/us/album/i-wanna-be-feat-soyeon/1454646608?i=1454646609",
-        "playParams": {
-          "id": "1454646609",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "I Wanna Be (feat. SOYEON)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/f6/32/68f632df-9a9c-77d5-612d-07198b75819c/mzaf_1165280779515142057.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "KEY"
       }
     }
   ]
