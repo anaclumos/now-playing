@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1644440679",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1644440679",
+      "attributes": {
+        "albumName": "BORN PINK",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "durationInMillis": 162570,
+        "releaseDate": "2022-09-16",
+        "isrc": "KRA402200024",
+        "artwork": {
+          "width": 2000,
+          "height": 2000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e8e8e8",
+          "textColor1": "0f0609",
+          "textColor2": "2d2d2d",
+          "textColor3": "3a3335",
+          "textColor4": "535353"
+        },
+        "composerName": "Bianca Blush Atterberry, Max Wolfgang, Freddy Wexler, Teddy, R. Tee & 24",
+        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
+        "playParams": {
+          "id": "1644440679",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Hard to Love",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "BLACKPINK"
+      }
+    },
+    {
+      "id": "1609910842",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1609910842",
+      "attributes": {
+        "albumName": "YOUNG-LUV.COM - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-02-21",
+        "durationInMillis": 213427,
+        "isrc": "KRA382203169",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/e7/37/29/e73729f2-ec82-295d-40d0-3025b9f251d8/cover_KM0014771_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "262626",
+          "textColor1": "f6c1ee",
+          "textColor2": "e49fdd",
+          "textColor3": "cda2c6",
+          "textColor4": "be86b9"
+        },
+        "playParams": {
+          "id": "1609910842",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/run2u/1609910841?i=1609910842",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "RUN2U",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5c/8c/1a/5c8c1af8-f572-dc66-3c41-c0d4d1001ff6/mzaf_5502953293371636258.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1608253231",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1608253231",
+      "attributes": {
+        "albumName": "IT'z ME",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2020-03-09",
+        "durationInMillis": 180180,
+        "isrc": "US5TA2000008",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/40/b0/1a/40b01aff-1aa6-5dda-4263-00384501ae35/192641939570_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0c2960",
+          "textColor1": "e1b894",
+          "textColor2": "f8872b",
+          "textColor3": "b69b8a",
+          "textColor4": "c97435"
+        },
+        "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
+        "playParams": {
+          "id": "1608253231",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "THAT'S A NO NO",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e7/8f/58/e78f5800-d6a7-93b0-3f24-d1c4e0efbea6/mzaf_757988966849194679.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ITZY"
+      }
+    },
+    {
       "id": "1616649362",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1616649362",
@@ -27,14 +155,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -70,14 +198,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Flame",
         "previews": [
           {
@@ -142,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -156,14 +284,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -242,14 +370,14 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -271,8 +399,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -285,14 +413,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -314,8 +442,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -370,14 +498,14 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -442,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174387,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 174387,
         "isrc": "KRA392100080",
         "artwork": {
           "width": 1400,
@@ -456,14 +584,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TOMBOY",
         "previews": [
           {
@@ -485,8 +613,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -499,14 +627,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -542,14 +670,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -656,8 +784,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2015-05-04",
         "durationInMillis": 194760,
+        "releaseDate": "2015-05-04",
         "isrc": "GBUM71502420",
         "artwork": {
           "width": 1500,
@@ -742,8 +870,8 @@
           "Alternative"
         ],
         "trackNumber": 4,
-        "releaseDate": "2021-06-18",
         "durationInMillis": 201640,
+        "releaseDate": "2021-06-18",
         "isrc": "GBUM72100848",
         "artwork": {
           "width": 3000,
@@ -842,14 +970,14 @@
           "textColor4": "a9887a"
         },
         "composerName": "Magnus Skylstad & Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/runaway/1451105839?i=1451105843",
         "playParams": {
           "id": "1451105843",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/runaway/1451105839?i=1451105843",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Runaway",
         "previews": [
           {
@@ -870,8 +998,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 194848,
         "releaseDate": "2019-11-15",
+        "durationInMillis": 194848,
         "isrc": "USWD11994667",
         "artwork": {
           "width": 3000,
@@ -884,14 +1012,14 @@
           "textColor4": "33415a"
         },
         "composerName": "Kristen Anderson-Lopez & Robert Lopez",
-        "url": "https://music.apple.com/us/album/into-the-unknown/1487738280?i=1487738283",
         "playParams": {
           "id": "1487738283",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/into-the-unknown/1487738280?i=1487738283",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Into the Unknown",
         "previews": [
           {
@@ -927,14 +1055,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -1011,14 +1139,14 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "playParams": {
           "id": "1650841515",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -1042,8 +1170,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 210800,
         "releaseDate": "2019-07-20",
+        "durationInMillis": 210800,
         "isrc": "KRA381903671",
         "artwork": {
           "width": 3000,
@@ -1055,14 +1183,14 @@
           "textColor3": "b6aaa6",
           "textColor4": "aa9796"
         },
-        "url": "https://music.apple.com/us/album/%EB%82%98%EC%9D%98-%EC%96%B4%EA%B9%A8%EC%97%90-%EA%B8%B0%EB%8C%80%EC%96%B4%EC%9A%94/1584619980?i=1584619985",
         "playParams": {
           "id": "1584619985",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%EB%82%98%EC%9D%98-%EC%96%B4%EA%B9%A8%EC%97%90-%EA%B8%B0%EB%8C%80%EC%96%B4%EC%9A%94/1584619980?i=1584619985",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "\ub098\uc758 \uc5b4\uae68\uc5d0 \uae30\ub300\uc5b4\uc694",
         "previews": [
           {
@@ -1085,8 +1213,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-08-06",
         "durationInMillis": 196293,
+        "releaseDate": "2019-08-06",
         "isrc": "KRF251900096",
         "artwork": {
           "width": 3000,
@@ -1127,8 +1255,8 @@
           "Soundtrack"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-12-19",
         "durationInMillis": 295576,
+        "releaseDate": "2018-12-19",
         "isrc": "JPQ461800540",
         "artwork": {
           "width": 3000,
@@ -1156,134 +1284,6 @@
           }
         ],
         "artistName": "Yugo Kanno"
-      }
-    },
-    {
-      "id": "1635469854",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469854",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 235562,
-        "isrc": "USA2P2230223",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
-        "playParams": {
-          "id": "1635469854",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Cookie",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/71/fe/0171feef-a9e6-8fcd-a42a-2a75d6b35416/mzaf_4783706318511182821.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1608253231",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1608253231",
-      "attributes": {
-        "albumName": "IT'z ME",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2020-03-09",
-        "durationInMillis": 180180,
-        "isrc": "US5TA2000008",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/40/b0/1a/40b01aff-1aa6-5dda-4263-00384501ae35/192641939570_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c2960",
-          "textColor1": "e1b894",
-          "textColor2": "f8872b",
-          "textColor3": "b69b8a",
-          "textColor4": "c97435"
-        },
-        "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
-        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
-        "playParams": {
-          "id": "1608253231",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "THAT'S A NO NO",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e7/8f/58/e78f5800-d6a7-93b0-3f24-d1c4e0efbea6/mzaf_757988966849194679.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ITZY"
-      }
-    },
-    {
-      "id": "1454646609",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1454646609",
-      "attributes": {
-        "albumName": "I Wanna Be - The 1st Album Repackage",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-03-04",
-        "durationInMillis": 193263,
-        "isrc": "KRA301900120",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d4/6b/c5/d46bc510-eef5-97d1-edcf-0a4d4a2ae860/KEY_01R_DigitalCover_l3.jpg/{w}x{h}bb.jpg",
-          "bgColor": "043883",
-          "textColor1": "feffff",
-          "textColor2": "dbe2ed",
-          "textColor3": "cbd7e6",
-          "textColor4": "b0c0d8"
-        },
-        "composerName": "DallasK, DEEZ & Theron Thomas",
-        "url": "https://music.apple.com/us/album/i-wanna-be-feat-soyeon/1454646608?i=1454646609",
-        "playParams": {
-          "id": "1454646609",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "I Wanna Be (feat. SOYEON)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/f6/32/68f632df-9a9c-77d5-612d-07198b75819c/mzaf_1165280779515142057.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "KEY"
       }
     }
   ]
