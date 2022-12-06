@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1451362242",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1451362242",
-      "attributes": {
-        "albumName": "Running with the Wolves - EP",
-        "genreNames": [
-          "Alternative",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2015-02-07",
-        "durationInMillis": 248827,
-        "isrc": "GBUM71500527",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/44/c7/5744c712-f00f-d11d-e65a-036fa5c5d42b/44003180994_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010100",
-          "textColor1": "eae0d0",
-          "textColor2": "efd8be",
-          "textColor3": "bbb3a6",
-          "textColor4": "bfad98"
-        },
-        "composerName": "Magnus Skylstad & Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/runaway/1451362239?i=1451362242",
-        "playParams": {
-          "id": "1451362242",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Runaway",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/c9/f6/59c9f6a5-2134-4b19-e6f4-cd471e40661e/mzaf_1928310880553968561.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "AURORA"
-      }
-    },
-    {
       "id": "1645995263",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1645995263",
@@ -119,8 +76,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -162,12 +119,55 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cure For Me",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d6/2c/fa/d62cfac1-3186-c162-f0f5-ece8adb52663/mzaf_4462072282165867657.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "AURORA"
+      }
+    },
+    {
+      "id": "1451362242",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1451362242",
+      "attributes": {
+        "albumName": "Running with the Wolves - EP",
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2015-02-07",
+        "durationInMillis": 248827,
+        "isrc": "GBUM71500527",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/44/c7/5744c712-f00f-d11d-e65a-036fa5c5d42b/44003180994_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010100",
+          "textColor1": "eae0d0",
+          "textColor2": "efd8be",
+          "textColor3": "bbb3a6",
+          "textColor4": "bfad98"
+        },
+        "composerName": "Magnus Skylstad & Aurora Aksnes",
+        "playParams": {
+          "id": "1451362242",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/runaway/1451362239?i=1451362242",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Runaway",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/c9/f6/59c9f6a5-2134-4b19-e6f4-cd471e40661e/mzaf_1928310880553968561.plus.aac.p.m4a"
           }
         ],
         "artistName": "AURORA"
@@ -199,14 +199,14 @@
           "textColor4": "a9887a"
         },
         "composerName": "Magnus Skylstad & Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/runaway/1451105839?i=1451105843",
         "playParams": {
           "id": "1451105843",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/runaway/1451105839?i=1451105843",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Runaway",
         "previews": [
           {
@@ -241,14 +241,14 @@
           "textColor4": "33415a"
         },
         "composerName": "Kristen Anderson-Lopez & Robert Lopez",
-        "url": "https://music.apple.com/us/album/into-the-unknown/1487738280?i=1487738283",
         "playParams": {
           "id": "1487738283",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/into-the-unknown/1487738280?i=1487738283",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Into the Unknown",
         "previews": [
           {
@@ -284,14 +284,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -332,8 +332,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Selling An Experience",
         "previews": [
           {
@@ -368,14 +368,14 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "playParams": {
           "id": "1650841515",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -498,14 +498,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -541,11 +541,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -583,14 +583,14 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -626,11 +626,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -669,11 +669,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -712,11 +712,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -755,11 +755,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -797,14 +797,14 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -840,14 +840,14 @@
           "textColor4": "cab65f"
         },
         "composerName": "Yugo Kanno",
-        "url": "https://music.apple.com/us/album/il-vento-doro/1500514279?i=1500514280",
         "playParams": {
           "id": "1500514280",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/il-vento-doro/1500514279?i=1500514280",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Il Vento D'oro",
         "previews": [
           {
@@ -889,8 +889,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cookie",
         "previews": [
           {
@@ -931,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "THAT'S A NO NO",
         "previews": [
           {
@@ -968,14 +968,14 @@
           "textColor4": "b0c0d8"
         },
         "composerName": "DallasK, DEEZ & Theron Thomas",
-        "url": "https://music.apple.com/us/album/i-wanna-be-feat-soyeon/1454646608?i=1454646609",
         "playParams": {
           "id": "1454646609",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-wanna-be-feat-soyeon/1454646608?i=1454646609",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I Wanna Be (feat. SOYEON)",
         "previews": [
           {
@@ -1017,8 +1017,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Heart Burn",
         "previews": [
           {
@@ -1102,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "STAY",
         "previews": [
           {
@@ -1140,11 +1140,11 @@
           "textColor4": "cad9dc"
         },
         "composerName": "Andreas \u00d6hrn, Didrik Thott, Jazelle Rodriguez & Sam (DJ Sam F) Fishman",
-        "url": "https://music.apple.com/us/album/take-the-wheel/1469869480?i=1469869482",
         "playParams": {
           "id": "1469869482",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/take-the-wheel/1469869480?i=1469869482",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1188,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Dangerously",
         "previews": [
           {
