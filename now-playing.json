@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1634360916",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1634360916",
+      "attributes": {
+        "albumName": "WE NEED LOVE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 180001,
+        "releaseDate": "2022-07-19",
+        "isrc": "KRA382206236",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/bb/8a/3ebb8a8d-0920-61ac-ab04-990a6148c421/cover_KM0015801_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f480b1",
+          "textColor1": "0a0202",
+          "textColor2": "220202",
+          "textColor3": "391b25",
+          "textColor4": "4c1b25"
+        },
+        "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
+        "playParams": {
+          "id": "1634360916",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "BEAUTIFUL MONSTER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/36/71/1e/36711ea9-eca6-27b2-ab62-29d457348615/mzaf_6720866201111006386.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1628492606",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1628492606",
+      "attributes": {
+        "albumName": "Summer Special [Flip That] - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 177373,
+        "releaseDate": "2022-06-20",
+        "isrc": "KRA252201148",
+        "artwork": {
+          "width": 2000,
+          "height": 2000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/14/dc/41/14dc4183-1b00-9196-d9c2-8b5841c940ae/5054197200588.jpg/{w}x{h}bb.jpg",
+          "bgColor": "041b07",
+          "textColor1": "efe2fb",
+          "textColor2": "e8d1d0",
+          "textColor3": "c0baca",
+          "textColor4": "baaca7"
+        },
+        "composerName": "Lee Su Bin, Linemaster & Sure Kim",
+        "url": "https://music.apple.com/us/album/flip-that/1628492601?i=1628492606",
+        "playParams": {
+          "id": "1628492606",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Flip That",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5f/9f/7a/5f9f7a3c-ea40-f944-6be6-0ec2845864ec/mzaf_4083453423177043111.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA"
+      }
+    },
+    {
       "id": "1584809295",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1584809295",
@@ -13,8 +98,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-09-10",
         "durationInMillis": 245840,
+        "releaseDate": "2021-09-10",
         "isrc": "KRMIM2135398",
         "artwork": {
           "width": 3000,
@@ -32,8 +117,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Antifreeze",
         "previews": [
           {
@@ -98,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 162570,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 162570,
         "isrc": "KRA402200024",
         "artwork": {
           "width": 2000,
@@ -126,8 +211,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "BLACKPINK"
+        "artistName": "BLACKPINK",
+        "contentRating": "explicit"
       }
     },
     {
@@ -142,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213427,
         "releaseDate": "2022-02-21",
+        "durationInMillis": 213427,
         "isrc": "KRA382203169",
         "artwork": {
           "width": 4000,
@@ -183,8 +268,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-03-09",
         "durationInMillis": 180180,
+        "releaseDate": "2020-03-09",
         "isrc": "US5TA2000008",
         "artwork": {
           "width": 1400,
@@ -203,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "THAT'S A NO NO",
         "previews": [
           {
@@ -246,8 +331,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -269,8 +354,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 201895,
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -312,8 +397,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -355,8 +440,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -375,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -398,8 +483,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -570,8 +655,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 198559,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -589,8 +674,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -612,8 +697,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -655,8 +740,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 174387,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100080",
         "artwork": {
           "width": 1400,
@@ -675,8 +760,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TOMBOY",
         "previews": [
           {
@@ -698,8 +783,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -741,8 +826,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -761,8 +846,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -784,8 +869,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -803,8 +888,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -889,8 +974,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Running with the Wolves",
         "previews": [
           {
@@ -912,8 +997,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 248827,
         "releaseDate": "2015-02-07",
+        "durationInMillis": 248827,
         "isrc": "GBUM71500527",
         "artwork": {
           "width": 1500,
@@ -975,8 +1060,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cure For Me",
         "previews": [
           {
@@ -1103,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Into the Unknown",
         "previews": [
           {
@@ -1146,8 +1231,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -1197,92 +1282,6 @@
           }
         ],
         "artistName": "Christopher Nicholas Bangs"
-      }
-    },
-    {
-      "id": "1650841515",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1650841515",
-      "attributes": {
-        "albumName": "Midnights (3am Edition)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-10-21",
-        "durationInMillis": 200690,
-        "isrc": "USUG12205736",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eae7e2",
-          "textColor1": "120b14",
-          "textColor2": "412423",
-          "textColor3": "3d373d",
-          "textColor4": "634b49"
-        },
-        "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
-        "playParams": {
-          "id": "1650841515",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Anti-Hero",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Taylor Swift"
-      }
-    },
-    {
-      "id": "1584619985",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1584619985",
-      "attributes": {
-        "albumName": "\ud638\ud154 \ub378\ub8e8\ub098 (Original Television Soundtrack)",
-        "genreNames": [
-          "TV Soundtrack",
-          "Music",
-          "Soundtrack",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 210800,
-        "releaseDate": "2019-07-20",
-        "isrc": "KRA381903671",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/38/55/af/3855af65-b338-0a93-c0d8-0aac367c3279/8809829746074.jpg/{w}x{h}bb.jpg",
-          "bgColor": "191c2f",
-          "textColor1": "ddcdc3",
-          "textColor2": "cfb6b0",
-          "textColor3": "b6aaa6",
-          "textColor4": "aa9796"
-        },
-        "url": "https://music.apple.com/us/album/%EB%82%98%EC%9D%98-%EC%96%B4%EA%B9%A8%EC%97%90-%EA%B8%B0%EB%8C%80%EC%96%B4%EC%9A%94/1584619980?i=1584619985",
-        "playParams": {
-          "id": "1584619985",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "\ub098\uc758 \uc5b4\uae68\uc5d0 \uae30\ub300\uc5b4\uc694",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/fb/7c/90fb7cdc-d39e-2ae8-4d6b-3ae087e0bb67/mzaf_11496085998763869904.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "10cm"
       }
     }
   ]
