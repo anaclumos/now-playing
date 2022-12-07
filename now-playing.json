@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1608253231",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1608253231",
+      "attributes": {
+        "albumName": "IT'z ME",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2020-03-09",
+        "durationInMillis": 180180,
+        "isrc": "US5TA2000008",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/40/b0/1a/40b01aff-1aa6-5dda-4263-00384501ae35/192641939570_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0c2960",
+          "textColor1": "e1b894",
+          "textColor2": "f8872b",
+          "textColor3": "b69b8a",
+          "textColor4": "c97435"
+        },
+        "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
+        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
+        "playParams": {
+          "id": "1608253231",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "THAT'S A NO NO",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e7/8f/58/e78f5800-d6a7-93b0-3f24-d1c4e0efbea6/mzaf_757988966849194679.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ITZY"
+      }
+    },
+    {
+      "id": "1616649362",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1616649362",
+      "attributes": {
+        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
+        "isrc": "KRA382204244",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "110d01",
+          "textColor2": "442217",
+          "textColor3": "403e34",
+          "textColor4": "694e46"
+        },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
+        "playParams": {
+          "id": "1616649362",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Event Horizon",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
+      }
+    },
+    {
+      "id": "1621089614",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1621089614",
+      "attributes": {
+        "albumName": "FEARLESS - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-05-02",
+        "durationInMillis": 201895,
+        "isrc": "USA2P2219220",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/90/dc/9f/90dc9fdb-c0f3-f506-0942-0e33c94d26f4/196922016622_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "dedede",
+          "textColor3": "cbcbcb",
+          "textColor4": "b1b1b1"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
+        "playParams": {
+          "id": "1621089614",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Blue Flame",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/06/6e/8e/066e8ee8-22a5-29ce-9840-455cfa9e7f2f/mzaf_10761610533428846279.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
       "id": "1635469851",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1635469851",
@@ -13,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -56,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -99,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -205,8 +333,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -248,8 +376,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Illusion",
         "previews": [
           {
@@ -271,8 +399,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 198559,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 198559,
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -313,8 +441,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -356,8 +484,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174387,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 174387,
         "isrc": "KRA392100080",
         "artwork": {
           "width": 1400,
@@ -376,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TOMBOY",
         "previews": [
           {
@@ -399,8 +527,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -419,8 +547,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -442,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -484,8 +612,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199146,
         "releaseDate": "2016-01-29",
+        "durationInMillis": 199146,
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -554,8 +682,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/78/ac/8378ac90-8aa7-fd0e-e5e9-b0713454f39c/mzaf_16193074131465976322.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Charlie Puth",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Charlie Puth"
       }
     },
     {
@@ -571,8 +699,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185000,
         "releaseDate": "2022-02-18",
+        "durationInMillis": 185000,
         "isrc": "KRA382203167",
         "artwork": {
           "width": 3000,
@@ -590,8 +718,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love, Maybe",
         "previews": [
           {
@@ -613,8 +741,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 248827,
         "releaseDate": "2015-02-07",
+        "durationInMillis": 248827,
         "isrc": "GBUM71500527",
         "artwork": {
           "width": 1500,
@@ -719,8 +847,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Real Love",
         "previews": [
           {
@@ -742,8 +870,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 173413,
         "releaseDate": "2022-01-17",
+        "durationInMillis": 173413,
         "isrc": "KRMIM2201803",
         "artwork": {
           "width": 1400,
@@ -848,8 +976,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -871,8 +999,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -891,8 +1019,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -934,8 +1062,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heart Burn",
         "previews": [
           {
@@ -985,134 +1113,6 @@
           }
         ],
         "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1608253231",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1608253231",
-      "attributes": {
-        "albumName": "IT'z ME",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 180180,
-        "releaseDate": "2020-03-09",
-        "isrc": "US5TA2000008",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/40/b0/1a/40b01aff-1aa6-5dda-4263-00384501ae35/192641939570_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c2960",
-          "textColor1": "e1b894",
-          "textColor2": "f8872b",
-          "textColor3": "b69b8a",
-          "textColor4": "c97435"
-        },
-        "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
-        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
-        "playParams": {
-          "id": "1608253231",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "THAT'S A NO NO",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e7/8f/58/e78f5800-d6a7-93b0-3f24-d1c4e0efbea6/mzaf_757988966849194679.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ITZY"
-      }
-    },
-    {
-      "id": "1616649362",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616649362",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2022-03-30",
-        "durationInMillis": 300787,
-        "isrc": "KRA382204244",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "110d01",
-          "textColor2": "442217",
-          "textColor3": "403e34",
-          "textColor4": "694e46"
-        },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
-        "playParams": {
-          "id": "1616649362",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Event Horizon",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
-      }
-    },
-    {
-      "id": "1621089614",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1621089614",
-      "attributes": {
-        "albumName": "FEARLESS - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-05-02",
-        "durationInMillis": 201895,
-        "isrc": "USA2P2219220",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/90/dc/9f/90dc9fdb-c0f3-f506-0942-0e33c94d26f4/196922016622_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "dedede",
-          "textColor3": "cbcbcb",
-          "textColor4": "b1b1b1"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
-        "playParams": {
-          "id": "1621089614",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Blue Flame",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/06/6e/8e/066e8ee8-22a5-29ce-9840-455cfa9e7f2f/mzaf_10761610533428846279.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
       }
     },
     {
@@ -1197,8 +1197,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
           }
         ],
-        "artistName": "BLACKPINK",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "BLACKPINK"
       }
     },
     {
@@ -1274,8 +1274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BEAUTIFUL MONSTER",
         "previews": [
           {
