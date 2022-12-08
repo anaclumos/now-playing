@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1645995263",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1645995263",
+      "attributes": {
+        "albumName": "I love - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
+        "isrc": "KRA392200038",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b2/20/a2/b220a21f-19ce-fae4-625b-c0a7223d45e2/196922202544_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "980400",
+          "textColor1": "f9cca9",
+          "textColor2": "fbbd94",
+          "textColor3": "e5a487",
+          "textColor4": "e79876"
+        },
+        "composerName": "So-yeon, Pop Time & Kako",
+        "playParams": {
+          "id": "1645995263",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Nxde",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6a/3e/1e/6a3e1ec3-269a-9e0f-71c0-9d70dc4d35b4/mzaf_16575997657536943725.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1552170692",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1552170692",
+      "attributes": {
+        "albumName": "Quiet Night",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2014-10-10",
+        "durationInMillis": 231360,
+        "isrc": "KRZ291937670",
+        "artwork": {
+          "width": 1417,
+          "height": 1417,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/02/02/96/02029690-190f-f5ae-1c69-d85700b8b220/Quiet_Night.jpg/{w}x{h}bb.jpg",
+          "bgColor": "382a5b",
+          "textColor1": "e5e5e5",
+          "textColor2": "c1c4c3",
+          "textColor3": "c2bfc9",
+          "textColor4": "a6a5ae"
+        },
+        "playParams": {
+          "id": "1552170692",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/sogyeokdong/1552170690?i=1552170692",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Sogyeokdong",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/dc/99/0bdc9965-aa74-7739-9957-09cbf6e76035/mzaf_3553672209212188797.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Seotaiji"
+      }
+    },
+    {
       "id": "925184316",
       "type": "songs",
       "href": "/v1/catalog/us/songs/925184316",
@@ -33,8 +118,8 @@
         },
         "url": "https://music.apple.com/us/album/sogyeokdong/925184315?i=925184316",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SOGYEOKDONG",
         "previews": [
           {
@@ -42,48 +127,6 @@
           }
         ],
         "artistName": "IU"
-      }
-    },
-    {
-      "id": "1552170692",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1552170692",
-      "attributes": {
-        "albumName": "Quiet Night",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2014-10-10",
-        "durationInMillis": 231360,
-        "isrc": "KRZ291937670",
-        "artwork": {
-          "width": 1417,
-          "height": 1417,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/02/02/96/02029690-190f-f5ae-1c69-d85700b8b220/Quiet_Night.jpg/{w}x{h}bb.jpg",
-          "bgColor": "382a5b",
-          "textColor1": "e5e5e5",
-          "textColor2": "c1c4c3",
-          "textColor3": "c2bfc9",
-          "textColor4": "a6a5ae"
-        },
-        "url": "https://music.apple.com/us/album/sogyeokdong/1552170690?i=1552170692",
-        "playParams": {
-          "id": "1552170692",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Sogyeokdong",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/dc/99/0bdc9965-aa74-7739-9957-09cbf6e76035/mzaf_3553672209212188797.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Seotaiji"
       }
     },
     {
@@ -99,8 +142,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-02-18",
         "durationInMillis": 185000,
+        "releaseDate": "2022-02-18",
         "isrc": "KRA382203167",
         "artwork": {
           "width": 3000,
@@ -112,11 +155,11 @@
           "textColor3": "dfd8d8",
           "textColor4": "97bf9b"
         },
+        "url": "https://music.apple.com/us/album/love-maybe/1609910932?i=1609910933",
         "playParams": {
           "id": "1609910933",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-maybe/1609910932?i=1609910933",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -155,11 +198,11 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -198,11 +241,11 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -247,8 +290,8 @@
         },
         "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -270,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -284,11 +327,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -326,11 +369,11 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -369,11 +412,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -412,11 +455,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -441,8 +484,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -461,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -484,8 +527,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -498,11 +541,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -527,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -546,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -588,8 +631,8 @@
         },
         "url": "https://music.apple.com/us/album/%EB%82%B4%EA%B0%80-%EB%84%88%EC%9D%98-%EA%B3%81%EC%97%90-%EC%9E%A0%EC%8B%9C-%EC%82%B4%EC%95%98%EB%8B%A4%EB%8A%94-%EA%B1%B8-feat-%EA%B9%80%EC%97%B0%EC%9A%B0/483520555?i=483520560",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "\ub0b4\uac00 \ub108\uc758 \uacc1\uc5d0 \uc7a0\uc2dc \uc0b4\uc558\ub2e4\ub294 \uac78 (feat. \uae40\uc5f0\uc6b0)",
         "previews": [
           {
@@ -611,8 +654,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-09-19",
         "durationInMillis": 237956,
+        "releaseDate": "2016-09-19",
         "isrc": "KRB471601208",
         "artwork": {
           "width": 4000,
@@ -624,11 +667,11 @@
           "textColor3": "d0cdce",
           "textColor4": "b97228"
         },
+        "url": "https://music.apple.com/us/album/the-end/1527238323?i=1527238325",
         "playParams": {
           "id": "1527238325",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-end/1527238323?i=1527238325",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -666,11 +709,11 @@
           "textColor3": "2f3837",
           "textColor4": "33403d"
         },
-        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "playParams": {
           "id": "1584809295",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -696,8 +739,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-04-05",
         "durationInMillis": 210384,
+        "releaseDate": "2019-04-05",
         "isrc": "KRA381901477",
         "artwork": {
           "width": 3000,
@@ -715,8 +758,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dear You (feat. Sukhoon Chang) [prod. glowingdog]",
         "previews": [
           {
@@ -738,8 +781,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-06-01",
         "durationInMillis": 199653,
+        "releaseDate": "2020-06-01",
         "isrc": "US5TA2000050",
         "artwork": {
           "width": 1400,
@@ -752,11 +795,11 @@
           "textColor4": "bba24b"
         },
         "composerName": "Uzoechi Emenike, Justin Tranter, Julia Michaels, Zara Larsson, J.Y. Park & Bibi",
+        "url": "https://music.apple.com/us/album/more-more/1515404856?i=1515404862",
         "playParams": {
           "id": "1515404862",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/more-more/1515404856?i=1515404862",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -801,8 +844,8 @@
         },
         "url": "https://music.apple.com/us/album/real-love/1616073522?i=1616073530",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Real Love",
         "previews": [
           {
@@ -825,8 +868,8 @@
           "Folk"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-07-03",
         "durationInMillis": 201280,
+        "releaseDate": "2022-07-03",
         "isrc": "KRF252200137",
         "artwork": {
           "width": 3000,
@@ -838,11 +881,11 @@
           "textColor3": "563442",
           "textColor4": "533d3d"
         },
+        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "playParams": {
           "id": "1632365364",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/gradation/1632365363?i=1632365364",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -890,8 +933,8 @@
         },
         "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Celeb",
         "previews": [
           {
@@ -912,8 +955,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-19",
         "durationInMillis": 208308,
+        "releaseDate": "2021-02-19",
         "isrc": "ZZOPM2104359",
         "artwork": {
           "width": 2000,
@@ -932,8 +975,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Look Back (feat. Syd Silvair)",
         "previews": [
           {
@@ -956,8 +999,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -975,8 +1018,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -1012,11 +1055,11 @@
           "textColor4": "c38230"
         },
         "composerName": "BIBI, twlv, 72, Olof Lindskog, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smiley-feat-bibi/1605083051?i=1605083055",
         "playParams": {
           "id": "1605083055",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smiley-feat-bibi/1605083051?i=1605083055",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1041,8 +1084,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-30",
         "durationInMillis": 191907,
+        "releaseDate": "2022-08-30",
         "isrc": "KRA302200162",
         "artwork": {
           "width": 4000,
@@ -1055,11 +1098,11 @@
           "textColor4": "c6b292"
         },
         "composerName": "KENZIE, Moonshine, KC & Ninos Hanna",
+        "url": "https://music.apple.com/us/album/gasoline/1641655639?i=1641655640",
         "playParams": {
           "id": "1641655640",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/gasoline/1641655639?i=1641655640",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1104,8 +1147,8 @@
         },
         "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -1127,8 +1170,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -1147,8 +1190,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -1170,8 +1213,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-06-29",
         "durationInMillis": 193173,
+        "releaseDate": "2022-06-29",
         "isrc": "KRMIM2236311",
         "artwork": {
           "width": 3000,
@@ -1184,11 +1227,11 @@
           "textColor4": "5d3122"
         },
         "composerName": "SUNMI, Kyuwon \"Q\" Kim & CobiCudi",
+        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "playParams": {
           "id": "1630553208",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1232,8 +1275,8 @@
         },
         "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BEAUTIFUL MONSTER",
         "previews": [
           {
@@ -1241,49 +1284,6 @@
           }
         ],
         "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1628492606",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1628492606",
-      "attributes": {
-        "albumName": "Summer Special [Flip That] - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-06-20",
-        "durationInMillis": 177373,
-        "isrc": "KRA252201148",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/14/dc/41/14dc4183-1b00-9196-d9c2-8b5841c940ae/5054197200588.jpg/{w}x{h}bb.jpg",
-          "bgColor": "041b07",
-          "textColor1": "efe2fb",
-          "textColor2": "e8d1d0",
-          "textColor3": "c0baca",
-          "textColor4": "baaca7"
-        },
-        "composerName": "Lee Su Bin, Linemaster & Sure Kim",
-        "playParams": {
-          "id": "1628492606",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/flip-that/1628492601?i=1628492606",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Flip That",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5f/9f/7a/5f9f7a3c-ea40-f944-6be6-0ec2845864ec/mzaf_4083453423177043111.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LOONA"
       }
     }
   ]
