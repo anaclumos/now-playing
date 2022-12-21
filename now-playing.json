@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1555401611",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1555401611",
+      "attributes": {
+        "albumName": "Summer Nights",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2018-04-09",
+        "durationInMillis": 208240,
+        "isrc": "US5TA1800038",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0e0400",
+          "textColor1": "f1e096",
+          "textColor2": "efc76f",
+          "textColor3": "c3b478",
+          "textColor4": "c2a059"
+        },
+        "composerName": "J.Y. Park",
+        "url": "https://music.apple.com/us/album/what-is-love/1555401452?i=1555401611",
+        "playParams": {
+          "id": "1555401611",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "What is Love?",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/87/6d/0a/876d0a3e-806e-024b-dafc-abdf58d77c4f/mzaf_8856307591222303999.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1635469851",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469851",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
+        "isrc": "USA2P2230222",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
+        "playParams": {
+          "id": "1635469851",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Hype Boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1635470002",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635470002",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 177947,
+        "isrc": "USA2P2230224",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Amanda Lundstedt, 250 & Gigi",
+        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
+        "playParams": {
+          "id": "1635470002",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Hurt",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/38/a3/cf38a361-d2e1-a5e7-b948-b924673953a4/mzaf_124166364879994793.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1657231962",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1657231962",
@@ -119,8 +248,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Il Vento D'oro",
         "previews": [
           {
@@ -204,8 +333,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -290,8 +419,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "MY WAY",
         "previews": [
           {
@@ -462,16 +591,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BIZCOCHITO",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/77/b9/b1/77b9b173-ebe7-2644-c77b-9154e3d096ef/mzaf_10940776369934883729.plus.aac.p.m4a"
           }
         ],
-        "artistName": "ROSAL\u00cdA",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "ROSAL\u00cdA"
       }
     },
     {
@@ -593,8 +722,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Boys Like You",
         "previews": [
           {
@@ -635,8 +764,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Freaky",
         "previews": [
           {
@@ -720,8 +849,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LION",
         "previews": [
           {
@@ -762,8 +891,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Red Python",
         "previews": [
           {
@@ -849,8 +978,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "What Makes You Beautiful",
         "previews": [
           {
@@ -891,8 +1020,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Who Are You (Instrumental)",
         "previews": [
           {
@@ -1019,8 +1148,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "1+1=0 (feat. DEAN)",
         "previews": [
           {
@@ -1063,8 +1192,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Woowa",
         "previews": [
           {
@@ -1147,8 +1276,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "2002",
         "previews": [
           {
@@ -1156,133 +1285,6 @@
           }
         ],
         "artistName": "Anne-Marie"
-      }
-    },
-    {
-      "id": "1460057270",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1460057270",
-      "attributes": {
-        "albumName": "ORION",
-        "genreNames": [
-          "Alternative",
-          "Music"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2019-01-25",
-        "durationInMillis": 164587,
-        "isrc": "USUM71900447",
-        "artwork": {
-          "width": 3075,
-          "height": 3075,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/63/2f/46/632f4638-76ea-f052-4fdb-d00397245034/00602577682339.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000200",
-          "textColor1": "f2b813",
-          "textColor2": "dc9002",
-          "textColor3": "c2930f",
-          "textColor4": "b07401"
-        },
-        "composerName": "Samuel Harris, Casey Harris, Adam Levin, Eric Frederic, Tom Peyton & Thomas Eriksen",
-        "url": "https://music.apple.com/us/album/boom/1460057262?i=1460057270",
-        "playParams": {
-          "id": "1460057270",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "BOOM",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a3/e8/2d/a3e82d5c-583e-c224-69a1-8c258154f26a/mzaf_9317863563553190600.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "X Ambassadors"
-      }
-    },
-    {
-      "id": "1640343366",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1640343366",
-      "attributes": {
-        "albumName": "A Different Kind Of Human (Step II)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2019-04-05",
-        "durationInMillis": 219058,
-        "isrc": "GBUM71808077",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/2d/69/cc2d69d3-61f2-1c69-159c-898bac81cc14/5056167113911.jpg/{w}x{h}bb.jpg",
-          "bgColor": "9f371c",
-          "textColor1": "f1e6ee",
-          "textColor2": "f0dfe3",
-          "textColor3": "e1c3c4",
-          "textColor4": "dfbebb"
-        },
-        "composerName": "Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/daydreamer/1640343353?i=1640343366",
-        "playParams": {
-          "id": "1640343366",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Daydreamer",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b2/a7/1a/b2a71ae0-7342-0c1d-6250-e0d822c835ca/mzaf_1964854383780025492.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "AURORA"
-      }
-    },
-    {
-      "id": "1640353346",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1640353346",
-      "attributes": {
-        "albumName": "The Gods We Can Touch",
-        "genreNames": [
-          "Indie Pop",
-          "Music",
-          "Alternative"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2021-06-18",
-        "durationInMillis": 201640,
-        "isrc": "GBUM72100848",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/17/ee/5e/17ee5e67-1dcd-beab-a5d4-4845f9dbacbf/5056167167433.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a2272c",
-          "textColor1": "fbf2dc",
-          "textColor2": "f1edbc",
-          "textColor3": "e9c9b8",
-          "textColor4": "e1c59f"
-        },
-        "composerName": "Magnus Skylstad & Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
-        "playParams": {
-          "id": "1640353346",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Cure For Me",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d6/2c/fa/d62cfac1-3186-c162-f0f5-ece8adb52663/mzaf_4462072282165867657.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "AURORA"
       }
     }
   ]
