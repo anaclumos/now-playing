@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1657231962",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1657231962",
+      "attributes": {
+        "albumName": "Ditto - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
+        "isrc": "USA2P2254487",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fdfcff",
+          "textColor1": "36080e",
+          "textColor2": "440a11",
+          "textColor3": "5e393e",
+          "textColor4": "693b41"
+        },
+        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
+        "playParams": {
+          "id": "1657231962",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Ditto",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1588219798",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1588219798",
@@ -13,8 +56,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -99,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -184,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -427,8 +470,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/77/b9/b1/77b9b173-ebe7-2644-c77b-9154e3d096ef/mzaf_10940776369934883729.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "ROSAL\u00cdA"
+        "artistName": "ROSAL\u00cdA",
+        "contentRating": "explicit"
       }
     },
     {
@@ -530,8 +573,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 223387,
+        "releaseDate": "2022-10-21",
         "isrc": "US5TA2200144",
         "artwork": {
           "width": 1400,
@@ -614,8 +657,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 173560,
         "releaseDate": "2022-11-30",
+        "durationInMillis": 173560,
         "isrc": "US5TA2200145",
         "artwork": {
           "width": 1400,
@@ -657,8 +700,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 210960,
         "releaseDate": "2019-10-25",
+        "durationInMillis": 210960,
         "isrc": "KRA491901000",
         "artwork": {
           "width": 1400,
@@ -786,8 +829,8 @@
           "Pop/Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2011-09-11",
         "durationInMillis": 199133,
+        "releaseDate": "2011-09-11",
         "isrc": "GBHMU1100018",
         "artwork": {
           "width": 1500,
@@ -871,8 +914,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-03-24",
         "durationInMillis": 213293,
+        "releaseDate": "2020-03-24",
         "isrc": "KRA382000867",
         "artwork": {
           "width": 3000,
@@ -913,8 +956,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 191104,
         "releaseDate": "2019-06-17",
+        "durationInMillis": 191104,
         "isrc": "KRMIM1909348",
         "artwork": {
           "width": 4000,
@@ -957,8 +1000,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2017-06-02",
         "durationInMillis": 192066,
+        "releaseDate": "2017-06-02",
         "isrc": "KRA381701233",
         "artwork": {
           "width": 3543,
@@ -1000,8 +1043,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 211760,
         "releaseDate": "2019-03-19",
+        "durationInMillis": 211760,
         "isrc": "KRA381900785",
         "artwork": {
           "width": 3000,
@@ -1042,8 +1085,8 @@
           "Music"
         ],
         "trackNumber": 24,
-        "releaseDate": "2016-05-06",
         "durationInMillis": 91505,
+        "releaseDate": "2016-05-06",
         "isrc": "DEQ121639507",
         "artwork": {
           "width": 1448,
@@ -1126,8 +1169,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 164587,
         "releaseDate": "2019-01-25",
+        "durationInMillis": 164587,
         "isrc": "USUM71900447",
         "artwork": {
           "width": 3075,
@@ -1240,49 +1283,6 @@
           }
         ],
         "artistName": "AURORA"
-      }
-    },
-    {
-      "id": "1560735551",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1560735551",
-      "attributes": {
-        "albumName": "SOUR",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 6,
-        "releaseDate": "2021-05-14",
-        "durationInMillis": 178148,
-        "isrc": "USUG12101245",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "675f9a",
-          "textColor1": "f3f6fb",
-          "textColor2": "fbeaf0",
-          "textColor3": "d7d8e8",
-          "textColor4": "decedf"
-        },
-        "composerName": "Olivia Rodrigo, Daniel Nigro, Josh Farro & Hayley Williams",
-        "url": "https://music.apple.com/us/album/good-4-u/1560735414?i=1560735551",
-        "playParams": {
-          "id": "1560735551",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "good 4 u",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/eb/e3/74/ebe374db-3e39-ba74-cd00-719446bd35ba/mzaf_105642776650266728.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Olivia Rodrigo",
-        "contentRating": "explicit"
       }
     }
   ]
