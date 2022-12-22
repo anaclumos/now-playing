@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "637844275",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/637844275",
+      "attributes": {
+        "albumName": "Red Python",
+        "genreNames": [
+          "Jazz",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "durationInMillis": 349440,
+        "releaseDate": "2013-04-16",
+        "isrc": "DKBDB1301604",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music2/v4/13/e6/76/13e67612-595d-5142-725e-7034b7f872a7/888002140944.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "0f0d0e",
+          "textColor2": "002338",
+          "textColor3": "3f3e3e",
+          "textColor4": "334f60"
+        },
+        "composerName": "Ole Matthiessen",
+        "url": "https://music.apple.com/us/album/red-python/637844216?i=637844275",
+        "playParams": {
+          "id": "637844275",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Red Python",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/70/39/b9/7039b932-cb7e-44e9-574d-6ddc2cda284d/mzaf_6711119974352375929.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Ole Matthiessen"
+      }
+    },
+    {
+      "id": "1488300934",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1488300934",
+      "attributes": {
+        "albumName": "Love Poem - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2019-11-01",
+        "durationInMillis": 258239,
+        "isrc": "KRA381904707",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b8/b8/18/b8b81899-a984-be85-5656-ec1f2fc10227/5_Love_poem.jpg/{w}x{h}bb.jpg",
+          "bgColor": "efe0e7",
+          "textColor1": "282b33",
+          "textColor2": "313346",
+          "textColor3": "504f57",
+          "textColor4": "575566"
+        },
+        "playParams": {
+          "id": "1488300934",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/love-poem/1488300927?i=1488300934",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Love Poem",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/06/93/d7/0693d7a2-3d41-55e3-856e-b6fca81e90e4/mzaf_11698741303662225188.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IU"
+      }
+    },
+    {
       "id": "923608497",
       "type": "songs",
       "href": "/v1/catalog/us/songs/923608497",
@@ -12,8 +97,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "1947-12-28",
         "durationInMillis": 154960,
+        "releaseDate": "1947-12-28",
         "isrc": "USSM10018231",
         "artwork": {
           "width": 1425,
@@ -26,14 +111,14 @@
           "textColor4": "be9974"
         },
         "composerName": "H. Gillespie & J. Fred Coots",
+        "url": "https://music.apple.com/us/album/santa-claus-is-comin-to-town/923608491?i=923608497",
         "playParams": {
           "id": "923608497",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/santa-claus-is-comin-to-town/923608491?i=923608497",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Santa Claus Is Comin' to Town",
         "previews": [
           {
@@ -54,8 +139,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 229638,
         "releaseDate": "2013-10-25",
+        "durationInMillis": 229638,
         "isrc": "GBCTA1300103",
         "artwork": {
           "width": 3782,
@@ -68,11 +153,11 @@
           "textColor4": "b99165"
         },
         "composerName": "Kelly Clarkson & Greg Kurstin",
-        "url": "https://music.apple.com/us/album/underneath-the-tree/1537216364?i=1537216368",
         "playParams": {
           "id": "1537216368",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/underneath-the-tree/1537216364?i=1537216368",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -184,8 +269,8 @@
           "Christmas"
         ],
         "trackNumber": 1,
-        "durationInMillis": 207200,
         "releaseDate": "2011-10-14",
+        "durationInMillis": 207200,
         "isrc": "USRE11300223",
         "artwork": {
           "width": 1425,
@@ -198,11 +283,11 @@
           "textColor4": "7c3f41"
         },
         "composerName": "Meredith Willson",
-        "url": "https://music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/1592739844?i=1592740089",
         "playParams": {
           "id": "1592740089",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/1592739844?i=1592740089",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -249,8 +334,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rockin' Around the Christmas Tree (Single)",
         "previews": [
           {
@@ -279,8 +364,8 @@
           "Standards"
         ],
         "trackNumber": 4,
-        "durationInMillis": 152570,
         "releaseDate": "1963-10-14",
+        "durationInMillis": 152570,
         "isrc": "USSM16300086",
         "artwork": {
           "width": 600,
@@ -293,11 +378,11 @@
           "textColor4": "f1c3bf"
         },
         "composerName": "Edward Pola & George Wyle",
-        "url": "https://music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594",
         "playParams": {
           "id": "171434594",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -324,8 +409,8 @@
           "Oldies"
         ],
         "trackNumber": 5,
-        "releaseDate": "1963-11-22",
         "durationInMillis": 186241,
+        "releaseDate": "1963-11-22",
         "isrc": "USSM10905166",
         "artwork": {
           "width": 604,
@@ -338,14 +423,14 @@
           "textColor4": "734a45"
         },
         "composerName": "Leroy Anderson",
+        "url": "https://music.apple.com/us/album/sleigh-ride/336036941?i=336037282",
         "playParams": {
           "id": "336037282",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sleigh-ride/336036941?i=336037282",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sleigh Ride",
         "previews": [
           {
@@ -415,8 +500,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "1945-12-01",
         "durationInMillis": 183613,
+        "releaseDate": "1945-12-01",
         "isrc": "USMC14750470",
         "artwork": {
           "width": 1426,
@@ -429,14 +514,14 @@
           "textColor4": "7e3e41"
         },
         "composerName": "Irving Berlin",
+        "url": "https://music.apple.com/us/album/white-christmas/1425234668?i=1425235073",
         "playParams": {
           "id": "1425235073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/white-christmas/1425234668?i=1425235073",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "White Christmas",
         "previews": [
           {
@@ -460,8 +545,8 @@
           "Oldies"
         ],
         "trackNumber": 11,
-        "releaseDate": "1963-11-22",
         "durationInMillis": 170144,
+        "releaseDate": "1963-11-22",
         "isrc": "USSM10905172",
         "artwork": {
           "width": 604,
@@ -474,14 +559,14 @@
           "textColor4": "734a45"
         },
         "composerName": "Phil Spector, Ellie Greenwich & Jeff Barry",
+        "url": "https://music.apple.com/us/album/christmas-baby-please-come-home/336036941?i=336037344",
         "playParams": {
           "id": "336037344",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/christmas-baby-please-come-home/336036941?i=336037344",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Christmas (Baby Please Come Home)",
         "previews": [
           {
@@ -502,8 +587,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "1957-01-01",
         "durationInMillis": 130973,
+        "releaseDate": "1957-01-01",
         "isrc": "USMC15746480",
         "artwork": {
           "width": 3000,
@@ -516,14 +601,14 @@
           "textColor4": "ecd0c1"
         },
         "composerName": "James Ross Boothe & Joseph Carlton Beal",
+        "url": "https://music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132",
         "playParams": {
           "id": "1358462132",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Jingle Bell Rock",
         "previews": [
           {
@@ -588,8 +673,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -602,11 +687,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -631,8 +716,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-01",
         "durationInMillis": 169245,
+        "releaseDate": "2020-01-01",
         "isrc": "USAT22006592",
         "artwork": {
           "width": 1425,
@@ -645,14 +730,14 @@
           "textColor4": "aea49d"
         },
         "composerName": "Amanda Ava Koci, Gian Stone, Henry Walter, Jesse Aicher & Sam Martin",
+        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
         "playParams": {
           "id": "1535473482",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Christmas Without You",
         "previews": [
           {
@@ -674,8 +759,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177187,
         "releaseDate": "2022-04-05",
+        "durationInMillis": 177187,
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -687,11 +772,11 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -736,8 +821,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -779,8 +864,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Outta My Head",
         "previews": [
           {
@@ -845,8 +930,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 208240,
         "releaseDate": "2018-04-09",
+        "durationInMillis": 208240,
         "isrc": "US5TA1800038",
         "artwork": {
           "width": 1400,
@@ -859,11 +944,11 @@
           "textColor4": "c2a059"
         },
         "composerName": "J.Y. Park",
-        "url": "https://music.apple.com/us/album/what-is-love/1555401452?i=1555401611",
         "playParams": {
           "id": "1555401611",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/what-is-love/1555401452?i=1555401611",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -888,8 +973,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -902,14 +987,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -951,8 +1036,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hurt",
         "previews": [
           {
@@ -974,8 +1059,8 @@
           "Soundtrack"
         ],
         "trackNumber": 1,
-        "durationInMillis": 295576,
         "releaseDate": "2018-12-19",
+        "durationInMillis": 295576,
         "isrc": "JPQ461800540",
         "artwork": {
           "width": 3000,
@@ -988,11 +1073,11 @@
           "textColor4": "cab65f"
         },
         "composerName": "Yugo Kanno",
-        "url": "https://music.apple.com/us/album/il-vento-doro/1500514279?i=1500514280",
         "playParams": {
           "id": "1500514280",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/il-vento-doro/1500514279?i=1500514280",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1017,8 +1102,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -1031,14 +1116,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -1060,8 +1145,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-12-03",
         "durationInMillis": 377372,
+        "releaseDate": "2022-12-03",
         "isrc": "KRA492201240",
         "artwork": {
           "width": 1400,
@@ -1074,14 +1159,14 @@
           "textColor4": "306cc5"
         },
         "composerName": "Los, JUSTHIS, Mckdaddy, R.Tee, JuniorChef, DON MALIK, Huh & KHAN",
+        "url": "https://music.apple.com/us/album/my-way/1657315136?i=1657315340",
         "playParams": {
           "id": "1657315340",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/my-way/1657315136?i=1657315340",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "MY WAY",
         "previews": [
           {
@@ -1147,8 +1232,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -1160,11 +1245,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1217,93 +1302,6 @@
           }
         ],
         "artistName": "BIGBANG"
-      }
-    },
-    {
-      "id": "1607918709",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1607918709",
-      "attributes": {
-        "albumName": "MOTOMAMI",
-        "genreNames": [
-          "Pop Latino",
-          "Music",
-          "Latin",
-          "Pop"
-        ],
-        "trackNumber": 7,
-        "durationInMillis": 109109,
-        "releaseDate": "2022-03-04",
-        "isrc": "USSM12109223",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/5b/da/8d/5bda8d04-7f2f-4417-12a0-e039dd011152/886449800193.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "191716",
-          "textColor2": "5b1b17",
-          "textColor3": "474544",
-          "textColor4": "7c4946"
-        },
-        "composerName": "ROSAL\u00cdA, Michael Uzowuru & David Rodriguez",
-        "url": "https://music.apple.com/us/album/bizcochito/1607918350?i=1607918709",
-        "playParams": {
-          "id": "1607918709",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "BIZCOCHITO",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/77/b9/b1/77b9b173-ebe7-2644-c77b-9154e3d096ef/mzaf_10940776369934883729.plus.aac.p.m4a"
-          }
-        ],
-        "contentRating": "explicit",
-        "artistName": "ROSAL\u00cdA"
-      }
-    },
-    {
-      "id": "1556659515",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1556659515",
-      "attributes": {
-        "albumName": "Fall In Lovelyz",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 223388,
-        "releaseDate": "2017-11-14",
-        "isrc": "KRE641700062",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/ab/70/a0/ab70a0f9-90af-0e96-b0ee-78768be757c8/17._3rd_Mini_Album_Fall_in_Lovelyz_cover_3000x3000.jpg/{w}x{h}bb.jpg",
-          "bgColor": "261e24",
-          "textColor1": "e99d74",
-          "textColor2": "f08957",
-          "textColor3": "c28464",
-          "textColor4": "c8734d"
-        },
-        "url": "https://music.apple.com/us/album/twinkle/1556659510?i=1556659515",
-        "playParams": {
-          "id": "1556659515",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Twinkle",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b2/0f/13/b20f1321-96bd-63c1-ece8-28e8c6f465ca/mzaf_555694979716757676.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Lovelyz"
       }
     }
   ]
