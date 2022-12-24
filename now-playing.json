@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1322938679",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1322938679",
+      "attributes": {
+        "albumName": "Christmas Day - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "R&B/Soul"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 239637,
+        "releaseDate": "2017-12-08",
+        "isrc": "KRA381702785",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/2a/4d/ae/2a4dae98-cc58-f57b-544c-e003a5f707d6/cover-_2017.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a8000b",
+          "textColor1": "fefffd",
+          "textColor2": "fcdbde",
+          "textColor3": "eccbcc",
+          "textColor4": "ebafb4"
+        },
+        "url": "https://music.apple.com/us/album/christmas-day/1322938661?i=1322938679",
+        "playParams": {
+          "id": "1322938679",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Christmas Day",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/81/f5/4f/81f54f71-b20c-1798-ace9-3409666d337c/mzaf_7881051169431150995.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "K.Will, SoYou, BOYFRIEND, MONSTA X, WJSN, Mad Clown, Junggigo, #GUN, Yu Seung Woo, BrotherSu, MIND U, Duetto, JEONG SEWOON & LEE KWANGHYUN"
+      }
+    },
+    {
+      "id": "1447614791",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1447614791",
+      "attributes": {
+        "albumName": "Made in Christmas (feat. LEE SUHYUN) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-12-21",
+        "durationInMillis": 192000,
+        "isrc": "KRA381802303",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/c0/2d/d7/c02dd724-8102-fda4-73d3-4599cc62d901/cover-_DS.jpg/{w}x{h}bb.jpg",
+          "bgColor": "931f1f",
+          "textColor1": "ffd84f",
+          "textColor2": "f6a78a",
+          "textColor3": "e9b245",
+          "textColor4": "e28c74"
+        },
+        "playParams": {
+          "id": "1447614791",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/made-in-christmas-feat-lee-suhyun/1447614721?i=1447614791",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Made in Christmas (feat. LEE SUHYUN)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/c1/e7/c9c1e71d-3b56-26b6-a093-a9a736db4a28/mzaf_9998729104911481599.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JANNABI & LEE SUHYUN"
+      }
+    },
+    {
+      "id": "585972803",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/585972803",
+      "attributes": {
+        "albumName": "Merry Christmas",
+        "genreNames": [
+          "Christmas",
+          "Music",
+          "Holiday"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 241562,
+        "releaseDate": "1994-10-29",
+        "isrc": "USSM19400325",
+        "artwork": {
+          "width": 1471,
+          "height": 1471,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "480b0e",
+          "textColor2": "521917",
+          "textColor3": "6d3c3e",
+          "textColor4": "754746"
+        },
+        "composerName": "Mariah Carey & Walter Afanasieff",
+        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
+        "playParams": {
+          "id": "585972803",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "All I Want For Christmas Is You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3a/6a/0c/3a6a0c22-1b3b-0233-a640-d67f279db021/mzaf_15279742081376941410.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Mariah Carey"
+      }
+    },
+    {
       "id": "1519825047",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1519825047",
@@ -12,8 +141,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-07-17",
         "durationInMillis": 194758,
+        "releaseDate": "2020-07-17",
         "isrc": "GBAHS2000335",
         "artwork": {
           "width": 4000,
@@ -26,22 +155,22 @@
           "textColor4": "382c35"
         },
         "composerName": "Amala Dlamini, Anne-Marie Nicholson, Billy Walsh, Delacey, Louis Bell & Teo Halm",
+        "url": "https://music.apple.com/us/album/to-be-young-feat-doja-cat/1519825045?i=1519825047",
         "playParams": {
           "id": "1519825047",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/to-be-young-feat-doja-cat/1519825045?i=1519825047",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "To Be Young (feat. Doja Cat)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/78/ae/b2/78aeb20c-2126-747b-83b9-a41d5702a6d9/mzaf_18353261925023390411.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Anne-Marie"
+        "artistName": "Anne-Marie",
+        "contentRating": "explicit"
       }
     },
     {
@@ -83,8 +212,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/4b/66/6d4b6697-57ec-f34c-a56d-53c7fe48acea/mzaf_16059193770746503297.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Lil Nas X"
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
       }
     },
     {
@@ -142,8 +271,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -156,11 +285,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -185,8 +314,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -199,14 +328,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -228,8 +357,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -242,11 +371,11 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -271,8 +400,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 204933,
         "releaseDate": "2021-12-20",
+        "durationInMillis": 204933,
         "isrc": "KRA302100400",
         "artwork": {
           "width": 4000,
@@ -285,11 +414,11 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -400,8 +529,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -413,14 +542,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -442,8 +571,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -456,14 +585,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Illusion",
         "previews": [
           {
@@ -528,8 +657,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -542,11 +671,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -590,8 +719,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -633,8 +762,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -656,8 +785,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-06-29",
         "durationInMillis": 193173,
+        "releaseDate": "2022-06-29",
         "isrc": "KRMIM2236311",
         "artwork": {
           "width": 3000,
@@ -670,14 +799,14 @@
           "textColor4": "5d3122"
         },
         "composerName": "SUNMI, Kyuwon \"Q\" Kim & CobiCudi",
+        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "playParams": {
           "id": "1630553208",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heart Burn",
         "previews": [
           {
@@ -699,8 +828,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -713,14 +842,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -742,8 +871,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180001,
         "releaseDate": "2022-07-19",
+        "durationInMillis": 180001,
         "isrc": "KRA382206236",
         "artwork": {
           "width": 3000,
@@ -755,11 +884,11 @@
           "textColor3": "391b25",
           "textColor4": "4c1b25"
         },
-        "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
         "playParams": {
           "id": "1634360916",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -784,8 +913,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 177373,
         "releaseDate": "2022-06-20",
+        "durationInMillis": 177373,
         "isrc": "KRA252201148",
         "artwork": {
           "width": 2000,
@@ -798,11 +927,11 @@
           "textColor4": "baaca7"
         },
         "composerName": "Lee Su Bin, Linemaster & Sure Kim",
-        "url": "https://music.apple.com/us/album/flip-that/1628492601?i=1628492606",
         "playParams": {
           "id": "1628492606",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flip-that/1628492601?i=1628492606",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -827,8 +956,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 235562,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 235562,
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -841,11 +970,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -912,8 +1041,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174387,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 174387,
         "isrc": "KRA392100080",
         "artwork": {
           "width": 1400,
@@ -926,11 +1055,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -975,8 +1104,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -997,8 +1126,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 200690,
+        "releaseDate": "2022-10-21",
         "isrc": "USUG12205736",
         "artwork": {
           "width": 3000,
@@ -1011,14 +1140,14 @@
           "textColor4": "634b49"
         },
         "composerName": "Taylor Swift & Jack Antonoff",
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "playParams": {
           "id": "1650841515",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -1040,8 +1169,8 @@
           "Alternative"
         ],
         "trackNumber": 4,
-        "releaseDate": "2021-06-18",
         "durationInMillis": 201640,
+        "releaseDate": "2021-06-18",
         "isrc": "GBUM72100848",
         "artwork": {
           "width": 3000,
@@ -1054,14 +1183,14 @@
           "textColor4": "e1c59f"
         },
         "composerName": "Magnus Skylstad & Aurora Aksnes",
+        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "playParams": {
           "id": "1640353346",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cure For Me",
         "previews": [
           {
@@ -1083,8 +1212,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -1097,11 +1226,11 @@
           "textColor4": "e79876"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "playParams": {
           "id": "1645995263",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1146,8 +1275,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DICE",
         "previews": [
           {
@@ -1155,134 +1284,6 @@
           }
         ],
         "artistName": "NMIXX"
-      }
-    },
-    {
-      "id": "1031416180",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1031416180",
-      "attributes": {
-        "albumName": "Nine Track Mind",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2016-01-29",
-        "durationInMillis": 199146,
-        "isrc": "USAT21502916",
-        "artwork": {
-          "width": 1425,
-          "height": 1425,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f6e514",
-          "textColor1": "0a0200",
-          "textColor2": "283510",
-          "textColor3": "392f04",
-          "textColor4": "515811"
-        },
-        "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
-        "playParams": {
-          "id": "1031416180",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Dangerously",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5d/fe/bd/5dfebd59-b059-5bdb-caa0-03708fa6d29b/mzaf_4426948284131638540.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Charlie Puth"
-      }
-    },
-    {
-      "id": "1633318546",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1633318546",
-      "attributes": {
-        "albumName": "CHARLIE",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 144934,
-        "releaseDate": "2022-04-08",
-        "isrc": "USAT22202621",
-        "artwork": {
-          "width": 1425,
-          "height": 1425,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
-          "bgColor": "dadad8",
-          "textColor1": "040404",
-          "textColor2": "2c2c2b",
-          "textColor3": "2e2e2e",
-          "textColor4": "4e4e4d"
-        },
-        "composerName": "Charlie Puth & Jacob Kasher Hindlin",
-        "url": "https://music.apple.com/us/album/thats-hilarious/1633318292?i=1633318546",
-        "playParams": {
-          "id": "1633318546",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "That's Hilarious",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/78/ac/8378ac90-8aa7-fd0e-e5e9-b0713454f39c/mzaf_16193074131465976322.plus.aac.p.m4a"
-          }
-        ],
-        "contentRating": "explicit",
-        "artistName": "Charlie Puth"
-      }
-    },
-    {
-      "id": "1609910933",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1609910933",
-      "attributes": {
-        "albumName": "Love, Maybe (A Business Proposal Original Soundtrack Special Track) - Single",
-        "genreNames": [
-          "Soundtrack",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-02-18",
-        "durationInMillis": 185000,
-        "isrc": "KRA382203167",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/50/f0/fc/50f0fcea-7360-47c0-37d6-4440e97e2862/cover_KM0014772_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "684a46",
-          "textColor1": "fcfcfc",
-          "textColor2": "a3ddb0",
-          "textColor3": "dfd8d8",
-          "textColor4": "97bf9b"
-        },
-        "playParams": {
-          "id": "1609910933",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/love-maybe/1609910932?i=1609910933",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Love, Maybe",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d0/ba/eb/d0baeb65-8647-4edc-be9b-3372824c068a/mzaf_14628174729039495236.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "MeloMance"
       }
     }
   ]
