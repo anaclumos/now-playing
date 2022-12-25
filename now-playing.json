@@ -2,88 +2,31 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1337826951",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1337826951",
+      "id": "i.DVEXlR1HRZBl3Le",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.DVEXlR1HRZBl3Le",
       "attributes": {
-        "albumName": "Bicycle Ride (Soca Remix) - Single",
+        "discNumber": 0,
+        "albumName": "ASMR Collection",
         "genreNames": [
-          "Modern Dancehall",
-          "Music",
-          "Reggae"
+          ""
         ],
-        "trackNumber": 1,
-        "releaseDate": "2016-02-12",
-        "durationInMillis": 172755,
-        "isrc": "USA2P1606869",
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 3599934,
+        "name": "Silence",
+        "artistName": "ASMR Collection",
         "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/6e/90/c9/6e90c94d-a062-8061-77e3-40dcae44c3bc/889326534525.jpg/{w}x{h}bb.jpg",
-          "bgColor": "2db573",
-          "textColor1": "000000",
-          "textColor2": "1b1712",
-          "textColor3": "092417",
-          "textColor4": "1f3626"
-        },
-        "composerName": "Vybz Kartel, Bunji Garlin, Mario Dunwell & Stadic",
-        "url": "https://music.apple.com/us/album/bicycle-ride-soca-remix/1337826948?i=1337826951",
-        "playParams": {
-          "id": "1337826951",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Bicycle Ride (Soca Remix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/08/8d/91088d0a-0f4f-e583-b53d-d689f4ec5c48/mzaf_4350263057183528428.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vybz Kartel & Bunji Garlin"
-      }
-    },
-    {
-      "id": "1278808870",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1278808870",
-      "attributes": {
-        "albumName": "THE POWER OF MUSIC \u2013 The 4th Album \u2018THE WAR\u2019 Repackage - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-09-05",
-        "durationInMillis": 222406,
-        "isrc": "KRA301700488",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/50/94/f3/5094f314-6513-3c5f-58c9-5fef832655fa/EXO-DIGITAL_COVER_K.jpg/{w}x{h}bb.jpg",
-          "bgColor": "283583",
-          "textColor1": "ffeb00",
-          "textColor2": "f4e107",
-          "textColor3": "d3c71b",
-          "textColor4": "cbbe20"
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/fb/09/b7/fb09b71e-132f-d65e-afad-a1b2dc2030d1/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221225T185506Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20221225%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=062da1590867086b09bcdfa45cb71e2dded4d924e8014df2b11f3db8516eed45"
         },
         "playParams": {
-          "id": "1278808870",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Power",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/f1/a5/acf1a501-d2ec-fe7c-74af-23b076762be5/mzaf_16585270797981389485.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "EXO"
+          "id": "i.DVEXlR1HRZBl3Le",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
       }
     },
     {
@@ -97,8 +40,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2017-12-08",
         "durationInMillis": 211560,
+        "releaseDate": "2017-12-08",
         "isrc": "ITB001700846",
         "artwork": {
           "width": 3000,
@@ -129,6 +72,91 @@
       }
     },
     {
+      "id": "1337826951",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1337826951",
+      "attributes": {
+        "albumName": "Bicycle Ride (Soca Remix) - Single",
+        "genreNames": [
+          "Modern Dancehall",
+          "Music",
+          "Reggae"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 172755,
+        "releaseDate": "2016-02-12",
+        "isrc": "USA2P1606869",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/6e/90/c9/6e90c94d-a062-8061-77e3-40dcae44c3bc/889326534525.jpg/{w}x{h}bb.jpg",
+          "bgColor": "2db573",
+          "textColor1": "000000",
+          "textColor2": "1b1712",
+          "textColor3": "092417",
+          "textColor4": "1f3626"
+        },
+        "composerName": "Vybz Kartel, Bunji Garlin, Mario Dunwell & Stadic",
+        "playParams": {
+          "id": "1337826951",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/bicycle-ride-soca-remix/1337826948?i=1337826951",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Bicycle Ride (Soca Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/08/8d/91088d0a-0f4f-e583-b53d-d689f4ec5c48/mzaf_4350263057183528428.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vybz Kartel & Bunji Garlin"
+      }
+    },
+    {
+      "id": "1278808870",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1278808870",
+      "attributes": {
+        "albumName": "THE POWER OF MUSIC \u2013 The 4th Album \u2018THE WAR\u2019 Repackage - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 222406,
+        "releaseDate": "2017-09-05",
+        "isrc": "KRA301700488",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/50/94/f3/5094f314-6513-3c5f-58c9-5fef832655fa/EXO-DIGITAL_COVER_K.jpg/{w}x{h}bb.jpg",
+          "bgColor": "283583",
+          "textColor1": "ffeb00",
+          "textColor2": "f4e107",
+          "textColor3": "d3c71b",
+          "textColor4": "cbbe20"
+        },
+        "playParams": {
+          "id": "1278808870",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Power",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/f1/a5/acf1a501-d2ec-fe7c-74af-23b076762be5/mzaf_16585270797981389485.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "EXO"
+      }
+    },
+    {
       "id": "1639416903",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1639416903",
@@ -140,8 +168,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -154,14 +182,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -183,8 +211,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -197,14 +225,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -226,8 +254,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -239,11 +267,11 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -268,8 +296,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-21",
         "durationInMillis": 210253,
+        "releaseDate": "2022-03-21",
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -310,8 +338,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-06",
         "durationInMillis": 147427,
+        "releaseDate": "2022-09-06",
         "isrc": "KRA492200790",
         "artwork": {
           "width": 1400,
@@ -353,8 +381,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-06-04",
         "durationInMillis": 201960,
+        "releaseDate": "2021-06-04",
         "isrc": "KRB142100006",
         "artwork": {
           "width": 1400,
@@ -396,8 +424,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -410,14 +438,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -439,8 +467,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-16",
         "durationInMillis": 217067,
+        "releaseDate": "2022-12-16",
         "isrc": "KRA302200259",
         "artwork": {
           "width": 5000,
@@ -453,14 +481,14 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -482,8 +510,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "1996-09-07",
         "durationInMillis": 217227,
+        "releaseDate": "1996-09-07",
         "isrc": "KRA300800001",
         "artwork": {
           "width": 2000,
@@ -495,11 +523,11 @@
           "textColor3": "d6d5d6",
           "textColor4": "bfb34b"
         },
+        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "playParams": {
           "id": "1060455878",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -525,8 +553,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2006-11-16",
         "durationInMillis": 260075,
+        "releaseDate": "2006-11-16",
         "isrc": "KRA381206982",
         "artwork": {
           "width": 3000,
@@ -566,8 +594,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-12-10",
         "durationInMillis": 223712,
+        "releaseDate": "2018-12-10",
         "isrc": "KRA381802245",
         "artwork": {
           "width": 3000,
@@ -580,14 +608,14 @@
           "textColor4": "bba9ad"
         },
         "composerName": "Hwang Hyun",
-        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "playParams": {
           "id": "1478604421",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Timing",
         "previews": [
           {
@@ -610,8 +638,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-12-08",
         "durationInMillis": 239637,
+        "releaseDate": "2017-12-08",
         "isrc": "KRA381702785",
         "artwork": {
           "width": 1400,
@@ -653,8 +681,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-12-21",
         "durationInMillis": 192000,
+        "releaseDate": "2018-12-21",
         "isrc": "KRA381802303",
         "artwork": {
           "width": 3000,
@@ -666,14 +694,14 @@
           "textColor3": "e9b245",
           "textColor4": "e28c74"
         },
-        "url": "https://music.apple.com/us/album/made-in-christmas-feat-lee-suhyun/1447614721?i=1447614791",
         "playParams": {
           "id": "1447614791",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-in-christmas-feat-lee-suhyun/1447614721?i=1447614791",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made in Christmas (feat. LEE SUHYUN)",
         "previews": [
           {
@@ -695,8 +723,8 @@
           "Holiday"
         ],
         "trackNumber": 2,
-        "releaseDate": "1994-10-29",
         "durationInMillis": 241562,
+        "releaseDate": "1994-10-29",
         "isrc": "USSM19400325",
         "artwork": {
           "width": 1471,
@@ -709,14 +737,14 @@
           "textColor4": "754746"
         },
         "composerName": "Mariah Carey & Walter Afanasieff",
-        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
         "playParams": {
           "id": "585972803",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "All I Want For Christmas Is You",
         "previews": [
           {
@@ -737,8 +765,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-07-17",
         "durationInMillis": 194758,
+        "releaseDate": "2020-07-17",
         "isrc": "GBAHS2000335",
         "artwork": {
           "width": 4000,
@@ -757,16 +785,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "To Be Young (feat. Doja Cat)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/78/ae/b2/78aeb20c-2126-747b-83b9-a41d5702a6d9/mzaf_18353261925023390411.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Anne-Marie"
+        "artistName": "Anne-Marie",
+        "contentRating": "explicit"
       }
     },
     {
@@ -780,8 +808,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-22",
         "durationInMillis": 210576,
+        "releaseDate": "2022-09-22",
         "isrc": "USSM12208809",
         "artwork": {
           "width": 3000,
@@ -824,8 +852,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -838,11 +866,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -867,8 +895,8 @@
           "Alternative"
         ],
         "trackNumber": 4,
-        "releaseDate": "2021-06-18",
         "durationInMillis": 201640,
+        "releaseDate": "2021-06-18",
         "isrc": "GBUM72100848",
         "artwork": {
           "width": 3000,
@@ -887,8 +915,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cure For Me",
         "previews": [
           {
@@ -910,8 +938,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 178453,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -953,8 +981,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -967,11 +995,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -996,8 +1024,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 204040,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -1010,14 +1038,14 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -1039,8 +1067,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-12-20",
         "durationInMillis": 204933,
+        "releaseDate": "2021-12-20",
         "isrc": "KRA302100400",
         "artwork": {
           "width": 4000,
@@ -1059,8 +1087,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -1082,8 +1110,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -1096,11 +1124,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1124,8 +1152,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-18",
         "durationInMillis": 269613,
+        "releaseDate": "2022-03-18",
         "isrc": "US23A1545560",
         "artwork": {
           "width": 3840,
@@ -1138,14 +1166,14 @@
           "textColor4": "849eb1"
         },
         "composerName": "Christopher Nicholas Bangs",
-        "url": "https://music.apple.com/us/album/selling-an-experience/1612870681?i=1612870682",
         "playParams": {
           "id": "1612870682",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/selling-an-experience/1612870681?i=1612870682",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Selling An Experience",
         "previews": [
           {
@@ -1168,8 +1196,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -1210,8 +1238,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -1224,14 +1252,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Illusion",
         "previews": [
           {
@@ -1239,49 +1267,6 @@
           }
         ],
         "artistName": "aespa"
-      }
-    },
-    {
-      "id": "1647830390",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1647830390",
-      "attributes": {
-        "albumName": "ANTIFRAGILE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-10-17",
-        "durationInMillis": 184444,
-        "isrc": "USA2P2230329",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "212121",
-          "textColor3": "333333",
-          "textColor4": "4e4e4e"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "playParams": {
-          "id": "1647830390",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "ANTIFRAGILE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/df/4e/cddf4e72-5eb3-18e4-2ddb-bec4ef91b8f6/mzaf_2899720442644351065.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
       }
     }
   ]
