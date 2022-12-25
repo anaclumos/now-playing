@@ -2,48 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1320781379",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1320781379",
-      "attributes": {
-        "albumName": "Chosen",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 4,
-        "durationInMillis": 211560,
-        "releaseDate": "2017-12-08",
-        "isrc": "ITB001700846",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/{w}x{h}bb.jpg",
-          "bgColor": "616e73",
-          "textColor1": "e9f4fd",
-          "textColor2": "eff0f1",
-          "textColor3": "ced9e2",
-          "textColor4": "d2d6d7"
-        },
-        "composerName": "Peggy Farina & Bob Gaudio",
-        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
-        "playParams": {
-          "id": "1320781379",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Beggin'",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/51/0a/e4510ace-781c-dc91-bdbc-7fa36740475a/mzaf_6170303098038008119.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "M\u00e5neskin"
-      }
-    },
-    {
       "id": "1278808870",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1278808870",
@@ -74,8 +32,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Power",
         "previews": [
           {
@@ -83,6 +41,48 @@
           }
         ],
         "artistName": "EXO"
+      }
+    },
+    {
+      "id": "1320781379",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1320781379",
+      "attributes": {
+        "albumName": "Chosen",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2017-12-08",
+        "durationInMillis": 211560,
+        "isrc": "ITB001700846",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/{w}x{h}bb.jpg",
+          "bgColor": "616e73",
+          "textColor1": "e9f4fd",
+          "textColor2": "eff0f1",
+          "textColor3": "ced9e2",
+          "textColor4": "d2d6d7"
+        },
+        "composerName": "Peggy Farina & Bob Gaudio",
+        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
+        "playParams": {
+          "id": "1320781379",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Beggin'",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/51/0a/e4510ace-781c-dc91-bdbc-7fa36740475a/mzaf_6170303098038008119.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "M\u00e5neskin"
       }
     },
     {
@@ -97,8 +97,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -117,8 +117,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -160,8 +160,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -267,8 +267,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 147427,
         "releaseDate": "2022-09-06",
+        "durationInMillis": 147427,
         "isrc": "KRA492200790",
         "artwork": {
           "width": 1400,
@@ -310,8 +310,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 201960,
         "releaseDate": "2021-06-04",
+        "durationInMillis": 201960,
         "isrc": "KRB142100006",
         "artwork": {
           "width": 1400,
@@ -501,8 +501,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Must Have Love",
         "previews": [
           {
@@ -543,8 +543,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Timing",
         "previews": [
           {
@@ -567,8 +567,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 239637,
         "releaseDate": "2017-12-08",
+        "durationInMillis": 239637,
         "isrc": "KRA381702785",
         "artwork": {
           "width": 1400,
@@ -586,8 +586,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Christmas Day",
         "previews": [
           {
@@ -610,8 +610,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "durationInMillis": 192000,
         "releaseDate": "2018-12-21",
+        "durationInMillis": 192000,
         "isrc": "KRA381802303",
         "artwork": {
           "width": 3000,
@@ -629,8 +629,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made in Christmas (feat. LEE SUHYUN)",
         "previews": [
           {
@@ -652,8 +652,8 @@
           "Holiday"
         ],
         "trackNumber": 2,
-        "durationInMillis": 241562,
         "releaseDate": "1994-10-29",
+        "durationInMillis": 241562,
         "isrc": "USSM19400325",
         "artwork": {
           "width": 1471,
@@ -672,8 +672,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "All I Want For Christmas Is You",
         "previews": [
           {
@@ -722,8 +722,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/78/ae/b2/78aeb20c-2126-747b-83b9-a41d5702a6d9/mzaf_18353261925023390411.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Anne-Marie",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Anne-Marie"
       }
     },
     {
@@ -737,8 +737,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210576,
         "releaseDate": "2022-09-22",
+        "durationInMillis": 210576,
         "isrc": "USSM12208809",
         "artwork": {
           "width": 3000,
@@ -781,8 +781,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -867,8 +867,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -887,8 +887,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nxde",
         "previews": [
           {
@@ -930,8 +930,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -1016,8 +1016,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -1059,8 +1059,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -1081,8 +1081,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 269613,
         "releaseDate": "2022-03-18",
+        "durationInMillis": 269613,
         "isrc": "US23A1545560",
         "artwork": {
           "width": 3840,
@@ -1101,8 +1101,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Selling An Experience",
         "previews": [
           {
@@ -1125,8 +1125,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -1144,8 +1144,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -1167,8 +1167,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -1210,8 +1210,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -1273,8 +1273,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Heart Burn",
         "previews": [
           {
