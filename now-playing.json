@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1639416903",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639416903",
+      "attributes": {
+        "albumName": "After LIKE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
+        "isrc": "QMBZ92254957",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00ff00",
+          "textColor1": "000000",
+          "textColor2": "002f00",
+          "textColor3": "003300",
+          "textColor4": "005800"
+        },
+        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "playParams": {
+          "id": "1639416903",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "After LIKE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1614179710",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1614179710",
+      "attributes": {
+        "albumName": "'The ReVe Festival 2022 - Feel My Rhythm' - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 210253,
+        "releaseDate": "2022-03-21",
+        "isrc": "KRA302200057",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/bc/ac/99/bcac9968-35ae-0cea-ce08-9eb11600532b/RV_Feel_My_Rhythm-Cover_4000x4000.jpg/{w}x{h}bb.jpg",
+          "bgColor": "68bae0",
+          "textColor1": "000206",
+          "textColor2": "001e04",
+          "textColor3": "152732",
+          "textColor4": "143d30"
+        },
+        "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
+        "playParams": {
+          "id": "1614179710",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Feel My Rhythm",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d9/5b/93/d95b9377-349a-5048-bdec-0a178bdb9ca2/mzaf_377217071686787202.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Red Velvet"
+      }
+    },
+    {
+      "id": "1643565275",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1643565275",
+      "attributes": {
+        "albumName": "Street Man Fighter (SMF) Original, Vol. 3 [Mission by Rank] [Original Television Soundtrack] - EP",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 147427,
+        "releaseDate": "2022-09-06",
+        "isrc": "KRA492200790",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/9f/7d/87/9f7d877c-d363-1fff-d620-85d01cbf04e9/888272105377_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "161616",
+          "textColor1": "e5ecf3",
+          "textColor2": "dde0e8",
+          "textColor3": "bbc1c7",
+          "textColor4": "b5b8be"
+        },
+        "composerName": "ZICO, Pop.time, CK & Louie",
+        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
+        "playParams": {
+          "id": "1643565275",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "New Thing (feat. Homies)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fe/0a/ce/fe0acea7-c936-1f05-2e1e-2ddd0363b38f/mzaf_11545085319164455861.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ZICO"
+      }
+    },
+    {
       "id": "1570559560",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1570559560",
@@ -13,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 201960,
         "releaseDate": "2021-06-04",
+        "durationInMillis": 201960,
         "isrc": "KRB142100006",
         "artwork": {
           "width": 1400,
@@ -27,11 +155,11 @@
           "textColor4": "d8bb7c"
         },
         "composerName": "Gaeko, Philtre, Choiza & THAMA",
-        "url": "https://music.apple.com/us/album/save/1570559559?i=1570559560",
         "playParams": {
           "id": "1570559560",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/save/1570559559?i=1570559560",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -99,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217067,
         "releaseDate": "2022-12-16",
+        "durationInMillis": 217067,
         "isrc": "KRA302200259",
         "artwork": {
           "width": 5000,
@@ -113,11 +241,11 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -142,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217227,
         "releaseDate": "1996-09-07",
+        "durationInMillis": 217227,
         "isrc": "KRA300800001",
         "artwork": {
           "width": 2000,
@@ -155,11 +283,11 @@
           "textColor3": "d6d5d6",
           "textColor4": "bfb34b"
         },
-        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "playParams": {
           "id": "1060455878",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -185,8 +313,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2006-11-16",
         "durationInMillis": 260075,
+        "releaseDate": "2006-11-16",
         "isrc": "KRA381206982",
         "artwork": {
           "width": 3000,
@@ -198,11 +326,11 @@
           "textColor3": "3b3634",
           "textColor4": "524b47"
         },
+        "url": "https://music.apple.com/us/album/must-have-love/1495322858?i=1495322859",
         "playParams": {
           "id": "1495322859",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/must-have-love/1495322858?i=1495322859",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -226,8 +354,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 223712,
         "releaseDate": "2018-12-10",
+        "durationInMillis": 223712,
         "isrc": "KRA381802245",
         "artwork": {
           "width": 3000,
@@ -240,11 +368,11 @@
           "textColor4": "bba9ad"
         },
         "composerName": "Hwang Hyun",
-        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "playParams": {
           "id": "1478604421",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -270,8 +398,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 239637,
         "releaseDate": "2017-12-08",
+        "durationInMillis": 239637,
         "isrc": "KRA381702785",
         "artwork": {
           "width": 1400,
@@ -283,11 +411,11 @@
           "textColor3": "eccbcc",
           "textColor4": "ebafb4"
         },
-        "url": "https://music.apple.com/us/album/christmas-day/1322938661?i=1322938679",
         "playParams": {
           "id": "1322938679",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/christmas-day/1322938661?i=1322938679",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -397,8 +525,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 194758,
         "releaseDate": "2020-07-17",
+        "durationInMillis": 194758,
         "isrc": "GBAHS2000335",
         "artwork": {
           "width": 4000,
@@ -411,11 +539,11 @@
           "textColor4": "382c35"
         },
         "composerName": "Amala Dlamini, Anne-Marie Nicholson, Billy Walsh, Delacey, Louis Bell & Teo Halm",
-        "url": "https://music.apple.com/us/album/to-be-young-feat-doja-cat/1519825045?i=1519825047",
         "playParams": {
           "id": "1519825047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/to-be-young-feat-doja-cat/1519825045?i=1519825047",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -440,8 +568,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-22",
         "durationInMillis": 210576,
+        "releaseDate": "2022-09-22",
         "isrc": "USSM12208809",
         "artwork": {
           "width": 3000,
@@ -454,11 +582,11 @@
           "textColor4": "c3cfbd"
         },
         "composerName": "Montero Hill, Omer Fedi, Henry Walter & Atia \"Ink\" Boggs",
+        "url": "https://music.apple.com/us/album/star-walkin-league-of-legends-worlds-anthem/1642613175?i=1642613664",
         "playParams": {
           "id": "1642613664",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/star-walkin-league-of-legends-worlds-anthem/1642613175?i=1642613664",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -468,8 +596,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/4b/66/6d4b6697-57ec-f34c-a56d-53c7fe48acea/mzaf_16059193770746503297.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Lil Nas X"
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
       }
     },
     {
@@ -484,8 +612,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -498,11 +626,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -527,8 +655,8 @@
           "Alternative"
         ],
         "trackNumber": 4,
-        "releaseDate": "2021-06-18",
         "durationInMillis": 201640,
+        "releaseDate": "2021-06-18",
         "isrc": "GBUM72100848",
         "artwork": {
           "width": 3000,
@@ -541,11 +669,11 @@
           "textColor4": "e1c59f"
         },
         "composerName": "Magnus Skylstad & Aurora Aksnes",
+        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "playParams": {
           "id": "1640353346",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -613,8 +741,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -627,11 +755,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -656,8 +784,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -670,11 +798,11 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -699,8 +827,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 204933,
         "releaseDate": "2021-12-20",
+        "durationInMillis": 204933,
         "isrc": "KRA302100400",
         "artwork": {
           "width": 4000,
@@ -713,11 +841,11 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -742,8 +870,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -756,11 +884,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -828,8 +956,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -841,11 +969,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -913,8 +1041,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -927,11 +1055,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -956,8 +1084,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -970,11 +1098,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -999,8 +1127,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -1012,11 +1140,11 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1024,49 +1152,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a3/f2/04/a3f20464-c068-fbc5-8f76-42f9947c1b61/mzaf_177491966313232028.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1639416903",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639416903",
-      "attributes": {
-        "albumName": "After LIKE - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 176973,
-        "releaseDate": "2022-08-22",
-        "isrc": "QMBZ92254957",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00ff00",
-          "textColor1": "000000",
-          "textColor2": "002f00",
-          "textColor3": "003300",
-          "textColor4": "005800"
-        },
-        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
-        "playParams": {
-          "id": "1639416903",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "After LIKE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
           }
         ],
         "artistName": "IVE"
@@ -1084,8 +1169,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-06-29",
         "durationInMillis": 193173,
+        "releaseDate": "2022-06-29",
         "isrc": "KRMIM2236311",
         "artwork": {
           "width": 3000,
@@ -1098,11 +1183,11 @@
           "textColor4": "5d3122"
         },
         "composerName": "SUNMI, Kyuwon \"Q\" Kim & CobiCudi",
+        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "playParams": {
           "id": "1630553208",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1170,8 +1255,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-07-19",
         "durationInMillis": 180001,
+        "releaseDate": "2022-07-19",
         "isrc": "KRA382206236",
         "artwork": {
           "width": 3000,
@@ -1183,11 +1268,11 @@
           "textColor3": "391b25",
           "textColor4": "4c1b25"
         },
+        "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
         "playParams": {
           "id": "1634360916",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1198,92 +1283,6 @@
           }
         ],
         "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1628492606",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1628492606",
-      "attributes": {
-        "albumName": "Summer Special [Flip That] - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 177373,
-        "releaseDate": "2022-06-20",
-        "isrc": "KRA252201148",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/14/dc/41/14dc4183-1b00-9196-d9c2-8b5841c940ae/5054197200588.jpg/{w}x{h}bb.jpg",
-          "bgColor": "041b07",
-          "textColor1": "efe2fb",
-          "textColor2": "e8d1d0",
-          "textColor3": "c0baca",
-          "textColor4": "baaca7"
-        },
-        "composerName": "Lee Su Bin, Linemaster & Sure Kim",
-        "url": "https://music.apple.com/us/album/flip-that/1628492601?i=1628492606",
-        "playParams": {
-          "id": "1628492606",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Flip That",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5f/9f/7a/5f9f7a3c-ea40-f944-6be6-0ec2845864ec/mzaf_4083453423177043111.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LOONA"
-      }
-    },
-    {
-      "id": "1635469854",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469854",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 235562,
-        "isrc": "USA2P2230223",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "playParams": {
-          "id": "1635469854",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Cookie",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/71/fe/0171feef-a9e6-8fcd-a42a-2a75d6b35416/mzaf_4783706318511182821.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
