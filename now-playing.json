@@ -33,8 +33,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bicycle Ride (Soca Remix)",
         "previews": [
           {
@@ -55,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 211560,
         "releaseDate": "2017-12-08",
+        "durationInMillis": 211560,
         "isrc": "ITB001700846",
         "artwork": {
           "width": 3000,
@@ -111,11 +111,11 @@
           "textColor3": "d3c71b",
           "textColor4": "cbbe20"
         },
-        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "playParams": {
           "id": "1278808870",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -146,7 +146,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/fb/09/b7/fb09b71e-132f-d65e-afad-a1b2dc2030d1/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221226T012216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20221226%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=2ba7ff9497b8a37ea4dbe44708705a9462f32dde968aa8db766dc4a06621149a"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/fb/09/b7/fb09b71e-132f-d65e-afad-a1b2dc2030d1/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221226T015647Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20221226%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=aa9ba24ef6a55beee0934fc684c8bae6787c691b4efa0b539d8ff85cb86df465"
         },
         "playParams": {
           "id": "i.DVEXlR1HRZBl3Le",
@@ -154,49 +154,6 @@
           "isLibrary": true,
           "reporting": false
         }
-      }
-    },
-    {
-      "id": "1639416903",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639416903",
-      "attributes": {
-        "albumName": "After LIKE - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-22",
-        "durationInMillis": 176973,
-        "isrc": "QMBZ92254957",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00ff00",
-          "textColor1": "000000",
-          "textColor2": "002f00",
-          "textColor3": "003300",
-          "textColor4": "005800"
-        },
-        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
-        "playParams": {
-          "id": "1639416903",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "After LIKE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     },
     {
@@ -231,8 +188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -285,6 +242,49 @@
       }
     },
     {
+      "id": "1639416903",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639416903",
+      "attributes": {
+        "albumName": "After LIKE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
+        "isrc": "QMBZ92254957",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00ff00",
+          "textColor1": "000000",
+          "textColor2": "002f00",
+          "textColor3": "003300",
+          "textColor4": "005800"
+        },
+        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
+        "playParams": {
+          "id": "1639416903",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "After LIKE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
       "id": "1614179710",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1614179710",
@@ -310,14 +310,14 @@
           "textColor4": "143d30"
         },
         "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
-        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "playParams": {
           "id": "1614179710",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -395,14 +395,14 @@
           "textColor4": "d8bb7c"
         },
         "composerName": "Gaeko, Philtre, Choiza & THAMA",
-        "url": "https://music.apple.com/us/album/save/1570559559?i=1570559560",
         "playParams": {
           "id": "1570559560",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/save/1570559559?i=1570559560",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Save",
         "previews": [
           {
@@ -444,8 +444,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -481,14 +481,14 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -510,8 +510,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217227,
         "releaseDate": "1996-09-07",
+        "durationInMillis": 217227,
         "isrc": "KRA300800001",
         "artwork": {
           "width": 2000,
@@ -523,11 +523,11 @@
           "textColor3": "d6d5d6",
           "textColor4": "bfb34b"
         },
-        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "playParams": {
           "id": "1060455878",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -594,8 +594,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 223712,
         "releaseDate": "2018-12-10",
+        "durationInMillis": 223712,
         "isrc": "KRA381802245",
         "artwork": {
           "width": 3000,
@@ -614,8 +614,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Timing",
         "previews": [
           {
@@ -723,8 +723,8 @@
           "Holiday"
         ],
         "trackNumber": 2,
-        "durationInMillis": 241562,
         "releaseDate": "1994-10-29",
+        "durationInMillis": 241562,
         "isrc": "USSM19400325",
         "artwork": {
           "width": 1471,
@@ -779,11 +779,11 @@
           "textColor4": "382c35"
         },
         "composerName": "Amala Dlamini, Anne-Marie Nicholson, Billy Walsh, Delacey, Louis Bell & Teo Halm",
-        "url": "https://music.apple.com/us/album/to-be-young-feat-doja-cat/1519825045?i=1519825047",
         "playParams": {
           "id": "1519825047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/to-be-young-feat-doja-cat/1519825045?i=1519825047",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -793,8 +793,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/78/ae/b2/78aeb20c-2126-747b-83b9-a41d5702a6d9/mzaf_18353261925023390411.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Anne-Marie"
+        "artistName": "Anne-Marie",
+        "contentRating": "explicit"
       }
     },
     {
@@ -828,16 +828,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/4b/66/6d4b6697-57ec-f34c-a56d-53c7fe48acea/mzaf_16059193770746503297.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Lil Nas X"
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
       }
     },
     {
@@ -872,8 +872,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
@@ -958,8 +958,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nxde",
         "previews": [
           {
@@ -981,8 +981,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -995,11 +995,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1038,11 +1038,11 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1110,8 +1110,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -1196,8 +1196,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
