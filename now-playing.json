@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1588219798",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588219798",
+      "attributes": {
+        "albumName": "VENI VIDI VICI",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
+        "isrc": "KRUM72100123",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/10/3f/18/103f1829-12c4-e91c-103c-e1064ce02f70/21UM1IM16483.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e9e6ff",
+          "textColor1": "10262b",
+          "textColor2": "232346",
+          "textColor3": "3b4c55",
+          "textColor4": "4b4a6b"
+        },
+        "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
+        "playParams": {
+          "id": "1588219798",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "RUB-A-DUM",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ca/35/ef/ca35efff-ae93-f237-0854-dae8fdd7ae78/mzaf_507588980058338654.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TRI.BE"
+      }
+    },
+    {
+      "id": "1657231962",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1657231962",
+      "attributes": {
+        "albumName": "Ditto - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
+        "isrc": "USA2P2254487",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fdfcff",
+          "textColor1": "36080e",
+          "textColor2": "440a11",
+          "textColor3": "5e393e",
+          "textColor4": "693b41"
+        },
+        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
+        "playParams": {
+          "id": "1657231962",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ditto",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1658222132",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1658222132",
+      "attributes": {
+        "albumName": "Candy - Winter Special Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-12-16",
+        "durationInMillis": 217067,
+        "isrc": "KRA302200259",
+        "artwork": {
+          "width": 5000,
+          "height": 5000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
+          "bgColor": "011605",
+          "textColor1": "fefeff",
+          "textColor2": "ede4dc",
+          "textColor3": "cbcfcc",
+          "textColor4": "bebab1"
+        },
+        "composerName": "Chang Yong Jin",
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
+        "playParams": {
+          "id": "1658222132",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Candy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/94/de/b394dee5-2053-3d55-7382-8da20f3563e4/mzaf_15974731009209634121.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NCT DREAM"
+      }
+    },
+    {
       "id": "1320781379",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1320781379",
@@ -160,8 +289,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -203,8 +332,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Flame",
         "previews": [
           {
@@ -246,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -289,8 +418,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -504,8 +633,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TOMBOY",
         "previews": [
           {
@@ -589,8 +718,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -632,8 +761,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -717,8 +846,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -802,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "New Thing (feat. Homies)",
         "previews": [
           {
@@ -854,49 +983,6 @@
           }
         ],
         "artistName": "NCT 127"
-      }
-    },
-    {
-      "id": "1658222132",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1658222132",
-      "attributes": {
-        "albumName": "Candy - Winter Special Mini Album - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-12-16",
-        "durationInMillis": 217067,
-        "isrc": "KRA302200259",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
-          "bgColor": "011605",
-          "textColor1": "fefeff",
-          "textColor2": "ede4dc",
-          "textColor3": "cbcfcc",
-          "textColor4": "bebab1"
-        },
-        "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
-        "playParams": {
-          "id": "1658222132",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Candy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/94/de/b394dee5-2053-3d55-7382-8da20f3563e4/mzaf_15974731009209634121.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NCT DREAM"
       }
     },
     {
@@ -973,8 +1059,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Must Have Love",
         "previews": [
           {
@@ -1015,8 +1101,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Timing",
         "previews": [
           {
@@ -1101,8 +1187,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made in Christmas (feat. LEE SUHYUN)",
         "previews": [
           {
@@ -1186,8 +1272,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "To Be Young (feat. Doja Cat)",
         "previews": [
           {
@@ -1196,92 +1282,6 @@
         ],
         "artistName": "Anne-Marie",
         "contentRating": "explicit"
-      }
-    },
-    {
-      "id": "1642613664",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1642613664",
-      "attributes": {
-        "albumName": "STAR WALKIN' (League of Legends Worlds Anthem) - Single",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-09-22",
-        "durationInMillis": 210576,
-        "isrc": "USSM12208809",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/ba/4c/c4/ba4cc4e4-50e5-04f8-b865-389fdf0dfc38/dj.vdbsglhz.jpg/{w}x{h}bb.jpg",
-          "bgColor": "805c39",
-          "textColor1": "f3f1d8",
-          "textColor2": "d4ecde",
-          "textColor3": "dcd3b8",
-          "textColor4": "c3cfbd"
-        },
-        "composerName": "Montero Hill, Omer Fedi, Henry Walter & Atia \"Ink\" Boggs",
-        "url": "https://music.apple.com/us/album/star-walkin-league-of-legends-worlds-anthem/1642613175?i=1642613664",
-        "playParams": {
-          "id": "1642613664",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/4b/66/6d4b6697-57ec-f34c-a56d-53c7fe48acea/mzaf_16059193770746503297.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Lil Nas X",
-        "contentRating": "explicit"
-      }
-    },
-    {
-      "id": "1657231962",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1657231962",
-      "attributes": {
-        "albumName": "Ditto - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-12-19",
-        "durationInMillis": 185507,
-        "isrc": "USA2P2254487",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fdfcff",
-          "textColor1": "36080e",
-          "textColor2": "440a11",
-          "textColor3": "5e393e",
-          "textColor4": "693b41"
-        },
-        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
-        "playParams": {
-          "id": "1657231962",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Ditto",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
