@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1320781379",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1320781379",
+      "attributes": {
+        "albumName": "Chosen",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2017-12-08",
+        "durationInMillis": 211560,
+        "isrc": "ITB001700846",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/{w}x{h}bb.jpg",
+          "bgColor": "616e73",
+          "textColor1": "e9f4fd",
+          "textColor2": "eff0f1",
+          "textColor3": "ced9e2",
+          "textColor4": "d2d6d7"
+        },
+        "composerName": "Peggy Farina & Bob Gaudio",
+        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
+        "playParams": {
+          "id": "1320781379",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Beggin'",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/51/0a/e4510ace-781c-dc91-bdbc-7fa36740475a/mzaf_6170303098038008119.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "M\u00e5neskin"
+      }
+    },
+    {
       "id": "1337826951",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1337826951",
@@ -45,48 +87,6 @@
       }
     },
     {
-      "id": "1320781379",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1320781379",
-      "attributes": {
-        "albumName": "Chosen",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2017-12-08",
-        "durationInMillis": 211560,
-        "isrc": "ITB001700846",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/{w}x{h}bb.jpg",
-          "bgColor": "616e73",
-          "textColor1": "e9f4fd",
-          "textColor2": "eff0f1",
-          "textColor3": "ced9e2",
-          "textColor4": "d2d6d7"
-        },
-        "composerName": "Peggy Farina & Bob Gaudio",
-        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
-        "playParams": {
-          "id": "1320781379",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Beggin'",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/51/0a/e4510ace-781c-dc91-bdbc-7fa36740475a/mzaf_6170303098038008119.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "M\u00e5neskin"
-      }
-    },
-    {
       "id": "1278808870",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1278808870",
@@ -117,8 +117,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Power",
         "previews": [
           {
@@ -245,8 +245,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -288,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -373,8 +373,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Save",
         "previews": [
           {
@@ -459,8 +459,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -501,8 +501,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -629,8 +629,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Christmas Day",
         "previews": [
           {
@@ -757,16 +757,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "To Be Young (feat. Doja Cat)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/78/ae/b2/78aeb20c-2126-747b-83b9-a41d5702a6d9/mzaf_18353261925023390411.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Anne-Marie",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Anne-Marie"
       }
     },
     {
@@ -808,8 +808,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/4b/66/6d4b6697-57ec-f34c-a56d-53c7fe48acea/mzaf_16059193770746503297.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Lil Nas X"
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
       }
     },
     {
@@ -844,8 +844,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -887,8 +887,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cure For Me",
         "previews": [
           {
@@ -930,8 +930,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Nxde",
         "previews": [
           {
@@ -1016,8 +1016,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -1102,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -1144,8 +1144,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Selling An Experience",
         "previews": [
           {
@@ -1230,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Illusion",
         "previews": [
           {
