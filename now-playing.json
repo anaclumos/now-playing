@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1337826951",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1337826951",
+      "attributes": {
+        "albumName": "Bicycle Ride (Soca Remix) - Single",
+        "genreNames": [
+          "Modern Dancehall",
+          "Music",
+          "Reggae"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2016-02-12",
+        "durationInMillis": 172755,
+        "isrc": "USA2P1606869",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/6e/90/c9/6e90c94d-a062-8061-77e3-40dcae44c3bc/889326534525.jpg/{w}x{h}bb.jpg",
+          "bgColor": "2db573",
+          "textColor1": "000000",
+          "textColor2": "1b1712",
+          "textColor3": "092417",
+          "textColor4": "1f3626"
+        },
+        "composerName": "Vybz Kartel, Bunji Garlin, Mario Dunwell & Stadic",
+        "url": "https://music.apple.com/us/album/bicycle-ride-soca-remix/1337826948?i=1337826951",
+        "playParams": {
+          "id": "1337826951",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Bicycle Ride (Soca Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/08/8d/91088d0a-0f4f-e583-b53d-d689f4ec5c48/mzaf_4350263057183528428.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vybz Kartel & Bunji Garlin"
+      }
+    },
+    {
+      "id": "1320781379",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1320781379",
+      "attributes": {
+        "albumName": "Chosen",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2017-12-08",
+        "durationInMillis": 211560,
+        "isrc": "ITB001700846",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/{w}x{h}bb.jpg",
+          "bgColor": "616e73",
+          "textColor1": "e9f4fd",
+          "textColor2": "eff0f1",
+          "textColor3": "ced9e2",
+          "textColor4": "d2d6d7"
+        },
+        "composerName": "Peggy Farina & Bob Gaudio",
+        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
+        "playParams": {
+          "id": "1320781379",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Beggin'",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/51/0a/e4510ace-781c-dc91-bdbc-7fa36740475a/mzaf_6170303098038008119.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "M\u00e5neskin"
+      }
+    },
+    {
       "id": "1588219798",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1588219798",
@@ -33,8 +118,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -131,91 +216,6 @@
       }
     },
     {
-      "id": "1320781379",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1320781379",
-      "attributes": {
-        "albumName": "Chosen",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2017-12-08",
-        "durationInMillis": 211560,
-        "isrc": "ITB001700846",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/{w}x{h}bb.jpg",
-          "bgColor": "616e73",
-          "textColor1": "e9f4fd",
-          "textColor2": "eff0f1",
-          "textColor3": "ced9e2",
-          "textColor4": "d2d6d7"
-        },
-        "composerName": "Peggy Farina & Bob Gaudio",
-        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
-        "playParams": {
-          "id": "1320781379",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Beggin'",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/51/0a/e4510ace-781c-dc91-bdbc-7fa36740475a/mzaf_6170303098038008119.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "M\u00e5neskin"
-      }
-    },
-    {
-      "id": "1337826951",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1337826951",
-      "attributes": {
-        "albumName": "Bicycle Ride (Soca Remix) - Single",
-        "genreNames": [
-          "Modern Dancehall",
-          "Music",
-          "Reggae"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2016-02-12",
-        "durationInMillis": 172755,
-        "isrc": "USA2P1606869",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/6e/90/c9/6e90c94d-a062-8061-77e3-40dcae44c3bc/889326534525.jpg/{w}x{h}bb.jpg",
-          "bgColor": "2db573",
-          "textColor1": "000000",
-          "textColor2": "1b1712",
-          "textColor3": "092417",
-          "textColor4": "1f3626"
-        },
-        "composerName": "Vybz Kartel, Bunji Garlin, Mario Dunwell & Stadic",
-        "url": "https://music.apple.com/us/album/bicycle-ride-soca-remix/1337826948?i=1337826951",
-        "playParams": {
-          "id": "1337826951",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Bicycle Ride (Soca Remix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/08/8d/91088d0a-0f4f-e583-b53d-d689f4ec5c48/mzaf_4350263057183528428.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vybz Kartel & Bunji Garlin"
-      }
-    },
-    {
       "id": "1278808870",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1278808870",
@@ -246,8 +246,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Power",
         "previews": [
           {
@@ -289,8 +289,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -375,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -418,8 +418,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -504,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -590,8 +590,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Illusion",
         "previews": [
           {
@@ -675,8 +675,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -718,8 +718,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -803,8 +803,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -889,8 +889,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -931,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "New Thing (feat. Homies)",
         "previews": [
           {
@@ -974,8 +974,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Save",
         "previews": [
           {
@@ -1101,8 +1101,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Timing",
         "previews": [
           {
@@ -1144,8 +1144,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Christmas Day",
         "previews": [
           {
@@ -1187,8 +1187,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made in Christmas (feat. LEE SUHYUN)",
         "previews": [
           {
@@ -1272,8 +1272,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "To Be Young (feat. Doja Cat)",
         "previews": [
           {
