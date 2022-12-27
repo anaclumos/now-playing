@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1320781379",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1320781379",
+      "attributes": {
+        "albumName": "Chosen",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2017-12-08",
+        "durationInMillis": 211560,
+        "isrc": "ITB001700846",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/{w}x{h}bb.jpg",
+          "bgColor": "616e73",
+          "textColor1": "e9f4fd",
+          "textColor2": "eff0f1",
+          "textColor3": "ced9e2",
+          "textColor4": "d2d6d7"
+        },
+        "composerName": "Peggy Farina & Bob Gaudio",
+        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
+        "playParams": {
+          "id": "1320781379",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Beggin'",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/51/0a/e4510ace-781c-dc91-bdbc-7fa36740475a/mzaf_6170303098038008119.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "M\u00e5neskin"
+      }
+    },
+    {
+      "id": "1658222132",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1658222132",
+      "attributes": {
+        "albumName": "Candy - Winter Special Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-12-16",
+        "durationInMillis": 217067,
+        "isrc": "KRA302200259",
+        "artwork": {
+          "width": 5000,
+          "height": 5000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
+          "bgColor": "011605",
+          "textColor1": "fefeff",
+          "textColor2": "ede4dc",
+          "textColor3": "cbcfcc",
+          "textColor4": "bebab1"
+        },
+        "composerName": "Chang Yong Jin",
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
+        "playParams": {
+          "id": "1658222132",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Candy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/94/de/b394dee5-2053-3d55-7382-8da20f3563e4/mzaf_15974731009209634121.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NCT DREAM"
+      }
+    },
+    {
+      "id": "1535473482",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1535473482",
+      "attributes": {
+        "albumName": "Christmas Without You - Single",
+        "genreNames": [
+          "Holiday",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-01-01",
+        "durationInMillis": 169245,
+        "isrc": "USAT22006592",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/14/bc/35/14bc3529-1982-aaf1-ae1b-ed1238efc08a/075679799036.jpg/{w}x{h}bb.jpg",
+          "bgColor": "090909",
+          "textColor1": "fcf1eb",
+          "textColor2": "d7cbc2",
+          "textColor3": "cbc2bd",
+          "textColor4": "aea49d"
+        },
+        "composerName": "Amanda Ava Koci, Gian Stone, Henry Walter, Jesse Aicher & Sam Martin",
+        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
+        "playParams": {
+          "id": "1535473482",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Christmas Without You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d0/a5/54/d0a5549b-5aab-6537-bbee-0a091c8087f1/mzaf_13400483143922618970.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Ava Max"
+      }
+    },
+    {
       "id": "1278808870",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1278808870",
@@ -13,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 222406,
         "releaseDate": "2017-09-05",
+        "durationInMillis": 222406,
         "isrc": "KRA301700488",
         "artwork": {
           "width": 4000,
@@ -69,14 +197,14 @@
           "textColor4": "1f3626"
         },
         "composerName": "Vybz Kartel, Bunji Garlin, Mario Dunwell & Stadic",
+        "url": "https://music.apple.com/us/album/bicycle-ride-soca-remix/1337826948?i=1337826951",
         "playParams": {
           "id": "1337826951",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bicycle-ride-soca-remix/1337826948?i=1337826951",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bicycle Ride (Soca Remix)",
         "previews": [
           {
@@ -84,48 +212,6 @@
           }
         ],
         "artistName": "Vybz Kartel & Bunji Garlin"
-      }
-    },
-    {
-      "id": "1320781379",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1320781379",
-      "attributes": {
-        "albumName": "Chosen",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 4,
-        "durationInMillis": 211560,
-        "releaseDate": "2017-12-08",
-        "isrc": "ITB001700846",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/{w}x{h}bb.jpg",
-          "bgColor": "616e73",
-          "textColor1": "e9f4fd",
-          "textColor2": "eff0f1",
-          "textColor3": "ced9e2",
-          "textColor4": "d2d6d7"
-        },
-        "composerName": "Peggy Farina & Bob Gaudio",
-        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
-        "playParams": {
-          "id": "1320781379",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Beggin'",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/51/0a/e4510ace-781c-dc91-bdbc-7fa36740475a/mzaf_6170303098038008119.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "M\u00e5neskin"
       }
     },
     {
@@ -140,8 +226,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -183,8 +269,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177187,
         "releaseDate": "2022-04-05",
+        "durationInMillis": 177187,
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -239,14 +325,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -282,14 +368,14 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -325,14 +411,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -340,49 +426,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1658222132",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1658222132",
-      "attributes": {
-        "albumName": "Candy - Winter Special Mini Album - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 217067,
-        "releaseDate": "2022-12-16",
-        "isrc": "KRA302200259",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
-          "bgColor": "011605",
-          "textColor1": "fefeff",
-          "textColor2": "ede4dc",
-          "textColor3": "cbcfcc",
-          "textColor4": "bebab1"
-        },
-        "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
-        "playParams": {
-          "id": "1658222132",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Candy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/94/de/b394dee5-2053-3d55-7382-8da20f3563e4/mzaf_15974731009209634121.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NCT DREAM"
       }
     },
     {
@@ -398,8 +441,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -454,14 +497,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame",
         "previews": [
           {
@@ -497,14 +540,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -526,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -569,8 +612,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -626,14 +669,14 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -669,14 +712,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -698,8 +741,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -741,8 +784,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174387,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 174387,
         "isrc": "KRA392100080",
         "artwork": {
           "width": 1400,
@@ -784,8 +827,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 198559,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 198559,
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -840,14 +883,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -883,14 +926,14 @@
           "textColor4": "143d30"
         },
         "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "playParams": {
           "id": "1614179710",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -911,8 +954,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 147427,
         "releaseDate": "2022-09-06",
+        "durationInMillis": 147427,
         "isrc": "KRA492200790",
         "artwork": {
           "width": 1400,
@@ -954,8 +997,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 201960,
         "releaseDate": "2021-06-04",
+        "durationInMillis": 201960,
         "isrc": "KRB142100006",
         "artwork": {
           "width": 1400,
@@ -1010,14 +1053,14 @@
           "textColor3": "d6d5d6",
           "textColor4": "bfb34b"
         },
+        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "playParams": {
           "id": "1060455878",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -1053,14 +1096,14 @@
           "textColor3": "3b3634",
           "textColor4": "524b47"
         },
+        "url": "https://music.apple.com/us/album/must-have-love/1495322858?i=1495322859",
         "playParams": {
           "id": "1495322859",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/must-have-love/1495322858?i=1495322859",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Must Have Love",
         "previews": [
           {
@@ -1095,14 +1138,14 @@
           "textColor4": "bba9ad"
         },
         "composerName": "Hwang Hyun",
+        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "playParams": {
           "id": "1478604421",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Timing",
         "previews": [
           {
@@ -1138,14 +1181,14 @@
           "textColor3": "eccbcc",
           "textColor4": "ebafb4"
         },
+        "url": "https://music.apple.com/us/album/christmas-day/1322938661?i=1322938679",
         "playParams": {
           "id": "1322938679",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/christmas-day/1322938661?i=1322938679",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Christmas Day",
         "previews": [
           {
@@ -1168,8 +1211,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "durationInMillis": 192000,
         "releaseDate": "2018-12-21",
+        "durationInMillis": 192000,
         "isrc": "KRA381802303",
         "artwork": {
           "width": 3000,
@@ -1224,14 +1267,14 @@
           "textColor4": "754746"
         },
         "composerName": "Mariah Carey & Walter Afanasieff",
+        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
         "playParams": {
           "id": "585972803",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "All I Want For Christmas Is You",
         "previews": [
           {
@@ -1239,49 +1282,6 @@
           }
         ],
         "artistName": "Mariah Carey"
-      }
-    },
-    {
-      "id": "1519825047",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1519825047",
-      "attributes": {
-        "albumName": "To Be Young (feat. Doja Cat) - Single",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-07-17",
-        "durationInMillis": 194758,
-        "isrc": "GBAHS2000335",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/e5/68/05/e5680563-010c-8fca-f43a-5c0ea4722243/190295208226.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ce9dcc",
-          "textColor1": "0b0d0c",
-          "textColor2": "121010",
-          "textColor3": "322a32",
-          "textColor4": "382c35"
-        },
-        "composerName": "Amala Dlamini, Anne-Marie Nicholson, Billy Walsh, Delacey, Louis Bell & Teo Halm",
-        "playParams": {
-          "id": "1519825047",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/to-be-young-feat-doja-cat/1519825045?i=1519825047",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "To Be Young (feat. Doja Cat)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/78/ae/b2/78aeb20c-2126-747b-83b9-a41d5702a6d9/mzaf_18353261925023390411.plus.aac.p.m4a"
-          }
-        ],
-        "contentRating": "explicit",
-        "artistName": "Anne-Marie"
       }
     }
   ]
