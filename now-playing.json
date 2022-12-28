@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1626752986",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1626752986",
+      "attributes": {
+        "albumName": "Girls - The 2nd Mini Album (Apple Music Up Next Film Edition)",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
+        "isrc": "KRA302200095",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c9/7d/dd/c97ddd34-5962-8cf1-a55c-cf730d3069f5/888735941375.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "f0fafc",
+          "textColor2": "f4c4d1",
+          "textColor3": "c0c8ca",
+          "textColor4": "c39da8"
+        },
+        "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "playParams": {
+          "id": "1626752986",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Illusion",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/84/8f/4f/848f4fb8-34f7-952a-5b58-5a8ddbfe0e41/mzaf_1226807611289797516.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
+      "id": "1633318780",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1633318780",
+      "attributes": {
+        "albumName": "CHARLIE",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "durationInMillis": 188508,
+        "releaseDate": "2022-09-16",
+        "isrc": "USAT22208889",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dadad8",
+          "textColor1": "040404",
+          "textColor2": "2c2c2b",
+          "textColor3": "2e2e2e",
+          "textColor4": "4e4e4d"
+        },
+        "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
+        "playParams": {
+          "id": "1633318780",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "I Don't Think That I Like Her",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e0/e6/75/e0e675a3-b528-475f-949a-b696595a24ab/mzaf_14467144304382032423.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Charlie Puth"
+      }
+    },
+    {
       "id": "1644432003",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1644432003",
@@ -99,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 198559,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -118,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -155,14 +240,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -198,14 +283,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -227,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -240,11 +325,11 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -269,8 +354,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -283,11 +368,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -440,8 +525,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-09-05",
         "durationInMillis": 222406,
+        "releaseDate": "2017-09-05",
         "isrc": "KRA301700488",
         "artwork": {
           "width": 4000,
@@ -459,8 +544,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Power",
         "previews": [
           {
@@ -482,8 +567,8 @@
           "Reggae"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-02-12",
         "durationInMillis": 172755,
+        "releaseDate": "2016-02-12",
         "isrc": "USA2P1606869",
         "artwork": {
           "width": 1500,
@@ -502,8 +587,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bicycle Ride (Soca Remix)",
         "previews": [
           {
@@ -525,8 +610,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -545,8 +630,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -582,14 +667,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -625,14 +710,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -654,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 201895,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -668,11 +753,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -740,8 +825,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -754,11 +839,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -783,8 +868,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 204040,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -803,8 +888,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -883,14 +968,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -898,49 +983,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1626752986",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1626752986",
-      "attributes": {
-        "albumName": "Girls - The 2nd Mini Album (Apple Music Up Next Film Edition)",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-06-01",
-        "durationInMillis": 195053,
-        "isrc": "KRA302200095",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c9/7d/dd/c97ddd34-5962-8cf1-a55c-cf730d3069f5/888735941375.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "f0fafc",
-          "textColor2": "f4c4d1",
-          "textColor3": "c0c8ca",
-          "textColor4": "c39da8"
-        },
-        "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
-        "playParams": {
-          "id": "1626752986",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Illusion",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/84/8f/4f/848f4fb8-34f7-952a-5b58-5a8ddbfe0e41/mzaf_1226807611289797516.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
       }
     },
     {
@@ -969,14 +1011,14 @@
           "textColor4": "143d30"
         },
         "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
-        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "playParams": {
           "id": "1614179710",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -1040,8 +1082,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-06-04",
         "durationInMillis": 201960,
+        "releaseDate": "2021-06-04",
         "isrc": "KRB142100006",
         "artwork": {
           "width": 1400,
@@ -1060,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Save",
         "previews": [
           {
@@ -1083,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "1996-09-07",
         "durationInMillis": 217227,
+        "releaseDate": "1996-09-07",
         "isrc": "KRA300800001",
         "artwork": {
           "width": 2000,
@@ -1096,11 +1138,11 @@
           "textColor3": "d6d5d6",
           "textColor4": "bfb34b"
         },
+        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "playParams": {
           "id": "1060455878",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/candy/1060455860?i=1060455878",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1126,8 +1168,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2006-11-16",
         "durationInMillis": 260075,
+        "releaseDate": "2006-11-16",
         "isrc": "KRA381206982",
         "artwork": {
           "width": 3000,
@@ -1145,8 +1187,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Must Have Love",
         "previews": [
           {
@@ -1167,8 +1209,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-12-10",
         "durationInMillis": 223712,
+        "releaseDate": "2018-12-10",
         "isrc": "KRA381802245",
         "artwork": {
           "width": 3000,
@@ -1181,11 +1223,11 @@
           "textColor4": "bba9ad"
         },
         "composerName": "Hwang Hyun",
+        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "playParams": {
           "id": "1478604421",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1239,49 +1281,6 @@
           }
         ],
         "artistName": "K.Will, SoYou, BOYFRIEND, MONSTA X, WJSN, Mad Clown, Junggigo, #GUN, Yu Seung Woo, BrotherSu, MIND U, Duetto, JEONG SEWOON & LEE KWANGHYUN"
-      }
-    },
-    {
-      "id": "1447614791",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1447614791",
-      "attributes": {
-        "albumName": "Made in Christmas (feat. LEE SUHYUN) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2018-12-21",
-        "durationInMillis": 192000,
-        "isrc": "KRA381802303",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/c0/2d/d7/c02dd724-8102-fda4-73d3-4599cc62d901/cover-_DS.jpg/{w}x{h}bb.jpg",
-          "bgColor": "931f1f",
-          "textColor1": "ffd84f",
-          "textColor2": "f6a78a",
-          "textColor3": "e9b245",
-          "textColor4": "e28c74"
-        },
-        "playParams": {
-          "id": "1447614791",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/made-in-christmas-feat-lee-suhyun/1447614721?i=1447614791",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Made in Christmas (feat. LEE SUHYUN)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/c1/e7/c9c1e71d-3b56-26b6-a093-a9a736db4a28/mzaf_9998729104911481599.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "JANNABI & LEE SUHYUN"
       }
     }
   ]
