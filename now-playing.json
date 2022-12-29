@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1643124466",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1643124466",
+      "attributes": {
+        "albumName": "MALUS",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-09-05",
+        "durationInMillis": 192787,
+        "isrc": "KRA382207081",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/4c/b9/ab/4cb9ab22-c143-6e09-737b-a02112df23b4/cover_KM0016028_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "480000",
+          "textColor3": "333333",
+          "textColor4": "6c3333"
+        },
+        "playParams": {
+          "id": "1643124466",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/same-scent/1643124164?i=1643124466",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Same Scent",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/24/fa/19/24fa1988-b43c-a6a5-58d0-73486ebb5e02/mzaf_10431547177861930804.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ONEUS"
+      }
+    },
+    {
       "id": "1517448096",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517448096",
@@ -13,8 +55,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-10-02",
         "durationInMillis": 287827,
+        "releaseDate": "1995-10-02",
         "isrc": "GBAAW9500190",
         "artwork": {
           "width": 3000,
@@ -45,6 +87,48 @@
       }
     },
     {
+      "id": "1573669543",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1573669543",
+      "attributes": {
+        "albumName": "dumb dumb - Single",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-07-08",
+        "durationInMillis": 125256,
+        "isrc": "QZRYT2100001",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/ec/93/c7/ec93c7ab-dc8a-72de-f9ab-80325ed9229c/21UMGIM54077.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0da7e7",
+          "textColor1": "02032b",
+          "textColor2": "001e37",
+          "textColor3": "042351",
+          "textColor4": "02395a"
+        },
+        "composerName": "Grace Christian & Elie Jay Rizk",
+        "playParams": {
+          "id": "1573669543",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/dumb-dumb/1573669537?i=1573669543",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "dumb dumb",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b4/3f/b2/b43fb2cb-aa8a-850c-bb84-1fef29fee87a/mzaf_16397008397447596402.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "mazie"
+      }
+    },
+    {
       "id": "1517448101",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517448101",
@@ -56,8 +140,8 @@
           "Alternative"
         ],
         "trackNumber": 2,
-        "releaseDate": "1996-02-19",
         "durationInMillis": 220600,
+        "releaseDate": "1996-02-19",
         "isrc": "GBAAW9500298",
         "artwork": {
           "width": 3000,
@@ -118,8 +202,8 @@
         },
         "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -155,14 +239,14 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -170,90 +254,6 @@
           }
         ],
         "artistName": "BLACKPINK"
-      }
-    },
-    {
-      "id": "1643124466",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1643124466",
-      "attributes": {
-        "albumName": "MALUS",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-09-05",
-        "durationInMillis": 192787,
-        "isrc": "KRA382207081",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/4c/b9/ab/4cb9ab22-c143-6e09-737b-a02112df23b4/cover_KM0016028_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "480000",
-          "textColor3": "333333",
-          "textColor4": "6c3333"
-        },
-        "url": "https://music.apple.com/us/album/same-scent/1643124164?i=1643124466",
-        "playParams": {
-          "id": "1643124466",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Same Scent",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/24/fa/19/24fa1988-b43c-a6a5-58d0-73486ebb5e02/mzaf_10431547177861930804.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ONEUS"
-      }
-    },
-    {
-      "id": "1573669543",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1573669543",
-      "attributes": {
-        "albumName": "dumb dumb - Single",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-07-08",
-        "durationInMillis": 125256,
-        "isrc": "QZRYT2100001",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/ec/93/c7/ec93c7ab-dc8a-72de-f9ab-80325ed9229c/21UMGIM54077.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0da7e7",
-          "textColor1": "02032b",
-          "textColor2": "001e37",
-          "textColor3": "042351",
-          "textColor4": "02395a"
-        },
-        "composerName": "Grace Christian & Elie Jay Rizk",
-        "playParams": {
-          "id": "1573669543",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/dumb-dumb/1573669537?i=1573669543",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "dumb dumb",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b4/3f/b2/b43fb2cb-aa8a-850c-bb84-1fef29fee87a/mzaf_16397008397447596402.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "mazie"
       }
     },
     {
@@ -287,8 +287,8 @@
         },
         "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Beggin'",
         "previews": [
           {
@@ -310,8 +310,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -373,8 +373,8 @@
         },
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -396,8 +396,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-01",
         "durationInMillis": 169245,
+        "releaseDate": "2020-01-01",
         "isrc": "USAT22006592",
         "artwork": {
           "width": 1425,
@@ -410,11 +410,11 @@
           "textColor4": "aea49d"
         },
         "composerName": "Amanda Ava Koci, Gian Stone, Henry Walter, Jesse Aicher & Sam Martin",
+        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
         "playParams": {
           "id": "1535473482",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -453,14 +453,14 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -502,8 +502,8 @@
         },
         "url": "https://music.apple.com/us/album/bicycle-ride-soca-remix/1337826948?i=1337826951",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bicycle Ride (Soca Remix)",
         "previews": [
           {
@@ -524,8 +524,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "releaseDate": "2022-09-28",
         "durationInMillis": 102664,
+        "releaseDate": "2022-09-28",
         "isrc": "QZRYT2100048",
         "artwork": {
           "width": 3000,
@@ -538,11 +538,11 @@
           "textColor4": "48515c"
         },
         "composerName": "Grace Christian & Elie Jay Rizk",
+        "url": "https://music.apple.com/us/album/dumb-dumb-sped-up/1647304665?i=1647305496",
         "playParams": {
           "id": "1647305496",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dumb-dumb-sped-up/1647304665?i=1647305496",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -580,14 +580,14 @@
           "textColor4": "b69880"
         },
         "composerName": "Taylor Swift, Max Martin & Shellback",
-        "url": "https://music.apple.com/us/album/message-in-a-bottle-taylors-version-from-the-vault/1590368275?i=1590368919",
         "playParams": {
           "id": "1590368919",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/message-in-a-bottle-taylors-version-from-the-vault/1590368275?i=1590368919",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
         "previews": [
           {
@@ -610,8 +610,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-20",
         "durationInMillis": 188707,
+        "releaseDate": "2022-04-20",
         "isrc": "KRA382204596",
         "artwork": {
           "width": 3000,
@@ -623,11 +623,11 @@
           "textColor3": "272726",
           "textColor4": "3b3a39"
         },
+        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "playParams": {
           "id": "1619757892",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -672,8 +672,8 @@
         },
         "url": "https://music.apple.com/us/album/love-scenario/1339623377?i=1339623399",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE SCENARIO",
         "previews": [
           {
@@ -714,8 +714,8 @@
         },
         "url": "https://music.apple.com/us/album/hymn-for-the-weekend/1053933969?i=1053934844",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Hymn for the Weekend",
         "previews": [
           {
@@ -738,8 +738,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-06-22",
         "durationInMillis": 215250,
+        "releaseDate": "2017-06-22",
         "isrc": "KRA401700174",
         "artwork": {
           "width": 4000,
@@ -780,8 +780,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2020-06-15",
         "durationInMillis": 180813,
+        "releaseDate": "2020-06-15",
         "isrc": "KRA492000679",
         "artwork": {
           "width": 1400,
@@ -824,8 +824,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-26",
         "durationInMillis": 177467,
+        "releaseDate": "2022-08-26",
         "isrc": "US5TA2200073",
         "artwork": {
           "width": 1400,
@@ -866,8 +866,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2017-11-07",
         "durationInMillis": 180807,
+        "releaseDate": "2017-11-07",
         "isrc": "KRC491700016",
         "artwork": {
           "width": 1400,
@@ -880,11 +880,11 @@
           "textColor4": "ceaf37"
         },
         "composerName": "ZICO, Pop.time & Park Kyung",
+        "url": "https://music.apple.com/us/album/shall-we-dance/1607087010?i=1607087383",
         "playParams": {
           "id": "1607087383",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/shall-we-dance/1607087010?i=1607087383",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -923,14 +923,14 @@
           "textColor3": "cdcac6",
           "textColor4": "be9e8a"
         },
-        "url": "https://music.apple.com/us/album/romantico/478752976?i=478752985",
         "playParams": {
           "id": "478752985",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/romantico/478752976?i=478752985",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Romantico",
         "previews": [
           {
@@ -971,8 +971,8 @@
         },
         "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -1008,14 +1008,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -1036,8 +1036,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-03-09",
         "durationInMillis": 180180,
+        "releaseDate": "2020-03-09",
         "isrc": "US5TA2000008",
         "artwork": {
           "width": 1400,
@@ -1080,8 +1080,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -1093,11 +1093,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1142,8 +1142,8 @@
         },
         "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -1165,8 +1165,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 201895,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -1208,8 +1208,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -1222,11 +1222,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1271,8 +1271,8 @@
         },
         "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Stop Me",
         "previews": [
           {
