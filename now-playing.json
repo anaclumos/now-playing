@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1645995269",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1645995269",
+      "attributes": {
+        "albumName": "I love - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 204040,
+        "releaseDate": "2022-10-17",
+        "isrc": "KRA392200040",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b2/20/a2/b220a21f-19ce-fae4-625b-c0a7223d45e2/196922202544_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "980400",
+          "textColor1": "f9cca9",
+          "textColor2": "fbbd94",
+          "textColor3": "e5a487",
+          "textColor4": "e79876"
+        },
+        "composerName": "Minnie, BreadBeat & So-yeon",
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
+        "playParams": {
+          "id": "1645995269",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Change",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/13/76/e5/1376e5fa-42f1-8af6-6a20-5ceb01bbd266/mzaf_8125914815218749458.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1600008461",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1600008461",
+      "attributes": {
+        "albumName": "Dreams Come True - SM STATION - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-12-20",
+        "durationInMillis": 204933,
+        "isrc": "KRA302100400",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/70/d7/4a/70d74a73-cb0e-eb09-4662-c2bdc7eb723a/dj.oabkpkud.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a6b3f1",
+          "textColor1": "110813",
+          "textColor2": "1f2434",
+          "textColor3": "2e2a3f",
+          "textColor4": "3a4059"
+        },
+        "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
+        "playParams": {
+          "id": "1600008461",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Dreams Come True",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/9f/a2/839fa24c-ae0e-500f-c140-e9c85d03ce45/mzaf_8182222204558139965.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
       "id": "1635469694",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1635469694",
@@ -13,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -27,14 +113,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -56,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -70,11 +156,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -99,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174387,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 174387,
         "isrc": "KRA392100080",
         "artwork": {
           "width": 1400,
@@ -113,11 +199,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -142,8 +228,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 198559,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 198559,
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -155,11 +241,11 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -184,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -198,11 +284,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -227,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -241,14 +327,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -332,8 +418,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -354,8 +440,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 188508,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 188508,
         "isrc": "USAT22208889",
         "artwork": {
           "width": 1425,
@@ -368,11 +454,11 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -396,8 +482,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 144934,
         "releaseDate": "2022-04-08",
+        "durationInMillis": 144934,
         "isrc": "USAT22202621",
         "artwork": {
           "width": 1425,
@@ -410,11 +496,11 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Charlie Puth & Jacob Kasher Hindlin",
-        "url": "https://music.apple.com/us/album/thats-hilarious/1633318292?i=1633318546",
         "playParams": {
           "id": "1633318546",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thats-hilarious/1633318292?i=1633318546",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -439,8 +525,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-07-08",
         "durationInMillis": 125256,
+        "releaseDate": "2021-07-08",
         "isrc": "QZRYT2100001",
         "artwork": {
           "width": 3000,
@@ -453,14 +539,14 @@
           "textColor4": "02395a"
         },
         "composerName": "Grace Christian & Elie Jay Rizk",
+        "url": "https://music.apple.com/us/album/dumb-dumb/1573669537?i=1573669543",
         "playParams": {
           "id": "1573669543",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dumb-dumb/1573669537?i=1573669543",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "dumb dumb",
         "previews": [
           {
@@ -482,8 +568,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -496,14 +582,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -525,8 +611,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-01",
         "durationInMillis": 169245,
+        "releaseDate": "2020-01-01",
         "isrc": "USAT22006592",
         "artwork": {
           "width": 1425,
@@ -539,14 +625,14 @@
           "textColor4": "aea49d"
         },
         "composerName": "Amanda Ava Koci, Gian Stone, Henry Walter, Jesse Aicher & Sam Martin",
+        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
         "playParams": {
           "id": "1535473482",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Christmas Without You",
         "previews": [
           {
@@ -568,8 +654,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-16",
         "durationInMillis": 217067,
+        "releaseDate": "2022-12-16",
         "isrc": "KRA302200259",
         "artwork": {
           "width": 5000,
@@ -582,14 +668,14 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -696,8 +782,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -710,14 +796,14 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -738,8 +824,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "durationInMillis": 102664,
         "releaseDate": "2022-09-28",
+        "durationInMillis": 102664,
         "isrc": "QZRYT2100048",
         "artwork": {
           "width": 3000,
@@ -752,11 +838,11 @@
           "textColor4": "48515c"
         },
         "composerName": "Grace Christian & Elie Jay Rizk",
-        "url": "https://music.apple.com/us/album/dumb-dumb-sped-up/1647304665?i=1647305496",
         "playParams": {
           "id": "1647305496",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dumb-dumb-sped-up/1647304665?i=1647305496",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -781,8 +867,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 201960,
         "releaseDate": "2021-06-04",
+        "durationInMillis": 201960,
         "isrc": "KRB142100006",
         "artwork": {
           "width": 1400,
@@ -795,11 +881,11 @@
           "textColor4": "d8bb7c"
         },
         "composerName": "Gaeko, Philtre, Choiza & THAMA",
-        "url": "https://music.apple.com/us/album/save/1570559559?i=1570559560",
         "playParams": {
           "id": "1570559560",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/save/1570559559?i=1570559560",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -843,8 +929,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Power",
         "previews": [
           {
@@ -866,8 +952,8 @@
           "Pop"
         ],
         "trackNumber": 13,
-        "durationInMillis": 306678,
         "releaseDate": "2006-01-31",
+        "durationInMillis": 306678,
         "isrc": "KRA341457787",
         "artwork": {
           "width": 3000,
@@ -879,11 +965,11 @@
           "textColor3": "dbae89",
           "textColor4": "daa676"
         },
-        "url": "https://music.apple.com/us/album/%EA%B7%B8%EB%8C%80%EC%97%90%EA%B2%8C/1563037827?i=1563037882",
         "playParams": {
           "id": "1563037882",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%EA%B7%B8%EB%8C%80%EC%97%90%EA%B2%8C/1563037827?i=1563037882",
         "discNumber": 2,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -908,8 +994,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-05-29",
         "durationInMillis": 332343,
+        "releaseDate": "2020-05-29",
         "isrc": "KRA0R2000139",
         "artwork": {
           "width": 3000,
@@ -922,14 +1008,14 @@
           "textColor4": "c51200"
         },
         "composerName": "LEENALCHI",
+        "url": "https://music.apple.com/us/album/tiger-is-coming/1551178216?i=1551178226",
         "playParams": {
           "id": "1551178226",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tiger-is-coming/1551178216?i=1551178226",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Tiger is Coming",
         "previews": [
           {
@@ -971,8 +1057,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Flip That",
         "previews": [
           {
@@ -1026,92 +1112,6 @@
       }
     },
     {
-      "id": "1645995269",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1645995269",
-      "attributes": {
-        "albumName": "I love - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-10-17",
-        "durationInMillis": 204040,
-        "isrc": "KRA392200040",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b2/20/a2/b220a21f-19ce-fae4-625b-c0a7223d45e2/196922202544_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "980400",
-          "textColor1": "f9cca9",
-          "textColor2": "fbbd94",
-          "textColor3": "e5a487",
-          "textColor4": "e79876"
-        },
-        "composerName": "Minnie, BreadBeat & So-yeon",
-        "playParams": {
-          "id": "1645995269",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Change",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/13/76/e5/1376e5fa-42f1-8af6-6a20-5ceb01bbd266/mzaf_8125914815218749458.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
-      }
-    },
-    {
-      "id": "1600008461",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1600008461",
-      "attributes": {
-        "albumName": "Dreams Come True - SM STATION - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-12-20",
-        "durationInMillis": 204933,
-        "isrc": "KRA302100400",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/70/d7/4a/70d74a73-cb0e-eb09-4662-c2bdc7eb723a/dj.oabkpkud.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a6b3f1",
-          "textColor1": "110813",
-          "textColor2": "1f2434",
-          "textColor3": "2e2a3f",
-          "textColor4": "3a4059"
-        },
-        "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "playParams": {
-          "id": "1600008461",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Dreams Come True",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/9f/a2/839fa24c-ae0e-500f-c140-e9c85d03ce45/mzaf_8182222204558139965.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
-      }
-    },
-    {
       "id": "1644432003",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1644432003",
@@ -1143,8 +1143,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -1166,8 +1166,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 199640,
         "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -1180,11 +1180,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1252,8 +1252,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 201895,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -1266,14 +1266,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame",
         "previews": [
           {
