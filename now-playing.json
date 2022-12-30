@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1645995269",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1645995269",
+      "attributes": {
+        "albumName": "I love - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 204040,
+        "releaseDate": "2022-10-17",
+        "isrc": "KRA392200040",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b2/20/a2/b220a21f-19ce-fae4-625b-c0a7223d45e2/196922202544_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "980400",
+          "textColor1": "f9cca9",
+          "textColor2": "fbbd94",
+          "textColor3": "e5a487",
+          "textColor4": "e79876"
+        },
+        "composerName": "Minnie, BreadBeat & So-yeon",
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
+        "playParams": {
+          "id": "1645995269",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Change",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/13/76/e5/1376e5fa-42f1-8af6-6a20-5ceb01bbd266/mzaf_8125914815218749458.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1600008461",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1600008461",
+      "attributes": {
+        "albumName": "Dreams Come True - SM STATION - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 204933,
+        "releaseDate": "2021-12-20",
+        "isrc": "KRA302100400",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/70/d7/4a/70d74a73-cb0e-eb09-4662-c2bdc7eb723a/dj.oabkpkud.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a6b3f1",
+          "textColor1": "110813",
+          "textColor2": "1f2434",
+          "textColor3": "2e2a3f",
+          "textColor4": "3a4059"
+        },
+        "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
+        "playParams": {
+          "id": "1600008461",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Dreams Come True",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/9f/a2/839fa24c-ae0e-500f-c140-e9c85d03ce45/mzaf_8182222204558139965.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
+      "id": "1635469694",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469694",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
+        "isrc": "USA2P2230221",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
+        "playParams": {
+          "id": "1635469694",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Attention",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/79/51/13795136-c3d0-1191-cc43-dcc16579a2f2/mzaf_8604667655746746744.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1626752986",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1626752986",
@@ -13,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -56,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174387,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 174387,
         "isrc": "KRA392100080",
         "artwork": {
           "width": 1400,
@@ -118,8 +247,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -141,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -184,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -246,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -289,8 +418,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -331,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Beggin'",
         "previews": [
           {
@@ -373,8 +502,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -396,8 +525,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 178924,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 178924,
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -438,8 +567,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-07-08",
         "durationInMillis": 125256,
+        "releaseDate": "2021-07-08",
         "isrc": "QZRYT2100001",
         "artwork": {
           "width": 3000,
@@ -480,8 +609,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-30",
         "durationInMillis": 182453,
+        "releaseDate": "2022-11-30",
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -547,8 +676,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -570,8 +699,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -613,8 +742,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-01",
         "durationInMillis": 169245,
+        "releaseDate": "2020-01-01",
         "isrc": "USAT22006592",
         "artwork": {
           "width": 1425,
@@ -656,8 +785,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217067,
         "releaseDate": "2022-12-16",
+        "durationInMillis": 217067,
         "isrc": "KRA302200259",
         "artwork": {
           "width": 5000,
@@ -688,48 +817,6 @@
       }
     },
     {
-      "id": "1643124466",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1643124466",
-      "attributes": {
-        "albumName": "MALUS",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-09-05",
-        "durationInMillis": 192787,
-        "isrc": "KRA382207081",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/4c/b9/ab/4cb9ab22-c143-6e09-737b-a02112df23b4/cover_KM0016028_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "480000",
-          "textColor3": "333333",
-          "textColor4": "6c3333"
-        },
-        "url": "https://music.apple.com/us/album/same-scent/1643124164?i=1643124466",
-        "playParams": {
-          "id": "1643124466",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Same Scent",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/24/fa/19/24fa1988-b43c-a6a5-58d0-73486ebb5e02/mzaf_10431547177861930804.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ONEUS"
-      }
-    },
-    {
       "id": "1517448096",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517448096",
@@ -741,8 +828,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-10-02",
         "durationInMillis": 287827,
+        "releaseDate": "1995-10-02",
         "isrc": "GBAAW9500190",
         "artwork": {
           "width": 3000,
@@ -770,6 +857,48 @@
           }
         ],
         "artistName": "Oasis"
+      }
+    },
+    {
+      "id": "1643124466",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1643124466",
+      "attributes": {
+        "albumName": "MALUS",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 192787,
+        "releaseDate": "2022-09-05",
+        "isrc": "KRA382207081",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/4c/b9/ab/4cb9ab22-c143-6e09-737b-a02112df23b4/cover_KM0016028_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "480000",
+          "textColor3": "333333",
+          "textColor4": "6c3333"
+        },
+        "url": "https://music.apple.com/us/album/same-scent/1643124164?i=1643124466",
+        "playParams": {
+          "id": "1643124466",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Same Scent",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/24/fa/19/24fa1988-b43c-a6a5-58d0-73486ebb5e02/mzaf_10431547177861930804.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ONEUS"
       }
     },
     {
@@ -804,8 +933,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Step Out",
         "previews": [
           {
@@ -827,8 +956,8 @@
           "Reggae"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-02-12",
         "durationInMillis": 172755,
+        "releaseDate": "2016-02-12",
         "isrc": "USA2P1606869",
         "artwork": {
           "width": 1500,
@@ -869,8 +998,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "durationInMillis": 102664,
         "releaseDate": "2022-09-28",
+        "durationInMillis": 102664,
         "isrc": "QZRYT2100048",
         "artwork": {
           "width": 3000,
@@ -911,8 +1040,8 @@
           "Music"
         ],
         "trackNumber": 25,
-        "durationInMillis": 225964,
         "releaseDate": "2021-11-12",
+        "durationInMillis": 225964,
         "isrc": "USUG12103685",
         "artwork": {
           "width": 3000,
@@ -974,8 +1103,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Beyond Love (feat. 10cm)",
         "previews": [
           {
@@ -998,8 +1127,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 1,
-        "durationInMillis": 209648,
         "releaseDate": "2018-01-25",
+        "durationInMillis": 209648,
         "isrc": "KRA401800015",
         "artwork": {
           "width": 5000,
@@ -1059,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Hymn for the Weekend",
         "previews": [
           {
@@ -1083,8 +1212,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-06-22",
         "durationInMillis": 215250,
+        "releaseDate": "2017-06-22",
         "isrc": "KRA401700174",
         "artwork": {
           "width": 4000,
@@ -1145,8 +1274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Merry-Go-Round (Japanese Version)",
         "previews": [
           {
@@ -1154,135 +1283,6 @@
           }
         ],
         "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1635656417",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635656417",
-      "attributes": {
-        "albumName": "BETWEEN 1&2",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-26",
-        "durationInMillis": 177467,
-        "isrc": "US5TA2200073",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/6d/80/45/6d8045ba-5b0e-c88a-0736-87fd14665e69/738676859874_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f7dec8",
-          "textColor1": "1b070d",
-          "textColor2": "5b103d",
-          "textColor3": "473232",
-          "textColor4": "7a3959"
-        },
-        "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
-        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
-        "playParams": {
-          "id": "1635656417",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Talk that Talk",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/af/42/93/af4293e1-7861-67c8-aecb-e4a1aa0e95b5/mzaf_5076913398594567626.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
-      }
-    },
-    {
-      "id": "1607087383",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1607087383",
-      "attributes": {
-        "albumName": "Re:MONTAGE",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 5,
-        "durationInMillis": 180807,
-        "releaseDate": "2017-11-07",
-        "isrc": "KRC491700016",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/78/54/38/78543850-23e3-7b7d-2074-f7d333e387b4/8809534469398_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "214172",
-          "textColor1": "f8d33c",
-          "textColor2": "faca28",
-          "textColor3": "cdb647",
-          "textColor4": "ceaf37"
-        },
-        "composerName": "ZICO, Pop.time & Park Kyung",
-        "url": "https://music.apple.com/us/album/shall-we-dance/1607087010?i=1607087383",
-        "playParams": {
-          "id": "1607087383",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Shall We Dance",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1d/4e/b5/1d4eb51f-3282-509f-d0c8-2d3dfed33eef/mzaf_3384530844284704051.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Block B"
-      }
-    },
-    {
-      "id": "478752985",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/478752985",
-      "attributes": {
-        "albumName": "\uc288\ud37c\uc2a4\ud0c0K 3 Top 11, Pt. 6 - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Soundtrack"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 216712,
-        "releaseDate": "2011-11-07",
-        "isrc": "KRA491100546",
-        "artwork": {
-          "width": 1000,
-          "height": 1000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music/bb/23/b8/mzi.jmdleotp.jpg/{w}x{h}bb.jpg",
-          "bgColor": "141311",
-          "textColor1": "fbf8f3",
-          "textColor2": "e8c1a8",
-          "textColor3": "cdcac6",
-          "textColor4": "be9e8a"
-        },
-        "url": "https://music.apple.com/us/album/romantico/478752976?i=478752985",
-        "playParams": {
-          "id": "478752985",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Romantico",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/23/b0/3d/23b03da4-40f6-7084-e893-1cfece3cc78d/mzaf_9572495073454129267.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Togeworl"
       }
     }
   ]
