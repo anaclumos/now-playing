@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1657231962",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1657231962",
+      "attributes": {
+        "albumName": "Ditto - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
+        "isrc": "USA2P2254487",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fdfcff",
+          "textColor1": "36080e",
+          "textColor2": "440a11",
+          "textColor3": "5e393e",
+          "textColor4": "693b41"
+        },
+        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
+        "playParams": {
+          "id": "1657231962",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ditto",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1535473482",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1535473482",
+      "attributes": {
+        "albumName": "Christmas Without You - Single",
+        "genreNames": [
+          "Holiday",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-01-01",
+        "durationInMillis": 169245,
+        "isrc": "USAT22006592",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/14/bc/35/14bc3529-1982-aaf1-ae1b-ed1238efc08a/075679799036.jpg/{w}x{h}bb.jpg",
+          "bgColor": "090909",
+          "textColor1": "fcf1eb",
+          "textColor2": "d7cbc2",
+          "textColor3": "cbc2bd",
+          "textColor4": "aea49d"
+        },
+        "composerName": "Amanda Ava Koci, Gian Stone, Henry Walter, Jesse Aicher & Sam Martin",
+        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
+        "playParams": {
+          "id": "1535473482",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Christmas Without You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d0/a5/54/d0a5549b-5aab-6537-bbee-0a091c8087f1/mzaf_13400483143922618970.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Ava Max"
+      }
+    },
+    {
+      "id": "1658222132",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1658222132",
+      "attributes": {
+        "albumName": "Candy - Winter Special Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-12-16",
+        "durationInMillis": 217067,
+        "isrc": "KRA302200259",
+        "artwork": {
+          "width": 5000,
+          "height": 5000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
+          "bgColor": "011605",
+          "textColor1": "fefeff",
+          "textColor2": "ede4dc",
+          "textColor3": "cbcfcc",
+          "textColor4": "bebab1"
+        },
+        "composerName": "Chang Yong Jin",
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
+        "playParams": {
+          "id": "1658222132",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Candy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/94/de/b394dee5-2053-3d55-7382-8da20f3563e4/mzaf_15974731009209634121.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NCT DREAM"
+      }
+    },
+    {
       "id": "1320781379",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1320781379",
@@ -12,8 +141,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 211560,
         "releaseDate": "2017-12-08",
+        "durationInMillis": 211560,
         "isrc": "ITB001700846",
         "artwork": {
           "width": 3000,
@@ -55,8 +184,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-10-02",
         "durationInMillis": 287827,
+        "releaseDate": "1995-10-02",
         "isrc": "GBAAW9500190",
         "artwork": {
           "width": 3000,
@@ -69,14 +198,14 @@
           "textColor4": "cfc4a5"
         },
         "composerName": "Noel Gallagher",
+        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "playParams": {
           "id": "1517448096",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Don't Look Back In Anger",
         "previews": [
           {
@@ -99,8 +228,8 @@
           "Folk"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-03-23",
         "durationInMillis": 183741,
+        "releaseDate": "2018-03-23",
         "isrc": "KRA381704626",
         "artwork": {
           "width": 1920,
@@ -118,8 +247,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Weird You",
         "previews": [
           {
@@ -142,8 +271,8 @@
           "Folk"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193968,
         "releaseDate": "2019-01-29",
+        "durationInMillis": 193968,
         "isrc": "KRA381900310",
         "artwork": {
           "width": 3000,
@@ -198,11 +327,11 @@
           "textColor4": "cdd756"
         },
         "composerName": "HEIZE, SUGA, EL CAPITXN & GIRIBOY",
+        "url": "https://music.apple.com/us/album/we-dont-talk-together-prod-suga-feat-giriboy/1569744280?i=1569744285",
         "playParams": {
           "id": "1569744285",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/we-dont-talk-together-prod-suga-feat-giriboy/1569744280?i=1569744285",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -227,8 +356,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2014-07-02",
         "durationInMillis": 292384,
+        "releaseDate": "2014-07-02",
         "isrc": "KRA491401240",
         "artwork": {
           "width": 3840,
@@ -240,14 +369,14 @@
           "textColor3": "2f2e32",
           "textColor4": "363539"
         },
+        "url": "https://music.apple.com/us/album/umbrella/895323941?i=895323966",
         "playParams": {
           "id": "895323966",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/umbrella/895323941?i=895323966",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Umbrella",
         "previews": [
           {
@@ -305,14 +434,14 @@
           "textColor3": "3b3b38",
           "textColor4": "504d4d"
         },
+        "url": "https://music.apple.com/us/album/how-beautiful/1210477607?i=1210477736",
         "playParams": {
           "id": "1210477736",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/how-beautiful/1210477607?i=1210477736",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "How Beautiful",
         "previews": [
           {
@@ -347,22 +476,22 @@
           "textColor4": "d1b3bd"
         },
         "composerName": "Kanye West, Connie Mitchell & Aldrin Davis",
+        "url": "https://music.apple.com/us/album/cant-tell-me-nothing/1451901307?i=1451903287",
         "playParams": {
           "id": "1451903287",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cant-tell-me-nothing/1451901307?i=1451903287",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Can't Tell Me Nothing",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/56/49/27/5649275f-84c9-095a-decd-db1d923fde44/mzaf_5843676828916202438.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Kanye West"
+        "artistName": "Kanye West",
+        "contentRating": "explicit"
       }
     },
     {
@@ -391,11 +520,11 @@
           "textColor4": "e1c59f"
         },
         "composerName": "Magnus Skylstad & Aurora Aksnes",
+        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "playParams": {
           "id": "1640353346",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -420,8 +549,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "durationInMillis": 201320,
         "releaseDate": "2022-03-28",
+        "durationInMillis": 201320,
         "isrc": "KRB462200338",
         "artwork": {
           "width": 3000,
@@ -462,8 +591,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "releaseDate": "2021-10-01",
         "durationInMillis": 135000,
+        "releaseDate": "2021-10-01",
         "isrc": "US5TA2100085",
         "artwork": {
           "width": 1400,
@@ -476,14 +605,14 @@
           "textColor4": "77473f"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, Justin Reinstein & Anna Timgren",
+        "url": "https://music.apple.com/us/album/the-feels-yves-v-remix-instrumental/1607381002?i=1607381378",
         "playParams": {
           "id": "1607381378",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-feels-yves-v-remix-instrumental/1607381002?i=1607381378",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "The Feels (YVES V Remix) [Instrumental]",
         "previews": [
           {
@@ -518,11 +647,11 @@
           "textColor4": "2dc6a1"
         },
         "composerName": "F R I D A Y . (KANG JUNG HOON), CHANG (KIM CHANG KYUM) & AthenA (LEE JI HYE)",
+        "url": "https://music.apple.com/us/album/dalla-dalla/1608248892?i=1608248898",
         "playParams": {
           "id": "1608248898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dalla-dalla/1608248892?i=1608248898",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -560,14 +689,14 @@
           "textColor4": "8071b0"
         },
         "composerName": "Alan Menken & Howard Ashman",
+        "url": "https://music.apple.com/us/album/prince-ali/1462702452?i=1462702462",
         "playParams": {
           "id": "1462702462",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/prince-ali/1462702452?i=1462702462",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Prince Ali",
         "previews": [
           {
@@ -589,8 +718,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -609,8 +738,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -688,11 +817,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -731,14 +860,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -774,11 +903,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -803,8 +932,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -866,8 +995,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -875,49 +1004,6 @@
           }
         ],
         "artistName": "aespa"
-      }
-    },
-    {
-      "id": "1657231962",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1657231962",
-      "attributes": {
-        "albumName": "Ditto - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-12-19",
-        "durationInMillis": 185507,
-        "isrc": "USA2P2254487",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fdfcff",
-          "textColor1": "36080e",
-          "textColor2": "440a11",
-          "textColor3": "5e393e",
-          "textColor4": "693b41"
-        },
-        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
-        "playParams": {
-          "id": "1657231962",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Ditto",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     },
     {
@@ -932,8 +1018,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -975,8 +1061,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -989,14 +1075,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Illusion",
         "previews": [
           {
@@ -1074,11 +1160,11 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1123,8 +1209,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -1160,14 +1246,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -1175,92 +1261,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1551951202",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1551951202",
-      "attributes": {
-        "albumName": "FALL IN LOVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-08-05",
-        "durationInMillis": 177400,
-        "isrc": "KRA381903713",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/32/9c/51/329c51e9-449b-ab31-ae62-cce4f055136a/886449029464.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e0ecf8",
-          "textColor1": "0f0d0a",
-          "textColor2": "1e1e3e",
-          "textColor3": "393939",
-          "textColor4": "454763"
-        },
-        "composerName": "Hyuk Shin, Jeong Yoon, Ashley Alisha, JJ Evans(Joombas), Moof & JJ Evans",
-        "url": "https://music.apple.com/us/album/bungee-fall-in-love/1551951200?i=1551951202",
-        "playParams": {
-          "id": "1551951202",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "BUNGEE (Fall in Love)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/0f/b1/110fb1a7-87d0-0424-c1c7-26a1e1b331e0/mzaf_16036859395792039006.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OH MY GIRL"
-      }
-    },
-    {
-      "id": "786863020",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/786863020",
-      "attributes": {
-        "albumName": "Modern Times \u2013 Epilogue",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 10,
-        "durationInMillis": 299999,
-        "releaseDate": "2013-10-08",
-        "isrc": "KRA381205847",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/7e/c4/63/7ec46341-e1c2-0e22-00a9-b2a11d4b559a/KM0002460-_3_-1220.jpg/{w}x{h}bb.jpg",
-          "bgColor": "100d04",
-          "textColor1": "d7b790",
-          "textColor2": "dca678",
-          "textColor3": "af9574",
-          "textColor4": "b38761"
-        },
-        "url": "https://music.apple.com/us/album/walk-with-me-girl-feat-choi-baek-ho/786862990?i=786863020",
-        "playParams": {
-          "id": "786863020",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Walk With Me, Girl (feat. Choi Baek Ho)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c1/ff/21/c1ff212a-40db-e107-23bf-862d61185c92/mzaf_3099229262516375706.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IU"
       }
     }
   ]
