@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1659513445",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1659513445",
+      "attributes": {
+        "albumName": "NewJeans 'OMG' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 212253,
+        "releaseDate": "2023-01-02",
+        "isrc": "USA2P2251723",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "d7d7d7",
+          "textColor3": "cbcbcb",
+          "textColor4": "acacac"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
+        "playParams": {
+          "id": "1659513445",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "OMG",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1517448096",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517448096",
@@ -13,8 +56,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-10-02",
         "durationInMillis": 287827,
+        "releaseDate": "1995-10-02",
         "isrc": "GBAAW9500190",
         "artwork": {
           "width": 3000,
@@ -33,8 +76,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Don't Look Back In Anger",
         "previews": [
           {
@@ -56,8 +99,8 @@
           "Alternative"
         ],
         "trackNumber": 4,
-        "durationInMillis": 201640,
         "releaseDate": "2021-06-18",
+        "durationInMillis": 201640,
         "isrc": "GBUM72100848",
         "artwork": {
           "width": 3000,
@@ -70,14 +113,14 @@
           "textColor4": "e1c59f"
         },
         "composerName": "Magnus Skylstad & Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "playParams": {
           "id": "1640353346",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cure For Me",
         "previews": [
           {
@@ -113,11 +156,11 @@
           "textColor3": "373124",
           "textColor4": "623e28"
         },
-        "url": "https://music.apple.com/us/album/weird-you/1363064909?i=1363064911",
         "playParams": {
           "id": "1363064911",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/weird-you/1363064909?i=1363064911",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -156,11 +199,11 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -199,11 +242,11 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -285,11 +328,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -328,11 +371,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -357,8 +400,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -371,14 +414,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -485,8 +528,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -505,8 +548,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -571,8 +614,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -590,8 +633,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -614,8 +657,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "durationInMillis": 206627,
         "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -627,14 +670,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -656,8 +699,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -670,14 +713,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -698,8 +741,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 200690,
+        "releaseDate": "2022-10-21",
         "isrc": "USUG12205736",
         "artwork": {
           "width": 3000,
@@ -718,8 +761,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -741,8 +784,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217067,
         "releaseDate": "2022-12-16",
+        "durationInMillis": 217067,
         "isrc": "KRA302200259",
         "artwork": {
           "width": 5000,
@@ -755,14 +798,14 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -784,8 +827,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-09-05",
         "durationInMillis": 192787,
+        "releaseDate": "2022-09-05",
         "isrc": "KRA382207081",
         "artwork": {
           "width": 3000,
@@ -803,8 +846,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Same Scent",
         "previews": [
           {
@@ -825,8 +868,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2017-12-08",
         "durationInMillis": 211560,
+        "releaseDate": "2017-12-08",
         "isrc": "ITB001700846",
         "artwork": {
           "width": 3000,
@@ -845,8 +888,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Beggin'",
         "previews": [
           {
@@ -867,8 +910,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 188508,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 188508,
         "isrc": "USAT22208889",
         "artwork": {
           "width": 1425,
@@ -881,14 +924,14 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -910,8 +953,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -930,8 +973,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -952,8 +995,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 125256,
         "releaseDate": "2021-07-08",
+        "durationInMillis": 125256,
         "isrc": "QZRYT2100001",
         "artwork": {
           "width": 3000,
@@ -966,14 +1009,14 @@
           "textColor4": "02395a"
         },
         "composerName": "Grace Christian & Elie Jay Rizk",
-        "url": "https://music.apple.com/us/album/dumb-dumb/1573669537?i=1573669543",
         "playParams": {
           "id": "1573669543",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dumb-dumb/1573669537?i=1573669543",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "dumb dumb",
         "previews": [
           {
@@ -1038,8 +1081,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -1052,14 +1095,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -1095,11 +1138,11 @@
           "textColor4": "aea49d"
         },
         "composerName": "Amanda Ava Koci, Gian Stone, Henry Walter, Jesse Aicher & Sam Martin",
-        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
         "playParams": {
           "id": "1535473482",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/christmas-without-you/1535473478?i=1535473482",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1138,11 +1181,11 @@
           "textColor3": "d1e0d7",
           "textColor4": "cac7b4"
         },
-        "url": "https://music.apple.com/us/album/2cm-feat-paul-kim/1450924125?i=1450924126",
         "playParams": {
           "id": "1450924126",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/2cm-feat-paul-kim/1450924125?i=1450924126",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1181,11 +1224,11 @@
           "textColor4": "cdd756"
         },
         "composerName": "HEIZE, SUGA, EL CAPITXN & GIRIBOY",
-        "url": "https://music.apple.com/us/album/we-dont-talk-together-prod-suga-feat-giriboy/1569744280?i=1569744285",
         "playParams": {
           "id": "1569744285",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/we-dont-talk-together-prod-suga-feat-giriboy/1569744280?i=1569744285",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1238,48 +1281,6 @@
           }
         ],
         "artistName": "Younha"
-      }
-    },
-    {
-      "id": "1210477736",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1210477736",
-      "attributes": {
-        "albumName": "Orchestral Trailer Themes Collection, Vol. 4: Moving & Emotional Music",
-        "genreNames": [
-          "Soundtrack",
-          "Music",
-          "Classical"
-        ],
-        "trackNumber": 30,
-        "releaseDate": "2017-02-16",
-        "durationInMillis": 120893,
-        "isrc": "US3DF1703595",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/7a/8d/d7/7a8dd79f-2a9d-a21d-665d-d15cf64a7947/018736162916.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f2f3f5",
-          "textColor1": "0d0d09",
-          "textColor2": "282423",
-          "textColor3": "3b3b38",
-          "textColor4": "504d4d"
-        },
-        "url": "https://music.apple.com/us/album/how-beautiful/1210477607?i=1210477736",
-        "playParams": {
-          "id": "1210477736",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "How Beautiful",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/71/3a/f8/713af865-d4ff-4bdc-25d6-13dff20b1209/mzaf_10118812260175767322.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Smashtrax"
       }
     }
   ]
