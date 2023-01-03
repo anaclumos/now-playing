@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1650841515",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1650841515",
+      "attributes": {
+        "albumName": "Midnights (3am Edition)",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-21",
+        "durationInMillis": 200690,
+        "isrc": "USUG12205736",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eae7e2",
+          "textColor1": "120b14",
+          "textColor2": "412423",
+          "textColor3": "3d373d",
+          "textColor4": "634b49"
+        },
+        "composerName": "Taylor Swift & Jack Antonoff",
+        "playParams": {
+          "id": "1650841515",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Anti-Hero",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Taylor Swift"
+      }
+    },
+    {
+      "id": "1633318780",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1633318780",
+      "attributes": {
+        "albumName": "CHARLIE",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2022-09-16",
+        "durationInMillis": 188508,
+        "isrc": "USAT22208889",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dadad8",
+          "textColor1": "040404",
+          "textColor2": "2c2c2b",
+          "textColor3": "2e2e2e",
+          "textColor4": "4e4e4d"
+        },
+        "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
+        "playParams": {
+          "id": "1633318780",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I Don't Think That I Like Her",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e0/e6/75/e0e675a3-b528-475f-949a-b696595a24ab/mzaf_14467144304382032423.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Charlie Puth"
+      }
+    },
+    {
       "id": "1517448096",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517448096",
@@ -69,14 +153,14 @@
           "textColor3": "333333",
           "textColor4": "6c3333"
         },
-        "url": "https://music.apple.com/us/album/same-scent/1643124164?i=1643124466",
         "playParams": {
           "id": "1643124466",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/same-scent/1643124164?i=1643124466",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Same Scent",
         "previews": [
           {
@@ -118,8 +202,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Weird You",
         "previews": [
           {
@@ -155,11 +239,11 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -198,11 +282,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy & 24",
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "playParams": {
           "id": "1644440674",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -241,11 +325,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy, 24, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
         "playParams": {
           "id": "1644440670",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -290,16 +374,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Hard to Love",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "BLACKPINK"
+        "artistName": "BLACKPINK",
+        "contentRating": "explicit"
       }
     },
     {
@@ -328,14 +412,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -377,8 +461,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cure For Me",
         "previews": [
           {
@@ -414,14 +498,14 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Change",
         "previews": [
           {
@@ -457,14 +541,14 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -543,14 +627,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Illusion",
         "previews": [
           {
@@ -586,14 +670,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -672,11 +756,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -763,8 +847,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -800,11 +884,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -934,8 +1018,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -943,48 +1027,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1650841515",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1650841515",
-      "attributes": {
-        "albumName": "Midnights (3am Edition)",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-10-21",
-        "durationInMillis": 200690,
-        "isrc": "USUG12205736",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eae7e2",
-          "textColor1": "120b14",
-          "textColor2": "412423",
-          "textColor3": "3d373d",
-          "textColor4": "634b49"
-        },
-        "composerName": "Taylor Swift & Jack Antonoff",
-        "url": "https://music.apple.com/us/album/anti-hero/1650841512?i=1650841515",
-        "playParams": {
-          "id": "1650841515",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Anti-Hero",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/0f/81/920f81ab-a065-c9a4-92ce-15b94c6f4dd2/mzaf_6919373571450642601.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Taylor Swift"
       }
     },
     {
@@ -1013,14 +1055,14 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Candy",
         "previews": [
           {
@@ -1055,11 +1097,11 @@
           "textColor4": "d2d6d7"
         },
         "composerName": "Peggy Farina & Bob Gaudio",
-        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
         "playParams": {
           "id": "1320781379",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/beggin/1320780883?i=1320781379",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1070,48 +1112,6 @@
           }
         ],
         "artistName": "M\u00e5neskin"
-      }
-    },
-    {
-      "id": "1633318780",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1633318780",
-      "attributes": {
-        "albumName": "CHARLIE",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2022-09-16",
-        "durationInMillis": 188508,
-        "isrc": "USAT22208889",
-        "artwork": {
-          "width": 1425,
-          "height": 1425,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
-          "bgColor": "dadad8",
-          "textColor1": "040404",
-          "textColor2": "2c2c2b",
-          "textColor3": "2e2e2e",
-          "textColor4": "4e4e4d"
-        },
-        "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
-        "playParams": {
-          "id": "1633318780",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "I Don't Think That I Like Her",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e0/e6/75/e0e675a3-b528-475f-949a-b696595a24ab/mzaf_14467144304382032423.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Charlie Puth"
       }
     },
     {
@@ -1145,8 +1145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "dumb dumb",
         "previews": [
           {
@@ -1182,11 +1182,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1225,14 +1225,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
@@ -1274,8 +1274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Christmas Without You",
         "previews": [
           {
