@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1517448096",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1517448096",
-      "attributes": {
-        "albumName": "Don't Look Back In Anger - EP",
-        "genreNames": [
-          "Indie Rock",
-          "Music",
-          "Alternative"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "1995-10-02",
-        "durationInMillis": 287827,
-        "isrc": "GBAAW9500190",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/7b/8f/9e7b8f9c-7304-5197-cfa9-51e7c7d9211a/5051961018103.jpg/{w}x{h}bb.jpg",
-          "bgColor": "201a1a",
-          "textColor1": "fffbf8",
-          "textColor2": "fbefc8",
-          "textColor3": "d2cdcb",
-          "textColor4": "cfc4a5"
-        },
-        "composerName": "Noel Gallagher",
-        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
-        "playParams": {
-          "id": "1517448096",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Don't Look Back In Anger",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3e/65/97/3e6597f3-6585-6ef8-7720-314199b58060/mzaf_4460281208505040378.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Oasis"
-      }
-    },
-    {
       "id": "1639416903",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1639416903",
@@ -85,6 +42,49 @@
           }
         ],
         "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1517448096",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1517448096",
+      "attributes": {
+        "albumName": "Don't Look Back In Anger - EP",
+        "genreNames": [
+          "Indie Rock",
+          "Music",
+          "Alternative"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1995-10-02",
+        "durationInMillis": 287827,
+        "isrc": "GBAAW9500190",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/7b/8f/9e7b8f9c-7304-5197-cfa9-51e7c7d9211a/5051961018103.jpg/{w}x{h}bb.jpg",
+          "bgColor": "201a1a",
+          "textColor1": "fffbf8",
+          "textColor2": "fbefc8",
+          "textColor3": "d2cdcb",
+          "textColor4": "cfc4a5"
+        },
+        "composerName": "Noel Gallagher",
+        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
+        "playParams": {
+          "id": "1517448096",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Don't Look Back In Anger",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3e/65/97/3e6597f3-6585-6ef8-7720-314199b58060/mzaf_4460281208505040378.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Oasis"
       }
     },
     {
@@ -204,8 +204,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -246,8 +246,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -288,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "That's Hilarious",
         "previews": [
           {
@@ -331,8 +331,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -415,8 +415,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Same Scent",
         "previews": [
           {
@@ -501,8 +501,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -587,8 +587,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Pink Venom",
         "previews": [
           {
@@ -630,8 +630,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Hard to Love",
         "previews": [
           {
@@ -717,8 +717,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cure For Me",
         "previews": [
           {
@@ -760,8 +760,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Change",
         "previews": [
           {
@@ -846,8 +846,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -1018,8 +1018,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TOMBOY",
         "previews": [
           {
@@ -1061,8 +1061,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -1274,8 +1274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
