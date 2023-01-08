@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1612870682",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1612870682",
+      "attributes": {
+        "albumName": "WeCrashed (Original Series Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 269613,
+        "releaseDate": "2022-03-18",
+        "isrc": "US23A1545560",
+        "artwork": {
+          "width": 3840,
+          "height": 3840,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/64/54/d7/6454d7d8-4b22-2d3e-683f-9b1f48467d08/5059449067032.png/{w}x{h}bb.jpg",
+          "bgColor": "022035",
+          "textColor1": "a8c6dc",
+          "textColor2": "a4bdd0",
+          "textColor3": "87a5bb",
+          "textColor4": "849eb1"
+        },
+        "composerName": "Christopher Nicholas Bangs",
+        "url": "https://music.apple.com/us/album/selling-an-experience/1612870681?i=1612870682",
+        "playParams": {
+          "id": "1612870682",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Selling An Experience",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c7/ba/e4/c7bae4da-92ca-e66c-d21c-7103942bbd94/mzaf_6371596676674599127.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Christopher Nicholas Bangs"
+      }
+    },
+    {
+      "id": "1584809295",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1584809295",
+      "attributes": {
+        "albumName": "Love, Yerin - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2021-09-10",
+        "durationInMillis": 245840,
+        "isrc": "KRMIM2135398",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c0/13/22/c01322df-40be-a2c8-56e8-f5be1d3471fa/Yerin_Baek.jpg/{w}x{h}bb.jpg",
+          "bgColor": "cbdce6",
+          "textColor1": "080f0b",
+          "textColor2": "0d1a13",
+          "textColor3": "2f3837",
+          "textColor4": "33403d"
+        },
+        "playParams": {
+          "id": "1584809295",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Antifreeze",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/ba/af/83baaff3-02f8-7546-ca99-dddc23dc3861/mzaf_8909824249325837832.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yerin Baek"
+      }
+    },
+    {
       "id": "1608253231",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1608253231",
@@ -12,8 +96,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 180180,
         "releaseDate": "2020-03-09",
+        "durationInMillis": 180180,
         "isrc": "US5TA2000008",
         "artwork": {
           "width": 1400,
@@ -26,14 +110,14 @@
           "textColor4": "c97435"
         },
         "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
-        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
         "playParams": {
           "id": "1608253231",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "THAT'S A NO NO",
         "previews": [
           {
@@ -55,8 +139,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 201895,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -69,11 +153,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -118,8 +202,8 @@
         },
         "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -141,8 +225,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -155,14 +239,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -184,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -198,14 +282,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -247,8 +331,8 @@
         },
         "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -270,8 +354,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-12-20",
         "durationInMillis": 204933,
+        "releaseDate": "2021-12-20",
         "isrc": "KRA302100400",
         "artwork": {
           "width": 4000,
@@ -284,11 +368,11 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -313,8 +397,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -327,11 +411,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -376,8 +460,8 @@
         },
         "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Illusion",
         "previews": [
           {
@@ -442,8 +526,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 198559,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -455,11 +539,11 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -484,8 +568,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -498,11 +582,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -570,8 +654,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177187,
         "releaseDate": "2022-04-05",
+        "durationInMillis": 177187,
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -583,14 +667,14 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -612,8 +696,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -626,14 +710,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -655,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -669,11 +753,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -760,8 +844,8 @@
         },
         "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Violeta (Japanese Version)",
         "previews": [
           {
@@ -810,8 +894,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/69/cf/73/69cf735a-e0d8-3fb8-eaa0-a905afdd56ad/mzaf_739119822629734985.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Lil Nas X"
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
       }
     },
     {
@@ -846,8 +930,8 @@
         },
         "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Shut Down",
         "previews": [
           {
@@ -870,8 +954,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210018,
         "releaseDate": "2019-08-06",
+        "durationInMillis": 210018,
         "isrc": "KRA381903824",
         "artwork": {
           "width": 3000,
@@ -883,14 +967,14 @@
           "textColor3": "343333",
           "textColor4": "344f6b"
         },
-        "url": "https://music.apple.com/us/album/sunday/1475718671?i=1475718675",
         "playParams": {
           "id": "1475718675",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sunday/1475718671?i=1475718675",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Sunday",
         "previews": [
           {
@@ -981,8 +1065,8 @@
         },
         "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Celeb",
         "previews": [
           {
@@ -1007,8 +1091,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 174647,
         "releaseDate": "2022-04-29",
+        "durationInMillis": 174647,
         "isrc": "QZEKE2084402",
         "artwork": {
           "width": 3000,
@@ -1021,14 +1105,14 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, SUGA & EL CAPITXN",
-        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "playParams": {
           "id": "1620871958",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "That That (prod. & feat. SUGA of BTS)",
         "previews": [
           {
@@ -1073,8 +1157,8 @@
         },
         "url": "https://music.apple.com/us/album/9intro/1620871679?i=1620871685",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "9INTRO",
         "previews": [
           {
@@ -1119,8 +1203,8 @@
         },
         "url": "https://music.apple.com/us/album/dear-me/1620871679?i=1620872407",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dear Me",
         "previews": [
           {
@@ -1217,98 +1301,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/af/2c/3a/af2c3af6-533c-4b38-3ed9-da52fc5214d7/mzaf_11223572520462294251.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "PSY"
-      }
-    },
-    {
-      "id": "1620872213",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1620872213",
-      "attributes": {
-        "albumName": "PSY 9th",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance",
-          "Hip-Hop/Rap",
-          "Korean Hip-Hop"
-        ],
-        "trackNumber": 9,
-        "releaseDate": "2022-04-29",
-        "durationInMillis": 171014,
-        "isrc": "QZEKE2084409",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/f7/a7/54/f7a754f2-5824-4c4e-c102-ad56099f1724/8809856802354.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f7f4ed",
-          "textColor1": "000000",
-          "textColor2": "262624",
-          "textColor3": "31302f",
-          "textColor4": "504f4c"
-        },
-        "composerName": "GIRIBOY, GLEAM & \uc720\uac74\ud615",
-        "playParams": {
-          "id": "1620872213",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/hello-monday/1620871679?i=1620872213",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Hello Monday",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b9/af/f5/b9aff55b-c0a3-ecc9-22bb-ea000d36d672/mzaf_17142117080235158861.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "PSY"
-      }
-    },
-    {
-      "id": "1620872207",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1620872207",
-      "attributes": {
-        "albumName": "PSY 9th",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Hip-Hop/Rap",
-          "Korean Hip-Hop",
-          "Dance"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "2022-04-29",
-        "durationInMillis": 251374,
-        "isrc": "QZEKE2084408",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/f7/a7/54/f7a754f2-5824-4c4e-c102-ad56099f1724/8809856802354.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f7f4ed",
-          "textColor1": "000000",
-          "textColor2": "262624",
-          "textColor3": "31302f",
-          "textColor4": "504f4c"
-        },
-        "composerName": "PSY, Crush & \uc720\uac74\ud615",
-        "playParams": {
-          "id": "1620872207",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/happier-feat-crush/1620871679?i=1620872207",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Happier (feat. Crush)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f7/e4/2c/f7e42c9a-6d85-629e-f003-36c95f2c2b4e/mzaf_17374130988795030212.plus.aac.p.m4a"
           }
         ],
         "artistName": "PSY"
