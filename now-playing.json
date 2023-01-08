@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1594292084",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1594292084",
+      "attributes": {
+        "albumName": "YOUNHA 6th Album 'END THEORY'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
+        "isrc": "KRA382163578",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/f7/ec/83/f7ec837e-3a7f-6476-1890-be94cbbc887b/YOUNHA_6th_Album_END_THEORY_Digitalcover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fff9d9",
+          "textColor1": "0b0202",
+          "textColor2": "4b1e10",
+          "textColor3": "3c332d",
+          "textColor4": "6f4a38"
+        },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
+        "playParams": {
+          "id": "1594292084",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Oort Cloud",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/19/ce/79/19ce7920-99b9-358a-190d-b7b748d4de02/mzaf_13520814028107338416.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
+      }
+    },
+    {
+      "id": "1609049613",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1609049613",
+      "attributes": {
+        "albumName": "INVU - The 3rd Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-02-14",
+        "durationInMillis": 204973,
+        "isrc": "KRA302200026",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/83/31578320-668c-39ac-9b69-20beba684835/03_INVU.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1a1a1a",
+          "textColor1": "c9be8a",
+          "textColor2": "a7bbd8",
+          "textColor3": "a59d73",
+          "textColor4": "8a9bb2"
+        },
+        "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
+        "playParams": {
+          "id": "1609049613",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "INVU",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/32/f4/32/32f4320b-9c80-1144-4a73-99768659e2bc/mzaf_18432216400216579717.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TAEYEON"
+      }
+    },
+    {
       "id": "1630553208",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1630553208",
@@ -13,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-06-29",
         "durationInMillis": 193173,
+        "releaseDate": "2022-06-29",
         "isrc": "KRMIM2236311",
         "artwork": {
           "width": 3000,
@@ -56,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-07-19",
         "durationInMillis": 180001,
+        "releaseDate": "2022-07-19",
         "isrc": "KRA382206236",
         "artwork": {
           "width": 3000,
@@ -98,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -161,16 +247,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Hard to Love",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "BLACKPINK"
+        "artistName": "BLACKPINK",
+        "contentRating": "explicit"
       }
     },
     {
@@ -205,8 +291,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Flip That",
         "previews": [
           {
@@ -228,8 +314,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 235562,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -271,8 +357,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-02-21",
         "durationInMillis": 213427,
+        "releaseDate": "2022-02-21",
         "isrc": "KRA382203169",
         "artwork": {
           "width": 4000,
@@ -312,8 +398,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-18",
         "durationInMillis": 269613,
+        "releaseDate": "2022-03-18",
         "isrc": "US23A1545560",
         "artwork": {
           "width": 3840,
@@ -374,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Antifreeze",
         "previews": [
           {
@@ -396,8 +482,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-03-09",
         "durationInMillis": 180180,
+        "releaseDate": "2020-03-09",
         "isrc": "US5TA2000008",
         "artwork": {
           "width": 1400,
@@ -459,8 +545,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Flame",
         "previews": [
           {
@@ -502,8 +588,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -545,8 +631,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -568,8 +654,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -631,8 +717,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Change",
         "previews": [
           {
@@ -654,8 +740,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-12-20",
         "durationInMillis": 204933,
+        "releaseDate": "2021-12-20",
         "isrc": "KRA302100400",
         "artwork": {
           "width": 4000,
@@ -717,8 +803,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -740,8 +826,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -803,8 +889,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TOMBOY",
         "previews": [
           {
@@ -826,8 +912,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 198559,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -888,8 +974,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -931,8 +1017,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS",
         "previews": [
           {
@@ -973,8 +1059,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -996,8 +1082,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -1059,8 +1145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
@@ -1082,8 +1168,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2018-10-29",
         "durationInMillis": 218994,
+        "releaseDate": "2018-10-29",
         "isrc": "KRA871800019",
         "artwork": {
           "width": 1400,
@@ -1144,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Violeta (Japanese Version)",
         "previews": [
           {
@@ -1186,102 +1272,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "MONTERO (Call Me By Your Name)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/69/cf/73/69cf735a-e0d8-3fb8-eaa0-a905afdd56ad/mzaf_739119822629734985.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Lil Nas X"
-      }
-    },
-    {
-      "id": "1644440674",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1644440674",
-      "attributes": {
-        "albumName": "BORN PINK",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-09-16",
-        "durationInMillis": 175889,
-        "isrc": "KRA402200020",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e8e8e8",
-          "textColor1": "0f0609",
-          "textColor2": "2d2d2d",
-          "textColor3": "3a3335",
-          "textColor4": "535353"
-        },
-        "composerName": "Teddy & 24",
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
-        "playParams": {
-          "id": "1644440674",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Shut Down",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/05/73/fa/0573facb-fe0b-6140-d138-a06b369e361f/mzaf_10208397920911583709.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BLACKPINK"
-      }
-    },
-    {
-      "id": "1475718675",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1475718675",
-      "attributes": {
-        "albumName": "The Six - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-08-06",
-        "durationInMillis": 210018,
-        "isrc": "KRA381903824",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/74/c2/3d/74c23d7c-ca11-de0b-99c4-ed886dc58fca/cover_-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "020000",
-          "textColor2": "012446",
-          "textColor3": "343333",
-          "textColor4": "344f6b"
-        },
-        "url": "https://music.apple.com/us/album/sunday/1475718671?i=1475718675",
-        "playParams": {
-          "id": "1475718675",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Sunday",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2c/2b/5b/2c2b5b3e-11ce-8740-2241-dc912f0d8339/mzaf_584332277097679545.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "FANATICS"
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
       }
     }
   ]
