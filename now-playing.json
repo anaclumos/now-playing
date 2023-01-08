@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1641655640",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1641655640",
+      "attributes": {
+        "albumName": "Gasoline - The 2nd Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 191907,
+        "releaseDate": "2022-08-30",
+        "isrc": "KRA302200162",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/31/6a/fc/316afc42-a5ee-d9a1-9c98-20126beaf14f/KEY_Gasoline_Digital_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "090714",
+          "textColor1": "f8faf9",
+          "textColor2": "f6ddb1",
+          "textColor3": "c8c9cb",
+          "textColor4": "c6b292"
+        },
+        "composerName": "KENZIE, Moonshine, KC & Ninos Hanna",
+        "url": "https://music.apple.com/us/album/gasoline/1641655639?i=1641655640",
+        "playParams": {
+          "id": "1641655640",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Gasoline",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/4f/88/3f4f88cc-bf5f-da7b-7a9b-2e615c15d500/mzaf_2891645739970414452.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "KEY"
+      }
+    },
+    {
       "id": "1616073530",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1616073530",
@@ -27,14 +70,14 @@
           "textColor4": "ce9f8b"
         },
         "composerName": "RYAN JHUN, Josh Cumbee, Afshin Salmani, Ilan Kidron & Nat Dunn",
-        "url": "https://music.apple.com/us/album/real-love/1616073522?i=1616073530",
         "playParams": {
           "id": "1616073530",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/real-love/1616073522?i=1616073530",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Real Love",
         "previews": [
           {
@@ -56,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-01-17",
         "durationInMillis": 173413,
+        "releaseDate": "2022-01-17",
         "isrc": "KRMIM2201803",
         "artwork": {
           "width": 1400,
@@ -156,14 +199,14 @@
           "textColor4": "8a9bb2"
         },
         "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "playParams": {
           "id": "1609049613",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -199,14 +242,14 @@
           "textColor4": "5d3122"
         },
         "composerName": "SUNMI, Kyuwon \"Q\" Kim & CobiCudi",
-        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "playParams": {
           "id": "1630553208",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heart Burn",
         "previews": [
           {
@@ -228,8 +271,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180001,
         "releaseDate": "2022-07-19",
+        "durationInMillis": 180001,
         "isrc": "KRA382206236",
         "artwork": {
           "width": 3000,
@@ -241,14 +284,14 @@
           "textColor3": "391b25",
           "textColor4": "4c1b25"
         },
-        "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
         "playParams": {
           "id": "1634360916",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BEAUTIFUL MONSTER",
         "previews": [
           {
@@ -270,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -341,8 +384,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
           }
         ],
-        "artistName": "BLACKPINK",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "BLACKPINK"
       }
     },
     {
@@ -357,8 +400,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-20",
         "durationInMillis": 177373,
+        "releaseDate": "2022-06-20",
         "isrc": "KRA252201148",
         "artwork": {
           "width": 2000,
@@ -484,8 +527,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 269613,
         "releaseDate": "2022-03-18",
+        "durationInMillis": 269613,
         "isrc": "US23A1545560",
         "artwork": {
           "width": 3840,
@@ -498,14 +541,14 @@
           "textColor4": "849eb1"
         },
         "composerName": "Christopher Nicholas Bangs",
-        "url": "https://music.apple.com/us/album/selling-an-experience/1612870681?i=1612870682",
         "playParams": {
           "id": "1612870682",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/selling-an-experience/1612870681?i=1612870682",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Selling An Experience",
         "previews": [
           {
@@ -527,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 245840,
         "releaseDate": "2021-09-10",
+        "durationInMillis": 245840,
         "isrc": "KRMIM2135398",
         "artwork": {
           "width": 3000,
@@ -540,14 +583,14 @@
           "textColor3": "2f3837",
           "textColor4": "33403d"
         },
-        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "playParams": {
           "id": "1584809295",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Antifreeze",
         "previews": [
           {
@@ -582,14 +625,14 @@
           "textColor4": "c97435"
         },
         "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
-        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
         "playParams": {
           "id": "1608253231",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "THAT'S A NO NO",
         "previews": [
           {
@@ -625,14 +668,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Flame",
         "previews": [
           {
@@ -668,14 +711,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -711,14 +754,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -840,14 +883,14 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -912,8 +955,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -926,14 +969,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Illusion",
         "previews": [
           {
@@ -969,14 +1012,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TOMBOY",
         "previews": [
           {
@@ -1011,14 +1054,14 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -1040,8 +1083,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -1083,8 +1126,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -1126,8 +1169,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177187,
         "releaseDate": "2022-04-05",
+        "durationInMillis": 177187,
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -1139,14 +1182,14 @@
           "textColor3": "c5dcef",
           "textColor4": "c5dcef"
         },
-        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "playParams": {
           "id": "1616804152",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -1168,8 +1211,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -1182,14 +1225,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -1240,49 +1283,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1569280531",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569280531",
-      "attributes": {
-        "albumName": "COLOR*IZ",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2018-10-29",
-        "durationInMillis": 218994,
-        "isrc": "KRA871800019",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/7a/50/ac7a5028-425b-af8e-535b-f59dd4bedba0/8809603546906_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "cbc7c4",
-          "textColor1": "311e0e",
-          "textColor2": "1b2336",
-          "textColor3": "503f32",
-          "textColor4": "3e4453"
-        },
-        "composerName": "MosPick",
-        "url": "https://music.apple.com/us/album/la-vie-en-rose/1569280525?i=1569280531",
-        "playParams": {
-          "id": "1569280531",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "La Vie en Rose",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/85/27/4b8527a4-aef9-96b5-cff0-e88ec7264c95/mzaf_10520981644503147066.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
       }
     }
   ]
