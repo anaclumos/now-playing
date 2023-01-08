@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1635469694",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469694",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
+        "isrc": "USA2P2230221",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
+        "playParams": {
+          "id": "1635469694",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Attention",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/79/51/13795136-c3d0-1191-cc43-dcc16579a2f2/mzaf_8604667655746746744.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1626752986",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1626752986",
+      "attributes": {
+        "albumName": "Girls - The 2nd Mini Album (Apple Music Up Next Film Edition)",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
+        "isrc": "KRA302200095",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c9/7d/dd/c97ddd34-5962-8cf1-a55c-cf730d3069f5/888735941375.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "f0fafc",
+          "textColor2": "f4c4d1",
+          "textColor3": "c0c8ca",
+          "textColor4": "c39da8"
+        },
+        "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
+        "playParams": {
+          "id": "1626752986",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Illusion",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/84/8f/4f/848f4fb8-34f7-952a-5b58-5a8ddbfe0e41/mzaf_1226807611289797516.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
+      "id": "1611504817",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1611504817",
+      "attributes": {
+        "albumName": "I NEVER DIE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 174387,
+        "releaseDate": "2022-03-14",
+        "isrc": "KRA392100080",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/9c/fe/5e/9cfe5eec-89b5-240f-5229-59244360e89d/8804775250422_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "fc2860",
+          "textColor2": "fa0b4e",
+          "textColor3": "c9204d",
+          "textColor4": "c8093f"
+        },
+        "composerName": "So-yeon, Pop Time & JENCI",
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
+        "playParams": {
+          "id": "1611504817",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "TOMBOY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/20/9d/46/209d461d-70d0-f3f7-395d-df44807de894/mzaf_9908538858365336321.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
       "id": "1649293727",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1649293727",
@@ -13,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 198559,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -32,8 +161,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -75,8 +204,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -112,11 +241,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -141,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -160,8 +289,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -183,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -197,11 +326,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -240,11 +369,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -283,11 +412,11 @@
           "textColor4": "3e4453"
         },
         "composerName": "MosPick",
+        "url": "https://music.apple.com/us/album/la-vie-en-rose/1569280525?i=1569280531",
         "playParams": {
           "id": "1569280531",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/la-vie-en-rose/1569280525?i=1569280531",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -325,11 +454,11 @@
           "textColor4": "55212d"
         },
         "composerName": "Choi Hyun Joon & Seung Soo Kim",
+        "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "playParams": {
           "id": "1533391533",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -373,8 +502,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "MONTERO (Call Me By Your Name)",
         "previews": [
           {
@@ -397,8 +526,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 175889,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200020",
         "artwork": {
           "width": 2000,
@@ -411,11 +540,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy & 24",
+        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "playParams": {
           "id": "1644440674",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -441,8 +570,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-08-06",
         "durationInMillis": 210018,
+        "releaseDate": "2019-08-06",
         "isrc": "KRA381903824",
         "artwork": {
           "width": 3000,
@@ -460,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Sunday",
         "previews": [
           {
@@ -500,11 +629,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, White 99 & DUBLEKICK",
+        "url": "https://music.apple.com/us/album/you-move-me-feat-sung-si-kyung/1620871679?i=1620871966",
         "playParams": {
           "id": "1620871966",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/you-move-me-feat-sung-si-kyung/1620871679?i=1620871966",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -532,8 +661,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-04-29",
         "durationInMillis": 199766,
+        "releaseDate": "2022-04-29",
         "isrc": "QZEKE2084403",
         "artwork": {
           "width": 3000,
@@ -546,11 +675,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, ZICO & \uc720\uac74\ud615",
+        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "playParams": {
           "id": "1620871961",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -592,11 +721,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, SUGA & EL CAPITXN",
+        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "playParams": {
           "id": "1620871958",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -638,11 +767,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, \uc720\uac74\ud615 & Space One",
+        "url": "https://music.apple.com/us/album/9intro/1620871679?i=1620871685",
         "playParams": {
           "id": "1620871685",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/9intro/1620871679?i=1620871685",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -690,8 +819,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dear Me",
         "previews": [
           {
@@ -716,8 +845,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-04-29",
         "durationInMillis": 208713,
+        "releaseDate": "2022-04-29",
         "isrc": "QZEKE2084411",
         "artwork": {
           "width": 3000,
@@ -736,8 +865,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "forEVER (feat. TABLO)",
         "previews": [
           {
@@ -762,8 +891,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2022-04-29",
         "durationInMillis": 276308,
+        "releaseDate": "2022-04-29",
         "isrc": "QZEKE2084410",
         "artwork": {
           "width": 3000,
@@ -782,8 +911,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Everyday",
         "previews": [
           {
@@ -808,8 +937,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 9,
-        "releaseDate": "2022-04-29",
         "durationInMillis": 171014,
+        "releaseDate": "2022-04-29",
         "isrc": "QZEKE2084409",
         "artwork": {
           "width": 3000,
@@ -822,11 +951,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "GIRIBOY, GLEAM & \uc720\uac74\ud615",
+        "url": "https://music.apple.com/us/album/hello-monday/1620871679?i=1620872213",
         "playParams": {
           "id": "1620872213",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hello-monday/1620871679?i=1620872213",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -854,8 +983,8 @@
           "Dance"
         ],
         "trackNumber": 8,
-        "releaseDate": "2022-04-29",
         "durationInMillis": 251374,
+        "releaseDate": "2022-04-29",
         "isrc": "QZEKE2084408",
         "artwork": {
           "width": 3000,
@@ -874,8 +1003,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Happier (feat. Crush)",
         "previews": [
           {
@@ -920,8 +1049,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Now (feat. Hwa Sa)",
         "previews": [
           {
@@ -960,11 +1089,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY & \uc720\uac74\ud615",
+        "url": "https://music.apple.com/us/album/ganji-feat-jessi/1620871679?i=1620871981",
         "playParams": {
           "id": "1620871981",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ganji-feat-jessi/1620871679?i=1620871981",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -992,8 +1121,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-04-29",
         "durationInMillis": 185809,
+        "releaseDate": "2022-04-29",
         "isrc": "QZEKE2084405",
         "artwork": {
           "width": 3000,
@@ -1006,11 +1135,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY & Captainrock",
+        "url": "https://music.apple.com/us/album/sleepless-feat-heize/1620871679?i=1620871977",
         "playParams": {
           "id": "1620871977",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sleepless-feat-heize/1620871679?i=1620871977",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1035,8 +1164,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-11-30",
         "durationInMillis": 200286,
+        "releaseDate": "2016-11-30",
         "isrc": "NOWZ81601290",
         "artwork": {
           "width": 1600,
@@ -1049,11 +1178,11 @@
           "textColor4": "3d1e1d"
         },
         "composerName": "Two Ways",
+        "url": "https://music.apple.com/us/album/beautiful-times-feat-tifanny-wiemken-feat-tiffany-wiemken/1175789079?i=1175789126",
         "playParams": {
           "id": "1175789126",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/beautiful-times-feat-tifanny-wiemken-feat-tiffany-wiemken/1175789079?i=1175789126",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1078,8 +1207,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-02-10",
         "durationInMillis": 208573,
+        "releaseDate": "2020-02-10",
         "isrc": "KRA382000196",
         "artwork": {
           "width": 3000,
@@ -1097,8 +1226,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "BOUNCY",
         "previews": [
           {
@@ -1134,11 +1263,11 @@
           "textColor4": "c93528"
         },
         "composerName": "JEON SOYEON & Ye Eun Ahn",
+        "url": "https://music.apple.com/us/album/hann-alone-in-winter/1545320377?i=1545320391",
         "playParams": {
           "id": "1545320391",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hann-alone-in-winter/1545320377?i=1545320391",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1177,11 +1306,11 @@
           "textColor3": "3f2916",
           "textColor4": "324839"
         },
+        "url": "https://music.apple.com/us/album/it-takes-time-feat-colde/1438391028?i=1438391029",
         "playParams": {
           "id": "1438391029",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/it-takes-time-feat-colde/1438391028?i=1438391029",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1192,134 +1321,6 @@
           }
         ],
         "artistName": "Loco"
-      }
-    },
-    {
-      "id": "1460240105",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1460240105",
-      "attributes": {
-        "albumName": "Fantasy - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2019-04-19",
-        "durationInMillis": 183573,
-        "isrc": "KRMIM1906693",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/e1/fc/8e/e1fc8ec3-8678-a1ea-3d9e-97388adb3feb/dj.djnsdeqt.jpg/{w}x{h}bb.jpg",
-          "bgColor": "de5c8c",
-          "textColor1": "150002",
-          "textColor2": "360708",
-          "textColor3": "3d131d",
-          "textColor4": "571822"
-        },
-        "url": "https://music.apple.com/us/album/fantasy-instrumental/1460240102?i=1460240105",
-        "playParams": {
-          "id": "1460240105",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Fantasy (Instrumental)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/a7/6b/88/a76b8893-312b-3e96-12a7-e0175c2a4807/mzaf_8273678348114464657.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Ho1iday"
-      }
-    },
-    {
-      "id": "1527573917",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1527573917",
-      "attributes": {
-        "albumName": "Lasting Lover - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-09-04",
-        "durationInMillis": 218359,
-        "isrc": "GBCEN2000076",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/37/bf/2b37bf7f-550b-21de-4441-256f51403602/886448678038.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0062b4",
-          "textColor1": "ffffff",
-          "textColor2": "d7e7fe",
-          "textColor3": "cbdfef",
-          "textColor4": "acccef"
-        },
-        "composerName": "James Arthur, Lewis Capaldi, Luke Fitton, Corey Sanders, Joakim Jarl, Bruce Fielder, Ben Goldwasser & Andrew VanWyngarden",
-        "url": "https://music.apple.com/us/album/lasting-lover/1527573911?i=1527573917",
-        "playParams": {
-          "id": "1527573917",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Lasting Lover",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/70/af/7770afbd-c7b3-95c0-1a26-2f74524e9963/mzaf_13681561753338912114.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sigala & James Arthur"
-      }
-    },
-    {
-      "id": "726373148",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/726373148",
-      "attributes": {
-        "albumName": "Mylo Xyloto",
-        "genreNames": [
-          "Alternative",
-          "Music",
-          "Rock",
-          "Adult Alternative"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2011-10-19",
-        "durationInMillis": 277610,
-        "isrc": "GBAYE1101143",
-        "artwork": {
-          "width": 1562,
-          "height": 1562,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/fa/41/1c/fa411c37-7a65-8a3e-71c9-4b566c49617c/5099967983858_1562x1562_300dpi.jpg/{w}x{h}bb.jpg",
-          "bgColor": "cacacc",
-          "textColor1": "040102",
-          "textColor2": "0c1d3a",
-          "textColor3": "2c292a",
-          "textColor4": "324057"
-        },
-        "composerName": "Brian Eno, Chris Martin, Guy Berryman, Jonny Buckland & Will Champion",
-        "url": "https://music.apple.com/us/album/paradise/726372830?i=726373148",
-        "playParams": {
-          "id": "726373148",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Paradise",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/8a/67/138a67ca-3214-a08e-2af9-fc8369604389/mzaf_6442923285877494536.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Coldplay"
       }
     }
   ]
