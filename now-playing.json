@@ -2,88 +2,45 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1633558383",
+      "id": "1658644941",
       "type": "songs",
-      "href": "/v1/catalog/us/songs/1633558383",
+      "href": "/v1/catalog/us/songs/1658644941",
       "attributes": {
-        "albumName": "Egg in the Backseat",
+        "albumName": "Aerosmith",
         "genreNames": [
-          "Pop",
+          "Rock",
           "Music"
         ],
-        "trackNumber": 2,
-        "durationInMillis": 169238,
-        "releaseDate": "2022-01-28",
-        "isrc": "USUM72200626",
+        "trackNumber": 3,
+        "releaseDate": "1973-01-05",
+        "durationInMillis": 267597,
+        "isrc": "USSM10011897",
         "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/67/f4/53/67f453e0-baa3-bea4-1344-881050fe9cf1/22UMGIM73329.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "5c4e2f",
-          "textColor1": "c9f0ff",
-          "textColor2": "c6e0a8",
-          "textColor3": "b3cfd5",
-          "textColor4": "b1c390"
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/e2/87/d9/e287d987-7b92-7749-737f-b5b8a6913f88/22UM1IM38560.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "c27a2e",
+          "textColor1": "000000",
+          "textColor2": "201925",
+          "textColor3": "271909",
+          "textColor4": "402c27"
         },
-        "composerName": "Emily Beihold, Nick Lopez & Andrew DeCaro",
-        "url": "https://music.apple.com/us/album/numb-little-bug/1633557907?i=1633558383",
+        "composerName": "Steven Tyler",
+        "url": "https://music.apple.com/us/album/dream-on/1658644936?i=1658644941",
         "playParams": {
-          "id": "1633558383",
+          "id": "1658644941",
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
-        "name": "Numb Little Bug",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/35/77/76/3577764a-72bb-fbc0-6922-a362e02fb00b/mzaf_7321726896620835990.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Em Beihold"
-      }
-    },
-    {
-      "id": "1517448096",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1517448096",
-      "attributes": {
-        "albumName": "Don't Look Back In Anger - EP",
-        "genreNames": [
-          "Indie Rock",
-          "Music",
-          "Alternative"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 287827,
-        "releaseDate": "1995-10-02",
-        "isrc": "GBAAW9500190",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/7b/8f/9e7b8f9c-7304-5197-cfa9-51e7c7d9211a/5051961018103.jpg/{w}x{h}bb.jpg",
-          "bgColor": "201a1a",
-          "textColor1": "fffbf8",
-          "textColor2": "fbefc8",
-          "textColor3": "d2cdcb",
-          "textColor4": "cfc4a5"
-        },
-        "composerName": "Noel Gallagher",
-        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
-        "playParams": {
-          "id": "1517448096",
-          "kind": "song"
-        },
-        "discNumber": 1,
         "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Don't Look Back In Anger",
+        "name": "Dream On",
         "previews": [
           {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3e/65/97/3e6597f3-6585-6ef8-7720-314199b58060/mzaf_4460281208505040378.plus.aac.p.m4a"
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/73/a8/f1/73a8f1a5-3e52-75bd-acbc-c9d856f0aca2/mzaf_12018304152705498659.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Oasis"
+        "artistName": "Aerosmith"
       }
     },
     {
@@ -127,6 +84,91 @@
           }
         ],
         "artistName": "pH-1"
+      }
+    },
+    {
+      "id": "1517448096",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1517448096",
+      "attributes": {
+        "albumName": "Don't Look Back In Anger - EP",
+        "genreNames": [
+          "Indie Rock",
+          "Music",
+          "Alternative"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1995-10-02",
+        "durationInMillis": 287827,
+        "isrc": "GBAAW9500190",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/7b/8f/9e7b8f9c-7304-5197-cfa9-51e7c7d9211a/5051961018103.jpg/{w}x{h}bb.jpg",
+          "bgColor": "201a1a",
+          "textColor1": "fffbf8",
+          "textColor2": "fbefc8",
+          "textColor3": "d2cdcb",
+          "textColor4": "cfc4a5"
+        },
+        "composerName": "Noel Gallagher",
+        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
+        "playParams": {
+          "id": "1517448096",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Don't Look Back In Anger",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3e/65/97/3e6597f3-6585-6ef8-7720-314199b58060/mzaf_4460281208505040378.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Oasis"
+      }
+    },
+    {
+      "id": "1633558383",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1633558383",
+      "attributes": {
+        "albumName": "Egg in the Backseat",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-01-28",
+        "durationInMillis": 169238,
+        "isrc": "USUM72200626",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/67/f4/53/67f453e0-baa3-bea4-1344-881050fe9cf1/22UMGIM73329.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "5c4e2f",
+          "textColor1": "c9f0ff",
+          "textColor2": "c6e0a8",
+          "textColor3": "b3cfd5",
+          "textColor4": "b1c390"
+        },
+        "composerName": "Emily Beihold, Nick Lopez & Andrew DeCaro",
+        "url": "https://music.apple.com/us/album/numb-little-bug/1633557907?i=1633558383",
+        "playParams": {
+          "id": "1633558383",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Numb Little Bug",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/35/77/76/3577764a-72bb-fbc0-6922-a362e02fb00b/mzaf_7321726896620835990.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Em Beihold"
       }
     },
     {
@@ -226,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -246,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -269,8 +311,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 201895,
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -289,8 +331,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame",
         "previews": [
           {
@@ -355,8 +397,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 168437,
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -375,8 +417,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -398,8 +440,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 201027,
         "releaseDate": "2023-01-08",
+        "durationInMillis": 201027,
         "isrc": "JPPO02204998",
         "artwork": {
           "width": 3000,
@@ -418,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Choices",
         "previews": [
           {
@@ -527,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 173413,
         "releaseDate": "2022-01-17",
+        "durationInMillis": 173413,
         "isrc": "KRMIM2201803",
         "artwork": {
           "width": 1400,
@@ -547,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SMILEY (feat. BIBI)",
         "previews": [
           {
@@ -613,8 +655,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 204973,
         "releaseDate": "2022-02-14",
+        "durationInMillis": 204973,
         "isrc": "KRA302200026",
         "artwork": {
           "width": 4000,
@@ -633,8 +675,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "INVU",
         "previews": [
           {
@@ -656,8 +698,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193173,
         "releaseDate": "2022-06-29",
+        "durationInMillis": 193173,
         "isrc": "KRMIM2236311",
         "artwork": {
           "width": 3000,
@@ -676,8 +718,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Heart Burn",
         "previews": [
           {
@@ -769,8 +811,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "BLACKPINK"
+        "artistName": "BLACKPINK",
+        "contentRating": "explicit"
       }
     },
     {
@@ -785,8 +827,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 177373,
         "releaseDate": "2022-06-20",
+        "durationInMillis": 177373,
         "isrc": "KRA252201148",
         "artwork": {
           "width": 2000,
@@ -805,8 +847,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Flip That",
         "previews": [
           {
@@ -871,8 +913,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213427,
         "releaseDate": "2022-02-21",
+        "durationInMillis": 213427,
         "isrc": "KRA382203169",
         "artwork": {
           "width": 4000,
@@ -890,8 +932,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "RUN2U",
         "previews": [
           {
@@ -955,8 +997,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 245840,
         "releaseDate": "2021-09-10",
+        "durationInMillis": 245840,
         "isrc": "KRMIM2135398",
         "artwork": {
           "width": 3000,
@@ -974,8 +1016,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Antifreeze",
         "previews": [
           {
@@ -1040,8 +1082,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -1059,8 +1101,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -1211,8 +1253,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 204933,
         "releaseDate": "2021-12-20",
+        "durationInMillis": 204933,
         "isrc": "KRA302100400",
         "artwork": {
           "width": 4000,
@@ -1231,8 +1273,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -1240,49 +1282,6 @@
           }
         ],
         "artistName": "aespa"
-      }
-    },
-    {
-      "id": "1635469694",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469694",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 180067,
-        "isrc": "USA2P2230221",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
-        "playParams": {
-          "id": "1635469694",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Attention",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/79/51/13795136-c3d0-1191-cc43-dcc16579a2f2/mzaf_8604667655746746744.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
