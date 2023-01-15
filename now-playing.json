@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1658222132",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1658222132",
+      "attributes": {
+        "albumName": "Candy - Winter Special Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-12-16",
+        "durationInMillis": 217067,
+        "isrc": "KRA302200259",
+        "artwork": {
+          "width": 5000,
+          "height": 5000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
+          "bgColor": "011605",
+          "textColor1": "fefeff",
+          "textColor2": "ede4dc",
+          "textColor3": "cbcfcc",
+          "textColor4": "bebab1"
+        },
+        "composerName": "Chang Yong Jin",
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
+        "playParams": {
+          "id": "1658222132",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Candy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/94/de/b394dee5-2053-3d55-7382-8da20f3563e4/mzaf_15974731009209634121.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NCT DREAM"
+      }
+    },
+    {
+      "id": "1635469694",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469694",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
+        "isrc": "USA2P2230221",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
+        "playParams": {
+          "id": "1635469694",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Attention",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/79/51/13795136-c3d0-1191-cc43-dcc16579a2f2/mzaf_8604667655746746744.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1647830390",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1647830390",
@@ -282,7 +368,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/9b/76/64/9b76643d-daaa-7e44-0b71-3a93a5da713d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230115T183157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230115%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=85c86ef95fe392d530c2a11fb517b4fd230d53a3ace7c95e12c1ab14171481b5"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/9b/76/64/9b76643d-daaa-7e44-0b71-3a93a5da713d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230115T184022Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230115%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=089f6c75af2a911e6de66b3742232068f562323af91c69bba205371806da1f16"
         },
         "playParams": {
           "id": "i.ldDOzo5F8LaVGWo",
@@ -339,8 +425,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.b1JEzZ8FbdrMKBq",
       "attributes": {
-        "albumName": "This Is... Icona Pop",
         "discNumber": 1,
+        "albumName": "This Is... Icona Pop",
         "genreNames": [
           "Pop"
         ],
@@ -352,7 +438,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/2b/74/62/2b746255-4ac8-5ddf-0c30-15105722834e/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230115T183157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230115%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=d68783a9ec9745ed265837918f2f70f575860cde61269d4381c24819b169eba9"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/2b/74/62/2b746255-4ac8-5ddf-0c30-15105722834e/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230115T184022Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230115%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=bc11c829a7b46fe2707c9f86dc445faf5d56a054847cf669b7cb66b811850d2d"
         },
         "playParams": {
           "id": "i.b1JEzZ8FbdrMKBq",
@@ -664,49 +750,6 @@
           }
         ],
         "artistName": "Cascada"
-      }
-    },
-    {
-      "id": "1635469694",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469694",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 180067,
-        "isrc": "USA2P2230221",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
-        "playParams": {
-          "id": "1635469694",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Attention",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/79/51/13795136-c3d0-1191-cc43-dcc16579a2f2/mzaf_8604667655746746744.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     },
     {
@@ -1222,48 +1265,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1525520605",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1525520605",
-      "attributes": {
-        "albumName": "APRIL Summer Special Album \u2018Hello Summer\u2019 - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2020-07-29",
-        "durationInMillis": 213573,
-        "isrc": "KRA382003122",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/53/e8/5f/53e85f73-a688-a1e5-fac6-33ddd22e0f37/cover_-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "78d2f5",
-          "textColor1": "1c1402",
-          "textColor2": "402806",
-          "textColor3": "2f3a32",
-          "textColor4": "4b4a36"
-        },
-        "url": "https://music.apple.com/us/album/paradise/1525520603?i=1525520605",
-        "playParams": {
-          "id": "1525520605",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Paradise",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/5a/5d/d75a5d0d-5f7e-ec28-b45f-c95910bf6300/mzaf_12110002194923902409.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "APRIL"
       }
     }
   ]
