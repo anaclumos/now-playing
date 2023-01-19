@@ -2,6 +2,98 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "338349243",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/338349243",
+      "attributes": {
+        "albumName": "Before the Storm, Special Edition",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Electronic",
+          "House",
+          "Trance",
+          "Electronica",
+          "Rock"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "1999-10-26",
+        "durationInMillis": 225474,
+        "isrc": "FISGC9900001",
+        "artwork": {
+          "width": 620,
+          "height": 620,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/a1/c8/mzi.tqopjuka.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b79857",
+          "textColor1": "000001",
+          "textColor2": "1d170c",
+          "textColor3": "241e12",
+          "textColor4": "3c311b"
+        },
+        "composerName": "Jaakko Salovaara & Ville Virtanen",
+        "url": "https://music.apple.com/us/album/sandstorm/338349017?i=338349243",
+        "playParams": {
+          "id": "338349243",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Sandstorm",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/c3/b6/b2c3b692-4c6e-96b4-0b80-a9f2fceee842/mzaf_15150202186372680773.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Darude"
+      }
+    },
+    {
+      "id": "355161005",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/355161005",
+      "attributes": {
+        "albumName": "Everytime We Touch (Premium Edition)",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Trance",
+          "Rock",
+          "Electronic"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 197065,
+        "releaseDate": "2005-05-17",
+        "isrc": "DEZ620500053",
+        "artwork": {
+          "width": 1200,
+          "height": 1200,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music/8b/75/11/mzi.jrrxcezm.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d2c55d",
+          "textColor1": "090400",
+          "textColor2": "120d0d",
+          "textColor3": "312b13",
+          "textColor4": "39321d"
+        },
+        "composerName": "Maggie Reilly, Stuart Mackillop, Peter Risavy, Maggie Reilly, Stuart Mackillop & Peter Risavy",
+        "url": "https://music.apple.com/us/album/everytime-we-touch/355160987?i=355161005",
+        "playParams": {
+          "id": "355161005",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Everytime We Touch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/61/1e/57611e9d-d097-b8b6-241a-419608eea38d/mzaf_17761002187828482613.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Cascada"
+      }
+    },
+    {
       "id": "1656336322",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1656336322",
@@ -14,8 +106,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-11-29",
         "durationInMillis": 178360,
+        "releaseDate": "2022-11-29",
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -28,11 +120,11 @@
           "textColor4": "5b5b5b"
         },
         "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
+        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "playParams": {
           "id": "1656336322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -71,14 +163,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No Celestial",
         "previews": [
           {
@@ -143,8 +235,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -163,8 +255,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -200,14 +292,14 @@
           "textColor4": "3d4148"
         },
         "composerName": "n-buna",
+        "url": "https://music.apple.com/us/album/left-right-confusion/1633921717?i=1633921722",
         "playParams": {
           "id": "1633921722",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/left-right-confusion/1633921717?i=1633921722",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Left-Right Confusion",
         "previews": [
           {
@@ -228,8 +320,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-30",
         "durationInMillis": 182453,
+        "releaseDate": "2022-11-30",
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -242,11 +334,11 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -274,8 +366,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 200690,
+        "releaseDate": "2022-10-21",
         "isrc": "USUG12205736",
         "artwork": {
           "width": 3000,
@@ -294,8 +386,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Anti-Hero",
         "previews": [
           {
@@ -360,8 +452,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-01-09",
         "durationInMillis": 183120,
+        "releaseDate": "2023-01-09",
         "isrc": "QMFME2244340",
         "artwork": {
           "width": 3000,
@@ -380,8 +472,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Beautiful Liar",
         "previews": [
           {
@@ -487,8 +579,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-22",
         "durationInMillis": 156943,
+        "releaseDate": "2022-09-22",
         "isrc": "GBUM72205415",
         "artwork": {
           "width": 3000,
@@ -507,8 +599,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Unholy",
         "previews": [
           {
@@ -543,14 +635,14 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I Don't Think That I Like Her",
         "previews": [
           {
@@ -572,8 +664,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-12-03",
         "durationInMillis": 377372,
+        "releaseDate": "2022-12-03",
         "isrc": "KRA492201240",
         "artwork": {
           "width": 1400,
@@ -586,11 +678,11 @@
           "textColor4": "306cc5"
         },
         "composerName": "Los, JUSTHIS, Mckdaddy, R.Tee, JuniorChef, DON MALIK, Huh & KHAN",
+        "url": "https://music.apple.com/us/album/my-way/1657315136?i=1657315340",
         "playParams": {
           "id": "1657315340",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/my-way/1657315136?i=1657315340",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -615,8 +707,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 177947,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230224",
         "artwork": {
           "width": 1400,
@@ -629,11 +721,11 @@
           "textColor4": "424556"
         },
         "composerName": "Amanda Lundstedt, 250 & Gigi",
+        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
         "playParams": {
           "id": "1635470002",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -658,8 +750,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -678,8 +770,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS",
         "previews": [
           {
@@ -785,8 +877,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "releaseDate": "2022-12-17",
         "durationInMillis": 236500,
+        "releaseDate": "2022-12-17",
         "isrc": "KRA492201271",
         "artwork": {
           "width": 1400,
@@ -799,11 +891,11 @@
           "textColor4": "306cc5"
         },
         "composerName": "Lee Young Ji, pH-1, Slom & Junu Park",
+        "url": "https://music.apple.com/us/album/not-sorry-feat-ph-1/1660169922?i=1660170110",
         "playParams": {
           "id": "1660170110",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/not-sorry-feat-ph-1/1660169922?i=1660170110",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -842,14 +934,14 @@
           "textColor4": "e79876"
         },
         "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "playParams": {
           "id": "1645995263",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nxde",
         "previews": [
           {
@@ -870,8 +962,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-12-09",
         "durationInMillis": 153947,
+        "releaseDate": "2022-12-09",
         "isrc": "USRC12204584",
         "artwork": {
           "width": 3000,
@@ -884,11 +976,11 @@
           "textColor4": "638ab2"
         },
         "composerName": "SZA, Rob Bisel & Carter Lang",
+        "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
         "playParams": {
           "id": "1657869393",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -913,8 +1005,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -927,11 +1019,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -970,14 +1062,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cookie",
         "previews": [
           {
@@ -1099,14 +1191,14 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Candy",
         "previews": [
           {
@@ -1142,14 +1234,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -1171,8 +1263,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -1185,11 +1277,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1200,92 +1292,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1635469851",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469851",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 179027,
-        "isrc": "USA2P2230222",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "playParams": {
-          "id": "1635469851",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Hype Boy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1659513445",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659513445",
-      "attributes": {
-        "albumName": "NewJeans 'OMG' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-01-02",
-        "durationInMillis": 212253,
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
-        "playParams": {
-          "id": "1659513445",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "OMG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
