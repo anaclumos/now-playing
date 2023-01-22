@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1587270560",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1587270560",
-      "attributes": {
-        "albumName": "Feel the Rhythm of Korea, Pt. 2 - Single",
-        "genreNames": [
-          "R&B/Soul",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2021-09-27",
-        "durationInMillis": 201213,
-        "isrc": "KRC712100050",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/67/73/9b/67739bb2-6a2a-95ec-2b42-2e9bed3d0d88/2323432434.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "d1d5ea",
-          "textColor2": "b4b8f9",
-          "textColor3": "a7aabb",
-          "textColor4": "9093c7"
-        },
-        "url": "https://music.apple.com/us/album/baennorae-busan-tongyeong/1587270558?i=1587270560",
-        "playParams": {
-          "id": "1587270560",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Baennorae (Busan & Tongyeong)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/90/1a/86901ac5-58e7-6467-3937-8cce03718f58/mzaf_16622140400422253088.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "sogumm"
-      }
-    },
-    {
       "id": "1587270559",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1587270559",
@@ -76,8 +33,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ganggangsullae (Gyeongju & Andong) [feat. sogumm]",
         "previews": [
           {
@@ -85,6 +42,49 @@
           }
         ],
         "artistName": "Woo"
+      }
+    },
+    {
+      "id": "1587270560",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1587270560",
+      "attributes": {
+        "albumName": "Feel the Rhythm of Korea, Pt. 2 - Single",
+        "genreNames": [
+          "R&B/Soul",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2021-09-27",
+        "durationInMillis": 201213,
+        "isrc": "KRC712100050",
+        "artwork": {
+          "width": 5000,
+          "height": 5000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/67/73/9b/67739bb2-6a2a-95ec-2b42-2e9bed3d0d88/2323432434.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "d1d5ea",
+          "textColor2": "b4b8f9",
+          "textColor3": "a7aabb",
+          "textColor4": "9093c7"
+        },
+        "url": "https://music.apple.com/us/album/baennorae-busan-tongyeong/1587270558?i=1587270560",
+        "playParams": {
+          "id": "1587270560",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Baennorae (Busan & Tongyeong)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/90/1a/86901ac5-58e7-6467-3937-8cce03718f58/mzaf_16622140400422253088.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "sogumm"
       }
     },
     {
@@ -119,8 +119,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "EVERYTHING",
         "previews": [
           {
@@ -162,8 +162,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "A Fish Map",
         "previews": [
           {
@@ -205,8 +205,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Tiger is Coming",
         "previews": [
           {
@@ -294,8 +294,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -380,8 +380,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -467,8 +467,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -510,8 +510,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -856,8 +856,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -941,8 +941,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cookie",
         "previews": [
           {
@@ -984,8 +984,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -1027,8 +1027,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fearless",
         "previews": [
           {
@@ -1070,8 +1070,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -1155,8 +1155,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Don't Look Back In Anger",
         "previews": [
           {
@@ -1241,8 +1241,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The Hydra",
         "previews": [
           {
