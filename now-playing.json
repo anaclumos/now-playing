@@ -2,6 +2,72 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1659513445",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1659513445",
+      "attributes": {
+        "albumName": "NewJeans 'OMG' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 212253,
+        "releaseDate": "2023-01-02",
+        "isrc": "USA2P2251723",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "d7d7d7",
+          "textColor3": "cbcbcb",
+          "textColor4": "acacac"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
+        "playParams": {
+          "id": "1659513445",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "OMG",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "i.RBrMdK6T15KXVPZ",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.RBrMdK6T15KXVPZ",
+      "attributes": {
+        "albumName": "",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 232803,
+        "name": "Disco Club",
+        "artistName": "winniethemoog",
+        "playParams": {
+          "id": "i.RBrMdK6T15KXVPZ",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1657231962",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1657231962",
@@ -13,8 +79,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -27,11 +93,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -57,8 +123,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-09-27",
         "durationInMillis": 201213,
+        "releaseDate": "2021-09-27",
         "isrc": "KRC712100050",
         "artwork": {
           "width": 5000,
@@ -76,8 +142,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baennorae (Busan & Tongyeong)",
         "previews": [
           {
@@ -100,8 +166,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 221360,
         "releaseDate": "2022-03-23",
+        "durationInMillis": 221360,
         "isrc": "JPWP02270334",
         "artwork": {
           "width": 2989,
@@ -114,11 +180,11 @@
           "textColor4": "d2c3ad"
         },
         "composerName": "Ayushy, Charlotte Wilson, Frankie Day, Selah & THE HUB 88",
+        "url": "https://music.apple.com/us/album/voltage/1613178415?i=1613178416",
         "playParams": {
           "id": "1613178416",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/voltage/1613178415?i=1613178416",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -129,29 +195,6 @@
           }
         ],
         "artistName": "ITZY"
-      }
-    },
-    {
-      "id": "i.RBrMdK6T15KXVPZ",
-      "type": "library-songs",
-      "href": "/v1/me/library/songs/i.RBrMdK6T15KXVPZ",
-      "attributes": {
-        "albumName": "",
-        "discNumber": 0,
-        "genreNames": [
-          ""
-        ],
-        "hasLyrics": false,
-        "trackNumber": 0,
-        "durationInMillis": 232803,
-        "name": "Disco Club",
-        "artistName": "winniethemoog",
-        "playParams": {
-          "id": "i.RBrMdK6T15KXVPZ",
-          "kind": "song",
-          "isLibrary": true,
-          "reporting": false
-        }
       }
     },
     {
@@ -179,11 +222,11 @@
           "textColor4": "b99090"
         },
         "composerName": "Timbaland",
-        "url": "https://music.apple.com/us/album/give-it-to-me-remix-extended-mix/1646877199?i=1646877200",
         "playParams": {
           "id": "1646877200",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/give-it-to-me-remix-extended-mix/1646877199?i=1646877200",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -256,8 +299,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 502875,
         "releaseDate": "2017-09-19",
+        "durationInMillis": 502875,
         "isrc": "QZ5FN1726055",
         "artwork": {
           "width": 3000,
@@ -317,8 +360,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "One",
         "previews": [
           {
@@ -360,8 +403,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -383,8 +426,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -397,61 +440,18 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1659513445",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659513445",
-      "attributes": {
-        "albumName": "NewJeans 'OMG' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 212253,
-        "releaseDate": "2023-01-02",
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "playParams": {
-          "id": "1659513445",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "OMG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
           }
         ],
         "artistName": "NewJeans"
@@ -483,11 +483,11 @@
           "textColor3": "a7aabb",
           "textColor4": "9093c7"
         },
+        "url": "https://music.apple.com/us/album/ganggangsullae-gyeongju-andong-feat-sogumm/1587270558?i=1587270559",
         "playParams": {
           "id": "1587270559",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ganggangsullae-gyeongju-andong-feat-sogumm/1587270558?i=1587270559",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -526,11 +526,11 @@
           "textColor4": "514c46"
         },
         "composerName": "The Black Skirts",
+        "url": "https://music.apple.com/us/album/everything/1547384602?i=1547385085",
         "playParams": {
           "id": "1547385085",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/everything/1547384602?i=1547385085",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -612,11 +612,11 @@
           "textColor4": "c51200"
         },
         "composerName": "LEENALCHI",
+        "url": "https://music.apple.com/us/album/tiger-is-coming/1551178216?i=1551178226",
         "playParams": {
           "id": "1551178226",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tiger-is-coming/1551178216?i=1551178226",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -640,8 +640,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 182453,
         "releaseDate": "2022-11-30",
+        "durationInMillis": 182453,
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -687,8 +687,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -701,11 +701,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -860,8 +860,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -874,14 +874,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -945,8 +945,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 175889,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 175889,
         "isrc": "KRA402200020",
         "artwork": {
           "width": 2000,
@@ -959,11 +959,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy & 24",
+        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "playParams": {
           "id": "1644440674",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -988,8 +988,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-12-01",
         "durationInMillis": 178453,
+        "releaseDate": "2021-12-01",
         "isrc": "KRA382163861",
         "artwork": {
           "width": 3000,
@@ -1001,11 +1001,11 @@
           "textColor3": "f0bfd5",
           "textColor4": "f0aea2"
         },
+        "url": "https://music.apple.com/us/album/eleven/1597404250?i=1597404252",
         "playParams": {
           "id": "1597404252",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eleven/1597404250?i=1597404252",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1029,8 +1029,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-06",
         "durationInMillis": 147427,
+        "releaseDate": "2022-09-06",
         "isrc": "KRA492200790",
         "artwork": {
           "width": 1400,
@@ -1043,11 +1043,11 @@
           "textColor4": "b5b8be"
         },
         "composerName": "ZICO, Pop.time, CK & Louie",
+        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "playParams": {
           "id": "1643565275",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/new-thing-feat-homies/1643565274?i=1643565275",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1073,8 +1073,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-20",
         "durationInMillis": 188707,
+        "releaseDate": "2022-04-20",
         "isrc": "KRA382204596",
         "artwork": {
           "width": 3000,
@@ -1116,8 +1116,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -1157,8 +1157,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2010-03-08",
         "durationInMillis": 243987,
+        "releaseDate": "2010-03-08",
         "isrc": "KRA401600097",
         "artwork": {
           "width": 3000,
@@ -1171,14 +1171,14 @@
           "textColor4": "c1956e"
         },
         "composerName": "The Black Skirts",
-        "url": "https://music.apple.com/us/album/antifreeze/1547384689?i=1547385158",
         "playParams": {
           "id": "1547385158",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifreeze/1547384689?i=1547385158",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Antifreeze",
         "previews": [
           {
@@ -1214,11 +1214,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1243,8 +1243,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -1263,8 +1263,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
