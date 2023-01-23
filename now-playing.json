@@ -2,6 +2,119 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.JL1YoXKUbmLXpv3",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.JL1YoXKUbmLXpv3",
+      "attributes": {
+        "albumName": "AYAYAYA",
+        "discNumber": 0,
+        "genreNames": [
+          "K-Pop"
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 199497,
+        "name": "AYAYAYA",
+        "artistName": "IZ*ONE",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-035.blobstore.apple.com/sq-mq-us-035-000002/84/fa/90/84fa90c1-e8c1-c4fc-683b-08836d36421c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230123T173816Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAZJRVM1CLAZIYJ6OU%2F20230123%2Fstore-035%2Fs3%2Faws4_request&X-Amz-Signature=36d3d2811581304b8a34aba4c239a76646df1d52feef0ab18d4a9e5fb4e486ad"
+        },
+        "playParams": {
+          "id": "i.JL1YoXKUbmLXpv3",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1569281904",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569281904",
+      "attributes": {
+        "albumName": "BLOOM*IZ",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "durationInMillis": 202400,
+        "releaseDate": "2020-02-17",
+        "isrc": "KRA871900039",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0be7f",
+          "textColor1": "030302",
+          "textColor2": "452719",
+          "textColor3": "32281b",
+          "textColor4": "67452d"
+        },
+        "composerName": "\uc724\uc885\uc131, Anna Timgren, \uc2e0\ubbfc\uacbd & Inner Child",
+        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
+        "playParams": {
+          "id": "1569281904",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "AYAYAYA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/76/74/3e767414-10de-4ca3-e2de-bcc2c88bd62f/mzaf_14160970307789987447.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "1549862123",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1549862123",
+      "attributes": {
+        "albumName": "D-D-Dance - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 205067,
+        "releaseDate": "2021-01-26",
+        "isrc": "KRA382100284",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/66/4f/5a/664f5a6f-cb6c-1f7c-f0ed-7f6164f18a1d/1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "40185f",
+          "textColor1": "e29daf",
+          "textColor2": "e19883",
+          "textColor3": "c1829f",
+          "textColor4": "c17e7b"
+        },
+        "url": "https://music.apple.com/us/album/d-d-dance/1549862119?i=1549862123",
+        "playParams": {
+          "id": "1549862123",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "D-D-Dance",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/75/90/09759071-332a-b017-fd44-23527783964e/mzaf_8481590657542024090.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
       "id": "1569280531",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1569280531",
@@ -119,8 +232,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Violeta",
         "previews": [
           {
@@ -162,8 +275,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -185,8 +298,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-16",
         "durationInMillis": 217067,
+        "releaseDate": "2022-12-16",
         "isrc": "KRA302200259",
         "artwork": {
           "width": 5000,
@@ -205,8 +318,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -228,8 +341,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 217760,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900037",
         "artwork": {
           "width": 1400,
@@ -248,8 +361,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FIESTA",
         "previews": [
           {
@@ -314,8 +427,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-07-08",
         "durationInMillis": 178133,
+        "releaseDate": "2022-07-08",
         "isrc": "KRA302200099",
         "artwork": {
           "width": 4000,
@@ -334,8 +447,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Life's Too Short",
         "previews": [
           {
@@ -357,8 +470,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2019-04-22",
         "durationInMillis": 187253,
+        "releaseDate": "2019-04-22",
         "isrc": "US5TA1900046",
         "artwork": {
           "width": 1400,
@@ -377,8 +490,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TURN IT UP",
         "previews": [
           {
@@ -400,8 +513,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-22",
         "durationInMillis": 217229,
+        "releaseDate": "2021-02-22",
         "isrc": "KRMIM2105217",
         "artwork": {
           "width": 1400,
@@ -420,8 +533,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Get It Out",
         "previews": [
           {
@@ -463,8 +576,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bon voyage",
         "previews": [
           {
@@ -529,8 +642,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-09-05",
         "durationInMillis": 222406,
+        "releaseDate": "2017-09-05",
         "isrc": "KRA301700488",
         "artwork": {
           "width": 4000,
@@ -548,8 +661,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Power",
         "previews": [
           {
@@ -571,8 +684,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -591,8 +704,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -677,8 +790,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -701,8 +814,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -720,8 +833,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -763,8 +876,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -850,8 +963,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "WHEN I MOVE",
         "previews": [
           {
@@ -873,8 +986,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -893,8 +1006,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -916,8 +1029,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -936,8 +1049,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -952,8 +1065,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.RBrMdK6T15KXVPZ",
       "attributes": {
-        "discNumber": 0,
         "albumName": "",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -1002,8 +1115,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baennorae (Busan & Tongyeong)",
         "previews": [
           {
@@ -1026,8 +1139,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-23",
         "durationInMillis": 221360,
+        "releaseDate": "2022-03-23",
         "isrc": "JPWP02270334",
         "artwork": {
           "width": 2989,
@@ -1046,8 +1159,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Voltage",
         "previews": [
           {
@@ -1069,8 +1182,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-28",
         "durationInMillis": 203953,
+        "releaseDate": "2022-06-28",
         "isrc": "USA2P2229070",
         "artwork": {
           "width": 1400,
@@ -1089,8 +1202,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fight (Yeosu)",
         "previews": [
           {
@@ -1141,139 +1254,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1659513445",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659513445",
-      "attributes": {
-        "albumName": "NewJeans 'OMG' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-01-02",
-        "durationInMillis": 212253,
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
-        "playParams": {
-          "id": "1659513445",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "OMG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1646877200",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1646877200",
-      "attributes": {
-        "albumName": "Give It To Me Remix (Extended Mix) - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-09-25",
-        "durationInMillis": 236356,
-        "isrc": "QZN882288908",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c0/3f/a1/c03fa15b-9eca-19f9-7404-bf4b5a1d5467/5196e627-e871-4952-aa71-7abac48ebcde.jpg/{w}x{h}bb.jpg",
-          "bgColor": "212143",
-          "textColor1": "fff5f7",
-          "textColor2": "dfaca3",
-          "textColor3": "d2cad2",
-          "textColor4": "b99090"
-        },
-        "composerName": "Timbaland",
-        "url": "https://music.apple.com/us/album/give-it-to-me-remix-extended-mix/1646877199?i=1646877200",
-        "playParams": {
-          "id": "1646877200",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Give It To Me Remix (Extended Mix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2d/1b/e8/2d1be8f8-ea93-5248-e92b-f8b4b7c871c4/mzaf_11863179784446033347.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BRED"
-      }
-    },
-    {
-      "id": "1440754487",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1440754487",
-      "attributes": {
-        "albumName": "Making Mirrors",
-        "genreNames": [
-          "Alternative",
-          "Music",
-          "Jazz",
-          "Bop",
-          "Rock",
-          "Adult Alternative",
-          "Electronic",
-          "Electronica"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2011-07-05",
-        "durationInMillis": 244973,
-        "isrc": "AUZS21100040",
-        "artwork": {
-          "width": 1100,
-          "height": 1100,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/b3/8a/98/b38a9867-2a9c-de2f-2d80-c624fb2200ec/11UMGIM19347.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f8e8d8",
-          "textColor1": "0d0c09",
-          "textColor2": "2d3221",
-          "textColor3": "3c3832",
-          "textColor4": "565646"
-        },
-        "composerName": "Wally De Backer",
-        "url": "https://music.apple.com/us/album/somebody-that-i-used-to-know-feat-kimbra-feat-kimbra/1440754000?i=1440754487",
-        "playParams": {
-          "id": "1440754487",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Somebody That I Used to Know (feat. Kimbra) [feat. Kimbra]",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/9c/55/f99c553e-7be1-91dc-b55e-3da1aad29bba/mzaf_5038171343466446420.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Gotye"
       }
     }
   ]
