@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1588219798",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588219798",
+      "attributes": {
+        "albumName": "VENI VIDI VICI",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
+        "isrc": "KRUM72100123",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/10/3f/18/103f1829-12c4-e91c-103c-e1064ce02f70/21UM1IM16483.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e9e6ff",
+          "textColor1": "10262b",
+          "textColor2": "232346",
+          "textColor3": "3b4c55",
+          "textColor4": "4b4a6b"
+        },
+        "composerName": "S.Tiger, Elly & J.mee Kim",
+        "playParams": {
+          "id": "1588219798",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "RUB-A-DUM",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ca/35/ef/ca35efff-ae93-f237-0854-dae8fdd7ae78/mzaf_507588980058338654.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TRI.BE"
+      }
+    },
+    {
+      "id": "1647830394",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1647830394",
+      "attributes": {
+        "albumName": "ANTIFRAGILE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
+        "isrc": "USA2P2230330",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "212121",
+          "textColor3": "333333",
+          "textColor4": "4e4e4e"
+        },
+        "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "playParams": {
+          "id": "1647830394",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Impurities",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9b/63/aa/9b63aaae-cc83-39ec-0a06-a564861f4f11/mzaf_15166524560809953058.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
       "id": "i.RBrMdK6T15KXVPZ",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.RBrMdK6T15KXVPZ",
@@ -11,8 +97,8 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 232803,
         "name": "Disco Club",
         "artistName": "winniethemoog",
@@ -36,8 +122,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -50,11 +136,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -79,8 +165,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -93,14 +179,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
@@ -122,8 +208,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -136,11 +222,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -185,8 +271,8 @@
         },
         "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -240,49 +326,6 @@
       }
     },
     {
-      "id": "1588219798",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1588219798",
-      "attributes": {
-        "albumName": "VENI VIDI VICI",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 7,
-        "durationInMillis": 199640,
-        "releaseDate": "2021-05-18",
-        "isrc": "KRUM72100123",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/10/3f/18/103f1829-12c4-e91c-103c-e1064ce02f70/21UM1IM16483.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e9e6ff",
-          "textColor1": "10262b",
-          "textColor2": "232346",
-          "textColor3": "3b4c55",
-          "textColor4": "4b4a6b"
-        },
-        "composerName": "S.Tiger, Elly & J.mee Kim",
-        "playParams": {
-          "id": "1588219798",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "RUB-A-DUM",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ca/35/ef/ca35efff-ae93-f237-0854-dae8fdd7ae78/mzaf_507588980058338654.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TRI.BE"
-      }
-    },
-    {
       "id": "1639416903",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1639416903",
@@ -294,8 +337,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -308,11 +351,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -337,8 +380,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -351,11 +394,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -369,49 +412,137 @@
       }
     },
     {
-      "id": "1654019898",
+      "id": "1646877200",
       "type": "songs",
-      "href": "/v1/catalog/us/songs/1654019898",
+      "href": "/v1/catalog/us/songs/1646877200",
       "attributes": {
-        "albumName": "CHESHIRE - EP",
+        "albumName": "Give It To Me Remix (Extended Mix) - Single",
         "genreNames": [
-          "Pop",
+          "Dance",
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-30",
-        "durationInMillis": 182453,
-        "isrc": "US5TA2200143",
+        "durationInMillis": 236356,
+        "releaseDate": "2022-09-25",
+        "isrc": "QZN882288908",
         "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/e8/aa/52/e8aa52be-338e-0903-fb66-cc8de1f37dcc/738676860368_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eee7ee",
-          "textColor1": "010d0f",
-          "textColor2": "372f2d",
-          "textColor3": "30393c",
-          "textColor4": "5c5454"
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c0/3f/a1/c03fa15b-9eca-19f9-7404-bf4b5a1d5467/5196e627-e871-4952-aa71-7abac48ebcde.jpg/{w}x{h}bb.jpg",
+          "bgColor": "212143",
+          "textColor1": "fff5f7",
+          "textColor2": "dfaca3",
+          "textColor3": "d2cad2",
+          "textColor4": "b99090"
         },
-        "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
+        "composerName": "Timbaland",
         "playParams": {
-          "id": "1654019898",
+          "id": "1646877200",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/give-it-to-me-remix-extended-mix/1646877199?i=1646877200",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Give It To Me Remix (Extended Mix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2d/1b/e8/2d1be8f8-ea93-5248-e92b-f8b4b7c871c4/mzaf_11863179784446033347.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BRED"
+      }
+    },
+    {
+      "id": "1440754487",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1440754487",
+      "attributes": {
+        "albumName": "Making Mirrors",
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Jazz",
+          "Bop",
+          "Rock",
+          "Adult Alternative",
+          "Electronic",
+          "Electronica"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2011-07-05",
+        "durationInMillis": 244973,
+        "isrc": "AUZS21100040",
+        "artwork": {
+          "width": 1100,
+          "height": 1100,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/b3/8a/98/b38a9867-2a9c-de2f-2d80-c624fb2200ec/11UMGIM19347.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f8e8d8",
+          "textColor1": "0d0c09",
+          "textColor2": "2d3221",
+          "textColor3": "3c3832",
+          "textColor4": "565646"
+        },
+        "composerName": "Wally De Backer",
+        "playParams": {
+          "id": "1440754487",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/somebody-that-i-used-to-know-feat-kimbra-feat-kimbra/1440754000?i=1440754487",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Somebody That I Used to Know (feat. Kimbra) [feat. Kimbra]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/9c/55/f99c553e-7be1-91dc-b55e-3da1aad29bba/mzaf_5038171343466446420.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Gotye"
+      }
+    },
+    {
+      "id": "1656336322",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1656336322",
+      "attributes": {
+        "albumName": "MOVE AGAIN - EP",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 178360,
+        "releaseDate": "2022-11-29",
+        "isrc": "KSA012214903",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/1d/81/591d81e5-b69b-11c6-683c-a2b35e4a38f8/8809912843864.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "323232",
+          "textColor3": "333333",
+          "textColor4": "5b5b5b"
+        },
+        "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
+        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
+        "playParams": {
+          "id": "1656336322",
           "kind": "song"
         },
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
-        "name": "Cheshire",
+        "name": "WHEN I MOVE",
         "previews": [
           {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/10/65/1a/10651a53-f512-ed86-e483-2e08b6960fc0/mzaf_16828220535679436785.plus.aac.p.m4a"
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/15/20/0a/15200a76-062a-e442-0591-6e3692bb70f5/mzaf_18326074894565672491.plus.aac.p.m4a"
           }
         ],
-        "artistName": "ITZY",
-        "editorialNotes": {
-          "standard": "K-pop\u2019s fab five pack their dance bops with mystery and mischief.",
-          "short": "K-pop\u2019s fab five pack their dance bops with mystery and mischief."
-        }
+        "artistName": "KARA"
       }
     },
     {
@@ -457,183 +588,6 @@
       }
     },
     {
-      "id": "1646877200",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1646877200",
-      "attributes": {
-        "albumName": "Give It To Me Remix (Extended Mix) - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 236356,
-        "releaseDate": "2022-09-25",
-        "isrc": "QZN882288908",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c0/3f/a1/c03fa15b-9eca-19f9-7404-bf4b5a1d5467/5196e627-e871-4952-aa71-7abac48ebcde.jpg/{w}x{h}bb.jpg",
-          "bgColor": "212143",
-          "textColor1": "fff5f7",
-          "textColor2": "dfaca3",
-          "textColor3": "d2cad2",
-          "textColor4": "b99090"
-        },
-        "composerName": "Timbaland",
-        "url": "https://music.apple.com/us/album/give-it-to-me-remix-extended-mix/1646877199?i=1646877200",
-        "playParams": {
-          "id": "1646877200",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Give It To Me Remix (Extended Mix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2d/1b/e8/2d1be8f8-ea93-5248-e92b-f8b4b7c871c4/mzaf_11863179784446033347.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BRED"
-      }
-    },
-    {
-      "id": "1440754487",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1440754487",
-      "attributes": {
-        "albumName": "Making Mirrors",
-        "genreNames": [
-          "Alternative",
-          "Music",
-          "Jazz",
-          "Bop",
-          "Rock",
-          "Adult Alternative",
-          "Electronic",
-          "Electronica"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2011-07-05",
-        "durationInMillis": 244973,
-        "isrc": "AUZS21100040",
-        "artwork": {
-          "width": 1100,
-          "height": 1100,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/b3/8a/98/b38a9867-2a9c-de2f-2d80-c624fb2200ec/11UMGIM19347.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f8e8d8",
-          "textColor1": "0d0c09",
-          "textColor2": "2d3221",
-          "textColor3": "3c3832",
-          "textColor4": "565646"
-        },
-        "composerName": "Wally De Backer",
-        "url": "https://music.apple.com/us/album/somebody-that-i-used-to-know-feat-kimbra-feat-kimbra/1440754000?i=1440754487",
-        "playParams": {
-          "id": "1440754487",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Somebody That I Used to Know (feat. Kimbra) [feat. Kimbra]",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/9c/55/f99c553e-7be1-91dc-b55e-3da1aad29bba/mzaf_5038171343466446420.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Gotye"
-      }
-    },
-    {
-      "id": "1656336322",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1656336322",
-      "attributes": {
-        "albumName": "MOVE AGAIN - EP",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-11-29",
-        "durationInMillis": 178360,
-        "isrc": "KSA012214903",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/1d/81/591d81e5-b69b-11c6-683c-a2b35e4a38f8/8809912843864.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "323232",
-          "textColor3": "333333",
-          "textColor4": "5b5b5b"
-        },
-        "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
-        "playParams": {
-          "id": "1656336322",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "WHEN I MOVE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/15/20/0a/15200a76-062a-e442-0591-6e3692bb70f5/mzaf_18326074894565672491.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "KARA"
-      }
-    },
-    {
-      "id": "1647830394",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1647830394",
-      "attributes": {
-        "albumName": "ANTIFRAGILE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 196365,
-        "releaseDate": "2022-10-17",
-        "isrc": "USA2P2230330",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "212121",
-          "textColor3": "333333",
-          "textColor4": "4e4e4e"
-        },
-        "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "playParams": {
-          "id": "1647830394",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Impurities",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9b/63/aa/9b63aaae-cc83-39ec-0a06-a564861f4f11/mzaf_15166524560809953058.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
       "id": "1642488595",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1642488595",
@@ -645,8 +599,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 2,
-        "durationInMillis": 164036,
         "releaseDate": "2018-03-24",
+        "durationInMillis": 164036,
         "isrc": "KRA491800257",
         "artwork": {
           "width": 1400,
@@ -659,14 +613,14 @@
           "textColor4": "cec766"
         },
         "composerName": "Godic, HAON & PULLIK",
-        "url": "https://music.apple.com/us/album/the-little-prince/1642488590?i=1642488595",
         "playParams": {
           "id": "1642488595",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-little-prince/1642488590?i=1642488595",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Little Prince",
         "previews": [
           {
@@ -689,8 +643,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-04-21",
         "durationInMillis": 441553,
+        "releaseDate": "2016-04-21",
         "isrc": "USLZJ1635140",
         "artwork": {
           "width": 2000,
@@ -702,11 +656,11 @@
           "textColor3": "cfd0d0",
           "textColor4": "8aa3a0"
         },
+        "url": "https://music.apple.com/us/album/one/1101332195?i=1101332237",
         "playParams": {
           "id": "1101332237",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/one/1101332195?i=1101332237",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -731,8 +685,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "durationInMillis": 438000,
         "releaseDate": "2016-05-30",
+        "durationInMillis": 438000,
         "isrc": "US83Z1646866",
         "artwork": {
           "width": 1400,
@@ -744,14 +698,14 @@
           "textColor3": "cccacc",
           "textColor4": "7d89a3"
         },
-        "url": "https://music.apple.com/us/album/one/1115479063?i=1115479199",
         "playParams": {
           "id": "1115479199",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/one/1115479063?i=1115479199",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "One",
         "previews": [
           {
@@ -773,8 +727,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 502875,
         "releaseDate": "2017-09-19",
+        "durationInMillis": 502875,
         "isrc": "QZ5FN1726055",
         "artwork": {
           "width": 3000,
@@ -792,8 +746,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Quinque",
         "previews": [
           {
@@ -872,14 +826,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -902,8 +856,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-09-27",
         "durationInMillis": 177600,
+        "releaseDate": "2021-09-27",
         "isrc": "KRC712100049",
         "artwork": {
           "width": 5000,
@@ -915,11 +869,11 @@
           "textColor3": "a7aabb",
           "textColor4": "9093c7"
         },
-        "url": "https://music.apple.com/us/album/ganggangsullae-gyeongju-andong-feat-sogumm/1587270558?i=1587270559",
         "playParams": {
           "id": "1587270559",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ganggangsullae-gyeongju-andong-feat-sogumm/1587270558?i=1587270559",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -958,14 +912,14 @@
           "textColor3": "a7aabb",
           "textColor4": "9093c7"
         },
+        "url": "https://music.apple.com/us/album/baennorae-busan-tongyeong/1587270558?i=1587270560",
         "playParams": {
           "id": "1587270560",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/baennorae-busan-tongyeong/1587270558?i=1587270560",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Baennorae (Busan & Tongyeong)",
         "previews": [
           {
@@ -987,8 +941,8 @@
           "Worldwide"
         ],
         "trackNumber": 10,
-        "durationInMillis": 293000,
         "releaseDate": "2016-01-29",
+        "durationInMillis": 293000,
         "isrc": "KRA401600005",
         "artwork": {
           "width": 3000,
@@ -1007,8 +961,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "EVERYTHING",
         "previews": [
           {
@@ -1030,8 +984,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-05-29",
         "durationInMillis": 188348,
+        "releaseDate": "2020-05-29",
         "isrc": "KRA0R1900465",
         "artwork": {
           "width": 3000,
@@ -1073,8 +1027,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-05-29",
         "durationInMillis": 332343,
+        "releaseDate": "2020-05-29",
         "isrc": "KRA0R2000139",
         "artwork": {
           "width": 3000,
@@ -1105,6 +1059,52 @@
       }
     },
     {
+      "id": "1654019898",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1654019898",
+      "attributes": {
+        "albumName": "CHESHIRE - EP",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-11-30",
+        "durationInMillis": 182453,
+        "isrc": "US5TA2200143",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/e8/aa/52/e8aa52be-338e-0903-fb66-cc8de1f37dcc/738676860368_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eee7ee",
+          "textColor1": "010d0f",
+          "textColor2": "372f2d",
+          "textColor3": "30393c",
+          "textColor4": "5c5454"
+        },
+        "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
+        "playParams": {
+          "id": "1654019898",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Cheshire",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/10/65/1a/10651a53-f512-ed86-e483-2e08b6960fc0/mzaf_16828220535679436785.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ITZY",
+        "editorialNotes": {
+          "standard": "K-pop\u2019s fab five pack their dance bops with mystery and mischief.",
+          "short": "K-pop\u2019s fab five pack their dance bops with mystery and mischief."
+        }
+      }
+    },
+    {
       "id": "1644440674",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1644440674",
@@ -1130,11 +1130,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy & 24",
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "playParams": {
           "id": "1644440674",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1178,8 +1178,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ELEVEN",
         "previews": [
           {
@@ -1244,8 +1244,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 188707,
         "releaseDate": "2022-04-20",
+        "durationInMillis": 188707,
         "isrc": "KRA382204596",
         "artwork": {
           "width": 3000,
@@ -1257,14 +1257,14 @@
           "textColor3": "272726",
           "textColor4": "3b3a39"
         },
+        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "playParams": {
           "id": "1619757892",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Beyond Love (feat. 10cm)",
         "previews": [
           {
