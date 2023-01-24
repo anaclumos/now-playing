@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1616649362",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616649362",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2022-03-30",
-        "durationInMillis": 300787,
-        "isrc": "KRA382204244",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "110d01",
-          "textColor2": "442217",
-          "textColor3": "403e34",
-          "textColor4": "694e46"
-        },
-        "playParams": {
-          "id": "1616649362",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Event Horizon",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
-      }
-    },
-    {
       "id": "1569281734",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1569281734",
@@ -70,11 +27,11 @@
           "textColor4": "67452d"
         },
         "composerName": "Choi Hyun Joon, \uae40\uc2b9\uc218, \uc11c\uc9c0\uc74c & Ko Hyunjung",
-        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "playParams": {
           "id": "1569281734",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -85,6 +42,77 @@
           }
         ],
         "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "i.JL1YoXKUbmLXpv3",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.JL1YoXKUbmLXpv3",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "AYAYAYA",
+        "genreNames": [
+          "K-Pop"
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 199497,
+        "name": "AYAYAYA",
+        "artistName": "IZ*ONE",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-035.blobstore.apple.com/sq-mq-us-035-000002/84/fa/90/84fa90c1-e8c1-c4fc-683b-08836d36421c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230124T202227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAZJRVM1CLAZIYJ6OU%2F20230124%2Fstore-035%2Fs3%2Faws4_request&X-Amz-Signature=d637faaeedddb48f3de6c95322654e76f18d5f46d6ce38f26aa4394c91a995e2"
+        },
+        "playParams": {
+          "id": "i.JL1YoXKUbmLXpv3",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1616649362",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1616649362",
+      "attributes": {
+        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 11,
+        "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
+        "isrc": "KRA382204244",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "110d01",
+          "textColor2": "442217",
+          "textColor3": "403e34",
+          "textColor4": "694e46"
+        },
+        "playParams": {
+          "id": "1616649362",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Event Horizon",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
       }
     },
     {
@@ -99,8 +127,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 202400,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 202400,
         "isrc": "KRA871900039",
         "artwork": {
           "width": 1400,
@@ -142,8 +170,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-01-26",
         "durationInMillis": 205067,
+        "releaseDate": "2021-01-26",
         "isrc": "KRA382100284",
         "artwork": {
           "width": 3000,
@@ -161,8 +189,8 @@
         },
         "url": "https://music.apple.com/us/album/d-d-dance/1549862119?i=1549862123",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "D-D-Dance",
         "previews": [
           {
@@ -184,8 +212,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2018-10-29",
         "durationInMillis": 218994,
+        "releaseDate": "2018-10-29",
         "isrc": "KRA871800019",
         "artwork": {
           "width": 1400,
@@ -247,8 +275,8 @@
         },
         "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -270,8 +298,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-04-01",
         "durationInMillis": 200912,
+        "releaseDate": "2019-04-01",
         "isrc": "KRA871900003",
         "artwork": {
           "width": 1400,
@@ -290,8 +318,8 @@
         },
         "url": "https://music.apple.com/us/album/violeta/1569293222?i=1569293224",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Violeta",
         "previews": [
           {
@@ -333,8 +361,8 @@
         },
         "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Candy",
         "previews": [
           {
@@ -356,8 +384,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 210973,
         "releaseDate": "2019-10-25",
+        "durationInMillis": 210973,
         "isrc": "KRA491901000",
         "artwork": {
           "width": 3000,
@@ -413,14 +441,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "Becky Hill, Sam Klempner & Uzoechi Emenike",
+        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "playParams": {
           "id": "1626752995",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Life's Too Short",
         "previews": [
           {
@@ -442,8 +470,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2019-04-22",
         "durationInMillis": 187253,
+        "releaseDate": "2019-04-22",
         "isrc": "US5TA1900046",
         "artwork": {
           "width": 1400,
@@ -485,8 +513,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217229,
         "releaseDate": "2021-02-22",
+        "durationInMillis": 217229,
         "isrc": "KRMIM2105217",
         "artwork": {
           "width": 1400,
@@ -528,8 +556,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 219587,
         "releaseDate": "2020-09-07",
+        "durationInMillis": 219587,
         "isrc": "KRB462000767",
         "artwork": {
           "width": 3000,
@@ -542,11 +570,11 @@
           "textColor4": "384843"
         },
         "composerName": "Afshin Salmani, Josh Cumbee, Ryan S. Jhun, Shari Short & Josephina Carr",
-        "url": "https://music.apple.com/us/album/bon-voyage/1530216879?i=1530216880",
         "playParams": {
           "id": "1530216880",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/bon-voyage/1530216879?i=1530216880",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -571,8 +599,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -633,8 +661,8 @@
         },
         "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Power",
         "previews": [
           {
@@ -676,8 +704,8 @@
         },
         "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -713,14 +741,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -762,8 +790,8 @@
         },
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -786,8 +814,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -842,14 +870,14 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -871,8 +899,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -891,8 +919,8 @@
         },
         "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -915,8 +943,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-11-29",
         "durationInMillis": 178360,
+        "releaseDate": "2022-11-29",
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -935,8 +963,8 @@
         },
         "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "WHEN I MOVE",
         "previews": [
           {
@@ -972,14 +1000,14 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -1001,8 +1029,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -1057,11 +1085,11 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1104,14 +1132,14 @@
           "textColor3": "a7aabb",
           "textColor4": "9093c7"
         },
-        "url": "https://music.apple.com/us/album/baennorae-busan-tongyeong/1587270558?i=1587270560",
         "playParams": {
           "id": "1587270560",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/baennorae-busan-tongyeong/1587270558?i=1587270560",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Baennorae (Busan & Tongyeong)",
         "previews": [
           {
@@ -1134,8 +1162,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 221360,
         "releaseDate": "2022-03-23",
+        "durationInMillis": 221360,
         "isrc": "JPWP02270334",
         "artwork": {
           "width": 2989,
@@ -1148,11 +1176,11 @@
           "textColor4": "d2c3ad"
         },
         "composerName": "Ayushy, Charlotte Wilson, Frankie Day, Selah & THE HUB 88",
-        "url": "https://music.apple.com/us/album/voltage/1613178415?i=1613178416",
         "playParams": {
           "id": "1613178416",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/voltage/1613178415?i=1613178416",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1177,8 +1205,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 203953,
         "releaseDate": "2022-06-28",
+        "durationInMillis": 203953,
         "isrc": "USA2P2229070",
         "artwork": {
           "width": 1400,
@@ -1234,11 +1262,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1246,49 +1274,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1659513445",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659513445",
-      "attributes": {
-        "albumName": "NewJeans 'OMG' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 212253,
-        "releaseDate": "2023-01-02",
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
-        "playParams": {
-          "id": "1659513445",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "OMG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
           }
         ],
         "artistName": "NewJeans"
