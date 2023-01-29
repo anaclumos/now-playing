@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1635656417",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635656417",
+      "attributes": {
+        "albumName": "BETWEEN 1&2",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 177467,
+        "releaseDate": "2022-08-26",
+        "isrc": "US5TA2200073",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/6d/80/45/6d8045ba-5b0e-c88a-0736-87fd14665e69/738676859874_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f7dec8",
+          "textColor1": "1b070d",
+          "textColor2": "5b103d",
+          "textColor3": "473232",
+          "textColor4": "7a3959"
+        },
+        "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
+        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
+        "playParams": {
+          "id": "1635656417",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Talk that Talk",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/af/42/93/af4293e1-7861-67c8-aecb-e4a1aa0e95b5/mzaf_5076913398594567626.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1567326688",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1567326688",
+      "attributes": {
+        "albumName": "Next Level - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-05-17",
+        "durationInMillis": 221573,
+        "isrc": "KRA302100169",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/60/8d/ac/608dacc2-d6d6-462d-26f0-d693e4364751/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0b0b0d",
+          "textColor1": "ffe4a8",
+          "textColor2": "f2ab70",
+          "textColor3": "ceb888",
+          "textColor4": "c48b5c"
+        },
+        "composerName": "Mario Marchetti, Adam McInnis, YOO YOUNG JIN & Sophie Curtis",
+        "playParams": {
+          "id": "1567326688",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Next Level",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/1e/0a/431e0a24-2c04-e738-2632-87462a20984d/mzaf_3158159453623406671.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
+      "id": "1584809295",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1584809295",
+      "attributes": {
+        "albumName": "Love, Yerin - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 245840,
+        "releaseDate": "2021-09-10",
+        "isrc": "KRMIM2135398",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c0/13/22/c01322df-40be-a2c8-56e8-f5be1d3471fa/Yerin_Baek.jpg/{w}x{h}bb.jpg",
+          "bgColor": "cbdce6",
+          "textColor1": "080f0b",
+          "textColor2": "0d1a13",
+          "textColor3": "2f3837",
+          "textColor4": "33403d"
+        },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
+        "playParams": {
+          "id": "1584809295",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Antifreeze",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/ba/af/83baaff3-02f8-7546-ca99-dddc23dc3861/mzaf_8909824249325837832.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yerin Baek"
+      }
+    },
+    {
       "id": "1621089614",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1621089614",
@@ -13,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 201895,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -57,8 +186,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-05-06",
         "durationInMillis": 167573,
+        "releaseDate": "2020-05-06",
         "isrc": "KRA382001418",
         "artwork": {
           "width": 3000,
@@ -142,8 +271,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-02-22",
         "durationInMillis": 172936,
+        "releaseDate": "2022-02-22",
         "isrc": "US5TA2100138",
         "artwork": {
           "width": 3000,
@@ -185,8 +314,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 186471,
         "releaseDate": "2023-01-27",
+        "durationInMillis": 186471,
         "isrc": "USA2P2243431",
         "artwork": {
           "width": 1400,
@@ -199,11 +328,11 @@
           "textColor4": "405345"
         },
         "composerName": "Slow Rabbit, BLVSH & Chris James",
-        "url": "https://music.apple.com/us/album/devil-by-the-window/1659052466?i=1659052637",
         "playParams": {
           "id": "1659052637",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/devil-by-the-window/1659052466?i=1659052637",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -242,11 +371,11 @@
           "textColor3": "272726",
           "textColor4": "3b3a39"
         },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "playParams": {
           "id": "1619757892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -328,11 +457,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -356,8 +485,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-30",
         "durationInMillis": 182453,
+        "releaseDate": "2022-11-30",
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -417,11 +546,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -489,8 +618,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 178924,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 178924,
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -503,11 +632,11 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -533,8 +662,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 178360,
         "releaseDate": "2022-11-29",
+        "durationInMillis": 178360,
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -547,11 +676,11 @@
           "textColor4": "5b5b5b"
         },
         "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
-        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "playParams": {
           "id": "1656336322",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -590,11 +719,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -662,8 +791,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 222406,
         "releaseDate": "2017-09-05",
+        "durationInMillis": 222406,
         "isrc": "KRA301700488",
         "artwork": {
           "width": 4000,
@@ -675,11 +804,11 @@
           "textColor3": "d3c71b",
           "textColor4": "cbbe20"
         },
-        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "playParams": {
           "id": "1278808870",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -718,11 +847,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -747,8 +876,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -761,11 +890,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -833,8 +962,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 168867,
         "releaseDate": "2022-12-15",
+        "durationInMillis": 168867,
         "isrc": "JPPO02204996",
         "artwork": {
           "width": 3000,
@@ -847,11 +976,11 @@
           "textColor4": "505050"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"hitman\"bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless-japanese-version/1662116207?i=1662116208",
         "playParams": {
           "id": "1662116208",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless-japanese-version/1662116207?i=1662116208",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -890,11 +1019,11 @@
           "textColor4": "cad7ea"
         },
         "composerName": "Alexander Karlsson, Alexej Viktorovitch & Louise Lindberg",
-        "url": "https://music.apple.com/us/album/ready-or-not/1540251860?i=1540251868",
         "playParams": {
           "id": "1540251868",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ready-or-not/1540251860?i=1540251868",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -919,8 +1048,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 177947,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230224",
         "artwork": {
           "width": 1400,
@@ -1018,11 +1147,11 @@
           "textColor4": "76343f"
         },
         "composerName": "Andy Love, David Amber & Eun-Ji Shim",
-        "url": "https://music.apple.com/us/album/yes-or-yes/1555395987?i=1555395988",
         "playParams": {
           "id": "1555395988",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yes-or-yes/1555395987?i=1555395988",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1048,8 +1177,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-05-02",
         "durationInMillis": 202773,
+        "releaseDate": "2018-05-02",
         "isrc": "KRA391800023",
         "artwork": {
           "width": 3000,
@@ -1104,11 +1233,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1133,8 +1262,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -1147,11 +1276,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1162,134 +1291,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1569281734",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569281734",
-      "attributes": {
-        "albumName": "BLOOM*IZ",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2020-02-17",
-        "durationInMillis": 217760,
-        "isrc": "KRA871900037",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0be7f",
-          "textColor1": "030302",
-          "textColor2": "452719",
-          "textColor3": "32281b",
-          "textColor4": "67452d"
-        },
-        "composerName": "Choi Hyun Joon, \uae40\uc2b9\uc218, \uc11c\uc9c0\uc74c & Ko Hyunjung",
-        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
-        "playParams": {
-          "id": "1569281734",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "FIESTA",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/aa/b5/4daab5a6-0710-b325-54f5-ca1d11788f5f/mzaf_6819508331410297511.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1569281904",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569281904",
-      "attributes": {
-        "albumName": "BLOOM*IZ",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "durationInMillis": 202400,
-        "releaseDate": "2020-02-17",
-        "isrc": "KRA871900039",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0be7f",
-          "textColor1": "030302",
-          "textColor2": "452719",
-          "textColor3": "32281b",
-          "textColor4": "67452d"
-        },
-        "composerName": "\uc724\uc885\uc131, Anna Timgren, \uc2e0\ubbfc\uacbd & Inner Child",
-        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
-        "playParams": {
-          "id": "1569281904",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "AYAYAYA",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/76/74/3e767414-10de-4ca3-e2de-bcc2c88bd62f/mzaf_14160970307789987447.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1549862123",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1549862123",
-      "attributes": {
-        "albumName": "D-D-Dance - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-01-26",
-        "durationInMillis": 205067,
-        "isrc": "KRA382100284",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/66/4f/5a/664f5a6f-cb6c-1f7c-f0ed-7f6164f18a1d/1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "40185f",
-          "textColor1": "e29daf",
-          "textColor2": "e19883",
-          "textColor3": "c1829f",
-          "textColor4": "c17e7b"
-        },
-        "url": "https://music.apple.com/us/album/d-d-dance/1549862119?i=1549862123",
-        "playParams": {
-          "id": "1549862123",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "D-D-Dance",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/75/90/09759071-332a-b017-fd44-23527783964e/mzaf_8481590657542024090.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
       }
     }
   ]
