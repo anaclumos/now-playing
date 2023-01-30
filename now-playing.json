@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1635469694",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469694",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
+        "isrc": "USA2P2230221",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
+        "playParams": {
+          "id": "1635469694",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Attention",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/79/51/13795136-c3d0-1191-cc43-dcc16579a2f2/mzaf_8604667655746746744.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1635469851",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469851",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
+        "isrc": "USA2P2230222",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
+        "playParams": {
+          "id": "1635469851",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Hype Boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1657231962",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1657231962",
+      "attributes": {
+        "albumName": "Ditto - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
+        "isrc": "USA2P2254487",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fdfcff",
+          "textColor1": "36080e",
+          "textColor2": "440a11",
+          "textColor3": "5e393e",
+          "textColor4": "693b41"
+        },
+        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
+        "playParams": {
+          "id": "1657231962",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ditto",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1659513445",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1659513445",
@@ -13,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -27,14 +156,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -55,8 +184,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 182453,
         "releaseDate": "2022-11-30",
+        "durationInMillis": 182453,
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -69,14 +198,14 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cheshire",
         "previews": [
           {
@@ -122,8 +251,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -144,8 +273,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 172415,
         "releaseDate": "2015-10-16",
+        "durationInMillis": 172415,
         "isrc": "ES7001520501",
         "artwork": {
           "width": 1400,
@@ -158,14 +287,14 @@
           "textColor4": "614d3f"
         },
         "composerName": "Joan Sala, Gabriela Richardson & David Borras",
-        "url": "https://music.apple.com/us/album/hundred-miles/1641014238?i=1641014239",
         "playParams": {
           "id": "1641014239",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hundred-miles/1641014238?i=1641014239",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Hundred Miles",
         "previews": [
           {
@@ -207,14 +336,14 @@
           "textColor4": "af7344"
         },
         "composerName": "Joey Tempest",
-        "url": "https://music.apple.com/us/album/the-final-countdown/196480323?i=196480329",
         "playParams": {
           "id": "196480329",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-final-countdown/196480323?i=196480329",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Final Countdown",
         "previews": [
           {
@@ -236,8 +365,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -256,8 +385,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -279,8 +408,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -293,14 +422,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -336,14 +465,14 @@
           "textColor3": "413032",
           "textColor4": "534447"
         },
-        "url": "https://music.apple.com/us/album/banana-shake/1456984053?i=1456984070",
         "playParams": {
           "id": "1456984070",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/banana-shake/1456984053?i=1456984070",
         "discNumber": 2,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Banana Shake",
         "previews": [
           {
@@ -365,8 +494,8 @@
           "Electronic"
         ],
         "trackNumber": 5,
-        "durationInMillis": 319307,
         "releaseDate": "2004-02-15",
+        "durationInMillis": 319307,
         "isrc": "KRWS00100805",
         "artwork": {
           "width": 2268,
@@ -378,14 +507,14 @@
           "textColor3": "3a3a3b",
           "textColor4": "59585b"
         },
-        "url": "https://music.apple.com/us/album/banana-shake/1626989005?i=1626989011",
         "playParams": {
           "id": "1626989011",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/banana-shake/1626989005?i=1626989011",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Banana Shake",
         "previews": [
           {
@@ -408,8 +537,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-06-29",
         "durationInMillis": 201728,
+        "releaseDate": "2017-06-29",
         "isrc": "KRA381701467",
         "artwork": {
           "width": 1440,
@@ -427,8 +556,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fruity",
         "previews": [
           {
@@ -451,8 +580,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-06-13",
         "durationInMillis": 194627,
+        "releaseDate": "2017-06-13",
         "isrc": "KRA381701359",
         "artwork": {
           "width": 3000,
@@ -470,8 +599,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "We Loved",
         "previews": [
           {
@@ -506,14 +635,14 @@
           "textColor4": "6aa3a8"
         },
         "composerName": "Louis Bell, Austin Post, Adam Feeney, Billy Walsh & Kaan Gunesberk",
-        "url": "https://music.apple.com/us/album/circles/1477886950?i=1477887285",
         "playParams": {
           "id": "1477887285",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/circles/1477886950?i=1477887285",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Circles",
         "previews": [
           {
@@ -536,8 +665,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-01-18",
         "durationInMillis": 195000,
+        "releaseDate": "2018-01-18",
         "isrc": "KRA381703070",
         "artwork": {
           "width": 1440,
@@ -555,8 +684,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heroine",
         "previews": [
           {
@@ -598,8 +727,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Song",
         "previews": [
           {
@@ -621,8 +750,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-09-05",
         "durationInMillis": 222406,
+        "releaseDate": "2017-09-05",
         "isrc": "KRA301700492",
         "artwork": {
           "width": 4000,
@@ -640,8 +769,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Power (Chinese Version)",
         "previews": [
           {
@@ -683,8 +812,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dark Clouds (feat. nafla)",
         "previews": [
           {
@@ -707,8 +836,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-10-11",
         "durationInMillis": 188942,
+        "releaseDate": "2018-10-11",
         "isrc": "KRMIM1809449",
         "artwork": {
           "width": 3000,
@@ -726,8 +855,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Amor",
         "previews": [
           {
@@ -762,14 +891,14 @@
           "textColor4": "c97435"
         },
         "composerName": "Warren \"Oak\" Felder, Jane \"Jin Jin\" Bennett, Oliver Heldens, Lee Seu-Ran, Penomeco & Kang Eunjung",
-        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "playParams": {
           "id": "1608253225",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TING TING TING",
         "previews": [
           {
@@ -805,14 +934,14 @@
           "textColor4": "bea4ac"
         },
         "composerName": "kz, B.O., F.A.B., Nthonius, \uc81c\uc778\uc2a4 & \uc9c0\uc608\uc900",
-        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "playParams": {
           "id": "1569286889",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -853,8 +982,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Antifreeze",
         "previews": [
           {
@@ -876,8 +1005,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 208053,
         "releaseDate": "2020-04-13",
+        "durationInMillis": 208053,
         "isrc": "KRA382001084",
         "artwork": {
           "width": 3000,
@@ -889,14 +1018,14 @@
           "textColor3": "313732",
           "textColor4": "3f5132"
         },
-        "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "playParams": {
           "id": "1507748381",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dumhdurum",
         "previews": [
           {
@@ -931,14 +1060,14 @@
           "textColor4": "003623"
         },
         "composerName": "Meghan Trainor, Sean Douglas & Federico Vindver",
-        "url": "https://music.apple.com/us/album/made-you-look-feat-sri-scott-hoying-elyse-myers-chris/1658405438?i=1658405440",
         "playParams": {
           "id": "1658405440",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look-feat-sri-scott-hoying-elyse-myers-chris/1658405438?i=1658405440",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
         "previews": [
           {
@@ -979,8 +1108,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OWN MY MIND",
         "previews": [
           {
@@ -1002,8 +1131,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 216440,
         "releaseDate": "2022-11-28",
+        "durationInMillis": 216440,
         "isrc": "KRA302200242",
         "artwork": {
           "width": 4000,
@@ -1016,14 +1145,14 @@
           "textColor4": "482238"
         },
         "composerName": "EJAE, KOLE, Isaac Han, Aaron Kim, GHOSTCHILD LTD & Loosen Door",
-        "url": "https://music.apple.com/us/album/birthday/1655291569?i=1655291572",
         "playParams": {
           "id": "1655291572",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/birthday/1655291569?i=1655291572",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Birthday",
         "previews": [
           {
@@ -1059,14 +1188,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "Dennis DeKo Kordnejad, Hanif Hitmanic Sabzevari, Pontus PJ Ljung, RYAN JHUN, Rodnae \"Chikk\" Bell & YOO YOUNG JIN",
-        "url": "https://music.apple.com/us/album/girls/1626752981?i=1626752985",
         "playParams": {
           "id": "1626752985",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/girls/1626752981?i=1626752985",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Girls",
         "previews": [
           {
@@ -1088,8 +1217,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 12,
-        "durationInMillis": 181800,
         "releaseDate": "2021-10-19",
+        "durationInMillis": 181800,
         "isrc": "KRMIM2140976",
         "artwork": {
           "width": 1400,
@@ -1102,14 +1231,14 @@
           "textColor4": "4a453e"
         },
         "composerName": "Kim Seungmin, Minit & BASECAMP",
-        "url": "https://music.apple.com/us/album/my-pleasure-is-that-you-ride-the-bentley/1590591029?i=1590591377",
         "playParams": {
           "id": "1590591377",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/my-pleasure-is-that-you-ride-the-bentley/1590591029?i=1590591377",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "My pleasure Is That You Ride The Bentley",
         "previews": [
           {
@@ -1145,14 +1274,14 @@
           "textColor4": "f19499"
         },
         "composerName": "Dem Jointz, YOO YOUNG JIN & Tayla Parx",
-        "url": "https://music.apple.com/us/album/stamp-on-it/1664047715?i=1664047716",
         "playParams": {
           "id": "1664047716",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/stamp-on-it/1664047715?i=1664047716",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Stamp On It",
         "previews": [
           {
@@ -1160,135 +1289,6 @@
           }
         ],
         "artistName": "GOT the beat"
-      }
-    },
-    {
-      "id": "1659052639",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659052639",
-      "attributes": {
-        "albumName": "The Name Chapter: TEMPTATION - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-01-27",
-        "durationInMillis": 155753,
-        "isrc": "USA2P2243433",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ff/0b/bd/ff0bbd47-a6db-0a59-2d58-fee9f1e89f68/196922264849_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f2f2f0",
-          "textColor1": "172a1b",
-          "textColor2": "142b1a",
-          "textColor3": "435246",
-          "textColor4": "405345"
-        },
-        "composerName": "Slow Rabbit, YEONJUN, Coi Leray, Akil \"worldwidefresh\" King, beomgyu, TAEHYUN, Revin, SOOBIN & HUENINGKAI",
-        "url": "https://music.apple.com/us/album/happy-fools-feat-coi-leray/1659052466?i=1659052639",
-        "playParams": {
-          "id": "1659052639",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Happy Fools (feat. Coi Leray)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/a7/86/b0/a786b034-5ec7-3e83-9548-fdeab459402f/mzaf_12302203283670205122.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TOMORROW X TOGETHER"
-      }
-    },
-    {
-      "id": "1621089608",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1621089608",
-      "attributes": {
-        "albumName": "Fearless - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-05-02",
-        "durationInMillis": 168437,
-        "isrc": "USA2P2219222",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/90/dc/9f/90dc9fdb-c0f3-f506-0942-0e33c94d26f4/196922016622_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "dedede",
-          "textColor3": "cbcbcb",
-          "textColor4": "b1b1b1"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
-        "playParams": {
-          "id": "1621089608",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Fearless",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6c/48/dc/6c48dc81-2c94-4736-99c9-b6124a2c489a/mzaf_1495979440763322400.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1659052644",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659052644",
-      "attributes": {
-        "albumName": "The Name Chapter: TEMPTATION - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 5,
-        "durationInMillis": 180676,
-        "releaseDate": "2023-01-27",
-        "isrc": "USA2P2243435",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ff/0b/bd/ff0bbd47-a6db-0a59-2d58-fee9f1e89f68/196922264849_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f2f2f0",
-          "textColor1": "172a1b",
-          "textColor2": "142b1a",
-          "textColor3": "435246",
-          "textColor4": "405345"
-        },
-        "composerName": "Carson Thatcher, \"Hitman\" Bang, Joseph Kurbanov, Revin, James Sullivan, Jake Torrey, Peter Thomas, EL CAPITXN, YEONJUN, Moa \u201cCazzi Opeia\u201d Carlebecker, Ellen Berg, Jung Jin Woo, Stella Jang & Danke",
-        "url": "https://music.apple.com/us/album/farewell-neverland/1659052466?i=1659052644",
-        "playParams": {
-          "id": "1659052644",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Farewell, Neverland",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/39/35/59/393559f1-bfb1-5acd-bd63-3943e1c86973/mzaf_14379018811829623539.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TOMORROW X TOGETHER"
       }
     }
   ]
