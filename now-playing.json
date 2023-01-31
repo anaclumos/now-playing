@@ -2,91 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1657869393",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1657869393",
-      "attributes": {
-        "albumName": "SOS",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-12-09",
-        "durationInMillis": 153947,
-        "isrc": "USRC12204584",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/{w}x{h}bb.jpg",
-          "bgColor": "021433",
-          "textColor1": "97bad9",
-          "textColor2": "7ba8d2",
-          "textColor3": "7999b7",
-          "textColor4": "638ab2"
-        },
-        "composerName": "SZA, Rob Bisel & Carter Lang",
-        "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
-        "playParams": {
-          "id": "1657869393",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Kill Bill",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b7/bf/f5/b7bff559-e243-b139-c4eb-ec6952b4f62a/mzaf_16462401295257841838.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "SZA"
-      }
-    },
-    {
-      "id": "1658222132",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1658222132",
-      "attributes": {
-        "albumName": "Candy - Winter Special Mini Album - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-12-16",
-        "durationInMillis": 217067,
-        "isrc": "KRA302200259",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
-          "bgColor": "011605",
-          "textColor1": "fefeff",
-          "textColor2": "ede4dc",
-          "textColor3": "cbcfcc",
-          "textColor4": "bebab1"
-        },
-        "composerName": "Chang Yong Jin",
-        "playParams": {
-          "id": "1658222132",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Candy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/94/de/b394dee5-2053-3d55-7382-8da20f3563e4/mzaf_15974731009209634121.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NCT DREAM"
-      }
-    },
-    {
       "id": "1616649362",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1616649362",
@@ -99,8 +14,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -112,11 +27,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -141,8 +56,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -161,8 +76,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -204,8 +119,8 @@
         },
         "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -213,6 +128,134 @@
           }
         ],
         "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1659513445",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1659513445",
+      "attributes": {
+        "albumName": "NewJeans 'OMG' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 212253,
+        "releaseDate": "2023-01-02",
+        "isrc": "USA2P2251723",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "d7d7d7",
+          "textColor3": "cbcbcb",
+          "textColor4": "acacac"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
+        "playParams": {
+          "id": "1659513445",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "OMG",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1657869393",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1657869393",
+      "attributes": {
+        "albumName": "SOS",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-12-09",
+        "durationInMillis": 153947,
+        "isrc": "USRC12204584",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/{w}x{h}bb.jpg",
+          "bgColor": "021433",
+          "textColor1": "97bad9",
+          "textColor2": "7ba8d2",
+          "textColor3": "7999b7",
+          "textColor4": "638ab2"
+        },
+        "composerName": "SZA, Rob Bisel & Carter Lang",
+        "playParams": {
+          "id": "1657869393",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Kill Bill",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b7/bf/f5/b7bff559-e243-b139-c4eb-ec6952b4f62a/mzaf_16462401295257841838.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "SZA"
+      }
+    },
+    {
+      "id": "1658222132",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1658222132",
+      "attributes": {
+        "albumName": "Candy - Winter Special Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 217067,
+        "releaseDate": "2022-12-16",
+        "isrc": "KRA302200259",
+        "artwork": {
+          "width": 5000,
+          "height": 5000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
+          "bgColor": "011605",
+          "textColor1": "fefeff",
+          "textColor2": "ede4dc",
+          "textColor3": "cbcfcc",
+          "textColor4": "bebab1"
+        },
+        "composerName": "Chang Yong Jin",
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
+        "playParams": {
+          "id": "1658222132",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Candy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/94/de/b394dee5-2053-3d55-7382-8da20f3563e4/mzaf_15974731009209634121.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NCT DREAM"
       }
     },
     {
@@ -227,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -247,8 +290,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -270,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -284,11 +327,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -296,49 +339,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1659513445",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659513445",
-      "attributes": {
-        "albumName": "NewJeans 'OMG' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-01-02",
-        "durationInMillis": 212253,
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "playParams": {
-          "id": "1659513445",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "OMG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
           }
         ],
         "artistName": "NewJeans"
@@ -355,8 +355,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-30",
         "durationInMillis": 182453,
+        "releaseDate": "2022-11-30",
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -369,11 +369,11 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -422,8 +422,8 @@
         },
         "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -458,11 +458,11 @@
           "textColor4": "614d3f"
         },
         "composerName": "Joan Sala, Gabriela Richardson & David Borras",
-        "url": "https://music.apple.com/us/album/hundred-miles/1641014238?i=1641014239",
         "playParams": {
           "id": "1641014239",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hundred-miles/1641014238?i=1641014239",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -513,8 +513,8 @@
         },
         "url": "https://music.apple.com/us/album/the-final-countdown/196480323?i=196480329",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The Final Countdown",
         "previews": [
           {
@@ -550,11 +550,11 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -599,8 +599,8 @@
         },
         "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -636,11 +636,11 @@
           "textColor3": "413032",
           "textColor4": "534447"
         },
-        "url": "https://music.apple.com/us/album/banana-shake/1456984053?i=1456984070",
         "playParams": {
           "id": "1456984070",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/banana-shake/1456984053?i=1456984070",
         "discNumber": 2,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -678,11 +678,11 @@
           "textColor3": "3a3a3b",
           "textColor4": "59585b"
         },
-        "url": "https://music.apple.com/us/album/banana-shake/1626989005?i=1626989011",
         "playParams": {
           "id": "1626989011",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/banana-shake/1626989005?i=1626989011",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -727,8 +727,8 @@
         },
         "url": "https://music.apple.com/us/album/fruity/1253887518?i=1253887871",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fruity",
         "previews": [
           {
@@ -751,8 +751,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-06-13",
         "durationInMillis": 194627,
+        "releaseDate": "2017-06-13",
         "isrc": "KRA381701359",
         "artwork": {
           "width": 3000,
@@ -764,11 +764,11 @@
           "textColor3": "c0bdbc",
           "textColor4": "c3b08d"
         },
+        "url": "https://music.apple.com/us/album/we-loved/1550022982?i=1550022983",
         "playParams": {
           "id": "1550022983",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/we-loved/1550022982?i=1550022983",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -806,11 +806,11 @@
           "textColor4": "6aa3a8"
         },
         "composerName": "Louis Bell, Austin Post, Adam Feeney, Billy Walsh & Kaan Gunesberk",
-        "url": "https://music.apple.com/us/album/circles/1477886950?i=1477887285",
         "playParams": {
           "id": "1477887285",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/circles/1477886950?i=1477887285",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -836,8 +836,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-01-18",
         "durationInMillis": 195000,
+        "releaseDate": "2018-01-18",
         "isrc": "KRA381703070",
         "artwork": {
           "width": 1440,
@@ -849,11 +849,11 @@
           "textColor3": "ca9a8f",
           "textColor4": "b37269"
         },
+        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "playParams": {
           "id": "1336924065",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -879,8 +879,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2017-02-01",
         "durationInMillis": 216627,
+        "releaseDate": "2017-02-01",
         "isrc": "KRA401700005",
         "artwork": {
           "width": 10417,
@@ -892,11 +892,11 @@
           "textColor3": "392a20",
           "textColor4": "413325"
         },
+        "url": "https://music.apple.com/us/album/the-song/1199341558?i=1199341568",
         "playParams": {
           "id": "1199341568",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-song/1199341558?i=1199341568",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -934,11 +934,11 @@
           "textColor3": "f0bc02",
           "textColor4": "e7b407"
         },
-        "url": "https://music.apple.com/us/album/power-chinese-version/1278809326?i=1278809382",
         "playParams": {
           "id": "1278809382",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/power-chinese-version/1278809326?i=1278809382",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -963,8 +963,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2017-06-27",
         "durationInMillis": 167944,
+        "releaseDate": "2017-06-27",
         "isrc": "KRA491601218",
         "artwork": {
           "width": 1400,
@@ -983,8 +983,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dark Clouds (feat. nafla)",
         "previews": [
           {
@@ -1007,8 +1007,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-10-11",
         "durationInMillis": 188942,
+        "releaseDate": "2018-10-11",
         "isrc": "KRMIM1809449",
         "artwork": {
           "width": 3000,
@@ -1020,11 +1020,11 @@
           "textColor3": "c3de67",
           "textColor4": "66a9da"
         },
+        "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
         "playParams": {
           "id": "1512931470",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/amor/1512931469?i=1512931470",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1068,8 +1068,8 @@
         },
         "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TING TING TING",
         "previews": [
           {
@@ -1091,8 +1091,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-12-07",
         "durationInMillis": 222853,
+        "releaseDate": "2020-12-07",
         "isrc": "KRA492001345",
         "artwork": {
           "width": 1400,
@@ -1105,11 +1105,11 @@
           "textColor4": "bea4ac"
         },
         "composerName": "kz, B.O., F.A.B., Nthonius, \uc81c\uc778\uc2a4 & \uc9c0\uc608\uc900",
+        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "playParams": {
           "id": "1569286889",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1147,11 +1147,11 @@
           "textColor3": "2f3837",
           "textColor4": "33403d"
         },
-        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "playParams": {
           "id": "1584809295",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1189,11 +1189,11 @@
           "textColor3": "313732",
           "textColor4": "3f5132"
         },
-        "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "playParams": {
           "id": "1507748381",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1231,11 +1231,11 @@
           "textColor4": "003623"
         },
         "composerName": "Meghan Trainor, Sean Douglas & Federico Vindver",
-        "url": "https://music.apple.com/us/album/made-you-look-feat-sri-scott-hoying-elyse-myers-chris/1658405438?i=1658405440",
         "playParams": {
           "id": "1658405440",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look-feat-sri-scott-hoying-elyse-myers-chris/1658405438?i=1658405440",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1259,8 +1259,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-01-20",
         "durationInMillis": 191856,
+        "releaseDate": "2023-01-20",
         "isrc": "ITB002200840",
         "artwork": {
           "width": 3000,
@@ -1279,8 +1279,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OWN MY MIND",
         "previews": [
           {
