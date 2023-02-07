@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.GEGNW2YCPDMx3R9",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.GEGNW2YCPDMx3R9",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "Piano Black",
+        "genreNames": [
+          "Piano"
+        ],
+        "trackNumber": 9,
+        "hasLyrics": false,
+        "durationInMillis": 153436,
+        "name": "City of Stars",
+        "artistName": "DooPiano",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/98/ae/71/98ae71e2-a10e-19f7-f18e-d555e263bdfb/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230207T031722Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230207%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=09f0c869e6e96d92b798b8e6b896216b835d7a20f1420c01b1be64a1319fb0c5"
+        },
+        "playParams": {
+          "id": "i.GEGNW2YCPDMx3R9",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "i.b1JvlkPibdrMKBq",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.b1JvlkPibdrMKBq",
+      "attributes": {
+        "albumName": "Piano White",
+        "discNumber": 0,
+        "genreNames": [
+          "Piano"
+        ],
+        "trackNumber": 8,
+        "hasLyrics": false,
+        "durationInMillis": 265704,
+        "name": "\u1107\u1165\u11bd\u1101\u1169\u11be \u110b\u1166\u11ab\u1103\u1175\u11bc",
+        "artistName": "DooPiano",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/3e/b2/40/3eb240a8-e3e0-0509-7065-fe70e62394fd/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230207T031722Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230207%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=ee8695da85c26e157daf0449ba3dd0f026422154537ed709e07402c1082a0df8"
+        },
+        "playParams": {
+          "id": "i.b1JvlkPibdrMKBq",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "i.WmYQ5B4Hxo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQ5B4Hxo4rAzD",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "Piano Charcoal",
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 194001,
+        "name": "\u110c\u1161\u11b7\u1101\u1161\u11ab\u1106\u1161\u11ab",
+        "artistName": "DooPiano",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/98/3d/dc/983ddcb5-feab-16c1-5971-ba7964d8b1a2/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230207T031722Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230207%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=d52ffb811f1c1abec44510fd214a22c5b25d93df7abc22acdca919b28b75493b"
+        },
+        "playParams": {
+          "id": "i.WmYQ5B4Hxo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1657231962",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1657231962",
@@ -161,8 +245,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -185,8 +269,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-11-29",
         "durationInMillis": 178360,
+        "releaseDate": "2022-11-29",
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -199,11 +283,11 @@
           "textColor4": "5b5b5b"
         },
         "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
-        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "playParams": {
           "id": "1656336322",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -242,14 +326,14 @@
           "textColor4": "cfc4a5"
         },
         "composerName": "Noel Gallagher",
-        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "playParams": {
           "id": "1517448096",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Don't Look Back In Anger",
         "previews": [
           {
@@ -285,14 +369,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -328,11 +412,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -357,8 +441,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -371,11 +455,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -420,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -457,14 +541,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -486,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-09-05",
         "durationInMillis": 222406,
+        "releaseDate": "2017-09-05",
         "isrc": "KRA301700488",
         "artwork": {
           "width": 4000,
@@ -499,11 +583,11 @@
           "textColor3": "d3c71b",
           "textColor4": "cbbe20"
         },
-        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "playParams": {
           "id": "1278808870",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -542,11 +626,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -571,8 +655,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -585,11 +669,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -633,8 +717,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheshire",
         "previews": [
           {
@@ -674,11 +758,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -717,11 +801,11 @@
           "textColor3": "413032",
           "textColor4": "534447"
         },
-        "url": "https://music.apple.com/us/album/banana-shake/1456984053?i=1456984070",
         "playParams": {
           "id": "1456984070",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/banana-shake/1456984053?i=1456984070",
         "discNumber": 2,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -746,8 +830,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-02-21",
         "durationInMillis": 213080,
+        "releaseDate": "2020-02-21",
         "isrc": "KRB462000110",
         "artwork": {
           "width": 3000,
@@ -760,14 +844,14 @@
           "textColor4": "505050"
         },
         "composerName": "Wooziq & Myo",
-        "url": "https://music.apple.com/us/album/queen/1519976393?i=1519976398",
         "playParams": {
           "id": "1519976398",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/queen/1519976393?i=1519976398",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "QUEEN",
         "previews": [
           {
@@ -806,11 +890,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, ZICO & \uc720\uac74\ud615",
-        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "playParams": {
           "id": "1620871961",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -849,11 +933,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -892,14 +976,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame",
         "previews": [
           {
@@ -941,8 +1025,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Illusion",
         "previews": [
           {
@@ -978,14 +1062,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "Becky Hill, Sam Klempner & Uzoechi Emenike",
-        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "playParams": {
           "id": "1626752995",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Life's Too Short",
         "previews": [
           {
@@ -1027,11 +1111,11 @@
           "textColor4": "d7bdb5"
         },
         "composerName": "Bj\u00f6rn Ulvaeus & Benny Andersson",
-        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "playParams": {
           "id": "1440715697",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1070,14 +1154,14 @@
           "textColor4": "324d5d"
         },
         "composerName": "pH-1, Yerin Baek, Mokyo & jetti",
-        "url": "https://music.apple.com/us/album/nerdy-love-feat-yerin-baek/1604901909?i=1604901923",
         "playParams": {
           "id": "1604901923",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nerdy-love-feat-yerin-baek/1604901909?i=1604901923",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Nerdy Love (feat. Yerin Baek)",
         "previews": [
           {
@@ -1099,8 +1183,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 235562,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -1113,11 +1197,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "playParams": {
           "id": "1635469854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1156,11 +1240,11 @@
           "textColor4": "bebab1"
         },
         "composerName": "Chang Yong Jin",
-        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "playParams": {
           "id": "1658222132",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1171,134 +1255,6 @@
           }
         ],
         "artistName": "NCT DREAM"
-      }
-    },
-    {
-      "id": "1657869393",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1657869393",
-      "attributes": {
-        "albumName": "SOS",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-12-09",
-        "durationInMillis": 153947,
-        "isrc": "USRC12204584",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/{w}x{h}bb.jpg",
-          "bgColor": "021433",
-          "textColor1": "97bad9",
-          "textColor2": "7ba8d2",
-          "textColor3": "7999b7",
-          "textColor4": "638ab2"
-        },
-        "composerName": "SZA, Rob Bisel & Carter Lang",
-        "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
-        "playParams": {
-          "id": "1657869393",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Kill Bill",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b7/bf/f5/b7bff559-e243-b139-c4eb-ec6952b4f62a/mzaf_16462401295257841838.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "SZA"
-      }
-    },
-    {
-      "id": "1579487839",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1579487839",
-      "attributes": {
-        "albumName": "Second (feat. BIBI) - Single",
-        "genreNames": [
-          "Pop",
-          "Music",
-          "K-Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-08-09",
-        "durationInMillis": 218720,
-        "isrc": "KRA302100263",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/b6/7d/7c/b67d7c72-3365-2374-66a0-cdf7be3a3e5c/HYO_Second_digital_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "3f1f19",
-          "textColor2": "48231b",
-          "textColor3": "654c47",
-          "textColor4": "6c4f48"
-        },
-        "composerName": "Melanie Fontana, Gino Barletta, Britten Newbill, Michel Schulz & BIBI",
-        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
-        "playParams": {
-          "id": "1579487839",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Second (feat. BIBI)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/5a/f8/085af844-8222-ef32-0ac8-f327813d8119/mzaf_17292421364711904980.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "HYO"
-      }
-    },
-    {
-      "id": "1635469851",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469851",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 179027,
-        "isrc": "USA2P2230222",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
-        "playParams": {
-          "id": "1635469851",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Hype Boy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
