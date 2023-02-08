@@ -2,6 +2,51 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1161504024",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1161504024",
+      "attributes": {
+        "albumName": "24K Magic",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2016-10-07",
+        "durationInMillis": 226917,
+        "isrc": "USAT21602945",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eee9e6",
+          "textColor1": "000100",
+          "textColor2": "390506",
+          "textColor3": "2f2f2e",
+          "textColor4": "5d3233"
+        },
+        "composerName": "Bruno Mars, Christopher \"Brody\" Brown & Philip Lawrence",
+        "url": "https://music.apple.com/us/album/24k-magic/1161503945?i=1161504024",
+        "playParams": {
+          "id": "1161504024",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "24K Magic",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/77/cd/7277cdca-1387-1c7a-529e-72f3c2ed070d/mzaf_3495320363426981496.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Bruno Mars",
+        "editorialNotes": {
+          "short": "Ecstatic electro-funk laced with vocoder and retro sparkle."
+        }
+      }
+    },
+    {
       "id": "1031478989",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1031478989",
@@ -13,8 +58,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 224258,
         "releaseDate": "2015-08-18",
+        "durationInMillis": 224258,
         "isrc": "KRA301500422",
         "artwork": {
           "width": 4000,
@@ -55,8 +100,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 206039,
         "releaseDate": "2015-10-07",
+        "durationInMillis": 206039,
         "isrc": "KRA301500490",
         "artwork": {
           "width": 4961,
@@ -97,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-03",
         "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -116,8 +161,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -137,15 +182,15 @@
         "genreNames": [
           "Piano"
         ],
-        "hasLyrics": false,
         "trackNumber": 13,
+        "hasLyrics": false,
         "durationInMillis": 212971,
         "name": "\u1108\u1161\u11af\u1100\u1161\u11ab \u1106\u1161\u11ba",
         "artistName": "DooPiano",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/d6/de/ee/d6deeeb6-d6ac-7396-0007-99f7a06a298a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230208T234110Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230208%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=b10957462ed5d5f28c39908b99256ec3f2e0cb1efb678cc23f82cab972dd6c09"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/d6/de/ee/d6deeeb6-d6ac-7396-0007-99f7a06a298a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230208T234933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230208%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=dc3e6ba936b14eb490deda126bc52d9c54a2a14a592e645fac4ae550395fa1c1"
         },
         "playParams": {
           "id": "i.JL1aNbqTbmLXpv3",
@@ -181,11 +226,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -224,14 +269,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -273,8 +318,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -296,8 +341,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -339,8 +384,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 260669,
         "releaseDate": "2023-02-02",
+        "durationInMillis": 260669,
         "isrc": "KRA382300459",
         "artwork": {
           "width": 3000,
@@ -425,8 +470,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 178360,
         "releaseDate": "2022-11-29",
+        "durationInMillis": 178360,
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -468,8 +513,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-10-02",
         "durationInMillis": 287827,
+        "releaseDate": "1995-10-02",
         "isrc": "GBAAW9500190",
         "artwork": {
           "width": 3000,
@@ -482,11 +527,11 @@
           "textColor4": "cfc4a5"
         },
         "composerName": "Noel Gallagher",
+        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "playParams": {
           "id": "1517448096",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -554,8 +599,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 166491,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 166491,
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -597,8 +642,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -611,11 +656,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -653,11 +698,11 @@
           "textColor3": "d3c71b",
           "textColor4": "cbbe20"
         },
+        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "playParams": {
           "id": "1278808870",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -683,8 +728,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -696,11 +741,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -725,8 +770,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -739,11 +784,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -767,8 +812,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-30",
         "durationInMillis": 182453,
+        "releaseDate": "2022-11-30",
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -787,8 +832,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheshire",
         "previews": [
           {
@@ -828,11 +873,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -920,8 +965,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "QUEEN",
         "previews": [
           {
@@ -960,14 +1005,14 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, ZICO & \uc720\uac74\ud615",
-        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "playParams": {
           "id": "1620871961",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Celeb",
         "previews": [
           {
@@ -989,8 +1034,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 168437,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219222",
         "artwork": {
           "width": 1400,
@@ -1009,8 +1054,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fearless",
         "previews": [
           {
@@ -1032,8 +1077,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 201895,
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -1089,11 +1134,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1132,11 +1177,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "Becky Hill, Sam Klempner & Uzoechi Emenike",
+        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "playParams": {
           "id": "1626752995",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1224,11 +1269,11 @@
           "textColor4": "324d5d"
         },
         "composerName": "pH-1, Yerin Baek, Mokyo & jetti",
+        "url": "https://music.apple.com/us/album/nerdy-love-feat-yerin-baek/1604901909?i=1604901923",
         "playParams": {
           "id": "1604901923",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nerdy-love-feat-yerin-baek/1604901909?i=1604901923",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1239,49 +1284,6 @@
           }
         ],
         "artistName": "pH-1"
-      }
-    },
-    {
-      "id": "1635469854",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469854",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 235562,
-        "releaseDate": "2022-08-01",
-        "isrc": "USA2P2230223",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
-        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
-        "playParams": {
-          "id": "1635469854",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Cookie",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/71/fe/0171feef-a9e6-8fcd-a42a-2a75d6b35416/mzaf_4783706318511182821.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
