@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1569293567",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569293567",
+      "attributes": {
+        "albumName": "HEART*IZ",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2019-04-01",
+        "durationInMillis": 256745,
+        "isrc": "KRA871900008",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/bc/f1/6e/bcf16eb1-7fd3-58b6-7f31-4c464efc3c04/8809658311085_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b6e3bc",
+          "textColor1": "182219",
+          "textColor2": "242e26",
+          "textColor3": "37493a",
+          "textColor4": "415244"
+        },
+        "composerName": "Shintaro Fujiwara & \uc544\ud0a4\ubaa8\ud1a0 \uc57c\uc2a4\uc2dc",
+        "playParams": {
+          "id": "1569293567",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/nekoni-naritai-korean-version/1569293222?i=1569293567",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "NEKONI NARITAI (Korean Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/31/b9/d6/31b9d61c-88ed-cd21-d100-254d9f01aaac/mzaf_11220515305226775943.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
       "id": "1640448906",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1640448906",
@@ -13,8 +56,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 160549,
         "releaseDate": "2022-09-30",
+        "durationInMillis": 160549,
         "isrc": "SE5Q52202527",
         "artwork": {
           "width": 3000,
@@ -27,14 +70,14 @@
           "textColor4": "2e1738"
         },
         "composerName": "Flyin\u2019",
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "playParams": {
           "id": "1640448906",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -55,8 +98,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-05-07",
         "durationInMillis": 161314,
+        "releaseDate": "2021-05-07",
         "isrc": "SE5Q52004169",
         "artwork": {
           "width": 3000,
@@ -98,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-09-30",
         "durationInMillis": 202457,
+        "releaseDate": "2022-09-30",
         "isrc": "SE5Q52202529",
         "artwork": {
           "width": 3000,
@@ -141,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -155,14 +198,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -185,8 +228,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-11-29",
         "durationInMillis": 178360,
+        "releaseDate": "2022-11-29",
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -242,11 +285,11 @@
           "textColor4": "cfc4a5"
         },
         "composerName": "Noel Gallagher",
-        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "playParams": {
           "id": "1517448096",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -272,8 +315,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "durationInMillis": 206627,
         "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -285,14 +328,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -314,8 +357,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -328,14 +371,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -377,8 +420,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame",
         "previews": [
           {
@@ -420,8 +463,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -443,8 +486,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 166491,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 166491,
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -457,14 +500,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -486,8 +529,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -548,8 +591,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -585,11 +628,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -614,8 +657,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "durationInMillis": 240010,
         "releaseDate": "2015-06-13",
+        "durationInMillis": 240010,
         "isrc": "GB2LD0902008",
         "artwork": {
           "width": 1400,
@@ -627,14 +670,14 @@
           "textColor3": "d7d7d7",
           "textColor4": "adadad"
         },
-        "url": "https://music.apple.com/us/album/passion/1005294751?i=1005296885",
         "playParams": {
           "id": "1005296885",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/passion/1005294751?i=1005296885",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Passion",
         "previews": [
           {
@@ -675,8 +718,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I Don\u2019t Think That I Like Her",
         "previews": [
           {
@@ -717,8 +760,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "abcdefu",
         "previews": [
           {
@@ -741,8 +784,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2014-04-07",
         "durationInMillis": 227060,
+        "releaseDate": "2014-04-07",
         "isrc": "KRB471400420",
         "artwork": {
           "width": 1400,
@@ -796,11 +839,11 @@
           "textColor3": "383333",
           "textColor4": "62463e"
         },
-        "url": "https://music.apple.com/us/album/lion-heart/1031478656?i=1031478989",
         "playParams": {
           "id": "1031478989",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lion-heart/1031478656?i=1031478989",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -825,8 +868,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 215973,
         "releaseDate": "2020-10-19",
+        "durationInMillis": 215973,
         "isrc": "KRA382005818",
         "artwork": {
           "width": 3000,
@@ -839,14 +882,14 @@
           "textColor4": "b36f2f"
         },
         "composerName": "\uae40\uc5f0\uc11c & \ucd5c\uc9c4\uc11d",
-        "url": "https://music.apple.com/us/album/fall-again/1534800428?i=1534800436",
         "playParams": {
           "id": "1534800436",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fall-again/1534800428?i=1534800436",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Fall Again",
         "previews": [
           {
@@ -881,11 +924,11 @@
           "textColor4": "5d3233"
         },
         "composerName": "Bruno Mars, Christopher \"Brody\" Brown & Philip Lawrence",
-        "url": "https://music.apple.com/us/album/24k-magic/1161503945?i=1161504024",
         "playParams": {
           "id": "1161504024",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/24k-magic/1161503945?i=1161504024",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -913,8 +956,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2015-10-07",
         "durationInMillis": 206039,
+        "releaseDate": "2015-10-07",
         "isrc": "KRA301500490",
         "artwork": {
           "width": 4961,
@@ -955,8 +998,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -998,8 +1041,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-02",
         "durationInMillis": 260669,
+        "releaseDate": "2023-02-02",
         "isrc": "KRA382300459",
         "artwork": {
           "width": 3000,
@@ -1040,8 +1083,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -1083,8 +1126,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 222406,
         "releaseDate": "2017-09-05",
+        "durationInMillis": 222406,
         "isrc": "KRA301700488",
         "artwork": {
           "width": 4000,
@@ -1096,14 +1139,14 @@
           "textColor3": "d3c71b",
           "textColor4": "cbbe20"
         },
-        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "playParams": {
           "id": "1278808870",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Power",
         "previews": [
           {
@@ -1139,11 +1182,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1187,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheshire",
         "previews": [
           {
@@ -1234,8 +1277,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -1243,49 +1286,6 @@
           }
         ],
         "artistName": "TRI.BE"
-      }
-    },
-    {
-      "id": "1456984070",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1456984070",
-      "attributes": {
-        "albumName": "Very Very Nice! And Short Cake",
-        "genreNames": [
-          "Electronic",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 6,
-        "durationInMillis": 319307,
-        "releaseDate": "2004-02-15",
-        "isrc": "KRA340920868",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/ea/dc/05/eadc05be-87e3-ddf1-1c93-c4a7c1ac479f/8006727.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eaccc1",
-          "textColor1": "17090f",
-          "textColor2": "2d2328",
-          "textColor3": "413032",
-          "textColor4": "534447"
-        },
-        "url": "https://music.apple.com/us/album/banana-shake/1456984053?i=1456984070",
-        "playParams": {
-          "id": "1456984070",
-          "kind": "song"
-        },
-        "discNumber": 2,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Banana Shake",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/d2/43/57d243b3-62d5-693c-903a-475a97beb4f4/mzaf_291937473963690688.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Humming Urban Stereo"
       }
     }
   ]
