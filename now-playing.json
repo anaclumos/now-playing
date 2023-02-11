@@ -2,12 +2,55 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1639416903",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639416903",
+      "attributes": {
+        "albumName": "After LIKE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
+        "isrc": "QMBZ92254957",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00ff00",
+          "textColor1": "000000",
+          "textColor2": "002f00",
+          "textColor3": "003300",
+          "textColor4": "005800"
+        },
+        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
+        "playParams": {
+          "id": "1639416903",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "After LIKE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
       "id": "i.ldDOXRrS8LaVGWo",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.ldDOXRrS8LaVGWo",
       "attributes": {
-        "discNumber": 0,
         "albumName": "NewJeans MINDA",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -19,7 +62,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230211T075212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dd47673445141aaf917ad6bfce299536bb46a41982a12d2643477a4e537cda54"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230211T080047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b73b740e8e22539a8d9a68aef0b423254cb159b8aaa91cf7a583e04dc9622d7f"
         },
         "playParams": {
           "id": "i.ldDOXRrS8LaVGWo",
@@ -98,14 +141,14 @@
           "textColor4": "514c46"
         },
         "composerName": "The Black Skirts",
+        "url": "https://music.apple.com/us/album/everything/1547384602?i=1547385085",
         "playParams": {
           "id": "1547385085",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/everything/1547384602?i=1547385085",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "EVERYTHING",
         "previews": [
           {
@@ -133,7 +176,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230211T075212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b5c6cd4c65a92ad3eb5eac018d4ccc1886c38a9d00b7a3c9239a83e29db512e7"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230211T080047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c995ab27d0e0d7eb1e19e4e81a01ba48899ddaa97b4f6a852ae500f3d1a643c9"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -148,20 +191,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.b1JvkKdSbdrMKBq",
       "attributes": {
-        "albumName": "NewJeans MINDA",
         "discNumber": 0,
+        "albumName": "NewJeans MINDA",
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 220368,
         "name": "Ditto (UK Garage Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230211T075212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cb7f07bbc342c91d31c801c79b021ab26cac1f4dafef8cee076c860f643416e3"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230211T080047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9e7c44a7b225694f31224dbad35dc59e9382aedb8cd319c7a503fe467e3da839"
         },
         "playParams": {
           "id": "i.b1JvkKdSbdrMKBq",
@@ -196,11 +239,11 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -225,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -312,8 +355,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-11-29",
         "durationInMillis": 178360,
+        "releaseDate": "2022-11-29",
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -332,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "WHEN I MOVE",
         "previews": [
           {
@@ -369,11 +412,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -384,49 +427,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1639416903",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639416903",
-      "attributes": {
-        "albumName": "After LIKE - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-22",
-        "durationInMillis": 176973,
-        "isrc": "QMBZ92254957",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00ff00",
-          "textColor1": "000000",
-          "textColor2": "002f00",
-          "textColor3": "003300",
-          "textColor4": "005800"
-        },
-        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
-        "playParams": {
-          "id": "1639416903",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "After LIKE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     },
     {
@@ -527,8 +527,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-02-20",
         "durationInMillis": 195747,
+        "releaseDate": "2017-02-20",
         "isrc": "US5TA1700022",
         "artwork": {
           "width": 1400,
@@ -570,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2019-04-01",
         "durationInMillis": 256745,
+        "releaseDate": "2019-04-01",
         "isrc": "KRA871900008",
         "artwork": {
           "width": 1400,
@@ -590,8 +590,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "NEKONI NARITAI (Korean Version)",
         "previews": [
           {
@@ -633,8 +633,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -655,8 +655,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-05-07",
         "durationInMillis": 161314,
+        "releaseDate": "2021-05-07",
         "isrc": "SE5Q52004169",
         "artwork": {
           "width": 3000,
@@ -669,11 +669,11 @@
           "textColor4": "6b323c"
         },
         "composerName": "Karl Flykt",
-        "url": "https://music.apple.com/us/album/raw-vibes/1560950333?i=1560950335",
         "playParams": {
           "id": "1560950335",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/raw-vibes/1560950333?i=1560950335",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -698,8 +698,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-09-30",
         "durationInMillis": 202457,
+        "releaseDate": "2022-09-30",
         "isrc": "SE5Q52202529",
         "artwork": {
           "width": 3000,
@@ -741,8 +741,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -784,8 +784,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-10-02",
         "durationInMillis": 287827,
+        "releaseDate": "1995-10-02",
         "isrc": "GBAAW9500190",
         "artwork": {
           "width": 3000,
@@ -804,8 +804,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Don't Look Back In Anger",
         "previews": [
           {
@@ -828,8 +828,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -870,8 +870,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 201895,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -890,8 +890,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Flame",
         "previews": [
           {
@@ -927,11 +927,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -956,8 +956,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -970,11 +970,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1042,8 +1042,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2015-06-13",
         "durationInMillis": 240010,
+        "releaseDate": "2015-06-13",
         "isrc": "GB2LD0902008",
         "artwork": {
           "width": 1400,
@@ -1061,8 +1061,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Passion",
         "previews": [
           {
@@ -1083,8 +1083,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 188508,
+        "releaseDate": "2022-09-16",
         "isrc": "USAT22208889",
         "artwork": {
           "width": 1425,
@@ -1097,11 +1097,11 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Charlie Puth, Blake Slatkin, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1139,11 +1139,11 @@
           "textColor4": "d8bdb5"
         },
         "composerName": "Dave Pittenger, GAYLE & Sara Davis",
+        "url": "https://music.apple.com/us/album/abcdefu/1610618866?i=1610618872",
         "playParams": {
           "id": "1610618872",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/abcdefu/1610618866?i=1610618872",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1153,8 +1153,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6d/00/f8/6d00f828-f9aa-7940-bc7f-57dc8f0e15f1/mzaf_13840381601338846610.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "GAYLE"
+        "artistName": "GAYLE",
+        "contentRating": "explicit"
       }
     },
     {
