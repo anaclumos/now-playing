@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1635469851",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469851",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
+        "isrc": "USA2P2230222",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "playParams": {
+          "id": "1635469851",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Hype Boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1558430433",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1558430433",
@@ -26,11 +69,11 @@
           "textColor3": "041f2e",
           "textColor4": "213037"
         },
+        "url": "https://music.apple.com/us/album/after-school/1558430429?i=1558430433",
         "playParams": {
           "id": "1558430433",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-school/1558430429?i=1558430433",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -164,8 +207,8 @@
         },
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -250,8 +293,8 @@
         },
         "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -378,8 +421,8 @@
         },
         "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -387,49 +430,6 @@
           }
         ],
         "artistName": "Younha"
-      }
-    },
-    {
-      "id": "1635469851",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469851",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 179027,
-        "isrc": "USA2P2230222",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
-        "playParams": {
-          "id": "1635469851",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Hype Boy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     },
     {
@@ -458,11 +458,11 @@
           "textColor4": "414546"
         },
         "composerName": "Rado, Fly-T & Will.B",
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "playParams": {
           "id": "1654124215",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -500,11 +500,11 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -543,11 +543,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -586,14 +586,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -678,8 +678,8 @@
         },
         "url": "https://music.apple.com/us/album/who-do-you-love/1547384602?i=1547385067",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Who Do You Love",
         "previews": [
           {
@@ -758,14 +758,14 @@
           "textColor4": "2e1738"
         },
         "composerName": "Flyin\u2019",
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "playParams": {
           "id": "1640448906",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -894,8 +894,8 @@
         },
         "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -932,14 +932,14 @@
           "textColor4": "b5927a"
         },
         "composerName": "Nam Hye Seung & Park Sang Hee",
-        "url": "https://music.apple.com/us/album/be-a-flame/1635321601?i=1635322718",
         "playParams": {
           "id": "1635322718",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/be-a-flame/1635321601?i=1635322718",
         "discNumber": 2,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Be a Flame",
         "previews": [
           {
@@ -980,8 +980,8 @@
         },
         "url": "https://music.apple.com/us/album/high-tension/1194922995?i=1194923004",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "High Tension",
         "previews": [
           {
@@ -1023,8 +1023,8 @@
         },
         "url": "https://music.apple.com/us/album/knock-knock/1555396345?i=1555396346",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "KNOCK KNOCK",
         "previews": [
           {
@@ -1102,11 +1102,11 @@
           "textColor4": "6b323c"
         },
         "composerName": "Karl Flykt",
+        "url": "https://music.apple.com/us/album/raw-vibes/1560950333?i=1560950335",
         "playParams": {
           "id": "1560950335",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/raw-vibes/1560950333?i=1560950335",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1151,8 +1151,8 @@
         },
         "url": "https://music.apple.com/us/album/pop-it/1640448905?i=1640448907",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Pop It!",
         "previews": [
           {
@@ -1188,14 +1188,14 @@
           "textColor4": "cfc4a5"
         },
         "composerName": "Noel Gallagher",
-        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "playParams": {
           "id": "1517448096",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dont-look-back-in-anger/1517447967?i=1517448096",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Don't Look Back In Anger",
         "previews": [
           {
@@ -1237,8 +1237,8 @@
         },
         "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame",
         "previews": [
           {
