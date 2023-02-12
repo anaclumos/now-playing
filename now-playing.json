@@ -2,6 +2,124 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.ldDOXoVS8LaVGWo",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.ldDOXoVS8LaVGWo",
+      "attributes": {
+        "albumName": "STATION, TAEYEON - Single",
+        "discNumber": 1,
+        "genreNames": [
+          "K-Pop"
+        ],
+        "trackNumber": 1,
+        "hasLyrics": false,
+        "durationInMillis": 222000,
+        "name": "Rain",
+        "artistName": "TAEYEON"
+      }
+    },
+    {
+      "id": "i.JL1YEdeUbmLXpv3",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.JL1YEdeUbmLXpv3",
+      "attributes": {
+        "albumName": "When You're on the Blacklist of Bullies, Pt. 1 (Original Television Soundtrack) - Single",
+        "discNumber": 1,
+        "genreNames": [
+          "TV Soundtrack"
+        ],
+        "trackNumber": 1,
+        "hasLyrics": false,
+        "durationInMillis": 229000,
+        "name": "New Love",
+        "artistName": "NCT"
+      }
+    },
+    {
+      "id": "1031478989",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1031478989",
+      "attributes": {
+        "albumName": "Lion Heart - The 5th Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2015-08-18",
+        "durationInMillis": 224258,
+        "isrc": "KRA301500422",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/86/47/89/86478949-fa9e-6b47-b4cc-b18f0405e351/mzm.qyuynwzk.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e9d1cf",
+          "textColor1": "0c0c0c",
+          "textColor2": "40231a",
+          "textColor3": "383333",
+          "textColor4": "62463e"
+        },
+        "url": "https://music.apple.com/us/album/lion-heart/1031478656?i=1031478989",
+        "playParams": {
+          "id": "1031478989",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Lion Heart",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/7e/82/6a7e821b-74c3-e7ae-c964-3f8f7c0def9a/mzaf_15728997392350255161.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Girls' Generation"
+      }
+    },
+    {
+      "id": "1046202717",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1046202717",
+      "attributes": {
+        "albumName": "I - The 1st Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2015-10-07",
+        "durationInMillis": 206039,
+        "isrc": "KRA301500490",
+        "artwork": {
+          "width": 4961,
+          "height": 4961,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/49/b2/9a49b2d2-2501-2fc7-60eb-2b8ff34a1412/TAEYEON-DIGITAL20COVER.jpg/{w}x{h}bb.jpg",
+          "bgColor": "feedf4",
+          "textColor1": "1d1b1b",
+          "textColor2": "332f31",
+          "textColor3": "4a4547",
+          "textColor4": "5c5558"
+        },
+        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
+        "playParams": {
+          "id": "1046202717",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I (feat. Verbal Jint)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4c/a4/ca/4ca4caf5-1bed-158d-abee-f6a57d3fd0c4/mzaf_8913641255827872025.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TAEYEON"
+      }
+    },
+    {
       "id": "1669378322",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1669378322",
@@ -13,8 +131,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-03",
         "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -26,14 +144,14 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -53,15 +171,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 157779,
         "name": "Attention (Funk Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230212T050638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=625f053fe9f1488d25edc861c67a9c0d4f418fa4aa76b9d775c6d8ed81fc0749"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230212T051823Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b01bb644ae02bd382e8491bd5ad8079dbaf2847f6ceef8865742da2daaa8361a"
         },
         "playParams": {
           "id": "i.ldDOXRrS8LaVGWo",
@@ -81,15 +199,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 220368,
         "name": "Ditto (UK Garage Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230212T050638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b711d1d8c38fe4e63fe04fafe333a5eb264367ad5c242aad73e66b444f5a96ef"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230212T051823Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=590946d22540b35a412700afb736f894f7bfaf1b20846123a772ffbc33a352af"
         },
         "playParams": {
           "id": "i.b1JvkKdSbdrMKBq",
@@ -109,15 +227,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 195735,
         "name": "Cookie (Highschool Band Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230212T050638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e3e850fe17c07d7b16b105d4b8429e0ea9011802f33c1afadb277ad9bcc04354"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230212T051823Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3db6dbe9203d54443f64cc8b5f7f81dff73a9e3e4d468d25d648b2ff70f8622a"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -140,8 +258,8 @@
           "Folk"
         ],
         "trackNumber": 1,
-        "durationInMillis": 209013,
         "releaseDate": "2023-02-05",
+        "durationInMillis": 209013,
         "isrc": "KRF252300218",
         "artwork": {
           "width": 3000,
@@ -195,11 +313,11 @@
           "textColor3": "d3c71b",
           "textColor4": "cbbe20"
         },
+        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "playParams": {
           "id": "1278808870",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/power/1278808856?i=1278808870",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -224,8 +342,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -244,8 +362,8 @@
         },
         "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -267,8 +385,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -281,11 +399,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -310,8 +428,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -330,8 +448,8 @@
         },
         "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -353,8 +471,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -367,14 +485,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No Celestial",
         "previews": [
           {
@@ -396,8 +514,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -410,11 +528,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -440,8 +558,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -453,14 +571,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -495,11 +613,11 @@
           "textColor3": "041f2e",
           "textColor4": "213037"
         },
+        "url": "https://music.apple.com/us/album/after-school/1558430429?i=1558430433",
         "playParams": {
           "id": "1558430433",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-school/1558430429?i=1558430433",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -537,11 +655,11 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -570,8 +688,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -590,8 +708,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -613,8 +731,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-16",
         "durationInMillis": 179867,
+        "releaseDate": "2022-11-16",
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -670,11 +788,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -713,11 +831,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -742,8 +860,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -756,14 +874,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -785,8 +903,8 @@
           "Worldwide"
         ],
         "trackNumber": 8,
-        "durationInMillis": 273013,
         "releaseDate": "2017-05-30",
+        "durationInMillis": 273013,
         "isrc": "KRA401700139",
         "artwork": {
           "width": 3000,
@@ -805,8 +923,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Who Do You Love",
         "previews": [
           {
@@ -842,11 +960,11 @@
           "textColor4": "514c46"
         },
         "composerName": "The Black Skirts",
-        "url": "https://music.apple.com/us/album/everything/1547384602?i=1547385085",
         "playParams": {
           "id": "1547385085",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/everything/1547384602?i=1547385085",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -885,11 +1003,11 @@
           "textColor4": "2e1738"
         },
         "composerName": "Flyin\u2019",
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "playParams": {
           "id": "1640448906",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -915,8 +1033,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -934,8 +1052,8 @@
         },
         "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -972,14 +1090,14 @@
           "textColor4": "5b5b5b"
         },
         "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
+        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "playParams": {
           "id": "1656336322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "WHEN I MOVE",
         "previews": [
           {
@@ -1015,14 +1133,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -1059,14 +1177,14 @@
           "textColor4": "b5927a"
         },
         "composerName": "Nam Hye Seung & Park Sang Hee",
+        "url": "https://music.apple.com/us/album/be-a-flame/1635321601?i=1635322718",
         "playParams": {
           "id": "1635322718",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/be-a-flame/1635321601?i=1635322718",
         "discNumber": 2,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Be a Flame",
         "previews": [
           {
@@ -1074,176 +1192,6 @@
           }
         ],
         "artistName": "Nam Hye Seung & Park Sang Hee"
-      }
-    },
-    {
-      "id": "1194923004",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1194923004",
-      "attributes": {
-        "albumName": "Thumbnail <Type A>",
-        "genreNames": [
-          "J-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "2016-11-16",
-        "durationInMillis": 227920,
-        "isrc": "JPKI01618695",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music111/v4/7f/a3/00/7fa3003f-2eb1-0236-a01f-845f91a81acd/KIZC-370-1400.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f2f1f7",
-          "textColor1": "22151f",
-          "textColor2": "26212d",
-          "textColor3": "4b414a",
-          "textColor4": "4f4b56"
-        },
-        "playParams": {
-          "id": "1194923004",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/high-tension/1194922995?i=1194923004",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "High Tension",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1e/43/79/1e4379e3-a22d-3f1d-27ac-2e5524e1fe99/mzaf_15215976938766774786.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "AKB48"
-      }
-    },
-    {
-      "id": "1555396346",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1555396346",
-      "attributes": {
-        "albumName": "Twicecoaster: Lane 2",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 195747,
-        "releaseDate": "2017-02-20",
-        "isrc": "US5TA1700022",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/db/ff/88/dbff880c-4485-d42a-062b-c90b90d031d0/00602508870224_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b8350f",
-          "textColor1": "fee974",
-          "textColor2": "f2d86c",
-          "textColor3": "f0c560",
-          "textColor4": "e7b75a"
-        },
-        "composerName": "Mayu Wakisaka, Woo Min Lee \u201ccollapsedone\u201d & Eun Jee Sim",
-        "url": "https://music.apple.com/us/album/knock-knock/1555396345?i=1555396346",
-        "playParams": {
-          "id": "1555396346",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "KNOCK KNOCK",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/51/74/a6517469-201f-9667-d016-af0b0412346d/mzaf_16992424951043883364.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
-      }
-    },
-    {
-      "id": "1569293567",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569293567",
-      "attributes": {
-        "albumName": "HEART*IZ",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 7,
-        "durationInMillis": 256745,
-        "releaseDate": "2019-04-01",
-        "isrc": "KRA871900008",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/bc/f1/6e/bcf16eb1-7fd3-58b6-7f31-4c464efc3c04/8809658311085_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b6e3bc",
-          "textColor1": "182219",
-          "textColor2": "242e26",
-          "textColor3": "37493a",
-          "textColor4": "415244"
-        },
-        "composerName": "Shintaro Fujiwara & \uc544\ud0a4\ubaa8\ud1a0 \uc57c\uc2a4\uc2dc",
-        "url": "https://music.apple.com/us/album/nekoni-naritai-korean-version/1569293222?i=1569293567",
-        "playParams": {
-          "id": "1569293567",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "NEKONI NARITAI (Korean Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/31/b9/d6/31b9d61c-88ed-cd21-d100-254d9f01aaac/mzaf_11220515305226775943.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1560950335",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1560950335",
-      "attributes": {
-        "albumName": "Raw Vibes - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-05-07",
-        "durationInMillis": 161314,
-        "isrc": "SE5Q52004169",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a7/2e/ec/a72eec0d-b2f6-a7ee-3bb5-e9a35cd748af/7330178059603.png/{w}x{h}bb.jpg",
-          "bgColor": "febdb6",
-          "textColor1": "3b0d16",
-          "textColor2": "460f1e",
-          "textColor3": "623036",
-          "textColor4": "6b323c"
-        },
-        "composerName": "Karl Flykt",
-        "playParams": {
-          "id": "1560950335",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/raw-vibes/1560950333?i=1560950335",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Raw Vibes",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/21/fb/23/21fb231f-8f0a-7b25-7e2d-6d47862f9b57/mzaf_10911587332808228672.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Flyin\u2019"
       }
     }
   ]
