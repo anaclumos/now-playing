@@ -2,6 +2,136 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1561940784",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1561940784",
+      "attributes": {
+        "albumName": "Kura Kura - EP",
+        "genreNames": [
+          "J-Pop",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2021-05-12",
+        "durationInMillis": 203173,
+        "isrc": "JPWP02170304",
+        "artwork": {
+          "width": 2000,
+          "height": 2000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/f7/80/3e/f7803ea1-a7b5-00fb-4438-70b46f018b10/190296710896.jpg/{w}x{h}bb.jpg",
+          "bgColor": "01180d",
+          "textColor1": "eebba7",
+          "textColor2": "f2b088",
+          "textColor3": "bf9a89",
+          "textColor4": "c29170"
+        },
+        "composerName": "Ciara Muscat & Trippy",
+        "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
+        "playParams": {
+          "id": "1561940784",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Strawberry Moon",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e2/40/dc/e240dc1a-dd4a-05f5-002a-61c62a7b9270/mzaf_2818221669769409092.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1588116037",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588116037",
+      "attributes": {
+        "albumName": "Paeonia - EP",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-05-13",
+        "durationInMillis": 193867,
+        "isrc": "KRF842000223",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/36/22/e736227a-fcd6-fdbb-510f-7a2254806c2d/191953078298.jpg/{w}x{h}bb.jpg",
+          "bgColor": "5d248a",
+          "textColor1": "ffffff",
+          "textColor2": "ebc4ac",
+          "textColor3": "ded3e7",
+          "textColor4": "cfa4a5"
+        },
+        "url": "https://music.apple.com/us/album/paeonia/1588115644?i=1588116037",
+        "playParams": {
+          "id": "1588116037",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Paeonia",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/c8/22/73c82222-8b9e-31e4-188e-1eae97640a8c/mzaf_17109409716532144773.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BUSTERS"
+      }
+    },
+    {
+      "id": "1611504819",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1611504819",
+      "attributes": {
+        "albumName": "I NEVER DIE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
+        "isrc": "KRA392100081",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/9c/fe/5e/9cfe5eec-89b5-240f-5229-59244360e89d/8804775250422_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "fc2860",
+          "textColor2": "fa0b4e",
+          "textColor3": "c9204d",
+          "textColor4": "c8093f"
+        },
+        "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
+        "playParams": {
+          "id": "1611504819",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Never Stop Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6e/e7/51/6ee75107-541b-b088-9fa2-6bd685027dab/mzaf_4257761033281358972.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
       "id": "1538734207",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1538734207",
@@ -14,8 +144,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186035,
         "releaseDate": "2020-11-12",
+        "durationInMillis": 186035,
         "isrc": "KRA382006275",
         "artwork": {
           "width": 3000,
@@ -33,8 +163,8 @@
         },
         "url": "https://music.apple.com/us/album/like-this/1538734085?i=1538734207",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LIKE THIS",
         "previews": [
           {
@@ -70,14 +200,14 @@
           "textColor3": "d2cc7a",
           "textColor4": "d1c769"
         },
+        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
         "playParams": {
           "id": "1455952874",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hakuna Matata",
         "previews": [
           {
@@ -99,8 +229,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-11-09",
         "durationInMillis": 208773,
+        "releaseDate": "2020-11-09",
         "isrc": "KRA382006221",
         "artwork": {
           "width": 3000,
@@ -112,11 +242,11 @@
           "textColor3": "cbcbcb",
           "textColor4": "b1b3ae"
         },
+        "url": "https://music.apple.com/us/album/three-of-cups/1538729549?i=1538729552",
         "playParams": {
           "id": "1538729552",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/three-of-cups/1538729549?i=1538729552",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -141,8 +271,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 180813,
         "releaseDate": "2020-06-15",
+        "durationInMillis": 180813,
         "isrc": "KRA492000679",
         "artwork": {
           "width": 1400,
@@ -155,14 +285,14 @@
           "textColor4": "763042"
         },
         "composerName": "\uc815\ud638\ud604 & \ud63c\ub2e4 \ud788\ud1a0\ubbf8",
+        "url": "https://music.apple.com/us/album/merry-go-round-japanese-version/1569282878?i=1569283091",
         "playParams": {
           "id": "1569283091",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/merry-go-round-japanese-version/1569282878?i=1569283091",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Merry-Go-Round (Japanese Version)",
         "previews": [
           {
@@ -177,13 +307,13 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.mmpYPNBSlqZ8EN4",
       "attributes": {
-        "discNumber": 0,
         "albumName": "IZ*X",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 234451,
         "name": "\u1105\u1161\u1107\u1175\u110b\u1161\u11bc\u1105\u1169\uc988 @2018 MAMA IN HONGKONG",
         "artistName": "IZ*ONE",
@@ -221,11 +351,11 @@
           "textColor4": "ae988b"
         },
         "composerName": "Ryan Tedder, Melanie Joy Fontana, Michel \"Lindgren\" Schulz, A. Wright, HEIZE & J.Y. Park \u201cThe Asiansoul\u201d",
+        "url": "https://music.apple.com/us/album/cry-for-me/1544547831?i=1544547947",
         "playParams": {
           "id": "1544547947",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cry-for-me/1544547831?i=1544547947",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -263,14 +393,14 @@
           "textColor3": "d8d7d8",
           "textColor4": "c0c0c0"
         },
+        "url": "https://music.apple.com/us/album/cool/1534557847?i=1534557848",
         "playParams": {
           "id": "1534557848",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cool/1534557847?i=1534557848",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "COOL",
         "previews": [
           {
@@ -292,8 +422,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 201613,
         "releaseDate": "2022-04-27",
+        "durationInMillis": 201613,
         "isrc": "KRA392200020",
         "artwork": {
           "width": 1400,
@@ -306,14 +436,14 @@
           "textColor4": "563d33"
         },
         "composerName": "Yeul(1by1) & Min Young Lee(EastWest)",
+        "url": "https://music.apple.com/us/album/drive/1618451528?i=1618451552",
         "playParams": {
           "id": "1618451552",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/drive/1618451528?i=1618451552",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Drive",
         "previews": [
           {
@@ -349,11 +479,11 @@
           "textColor3": "bcb09f",
           "textColor4": "ba936d"
         },
+        "url": "https://music.apple.com/us/album/flower-korean-version/1470921587?i=1470921594",
         "playParams": {
           "id": "1470921594",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/flower-korean-version/1470921587?i=1470921594",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -378,8 +508,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 243539,
         "releaseDate": "2018-09-01",
+        "durationInMillis": 243539,
         "isrc": "KRA491800800",
         "artwork": {
           "width": 1400,
@@ -392,14 +522,14 @@
           "textColor4": "41333b"
         },
         "composerName": "\ubc31\uacf0, \ubc15\uae30\ud0dc & \ube7c\uaf3c",
+        "url": "https://music.apple.com/us/album/we-together/1618175516?i=1618175519",
         "playParams": {
           "id": "1618175519",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/we-together/1618175516?i=1618175519",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "We Together",
         "previews": [
           {
@@ -420,8 +550,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2019-04-05",
         "durationInMillis": 219058,
+        "releaseDate": "2019-04-05",
         "isrc": "GBUM71808077",
         "artwork": {
           "width": 3000,
@@ -434,11 +564,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes",
+        "url": "https://music.apple.com/us/album/daydreamer/1640343353?i=1640343366",
         "playParams": {
           "id": "1640343366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/daydreamer/1640343353?i=1640343366",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -483,8 +613,8 @@
         },
         "url": "https://music.apple.com/us/album/paradise/1470921587?i=1470921592",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Paradise",
         "previews": [
           {
@@ -520,14 +650,14 @@
           "textColor4": "b36f2f"
         },
         "composerName": "Diederik van Elsas, Georgia Ku, JQ, Jesse Saint John, Parrish Warrington & Hyesu",
+        "url": "https://music.apple.com/us/album/voice/1534800428?i=1534800435",
         "playParams": {
           "id": "1534800435",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/voice/1534800428?i=1534800435",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Voice",
         "previews": [
           {
@@ -569,8 +699,8 @@
         },
         "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -592,8 +722,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 217760,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900037",
         "artwork": {
           "width": 1400,
@@ -606,11 +736,11 @@
           "textColor4": "67452d"
         },
         "composerName": "Choi Hyun Joon, \uae40\uc2b9\uc218, \uc11c\uc9c0\uc74c & Ko Hyunjung",
+        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "playParams": {
           "id": "1569281734",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -633,15 +763,15 @@
         "genreNames": [
           "K-Pop"
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 190078,
         "name": "HIGHLIGHT MEDLEY",
         "artistName": "IZ*ONE",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/7e/eb/e9/7eebe90a-2f23-08ac-aece-20e8eb22a699/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230216T192637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230216%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=c3adac9e77ddd3b71be36859a12f1d3b99fc86cd69c763bf39e4da6d0443d9a7"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/7e/eb/e9/7eebe90a-2f23-08ac-aece-20e8eb22a699/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230216T193517Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230216%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=366a4672c4875363678c189665cd634443fd51bc61d4f6e77ae00a206b90719e"
         },
         "playParams": {
           "id": "i.eoDzvePfkaYRBvJ",
@@ -664,8 +794,8 @@
           "Soundtrack"
         ],
         "trackNumber": 4,
-        "durationInMillis": 195188,
         "releaseDate": "2011-05-25",
+        "durationInMillis": 195188,
         "isrc": "KRA381001561",
         "artwork": {
           "width": 1007,
@@ -677,14 +807,14 @@
           "textColor3": "c8a694",
           "textColor4": "ac9394"
         },
+        "url": "https://music.apple.com/us/album/hold-my-hand/448552771?i=448552819",
         "playParams": {
           "id": "448552819",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hold-my-hand/448552771?i=448552819",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hold My Hand",
         "previews": [
           {
@@ -706,8 +836,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-28",
         "durationInMillis": 201320,
+        "releaseDate": "2022-03-28",
         "isrc": "KRB462200204",
         "artwork": {
           "width": 3000,
@@ -720,11 +850,11 @@
           "textColor4": "ce9f8b"
         },
         "composerName": "RYAN JHUN, Josh Cumbee, Afshin Salmani, Ilan Kidron & Nat Dunn",
+        "url": "https://music.apple.com/us/album/real-love/1616073522?i=1616073530",
         "playParams": {
           "id": "1616073530",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/real-love/1616073522?i=1616073530",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -742,8 +872,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD63pzFvEldPV2",
       "attributes": {
-        "albumName": "PINK OCEAN",
         "discNumber": 1,
+        "albumName": "PINK OCEAN",
         "genreNames": [
           "Dance"
         ],
@@ -755,7 +885,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/72/3f/a1/723fa1cf-218e-28de-870b-41efa43ab5c9/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230216T192637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230216%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=f2fb1b8820eb3a00f3b052ec8ccb0e5799e800562bd9fe08d72571dfd0662618"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/72/3f/a1/723fa1cf-218e-28de-870b-41efa43ab5c9/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230216T193517Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230216%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=2004b9dcff7089e824334646b9d91b7f28cbc7099abbc273b3ec7749140b49e3"
         },
         "playParams": {
           "id": "i.XMD63pzFvEldPV2",
@@ -796,8 +926,8 @@
         },
         "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Yume Wo Miteiru Aida (Japanese Version / IZ*ONE Version)",
         "previews": [
           {
@@ -833,14 +963,14 @@
           "textColor3": "102f43",
           "textColor4": "123045"
         },
+        "url": "https://music.apple.com/us/album/boogie-up/1466755917?i=1466755918",
         "playParams": {
           "id": "1466755918",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/boogie-up/1466755917?i=1466755918",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Boogie Up",
         "previews": [
           {
@@ -882,8 +1012,8 @@
         },
         "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heroine",
         "previews": [
           {
@@ -919,11 +1049,11 @@
           "textColor4": "e79876"
         },
         "composerName": "Minnie, BreadBeat & So-yeon",
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "playParams": {
           "id": "1645995269",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -962,14 +1092,14 @@
           "textColor3": "ead9e0",
           "textColor4": "e5c85f"
         },
+        "url": "https://music.apple.com/us/album/bim-bam-bum/1475748926?i=1475748930",
         "playParams": {
           "id": "1475748930",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bim-bam-bum/1475748926?i=1475748930",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Bim Bam Bum",
         "previews": [
           {
@@ -990,8 +1120,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 190547,
         "releaseDate": "2019-07-29",
+        "durationInMillis": 190547,
         "isrc": "US5TA1900070",
         "artwork": {
           "width": 1400,
@@ -1010,8 +1140,8 @@
         },
         "url": "https://music.apple.com/us/album/dalla-dalla-dallask-remix/1608253081?i=1608253307",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DALLA DALLA (DallasK Remix)",
         "previews": [
           {
@@ -1033,8 +1163,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 187161,
         "releaseDate": "2017-05-31",
+        "durationInMillis": 187161,
         "isrc": "KRB471700765",
         "artwork": {
           "width": 3000,
@@ -1046,14 +1176,14 @@
           "textColor3": "b8b8b8",
           "textColor4": "a2a2a2"
         },
+        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "playParams": {
           "id": "1548766747",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Overlap",
         "previews": [
           {
@@ -1074,8 +1204,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "durationInMillis": 202949,
         "releaseDate": "2020-10-21",
+        "durationInMillis": 202949,
         "isrc": "JPPO02002952",
         "artwork": {
           "width": 3000,
@@ -1094,8 +1224,8 @@
         },
         "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Violeta (Japanese Version)",
         "previews": [
           {
@@ -1103,132 +1233,6 @@
           }
         ],
         "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1569282078",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569282078",
-      "attributes": {
-        "albumName": "BLOOM*IZ",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 12,
-        "durationInMillis": 197972,
-        "releaseDate": "2020-02-17",
-        "isrc": "KRA871900047",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0be7f",
-          "textColor1": "030302",
-          "textColor2": "452719",
-          "textColor3": "32281b",
-          "textColor4": "67452d"
-        },
-        "composerName": "BLACK EDITION, Eastwest, Bull$EyE & Kim ga young",
-        "playParams": {
-          "id": "1569282078",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "OPEN YOUR EYES",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/b9/81/30b981e8-997c-b8b9-258c-2f465a3986b8/mzaf_14505200039941536040.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1459596373",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1459596373",
-      "attributes": {
-        "albumName": "Find Your Peace - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-04-12",
-        "durationInMillis": 194126,
-        "isrc": "KRB471900547",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/9c/88/88/9c888850-cba6-5300-ac8a-073e02166075/81145822.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f6c0e2",
-          "textColor1": "12050c",
-          "textColor2": "0f080c",
-          "textColor3": "402b36",
-          "textColor4": "3d2c37"
-        },
-        "playParams": {
-          "id": "1459596373",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/yallacha/1459596369?i=1459596373",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Yallacha",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/62/a6/99/62a69954-63bf-8fe0-e420-011f6fedac02/mzaf_15354538103409586731.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Peace"
-      }
-    },
-    {
-      "id": "1534999774",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1534999774",
-      "attributes": {
-        "albumName": "We Can - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 206720,
-        "releaseDate": "2020-10-13",
-        "isrc": "KRA382005853",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/22/8f/35/228f355f-dd38-085a-b5fd-7f579a3db25c/cover_-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffcd1c",
-          "textColor1": "060300",
-          "textColor2": "5c0916",
-          "textColor3": "382c06",
-          "textColor4": "7d3117"
-        },
-        "playParams": {
-          "id": "1534999774",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/zig-zag/1534999771?i=1534999774",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Zig Zag",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bc/4b/ef/bc4bef11-50f7-978e-c6f4-ee7f7d5b5215/mzaf_9937334119073838617.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Weeekly"
       }
     }
   ]
