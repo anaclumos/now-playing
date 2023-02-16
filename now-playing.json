@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1640448906",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1640448906",
+      "attributes": {
+        "albumName": "Sugar High / Pop It! - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-09-30",
+        "durationInMillis": 160549,
+        "isrc": "SE5Q52202527",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/d4/66/ca/d466ca77-e0ad-2892-c569-48ee96aad858/7330178087736.png/{w}x{h}bb.jpg",
+          "bgColor": "c273e5",
+          "textColor1": "01020e",
+          "textColor2": "09000d",
+          "textColor3": "281939",
+          "textColor4": "2e1738"
+        },
+        "composerName": "Flyin\u2019",
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
+        "playParams": {
+          "id": "1640448906",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Sugar High",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/79/3c/3f793c5a-32f3-a273-05ae-ab59691312c1/mzaf_16603218668231356916.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Flyin\u2019"
+      }
+    },
+    {
       "id": "1637490926",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1637490926",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -32,8 +75,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -69,11 +112,11 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -118,8 +161,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DUMDi DUMDi",
         "previews": [
           {
@@ -141,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-11-12",
         "durationInMillis": 169567,
+        "releaseDate": "2018-11-12",
         "isrc": "KRA401800139",
         "artwork": {
           "width": 5000,
@@ -184,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2020-06-15",
         "durationInMillis": 192320,
+        "releaseDate": "2020-06-15",
         "isrc": "KRA492000678",
         "artwork": {
           "width": 1400,
@@ -198,11 +241,11 @@
           "textColor4": "763042"
         },
         "composerName": "MosPick, \ubbf8\uc57c\uc640\ud0a4 \uc0ac\ucfe0\ub77c & \uc57c\ubd80\ud0a4 \ub098\ucf54",
-        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "playParams": {
           "id": "1569282900",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -227,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 172558,
         "releaseDate": "2019-02-13",
+        "durationInMillis": 172558,
         "isrc": "KRB471900251",
         "artwork": {
           "width": 3000,
@@ -246,8 +289,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "And there was no one left",
         "previews": [
           {
@@ -269,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-01-11",
         "durationInMillis": 197320,
+        "releaseDate": "2021-01-11",
         "isrc": "KRA392000074",
         "artwork": {
           "width": 3000,
@@ -312,8 +355,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 199054,
         "releaseDate": "2020-08-21",
+        "durationInMillis": 199054,
         "isrc": "QM7282022872",
         "artwork": {
           "width": 1400,
@@ -332,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dynamite",
         "previews": [
           {
@@ -369,11 +412,11 @@
           "textColor4": "5c3535"
         },
         "composerName": "MosPick",
-        "url": "https://music.apple.com/us/album/hocus-pocus/1609395543?i=1609395997",
         "playParams": {
           "id": "1609395997",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hocus-pocus/1609395543?i=1609395997",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -418,8 +461,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Real World",
         "previews": [
           {
@@ -454,11 +497,11 @@
           "textColor3": "c28464",
           "textColor4": "c8734d"
         },
-        "url": "https://music.apple.com/us/album/triangle/1556659510?i=1556659516",
         "playParams": {
           "id": "1556659516",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/triangle/1556659510?i=1556659516",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -483,8 +526,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -526,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-04-06",
         "durationInMillis": 242600,
+        "releaseDate": "2016-04-06",
         "isrc": "KRA341617106",
         "artwork": {
           "width": 2244,
@@ -539,14 +582,14 @@
           "textColor3": "3f3e3e",
           "textColor4": "5a4f4e"
         },
-        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "playParams": {
           "id": "1265727250",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "\uc0c1\uc0c1\ub354\ud558\uae30",
         "previews": [
           {
@@ -568,8 +611,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-10-16",
         "durationInMillis": 181853,
+        "releaseDate": "2020-10-16",
         "isrc": "KRA402000146",
         "artwork": {
           "width": 3000,
@@ -587,8 +630,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ALIEN",
         "previews": [
           {
@@ -610,8 +653,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-05-14",
         "durationInMillis": 196947,
+        "releaseDate": "2019-05-14",
         "isrc": "QZEKE1912513",
         "artwork": {
           "width": 3000,
@@ -695,8 +738,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-10-15",
         "durationInMillis": 243055,
+        "releaseDate": "2020-10-15",
         "isrc": "JPU902002279",
         "artwork": {
           "width": 3000,
@@ -715,8 +758,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Etoile Korean Version",
         "previews": [
           {
@@ -738,8 +781,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 199640,
         "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -782,8 +825,8 @@
           "Soundtrack"
         ],
         "trackNumber": 2,
-        "durationInMillis": 194427,
         "releaseDate": "2011-05-25",
+        "durationInMillis": 194427,
         "isrc": "KRA381001562",
         "artwork": {
           "width": 1772,
@@ -910,8 +953,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 203173,
         "releaseDate": "2021-05-12",
+        "durationInMillis": 203173,
         "isrc": "JPWP02170304",
         "artwork": {
           "width": 2000,
@@ -930,8 +973,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Strawberry Moon",
         "previews": [
           {
@@ -954,8 +997,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193867,
         "releaseDate": "2020-05-13",
+        "durationInMillis": 193867,
         "isrc": "KRF842000223",
         "artwork": {
           "width": 3000,
@@ -996,8 +1039,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -1040,8 +1083,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-11-12",
         "durationInMillis": 186035,
+        "releaseDate": "2020-11-12",
         "isrc": "KRA382006275",
         "artwork": {
           "width": 3000,
@@ -1059,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LIKE THIS",
         "previews": [
           {
@@ -1096,11 +1139,11 @@
           "textColor3": "d2cc7a",
           "textColor4": "d1c769"
         },
-        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
         "playParams": {
           "id": "1455952874",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1125,8 +1168,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-11-09",
         "durationInMillis": 208773,
+        "releaseDate": "2020-11-09",
         "isrc": "KRA382006221",
         "artwork": {
           "width": 3000,
@@ -1138,14 +1181,14 @@
           "textColor3": "cbcbcb",
           "textColor4": "b1b3ae"
         },
-        "url": "https://music.apple.com/us/album/three-of-cups/1538729549?i=1538729552",
         "playParams": {
           "id": "1538729552",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/three-of-cups/1538729549?i=1538729552",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Three of Cups",
         "previews": [
           {
@@ -1167,8 +1210,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 180813,
         "releaseDate": "2020-06-15",
+        "durationInMillis": 180813,
         "isrc": "KRA492000679",
         "artwork": {
           "width": 1400,
@@ -1203,8 +1246,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.mmpYPNBSlqZ8EN4",
       "attributes": {
-        "discNumber": 0,
         "albumName": "IZ*X",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -1219,49 +1262,6 @@
           "isLibrary": true,
           "reporting": false
         }
-      }
-    },
-    {
-      "id": "1544547947",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1544547947",
-      "attributes": {
-        "albumName": "CRY FOR ME - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 204168,
-        "releaseDate": "2020-12-18",
-        "isrc": "US5TA2000173",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a5/7f/18/a57f181f-fa95-c7ce-4a62-2f1144d1ae3f/192641621130_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "d8ccca",
-          "textColor2": "dabead",
-          "textColor3": "ada3a2",
-          "textColor4": "ae988b"
-        },
-        "composerName": "Ryan Tedder, Melanie Joy Fontana, Michel \"Lindgren\" Schulz, A. Wright, HEIZE & J.Y. Park \u201cThe Asiansoul\u201d",
-        "url": "https://music.apple.com/us/album/cry-for-me/1544547831?i=1544547947",
-        "playParams": {
-          "id": "1544547947",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "CRY FOR ME",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d6/64/85/d6648573-7fb7-3516-8898-b571afea3115/mzaf_6764992212500562255.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
       }
     }
   ]
