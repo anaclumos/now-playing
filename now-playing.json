@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1596532400",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1596532400",
+      "attributes": {
+        "albumName": "BE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 8,
+        "durationInMillis": 199054,
+        "releaseDate": "2020-08-21",
+        "isrc": "QM7282022872",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fefefe",
+          "textColor1": "0d0d0d",
+          "textColor2": "202020",
+          "textColor3": "3d3d3d",
+          "textColor4": "4d4d4d"
+        },
+        "composerName": "Jessica Agombar & David Stewart",
+        "url": "https://music.apple.com/us/album/dynamite/1596532185?i=1596532400",
+        "playParams": {
+          "id": "1596532400",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Dynamite",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/19/e9/f8/19e9f8b9-184a-99bb-8a56-a0ced9e58734/mzaf_9957300484203012566.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BTS"
+      }
+    },
+    {
+      "id": "1609395997",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1609395997",
+      "attributes": {
+        "albumName": "Be! - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2019-04-10",
+        "durationInMillis": 207966,
+        "isrc": "KRMIM1905897",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/82/ff/c7/82ffc790-5e68-ae8f-cc01-14c7bef253b3/8809658319074_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0ede8",
+          "textColor1": "100d0f",
+          "textColor2": "370708",
+          "textColor3": "3d3a3b",
+          "textColor4": "5c3535"
+        },
+        "composerName": "MosPick",
+        "playParams": {
+          "id": "1609395997",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/hocus-pocus/1609395543?i=1609395997",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Hocus Pocus",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ea/91/7d/ea917d84-4604-5db1-db35-9adc414eff6d/mzaf_47916946723543521.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BVNDIT"
+      }
+    },
+    {
+      "id": "1478604560",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1478604560",
+      "attributes": {
+        "albumName": "Coloring Book - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 200522,
+        "releaseDate": "2017-04-03",
+        "isrc": "KRA381700679",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/34/af/90/34af9009-0ef9-fae8-165a-6ea6460b5b47/886447921784.jpg/{w}x{h}bb.jpg",
+          "bgColor": "3e0000",
+          "textColor1": "fec3bf",
+          "textColor2": "ef6577",
+          "textColor3": "d89c99",
+          "textColor4": "cb505f"
+        },
+        "composerName": "Mayu Wakisaka & Sean Alexander",
+        "url": "https://music.apple.com/us/album/real-world/1478604547?i=1478604560",
+        "playParams": {
+          "id": "1478604560",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Real World",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/77/23/e97723df-1093-127f-0d91-b1d7e0d878f8/mzaf_1357707231430755314.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "OH MY GIRL"
+      }
+    },
+    {
       "id": "1556659516",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1556659516",
@@ -13,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2017-11-14",
         "durationInMillis": 210879,
+        "releaseDate": "2017-11-14",
         "isrc": "KRE641700063",
         "artwork": {
           "width": 3000,
@@ -111,11 +240,11 @@
           "textColor3": "3f3e3e",
           "textColor4": "5a4f4e"
         },
-        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "playParams": {
           "id": "1265727250",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -224,8 +353,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-08-19",
         "durationInMillis": 189147,
+        "releaseDate": "2019-08-19",
         "isrc": "KRMIM1914433",
         "artwork": {
           "width": 1400,
@@ -324,11 +453,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -367,11 +496,11 @@
           "textColor3": "393734",
           "textColor4": "413f3c"
         },
-        "url": "https://music.apple.com/us/album/hold-my-hand-instrumental/444687177?i=444687269",
         "playParams": {
           "id": "444687269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hold-my-hand-instrumental/444687177?i=444687269",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -396,8 +525,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-11-08",
         "durationInMillis": 220293,
+        "releaseDate": "2017-11-08",
         "isrc": "KRA771700053",
         "artwork": {
           "width": 3000,
@@ -452,11 +581,11 @@
           "textColor4": "67452d"
         },
         "composerName": "\ub77c\uc774\uc5b8 \uc804, Andy Love, Andreas \u00d6berg, David Amber & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "playParams": {
           "id": "1569281733",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -496,11 +625,11 @@
           "textColor4": "c29170"
         },
         "composerName": "Ciara Muscat & Trippy",
-        "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
         "playParams": {
           "id": "1561940784",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -539,11 +668,11 @@
           "textColor3": "ded3e7",
           "textColor4": "cfa4a5"
         },
-        "url": "https://music.apple.com/us/album/paeonia/1588115644?i=1588116037",
         "playParams": {
           "id": "1588116037",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/paeonia/1588115644?i=1588116037",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -582,11 +711,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -625,11 +754,11 @@
           "textColor3": "b8a699",
           "textColor4": "b99378"
         },
-        "url": "https://music.apple.com/us/album/like-this/1538734085?i=1538734207",
         "playParams": {
           "id": "1538734207",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/like-this/1538734085?i=1538734207",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -668,11 +797,11 @@
           "textColor3": "d2cc7a",
           "textColor4": "d1c769"
         },
-        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
         "playParams": {
           "id": "1455952874",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -697,8 +826,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-11-09",
         "durationInMillis": 208773,
+        "releaseDate": "2020-11-09",
         "isrc": "KRA382006221",
         "artwork": {
           "width": 3000,
@@ -775,13 +904,13 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.mmpYPNBSlqZ8EN4",
       "attributes": {
-        "albumName": "IZ*X",
         "discNumber": 0,
+        "albumName": "IZ*X",
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 234451,
         "name": "\u1105\u1161\u1107\u1175\u110b\u1161\u11bc\u1105\u1169\uc988 @2018 MAMA IN HONGKONG",
         "artistName": "IZ*ONE",
@@ -861,11 +990,11 @@
           "textColor3": "d8d7d8",
           "textColor4": "c0c0c0"
         },
-        "url": "https://music.apple.com/us/album/cool/1534557847?i=1534557848",
         "playParams": {
           "id": "1534557848",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cool/1534557847?i=1534557848",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -904,11 +1033,11 @@
           "textColor4": "563d33"
         },
         "composerName": "Yeul(1by1) & Min Young Lee(EastWest)",
-        "url": "https://music.apple.com/us/album/drive/1618451528?i=1618451552",
         "playParams": {
           "id": "1618451552",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/drive/1618451528?i=1618451552",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -934,8 +1063,8 @@
           "Dance"
         ],
         "trackNumber": 7,
-        "releaseDate": "2019-07-01",
         "durationInMillis": 217587,
+        "releaseDate": "2019-07-01",
         "isrc": "KRA381903445",
         "artwork": {
           "width": 3000,
@@ -990,11 +1119,11 @@
           "textColor4": "41333b"
         },
         "composerName": "\ubc31\uacf0, \ubc15\uae30\ud0dc & \ube7c\uaf3c",
-        "url": "https://music.apple.com/us/album/we-together/1618175516?i=1618175519",
         "playParams": {
           "id": "1618175519",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/we-together/1618175516?i=1618175519",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1032,11 +1161,11 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/daydreamer/1640343353?i=1640343366",
         "playParams": {
           "id": "1640343366",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/daydreamer/1640343353?i=1640343366",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1118,11 +1247,11 @@
           "textColor4": "b36f2f"
         },
         "composerName": "Diederik van Elsas, Georgia Ku, JQ, Jesse Saint John, Parrish Warrington & Hyesu",
-        "url": "https://music.apple.com/us/album/voice/1534800428?i=1534800435",
         "playParams": {
           "id": "1534800435",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/voice/1534800428?i=1534800435",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1133,120 +1262,6 @@
           }
         ],
         "artistName": "LOONA"
-      }
-    },
-    {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-03",
-        "durationInMillis": 198587,
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
-      }
-    },
-    {
-      "id": "1569281734",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569281734",
-      "attributes": {
-        "albumName": "BLOOM*IZ",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2020-02-17",
-        "durationInMillis": 217760,
-        "isrc": "KRA871900037",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0be7f",
-          "textColor1": "030302",
-          "textColor2": "452719",
-          "textColor3": "32281b",
-          "textColor4": "67452d"
-        },
-        "composerName": "Choi Hyun Joon, \uae40\uc2b9\uc218, \uc11c\uc9c0\uc74c & Ko Hyunjung",
-        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
-        "playParams": {
-          "id": "1569281734",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "FIESTA",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/aa/b5/4daab5a6-0710-b325-54f5-ca1d11788f5f/mzaf_6819508331410297511.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "i.eoDzvePfkaYRBvJ",
-      "type": "library-songs",
-      "href": "/v1/me/library/songs/i.eoDzvePfkaYRBvJ",
-      "attributes": {
-        "albumName": "IZ*X",
-        "discNumber": 0,
-        "genreNames": [
-          "K-Pop"
-        ],
-        "hasLyrics": false,
-        "trackNumber": 0,
-        "durationInMillis": 190078,
-        "name": "HIGHLIGHT MEDLEY",
-        "artistName": "IZ*ONE",
-        "artwork": {
-          "width": null,
-          "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/7e/eb/e9/7eebe90a-2f23-08ac-aece-20e8eb22a699/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230216T200009Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230216%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=ccae0164d7e5ba3a9cfdd025b2849307231570d03f0abb8c58c62376398c0b4b"
-        },
-        "playParams": {
-          "id": "i.eoDzvePfkaYRBvJ",
-          "kind": "song",
-          "isLibrary": true,
-          "reporting": false
-        }
       }
     }
   ]
