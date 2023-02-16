@@ -2,91 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1640448906",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1640448906",
-      "attributes": {
-        "albumName": "Sugar High / Pop It! - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 160549,
-        "releaseDate": "2022-09-30",
-        "isrc": "SE5Q52202527",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/d4/66/ca/d466ca77-e0ad-2892-c569-48ee96aad858/7330178087736.png/{w}x{h}bb.jpg",
-          "bgColor": "c273e5",
-          "textColor1": "01020e",
-          "textColor2": "09000d",
-          "textColor3": "281939",
-          "textColor4": "2e1738"
-        },
-        "composerName": "Flyin\u2019",
-        "playParams": {
-          "id": "1640448906",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Sugar High",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/79/3c/3f793c5a-32f3-a273-05ae-ab59691312c1/mzaf_16603218668231356916.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Flyin\u2019"
-      }
-    },
-    {
-      "id": "1637490926",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1637490926",
-      "attributes": {
-        "albumName": "Takin' It Back",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 134256,
-        "releaseDate": "2022-10-21",
-        "isrc": "USSM12204574",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/55/dd/ab/55ddab67-26ec-e244-2c37-37f92b63bf19/196589366870.jpg/{w}x{h}bb.jpg",
-          "bgColor": "cc003b",
-          "textColor1": "f8f8f8",
-          "textColor2": "b7dcf7",
-          "textColor3": "efc6d2",
-          "textColor4": "bbb0d2"
-        },
-        "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "playParams": {
-          "id": "1637490926",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Made You Look",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3a/50/68/3a5068f1-f6a9-c8fc-0f23-ab8f8ce72f12/mzaf_319455285393302854.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Meghan Trainor"
-      }
-    },
-    {
       "id": "1636642074",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1636642074",
@@ -130,6 +45,91 @@
       }
     },
     {
+      "id": "1640448906",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1640448906",
+      "attributes": {
+        "albumName": "Sugar High / Pop It! - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-09-30",
+        "durationInMillis": 160549,
+        "isrc": "SE5Q52202527",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/d4/66/ca/d466ca77-e0ad-2892-c569-48ee96aad858/7330178087736.png/{w}x{h}bb.jpg",
+          "bgColor": "c273e5",
+          "textColor1": "01020e",
+          "textColor2": "09000d",
+          "textColor3": "281939",
+          "textColor4": "2e1738"
+        },
+        "composerName": "Flyin\u2019",
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
+        "playParams": {
+          "id": "1640448906",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Sugar High",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/79/3c/3f793c5a-32f3-a273-05ae-ab59691312c1/mzaf_16603218668231356916.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Flyin\u2019"
+      }
+    },
+    {
+      "id": "1637490926",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1637490926",
+      "attributes": {
+        "albumName": "Takin' It Back",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
+        "isrc": "USSM12204574",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/55/dd/ab/55ddab67-26ec-e244-2c37-37f92b63bf19/196589366870.jpg/{w}x{h}bb.jpg",
+          "bgColor": "cc003b",
+          "textColor1": "f8f8f8",
+          "textColor2": "b7dcf7",
+          "textColor3": "efc6d2",
+          "textColor4": "bbb0d2"
+        },
+        "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
+        "playParams": {
+          "id": "1637490926",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Made You Look",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3a/50/68/3a5068f1-f6a9-c8fc-0f23-ab8f8ce72f12/mzaf_319455285393302854.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Meghan Trainor"
+      }
+    },
+    {
       "id": "1525322105",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1525322105",
@@ -161,8 +161,8 @@
         },
         "url": "https://music.apple.com/us/album/dumdi-dumdi/1525322098?i=1525322105",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DUMDi DUMDi",
         "previews": [
           {
@@ -198,11 +198,11 @@
           "textColor4": "81acb8"
         },
         "composerName": "Teddy & 24",
+        "url": "https://music.apple.com/us/album/solo/1441819348?i=1441819350",
         "playParams": {
           "id": "1441819350",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/solo/1441819348?i=1441819350",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -241,14 +241,14 @@
           "textColor4": "763042"
         },
         "composerName": "MosPick, \ubbf8\uc57c\uc640\ud0a4 \uc0ac\ucfe0\ub77c & \uc57c\ubd80\ud0a4 \ub098\ucf54",
+        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "playParams": {
           "id": "1569282900",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Secret Story of the Swan (Japanese Version)",
         "previews": [
           {
@@ -270,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 172558,
         "releaseDate": "2019-02-13",
+        "durationInMillis": 172558,
         "isrc": "KRB471900251",
         "artwork": {
           "width": 3000,
@@ -283,14 +283,14 @@
           "textColor3": "ced5b0",
           "textColor4": "d8c389"
         },
+        "url": "https://music.apple.com/us/album/and-there-was-no-one-left/1452479679?i=1452479683",
         "playParams": {
           "id": "1452479683",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/and-there-was-no-one-left/1452479679?i=1452479683",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "And there was no one left",
         "previews": [
           {
@@ -369,11 +369,11 @@
           "textColor4": "4d4d4d"
         },
         "composerName": "Jessica Agombar & David Stewart",
+        "url": "https://music.apple.com/us/album/dynamite/1596532185?i=1596532400",
         "playParams": {
           "id": "1596532400",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dynamite/1596532185?i=1596532400",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -412,11 +412,11 @@
           "textColor4": "5c3535"
         },
         "composerName": "MosPick",
-        "url": "https://music.apple.com/us/album/hocus-pocus/1609395543?i=1609395997",
         "playParams": {
           "id": "1609395997",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hocus-pocus/1609395543?i=1609395997",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -540,14 +540,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Illusion",
         "previews": [
           {
@@ -569,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 242600,
         "releaseDate": "2016-04-06",
+        "durationInMillis": 242600,
         "isrc": "KRA341617106",
         "artwork": {
           "width": 2244,
@@ -582,11 +582,11 @@
           "textColor3": "3f3e3e",
           "textColor4": "5a4f4e"
         },
+        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "playParams": {
           "id": "1265727250",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -611,8 +611,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 181853,
         "releaseDate": "2020-10-16",
+        "durationInMillis": 181853,
         "isrc": "KRA402000146",
         "artwork": {
           "width": 3000,
@@ -624,14 +624,14 @@
           "textColor3": "cac5b8",
           "textColor4": "2bbe95"
         },
+        "url": "https://music.apple.com/us/album/alien/1535146863?i=1535146864",
         "playParams": {
           "id": "1535146864",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/alien/1535146863?i=1535146864",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ALIEN",
         "previews": [
           {
@@ -666,11 +666,11 @@
           "textColor3": "32171a",
           "textColor4": "3b1b21"
         },
-        "url": "https://music.apple.com/us/album/picky-picky/1580894728?i=1580894731",
         "playParams": {
           "id": "1580894731",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/picky-picky/1580894728?i=1580894731",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -695,8 +695,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 189147,
         "releaseDate": "2019-08-19",
+        "durationInMillis": 189147,
         "isrc": "KRMIM1914433",
         "artwork": {
           "width": 1400,
@@ -709,11 +709,11 @@
           "textColor4": "58555e"
         },
         "composerName": "72, Olof Lindskog, Hayley Aitken, Gavin Jones & \uc11c\uc9c0\uc74c",
+        "url": "https://music.apple.com/us/album/adios/1569758000?i=1569758007",
         "playParams": {
           "id": "1569758007",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/adios/1569758000?i=1569758007",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -738,8 +738,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 243055,
         "releaseDate": "2020-10-15",
+        "durationInMillis": 243055,
         "isrc": "JPU902002279",
         "artwork": {
           "width": 3000,
@@ -781,8 +781,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 199640,
         "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -825,8 +825,8 @@
           "Soundtrack"
         ],
         "trackNumber": 2,
-        "releaseDate": "2011-05-25",
         "durationInMillis": 194427,
+        "releaseDate": "2011-05-25",
         "isrc": "KRA381001562",
         "artwork": {
           "width": 1772,
@@ -838,11 +838,11 @@
           "textColor3": "393734",
           "textColor4": "413f3c"
         },
-        "url": "https://music.apple.com/us/album/hold-my-hand-instrumental/444687177?i=444687269",
         "playParams": {
           "id": "444687269",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hold-my-hand-instrumental/444687177?i=444687269",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -867,8 +867,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 220293,
         "releaseDate": "2017-11-08",
+        "durationInMillis": 220293,
         "isrc": "KRA771700053",
         "artwork": {
           "width": 3000,
@@ -880,14 +880,14 @@
           "textColor3": "323c3b",
           "textColor4": "594a59"
         },
+        "url": "https://music.apple.com/us/album/chococo/1523273923?i=1523273924",
         "playParams": {
           "id": "1523273924",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/chococo/1523273923?i=1523273924",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Chococo",
         "previews": [
           {
@@ -909,8 +909,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 217960,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900036",
         "artwork": {
           "width": 1400,
@@ -923,11 +923,11 @@
           "textColor4": "67452d"
         },
         "composerName": "\ub77c\uc774\uc5b8 \uc804, Andy Love, Andreas \u00d6berg, David Amber & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "playParams": {
           "id": "1569281733",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -973,8 +973,8 @@
         },
         "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Strawberry Moon",
         "previews": [
           {
@@ -997,8 +997,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193867,
         "releaseDate": "2020-05-13",
+        "durationInMillis": 193867,
         "isrc": "KRF842000223",
         "artwork": {
           "width": 3000,
@@ -1059,8 +1059,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -1083,8 +1083,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186035,
         "releaseDate": "2020-11-12",
+        "durationInMillis": 186035,
         "isrc": "KRA382006275",
         "artwork": {
           "width": 3000,
@@ -1126,8 +1126,8 @@
           "Dance"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-03-12",
         "durationInMillis": 200243,
+        "releaseDate": "2019-03-12",
         "isrc": "KRA381900647",
         "artwork": {
           "width": 3000,
@@ -1145,8 +1145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hakuna Matata",
         "previews": [
           {
@@ -1168,8 +1168,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 208773,
         "releaseDate": "2020-11-09",
+        "durationInMillis": 208773,
         "isrc": "KRA382006221",
         "artwork": {
           "width": 3000,
@@ -1181,11 +1181,11 @@
           "textColor3": "cbcbcb",
           "textColor4": "b1b3ae"
         },
+        "url": "https://music.apple.com/us/album/three-of-cups/1538729549?i=1538729552",
         "playParams": {
           "id": "1538729552",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/three-of-cups/1538729549?i=1538729552",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1210,8 +1210,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2020-06-15",
         "durationInMillis": 180813,
+        "releaseDate": "2020-06-15",
         "isrc": "KRA492000679",
         "artwork": {
           "width": 1400,
@@ -1230,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Merry-Go-Round (Japanese Version)",
         "previews": [
           {
