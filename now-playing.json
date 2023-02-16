@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 198587,
+        "releaseDate": "2022-08-03",
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
       "id": "1569280531",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1569280531",
@@ -55,8 +98,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -69,11 +112,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -98,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "durationInMillis": 197972,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 197972,
         "isrc": "KRA871900047",
         "artwork": {
           "width": 1400,
@@ -112,11 +155,11 @@
           "textColor4": "67452d"
         },
         "composerName": "BLACK EDITION, Eastwest, Bull$EyE & Kim ga young",
-        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "playParams": {
           "id": "1569282078",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -161,8 +204,8 @@
         },
         "url": "https://music.apple.com/us/album/dreamlike/1569281731?i=1569281889",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DREAMLIKE",
         "previews": [
           {
@@ -270,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-08-03",
         "durationInMillis": 210640,
+        "releaseDate": "2020-08-03",
         "isrc": "KRA392000053",
         "artwork": {
           "width": 3000,
@@ -284,14 +327,14 @@
           "textColor4": "452e00"
         },
         "composerName": "JEON SOYEON & Pop Time",
+        "url": "https://music.apple.com/us/album/dumdi-dumdi/1525322098?i=1525322105",
         "playParams": {
           "id": "1525322105",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dumdi-dumdi/1525322098?i=1525322105",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DUMDi DUMDi",
         "previews": [
           {
@@ -312,8 +355,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 198001,
         "releaseDate": "2020-02-05",
+        "durationInMillis": 198001,
         "isrc": "KRA382000125",
         "artwork": {
           "width": 3000,
@@ -325,11 +368,11 @@
           "textColor3": "bfb0bc",
           "textColor4": "c2b0b1"
         },
-        "url": "https://music.apple.com/us/album/so-what/1584167409?i=1584167413",
         "playParams": {
           "id": "1584167413",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/so-what/1584167409?i=1584167413",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -354,8 +397,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 210791,
         "releaseDate": "2018-08-18",
+        "durationInMillis": 210791,
         "isrc": "KRA491800733",
         "artwork": {
           "width": 1400,
@@ -368,11 +411,11 @@
           "textColor4": "41333b"
         },
         "composerName": "\uc774\uc0c1\ud638 & \uc6a9\ubc30",
-        "url": "https://music.apple.com/us/album/to-reach-you/1569745005?i=1569745014",
         "playParams": {
           "id": "1569745014",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/to-reach-you/1569745005?i=1569745014",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -397,8 +440,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-12-11",
         "durationInMillis": 186893,
+        "releaseDate": "2017-12-11",
         "isrc": "US5TA1700125",
         "artwork": {
           "width": 1400,
@@ -411,14 +454,14 @@
           "textColor4": "c3c280"
         },
         "composerName": "David Amber & Galactika",
+        "url": "https://music.apple.com/us/album/heart-shaker/1555410489?i=1555410490",
         "playParams": {
           "id": "1555410490",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/heart-shaker/1555410489?i=1555410490",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Heart Shaker",
         "previews": [
           {
@@ -440,8 +483,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-05-26",
         "durationInMillis": 202787,
+        "releaseDate": "2021-05-26",
         "isrc": "KRB462100607",
         "artwork": {
           "width": 3000,
@@ -454,14 +497,14 @@
           "textColor4": "464748"
         },
         "composerName": "RYAN JHUN, Scott Russell Stoddart & Betsa Collins",
+        "url": "https://music.apple.com/us/album/like-it-hot/1568655539?i=1568655896",
         "playParams": {
           "id": "1568655896",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/like-it-hot/1568655539?i=1568655896",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Like It Hot",
         "previews": [
           {
@@ -630,8 +673,8 @@
         },
         "url": "https://music.apple.com/us/album/where-is-love/1545320377?i=1545320622",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Where is love",
         "previews": [
           {
@@ -653,8 +696,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-12-07",
         "durationInMillis": 199853,
+        "releaseDate": "2020-12-07",
         "isrc": "KRA492001344",
         "artwork": {
           "width": 1400,
@@ -667,14 +710,14 @@
           "textColor4": "bea4ac"
         },
         "composerName": "\uc815\ud638\ud604",
+        "url": "https://music.apple.com/us/album/mise-en-sc%C3%A8ne/1569286882?i=1569286885",
         "playParams": {
           "id": "1569286885",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/mise-en-sc%C3%A8ne/1569286882?i=1569286885",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Mise-en-Sc\u00e8ne",
         "previews": [
           {
@@ -696,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "releaseDate": "2021-03-25",
         "durationInMillis": 200293,
+        "releaseDate": "2021-03-25",
         "isrc": "KRA382102085",
         "artwork": {
           "width": 3000,
@@ -709,14 +752,14 @@
           "textColor3": "2b2223",
           "textColor4": "3c2e30"
         },
+        "url": "https://music.apple.com/us/album/ah-puh/1560113132?i=1560113352",
         "playParams": {
           "id": "1560113352",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ah-puh/1560113132?i=1560113352",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ah puh",
         "previews": [
           {
@@ -739,8 +782,8 @@
           "Dance"
         ],
         "trackNumber": 2,
-        "durationInMillis": 185796,
         "releaseDate": "2019-06-13",
+        "durationInMillis": 185796,
         "isrc": "KRA401900045",
         "artwork": {
           "width": 5000,
@@ -752,11 +795,11 @@
           "textColor3": "3d0e2b",
           "textColor4": "58143d"
         },
-        "url": "https://music.apple.com/us/album/birthday/1467846641?i=1467846642",
         "playParams": {
           "id": "1467846642",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/birthday/1467846641?i=1467846642",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -767,6 +810,49 @@
           }
         ],
         "artistName": "JEON SOMI"
+      }
+    },
+    {
+      "id": "1388255578",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1388255578",
+      "attributes": {
+        "albumName": "Selfish - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Hip-Hop/Rap"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 192578,
+        "releaseDate": "2018-05-23",
+        "isrc": "KRA381705378",
+        "artwork": {
+          "width": 3322,
+          "height": 3322,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/8f/80/6f/8f806f14-53fb-36de-9d14-484103aa00b2/cover-_DS.jpg/{w}x{h}bb.jpg",
+          "bgColor": "45d3fb",
+          "textColor1": "0c0a21",
+          "textColor2": "511e0c",
+          "textColor3": "17324c",
+          "textColor4": "4e423b"
+        },
+        "url": "https://music.apple.com/us/album/selfish-feat-seulgi/1388255563?i=1388255578",
+        "playParams": {
+          "id": "1388255578",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Selfish (feat. Seulgi)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/73/68/90736853-9999-bc86-5ec8-2667674b52be/mzaf_287220188834866224.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Moon Byul"
       }
     },
     {
@@ -782,8 +868,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 232195,
         "releaseDate": "2017-04-27",
+        "durationInMillis": 232195,
         "isrc": "KRA381700927",
         "artwork": {
           "width": 2000,
@@ -796,11 +882,11 @@
           "textColor4": "373435"
         },
         "composerName": "SUGA",
-        "url": "https://music.apple.com/us/album/wine-feat-%EC%B0%BD%EB%AA%A8/1230793489?i=1230793491",
         "playParams": {
           "id": "1230793491",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/wine-feat-%EC%B0%BD%EB%AA%A8/1230793489?i=1230793491",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -826,8 +912,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 214293,
         "releaseDate": "2019-07-01",
+        "durationInMillis": 214293,
         "isrc": "KRA381903439",
         "artwork": {
           "width": 3000,
@@ -839,11 +925,11 @@
           "textColor3": "bcb09f",
           "textColor4": "ba936d"
         },
-        "url": "https://music.apple.com/us/album/fever/1470921587?i=1470921588",
         "playParams": {
           "id": "1470921588",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fever/1470921587?i=1470921588",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -888,8 +974,8 @@
         },
         "url": "https://music.apple.com/us/album/black-mamba/1540251303?i=1540251305",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Black Mamba",
         "previews": [
           {
@@ -931,8 +1017,8 @@
         },
         "url": "https://music.apple.com/us/album/flower-korean-version/1470921587?i=1470921594",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Flower (Korean Version)",
         "previews": [
           {
@@ -974,8 +1060,8 @@
         },
         "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "April Fools (0401)",
         "previews": [
           {
@@ -997,8 +1083,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-10-28",
         "durationInMillis": 217927,
+        "releaseDate": "2019-10-28",
         "isrc": "KRA301900501",
         "artwork": {
           "width": 4000,
@@ -1011,14 +1097,14 @@
           "textColor4": "bbbbbb"
         },
         "composerName": "Kenzie, Anne Judith Stokke Wik & Ronny Svendsen",
+        "url": "https://music.apple.com/us/album/spark/1484919750?i=1484919752",
         "playParams": {
           "id": "1484919752",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/spark/1484919750?i=1484919752",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Spark",
         "previews": [
           {
@@ -1039,8 +1125,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-02-19",
         "durationInMillis": 237707,
+        "releaseDate": "2019-02-19",
         "isrc": "KRA381900458",
         "artwork": {
           "width": 3000,
@@ -1052,14 +1138,14 @@
           "textColor3": "262c30",
           "textColor4": "4b505d"
         },
+        "url": "https://music.apple.com/us/album/butterfly/1584158797?i=1584158799",
         "playParams": {
           "id": "1584158799",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/butterfly/1584158797?i=1584158799",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Butterfly",
         "previews": [
           {
@@ -1101,8 +1187,8 @@
         },
         "url": "https://music.apple.com/us/album/old-song/1634121957?i=1634121967",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "old song",
         "previews": [
           {
@@ -1186,8 +1272,8 @@
         },
         "url": "https://music.apple.com/us/album/when-im-gone/1599783575?i=1599783795",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "When I'm Gone",
         "previews": [
           {
@@ -1195,92 +1281,6 @@
           }
         ],
         "artistName": "Alesso & Katy Perry"
-      }
-    },
-    {
-      "id": "1569754000",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569754000",
-      "attributes": {
-        "albumName": "The Chaos Chapter : FREEZE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 202204,
-        "releaseDate": "2021-05-31",
-        "isrc": "USA2P2108442",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/35/e7/8a/35e78a57-4a16-03b7-fa63-50dd7cfcd5fa/192641750038_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "242834",
-          "textColor1": "e9eef5",
-          "textColor2": "00b6f2",
-          "textColor3": "c2c7ce",
-          "textColor4": "079acc"
-        },
-        "composerName": "Slow Rabbit, RM, Derek \u201cMod Sun\u201d Smith, Andrew Migliore, Melanie Joy Fontana, \"Hitman\" Bang, Danke, Will Simms, Gabriel Brandes, Matt Thomson & Max Lynedoch Graham",
-        "url": "https://music.apple.com/us/album/0x1-lovesong-i-know-i-love-you-feat-seori/1569753927?i=1569754000",
-        "playParams": {
-          "id": "1569754000",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "0X1=LOVESONG (I Know I Love You) [feat. Seori]",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/23/8c/9c/238c9cce-ab0d-c5ca-6958-eb034e018c36/mzaf_11023833034891730065.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TOMORROW X TOGETHER"
-      }
-    },
-    {
-      "id": "1610618872",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1610618872",
-      "attributes": {
-        "albumName": "a study of the human experience volume one - EP",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 168552,
-        "releaseDate": "2021-08-13",
-        "isrc": "USAT22103652",
-        "artwork": {
-          "width": 1425,
-          "height": 1425,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/07/c3/aa/07c3aa6f-33fd-92c3-dd03-1e8ff6ba9bbc/075679756992.jpg/{w}x{h}bb.jpg",
-          "bgColor": "984628",
-          "textColor1": "f1f0eb",
-          "textColor2": "e8dbd9",
-          "textColor3": "dfcec4",
-          "textColor4": "d8bdb5"
-        },
-        "composerName": "Dave Pittenger, GAYLE & Sara Davis",
-        "url": "https://music.apple.com/us/album/abcdefu/1610618866?i=1610618872",
-        "playParams": {
-          "id": "1610618872",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "abcdefu",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6d/00/f8/6d00f828-f9aa-7940-bc7f-57dc8f0e15f1/mzaf_13840381601338846610.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "GAYLE",
-        "contentRating": "explicit"
       }
     }
   ]
