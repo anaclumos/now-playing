@@ -2,6 +2,119 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.XMD63pzFvEldPV2",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.XMD63pzFvEldPV2",
+      "attributes": {
+        "discNumber": 1,
+        "albumName": "PINK OCEAN",
+        "genreNames": [
+          "Dance"
+        ],
+        "hasLyrics": false,
+        "trackNumber": 5,
+        "durationInMillis": 223608,
+        "name": "\ud55c \ubc1c\uc9dd \ub450 \ubc1c\uc9dd",
+        "artistName": "OH MY GIRL",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/72/3f/a1/723fa1cf-218e-28de-870b-41efa43ab5c9/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230216T184216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230216%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=911213efa4a29025ad408dc7327176c65d5ad4a755b2ba5239feec5fbc43a019"
+        },
+        "playParams": {
+          "id": "i.XMD63pzFvEldPV2",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1533391535",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1533391535",
+      "attributes": {
+        "albumName": "Twelve (Special Edition)",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2020-10-21",
+        "durationInMillis": 210592,
+        "isrc": "JPPO02002954",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/05/d7/ce/05d7cea8-2dfa-2bd4-fdc2-c476bb691921/20UMGIM78457.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "c874a4",
+          "textColor1": "040202",
+          "textColor2": "380c0f",
+          "textColor3": "2b1922",
+          "textColor4": "55212d"
+        },
+        "composerName": "iggy & Syb",
+        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
+        "playParams": {
+          "id": "1533391535",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Yume Wo Miteiru Aida (Japanese Version / IZ*ONE Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/55/a3/a055a357-28ad-a7f8-ac6c-7f8848b085b4/mzaf_9794572850915110346.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "1466755918",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1466755918",
+      "attributes": {
+        "albumName": "For the Summer - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-06-04",
+        "durationInMillis": 183787,
+        "isrc": "KRA381903186",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/b9/ec/d0/b9ecd071-9404-d1f8-3b88-cacde2d4b18f/cover-.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0094ff",
+          "textColor1": "141614",
+          "textColor2": "161616",
+          "textColor3": "102f43",
+          "textColor4": "123045"
+        },
+        "url": "https://music.apple.com/us/album/boogie-up/1466755917?i=1466755918",
+        "playParams": {
+          "id": "1466755918",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Boogie Up",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/58/37/135837cc-6ac5-eff7-4b24-25cfad17b1f1/mzaf_11946269710567398875.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "WJSN"
+      }
+    },
+    {
       "id": "1336924065",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1336924065",
@@ -33,8 +146,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heroine",
         "previews": [
           {
@@ -76,8 +189,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Change",
         "previews": [
           {
@@ -161,8 +274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DALLA DALLA (DallasK Remix)",
         "previews": [
           {
@@ -225,8 +338,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "durationInMillis": 202949,
         "releaseDate": "2020-10-21",
+        "durationInMillis": 202949,
         "isrc": "JPPO02002952",
         "artwork": {
           "width": 3000,
@@ -365,11 +478,11 @@
           "textColor3": "382c06",
           "textColor4": "7d3117"
         },
+        "url": "https://music.apple.com/us/album/zig-zag/1534999771?i=1534999774",
         "playParams": {
           "id": "1534999774",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/zig-zag/1534999771?i=1534999774",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -400,7 +513,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/7e/eb/e9/7eebe90a-2f23-08ac-aece-20e8eb22a699/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230216T183238Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230216%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=5954ca831632ef10675d283a14ba6acb32f511ce4f9afb5cabf9b413384f008d"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/7e/eb/e9/7eebe90a-2f23-08ac-aece-20e8eb22a699/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230216T184216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230216%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=dc7b6fe80d25a3bf8180d4a9fb7c1dee8009c4316491e369fcf9150c33417b79"
         },
         "playParams": {
           "id": "i.WmYQELqIxo4rAzD",
@@ -422,8 +535,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 198587,
         "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -527,8 +640,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -564,11 +677,11 @@
           "textColor4": "67452d"
         },
         "composerName": "\uac15\uc5f0\uc6b1, Yoon Sang Jo & \uc7a5\uc6d0\uc601",
+        "url": "https://music.apple.com/us/album/dreamlike/1569281731?i=1569281889",
         "playParams": {
           "id": "1569281889",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dreamlike/1569281731?i=1569281889",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -593,8 +706,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 217760,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 217760,
         "isrc": "KRA871900037",
         "artwork": {
           "width": 1400,
@@ -636,8 +749,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "durationInMillis": 203667,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 203667,
         "isrc": "KRA871900044",
         "artwork": {
           "width": 1400,
@@ -699,8 +812,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DUMDi DUMDi",
         "previews": [
           {
@@ -734,11 +847,11 @@
           "textColor3": "bfb0bc",
           "textColor4": "c2b0b1"
         },
+        "url": "https://music.apple.com/us/album/so-what/1584167409?i=1584167413",
         "playParams": {
           "id": "1584167413",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/so-what/1584167409?i=1584167413",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -777,11 +890,11 @@
           "textColor4": "41333b"
         },
         "composerName": "\uc774\uc0c1\ud638 & \uc6a9\ubc30",
+        "url": "https://music.apple.com/us/album/to-reach-you/1569745005?i=1569745014",
         "playParams": {
           "id": "1569745014",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/to-reach-you/1569745005?i=1569745014",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -806,8 +919,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 186893,
         "releaseDate": "2017-12-11",
+        "durationInMillis": 186893,
         "isrc": "US5TA1700125",
         "artwork": {
           "width": 1400,
@@ -906,11 +1019,11 @@
           "textColor4": "bea4ac"
         },
         "composerName": "SCORE, Megatone & Lee Deun",
+        "url": "https://music.apple.com/us/album/o-sole-mio/1569286882?i=1569287198",
         "playParams": {
           "id": "1569287198",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/o-sole-mio/1569286882?i=1569287198",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -948,11 +1061,11 @@
           "textColor3": "1b3933",
           "textColor4": "244033"
         },
+        "url": "https://music.apple.com/us/album/why/1127320872?i=1127321299",
         "playParams": {
           "id": "1127321299",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/why/1127320872?i=1127321299",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -996,8 +1109,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Bad Girl",
         "previews": [
           {
@@ -1033,11 +1146,11 @@
           "textColor4": "c93528"
         },
         "composerName": "JEON SOYEON & Woo Min Lee \u201ccollapsedone\u201d",
+        "url": "https://music.apple.com/us/album/where-is-love/1545320377?i=1545320622",
         "playParams": {
           "id": "1545320622",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/where-is-love/1545320377?i=1545320622",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1082,8 +1195,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Mise-en-Sc\u00e8ne",
         "previews": [
           {
@@ -1133,136 +1246,6 @@
           }
         ],
         "artistName": "IU"
-      }
-    },
-    {
-      "id": "1467846642",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1467846642",
-      "attributes": {
-        "albumName": "BIRTHDAY - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 185796,
-        "releaseDate": "2019-06-13",
-        "isrc": "KRA401900045",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/67/46/02/67460269-6446-0eab-7df1-a01746c52751/SOMI-DS-F.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f746cc",
-          "textColor1": "0e0003",
-          "textColor2": "310819",
-          "textColor3": "3d0e2b",
-          "textColor4": "58143d"
-        },
-        "url": "https://music.apple.com/us/album/birthday/1467846641?i=1467846642",
-        "playParams": {
-          "id": "1467846642",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "BIRTHDAY",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/91/78/7b917824-077f-46ff-c274-84d7da846592/mzaf_15363161217644920835.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "JEON SOMI"
-      }
-    },
-    {
-      "id": "1388255578",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1388255578",
-      "attributes": {
-        "albumName": "Selfish - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Hip-Hop/Rap"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2018-05-23",
-        "durationInMillis": 192578,
-        "isrc": "KRA381705378",
-        "artwork": {
-          "width": 3322,
-          "height": 3322,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/8f/80/6f/8f806f14-53fb-36de-9d14-484103aa00b2/cover-_DS.jpg/{w}x{h}bb.jpg",
-          "bgColor": "45d3fb",
-          "textColor1": "0c0a21",
-          "textColor2": "511e0c",
-          "textColor3": "17324c",
-          "textColor4": "4e423b"
-        },
-        "url": "https://music.apple.com/us/album/selfish-feat-seulgi/1388255563?i=1388255578",
-        "playParams": {
-          "id": "1388255578",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Selfish (feat. Seulgi)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/73/68/90736853-9999-bc86-5ec8-2667674b52be/mzaf_287220188834866224.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Moon Byul"
-      }
-    },
-    {
-      "id": "1230793491",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1230793491",
-      "attributes": {
-        "albumName": "Wine - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "R&B/Soul"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 232195,
-        "releaseDate": "2017-04-27",
-        "isrc": "KRA381700927",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/29/0d/b7290dd1-68b4-057c-90d2-13af323f3e5a/COVER-_DS.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a0a6a6",
-          "textColor1": "1b1816",
-          "textColor2": "1c1818",
-          "textColor3": "353532",
-          "textColor4": "373435"
-        },
-        "composerName": "SUGA",
-        "url": "https://music.apple.com/us/album/wine-feat-%EC%B0%BD%EB%AA%A8/1230793489?i=1230793491",
-        "playParams": {
-          "id": "1230793491",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Wine (feat. \ucc3d\ubaa8)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/a9/ad/a6a9ad5b-e6af-3ff6-8fd0-674ee6352f06/mzaf_8525485769937348836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "SURAN"
       }
     }
   ]
