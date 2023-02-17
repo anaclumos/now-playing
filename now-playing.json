@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1670598803",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670598803",
+      "attributes": {
+        "albumName": "W.A.Y - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 177973,
+        "releaseDate": "2023-02-14",
+        "isrc": "KRUM72300034",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/6f/33/b7/6f33b704-8e7d-18b8-3849-7343c9fea36b/23UMGIM10798.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "afb3d9",
+          "textColor1": "1f1833",
+          "textColor2": "361b39",
+          "textColor3": "3c3754",
+          "textColor4": "4e3a59"
+        },
+        "composerName": "S.Tiger, Elly & BIGBRAD",
+        "url": "https://music.apple.com/us/album/we-are-young/1670598529?i=1670598803",
+        "playParams": {
+          "id": "1670598803",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "WE ARE YOUNG",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ce/af/57/ceaf570b-4578-53c7-0583-a96f2cc3e017/mzaf_182491020673581031.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TRI.BE"
+      }
+    },
+    {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
+      "id": "1569282066",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569282066",
+      "attributes": {
+        "albumName": "BLOOM*IZ",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2020-02-17",
+        "durationInMillis": 201533,
+        "isrc": "KRA871900042",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0be7f",
+          "textColor1": "030302",
+          "textColor2": "452719",
+          "textColor3": "32281b",
+          "textColor4": "67452d"
+        },
+        "composerName": "\uc784\uc218\ud638, \uc6a9\ubc30 & \uc774\uc2a4\ub780",
+        "url": "https://music.apple.com/us/album/destiny/1569281731?i=1569282066",
+        "playParams": {
+          "id": "1569282066",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "DESTINY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/8c/5f/e08c5f2e-a304-eff0-86fa-e32a579fae9e/mzaf_15992052696721643221.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
       "id": "1640448906",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1640448906",
@@ -55,8 +184,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -75,8 +204,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -84,49 +213,6 @@
           }
         ],
         "artistName": "Meghan Trainor"
-      }
-    },
-    {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 198587,
-        "releaseDate": "2022-08-03",
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
       }
     },
     {
@@ -154,11 +240,11 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -183,8 +269,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-08-03",
         "durationInMillis": 210640,
+        "releaseDate": "2020-08-03",
         "isrc": "KRA392000053",
         "artwork": {
           "width": 3000,
@@ -197,14 +283,14 @@
           "textColor4": "452e00"
         },
         "composerName": "JEON SOYEON & Pop Time",
+        "url": "https://music.apple.com/us/album/dumdi-dumdi/1525322098?i=1525322105",
         "playParams": {
           "id": "1525322105",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dumdi-dumdi/1525322098?i=1525322105",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DUMDi DUMDi",
         "previews": [
           {
@@ -240,11 +326,11 @@
           "textColor4": "81acb8"
         },
         "composerName": "Teddy & 24",
+        "url": "https://music.apple.com/us/album/solo/1441819348?i=1441819350",
         "playParams": {
           "id": "1441819350",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/solo/1441819348?i=1441819350",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -269,8 +355,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2020-06-15",
         "durationInMillis": 192320,
+        "releaseDate": "2020-06-15",
         "isrc": "KRA492000678",
         "artwork": {
           "width": 1400,
@@ -283,14 +369,14 @@
           "textColor4": "763042"
         },
         "composerName": "MosPick, \ubbf8\uc57c\uc640\ud0a4 \uc0ac\ucfe0\ub77c & \uc57c\ubd80\ud0a4 \ub098\ucf54",
+        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "playParams": {
           "id": "1569282900",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/secret-story-of-the-swan-japanese-version/1569282878?i=1569282900",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Secret Story of the Swan (Japanese Version)",
         "previews": [
           {
@@ -312,8 +398,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 172558,
         "releaseDate": "2019-02-13",
+        "durationInMillis": 172558,
         "isrc": "KRB471900251",
         "artwork": {
           "width": 3000,
@@ -331,8 +417,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "And there was no one left",
         "previews": [
           {
@@ -354,8 +440,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-01-11",
         "durationInMillis": 197320,
+        "releaseDate": "2021-01-11",
         "isrc": "KRA392000074",
         "artwork": {
           "width": 3000,
@@ -368,14 +454,14 @@
           "textColor4": "c93528"
         },
         "composerName": "JEON SOYEON & Pop Time",
+        "url": "https://music.apple.com/us/album/hwaa/1545320377?i=1545320397",
         "playParams": {
           "id": "1545320397",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hwaa/1545320377?i=1545320397",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HWAA",
         "previews": [
           {
@@ -440,8 +526,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2019-04-10",
         "durationInMillis": 207966,
+        "releaseDate": "2019-04-10",
         "isrc": "KRMIM1905897",
         "artwork": {
           "width": 1400,
@@ -454,14 +540,14 @@
           "textColor4": "5c3535"
         },
         "composerName": "MosPick",
+        "url": "https://music.apple.com/us/album/hocus-pocus/1609395543?i=1609395997",
         "playParams": {
           "id": "1609395997",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hocus-pocus/1609395543?i=1609395997",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hocus Pocus",
         "previews": [
           {
@@ -526,8 +612,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 210879,
         "releaseDate": "2017-11-14",
+        "durationInMillis": 210879,
         "isrc": "KRE641700063",
         "artwork": {
           "width": 3000,
@@ -545,8 +631,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Triangle",
         "previews": [
           {
@@ -582,11 +668,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -611,8 +697,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-04-06",
         "durationInMillis": 242600,
+        "releaseDate": "2016-04-06",
         "isrc": "KRA341617106",
         "artwork": {
           "width": 2244,
@@ -624,14 +710,14 @@
           "textColor3": "3f3e3e",
           "textColor4": "5a4f4e"
         },
+        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "playParams": {
           "id": "1265727250",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "\uc0c1\uc0c1\ub354\ud558\uae30",
         "previews": [
           {
@@ -695,8 +781,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-05-14",
         "durationInMillis": 196947,
+        "releaseDate": "2019-05-14",
         "isrc": "QZEKE1912513",
         "artwork": {
           "width": 3000,
@@ -708,14 +794,14 @@
           "textColor3": "32171a",
           "textColor4": "3b1b21"
         },
+        "url": "https://music.apple.com/us/album/picky-picky/1580894728?i=1580894731",
         "playParams": {
           "id": "1580894731",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/picky-picky/1580894728?i=1580894731",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Picky Picky",
         "previews": [
           {
@@ -751,11 +837,11 @@
           "textColor4": "58555e"
         },
         "composerName": "72, Olof Lindskog, Hayley Aitken, Gavin Jones & \uc11c\uc9c0\uc74c",
+        "url": "https://music.apple.com/us/album/adios/1569758000?i=1569758007",
         "playParams": {
           "id": "1569758007",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/adios/1569758000?i=1569758007",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -794,11 +880,11 @@
           "textColor4": "c6b860"
         },
         "composerName": "Mirai, R!N, Ryo Ito, The Answer, Alura & Yuichiro Tsuru",
+        "url": "https://music.apple.com/us/album/etoile-korean-version/1535433314?i=1535433315",
         "playParams": {
           "id": "1535433315",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/etoile-korean-version/1535433314?i=1535433315",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -837,11 +923,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -867,8 +953,8 @@
           "Soundtrack"
         ],
         "trackNumber": 2,
-        "durationInMillis": 194427,
         "releaseDate": "2011-05-25",
+        "durationInMillis": 194427,
         "isrc": "KRA381001562",
         "artwork": {
           "width": 1772,
@@ -886,8 +972,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Hold My Hand (Instrumental)",
         "previews": [
           {
@@ -909,8 +995,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 220293,
         "releaseDate": "2017-11-08",
+        "durationInMillis": 220293,
         "isrc": "KRA771700053",
         "artwork": {
           "width": 3000,
@@ -928,8 +1014,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Chococo",
         "previews": [
           {
@@ -995,8 +1081,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-05-12",
         "durationInMillis": 203173,
+        "releaseDate": "2021-05-12",
         "isrc": "JPWP02170304",
         "artwork": {
           "width": 2000,
@@ -1009,14 +1095,14 @@
           "textColor4": "c29170"
         },
         "composerName": "Ciara Muscat & Trippy",
+        "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
         "playParams": {
           "id": "1561940784",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Strawberry Moon",
         "previews": [
           {
@@ -1125,8 +1211,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186035,
         "releaseDate": "2020-11-12",
+        "durationInMillis": 186035,
         "isrc": "KRA382006275",
         "artwork": {
           "width": 3000,
@@ -1144,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LIKE THIS",
         "previews": [
           {
@@ -1196,91 +1282,6 @@
           }
         ],
         "artistName": "DreamNote"
-      }
-    },
-    {
-      "id": "1538729552",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1538729552",
-      "attributes": {
-        "albumName": "\u56de:Walpurgis Night",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 208773,
-        "releaseDate": "2020-11-09",
-        "isrc": "KRA382006221",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/f2/5e/d5/f25ed5ba-f1e8-252b-c886-d854afe821c3/cover_-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "dddfd9",
-          "textColor3": "cbcbcb",
-          "textColor4": "b1b3ae"
-        },
-        "url": "https://music.apple.com/us/album/three-of-cups/1538729549?i=1538729552",
-        "playParams": {
-          "id": "1538729552",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Three of Cups",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/db/ff/1e/dbff1e2e-7f17-4250-4214-330fcc290cb8/mzaf_9456820755021129140.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "GFRIEND"
-      }
-    },
-    {
-      "id": "1569283091",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569283091",
-      "attributes": {
-        "albumName": "Oneiric Diary",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "2020-06-15",
-        "durationInMillis": 180813,
-        "isrc": "KRA492000679",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/2c/78/6d/2c786d9c-1ad9-8016-67b9-74a3e077addf/8809704415637_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e8cde0",
-          "textColor1": "2d141c",
-          "textColor2": "59091a",
-          "textColor3": "533943",
-          "textColor4": "763042"
-        },
-        "composerName": "\uc815\ud638\ud604 & \ud63c\ub2e4 \ud788\ud1a0\ubbf8",
-        "playParams": {
-          "id": "1569283091",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/merry-go-round-japanese-version/1569282878?i=1569283091",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Merry-Go-Round (Japanese Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/e2/2f/7de22f00-7fc4-3dd2-0450-18bf2dee7b3e/mzaf_8325552947997702081.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
       }
     }
   ]
