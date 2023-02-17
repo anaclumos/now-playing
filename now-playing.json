@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
       "id": "1640448906",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1640448906",
@@ -87,49 +130,6 @@
       }
     },
     {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-03",
-        "durationInMillis": 198587,
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
-      }
-    },
-    {
       "id": "i.b1JvkKdSbdrMKBq",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.b1JvkKdSbdrMKBq",
@@ -139,15 +139,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 220368,
         "name": "Ditto (UK Garage Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230217T031410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4f16cb11cdac201e885813e41a88bde533d07ce5f43b48514990a1a65d341189"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230217T032751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6a6c0cddc0b6487fdd453d162e9a4cc8b88ce275b322ff13cbc01f58feffbfc3"
         },
         "playParams": {
           "id": "i.b1JvkKdSbdrMKBq",
@@ -167,15 +167,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 195735,
         "name": "Cookie (Highschool Band Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230217T031410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=60cec8dc52e6791e9a487d5c78bf67d65e4d19e87302a5b69bcf2afab4142465"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230217T032751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=762b013e345d2b20184b5dfa0b3edac8bf4f15b2dd3091e40ad2f882ec8960a3"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -1169,89 +1169,89 @@
       }
     },
     {
-      "id": "1538734207",
+      "id": "1569282078",
       "type": "songs",
-      "href": "/v1/catalog/us/songs/1538734207",
+      "href": "/v1/catalog/us/songs/1569282078",
       "attributes": {
-        "albumName": "Star to a Young Culture - Single",
+        "albumName": "BLOOM*IZ",
         "genreNames": [
           "K-Pop",
           "Music",
-          "Pop",
-          "R&B/Soul"
+          "Pop"
         ],
-        "trackNumber": 2,
-        "releaseDate": "2020-11-12",
-        "durationInMillis": 186035,
-        "isrc": "KRA382006275",
+        "trackNumber": 12,
+        "releaseDate": "2020-02-17",
+        "durationInMillis": 197972,
+        "isrc": "KRA871900047",
         "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/b0/60/dc/b060dc0e-5872-fccc-0ba2-a1d89869ef43/dj.qzhbxzef.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000905",
-          "textColor1": "e7cdbd",
-          "textColor2": "e8b595",
-          "textColor3": "b8a699",
-          "textColor4": "b99378"
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0be7f",
+          "textColor1": "030302",
+          "textColor2": "452719",
+          "textColor3": "32281b",
+          "textColor4": "67452d"
         },
-        "url": "https://music.apple.com/us/album/like-this/1538734085?i=1538734207",
+        "composerName": "BLACK EDITION, Eastwest, Bull$EyE & Kim ga young",
+        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "playParams": {
-          "id": "1538734207",
+          "id": "1569282078",
           "kind": "song"
         },
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
-        "name": "LIKE THIS",
+        "name": "OPEN YOUR EYES",
         "previews": [
           {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/2c/1a/60/2c1a60bc-b6e4-2a5f-3e73-71ca0892be17/mzaf_18301249774073323391.plus.aac.p.m4a"
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/b9/81/30b981e8-997c-b8b9-258c-2f465a3986b8/mzaf_14505200039941536040.plus.aac.p.m4a"
           }
         ],
-        "artistName": "STAYC"
+        "artistName": "IZ*ONE"
       }
     },
     {
-      "id": "1455952874",
+      "id": "1569281889",
       "type": "songs",
-      "href": "/v1/catalog/us/songs/1455952874",
+      "href": "/v1/catalog/us/songs/1569281889",
       "attributes": {
-        "albumName": "Dream:Us - EP",
+        "albumName": "BLOOM*IZ",
         "genreNames": [
           "K-Pop",
           "Music",
-          "Pop",
-          "Dance"
+          "Pop"
         ],
-        "trackNumber": 2,
-        "releaseDate": "2019-03-12",
-        "durationInMillis": 200243,
-        "isrc": "KRA381900647",
+        "trackNumber": 3,
+        "releaseDate": "2020-02-17",
+        "durationInMillis": 226787,
+        "isrc": "KRA871900038",
         "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/10/ef/be/10efbe4a-fbc3-cfa8-07fa-3f969f38cff0/cover-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "2163b0",
-          "textColor1": "ffe76d",
-          "textColor2": "fde057",
-          "textColor3": "d2cc7a",
-          "textColor4": "d1c769"
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0be7f",
+          "textColor1": "030302",
+          "textColor2": "452719",
+          "textColor3": "32281b",
+          "textColor4": "67452d"
         },
-        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
+        "composerName": "\uac15\uc5f0\uc6b1, Yoon Sang Jo & \uc7a5\uc6d0\uc601",
+        "url": "https://music.apple.com/us/album/dreamlike/1569281731?i=1569281889",
         "playParams": {
-          "id": "1455952874",
+          "id": "1569281889",
           "kind": "song"
         },
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
-        "name": "Hakuna Matata",
+        "name": "DREAMLIKE",
         "previews": [
           {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/d7/bd/dfd7bdeb-3c7f-e913-bc0e-236361833993/mzaf_631035408492228634.plus.aac.p.m4a"
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/28/41/fc284176-020e-e918-a23a-5b34066ac8a8/mzaf_16060171173478091151.plus.aac.p.m4a"
           }
         ],
-        "artistName": "DreamNote"
+        "artistName": "IZ*ONE"
       }
     }
   ]
