@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1669378322",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1669378322",
+      "attributes": {
+        "albumName": "Poppy (Korean Ver.) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
+        "isrc": "KRA382300512",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d357f4",
+          "textColor2": "d933f7",
+          "textColor3": "a946c3",
+          "textColor4": "ad29c6"
+        },
+        "playParams": {
+          "id": "1669378322",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Poppy (Korean Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "1670622073",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1670622073",
@@ -69,60 +111,18 @@
           "textColor4": "414546"
         },
         "composerName": "Rado, Fly-T & Will.B",
-        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "playParams": {
           "id": "1654124215",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Poppy",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/07/69/97/076997a3-8cab-d38b-edc7-8a642ef746da/mzaf_13303718278971176677.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1669378322",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1669378322",
-      "attributes": {
-        "albumName": "Poppy (Korean Ver.) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-03",
-        "durationInMillis": 178293,
-        "isrc": "KRA382300512",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d357f4",
-          "textColor2": "d933f7",
-          "textColor3": "a946c3",
-          "textColor4": "ad29c6"
-        },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
-        "playParams": {
-          "id": "1669378322",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Poppy (Korean Ver.)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
           }
         ],
         "artistName": "STAYC"
@@ -203,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -281,14 +281,14 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "I'm Not Here To Make Friends",
         "previews": [
           {
@@ -329,8 +329,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Our Dawn Is Hotter Than Day",
         "previews": [
           {
@@ -371,16 +371,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "SmartPhones",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/54/89/73548917-e83f-3327-6d01-8c16e4061221/mzaf_9211868602834679551.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Trey Songz",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Trey Songz"
       }
     },
     {
@@ -414,8 +414,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -451,11 +451,11 @@
           "textColor3": "393734",
           "textColor4": "413f3c"
         },
-        "url": "https://music.apple.com/us/album/hold-my-hand/444687177?i=444687268",
         "playParams": {
           "id": "444687268",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hold-my-hand/444687177?i=444687268",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -494,14 +494,14 @@
           "textColor3": "b3bec2",
           "textColor4": "b58586"
         },
-        "url": "https://music.apple.com/us/album/galaxy/1446837994?i=1446837995",
         "playParams": {
           "id": "1446837995",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/galaxy/1446837994?i=1446837995",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Galaxy",
         "previews": [
           {
@@ -623,14 +623,14 @@
           "textColor4": "34383b"
         },
         "composerName": "YOU JI SANG, Patrick Gold, Janieck G. van de Poler, Yasmeen Semaan & Seo Jung-Hwa",
-        "url": "https://music.apple.com/us/album/rocket-ride-korean-version/1525727518?i=1525727523",
         "playParams": {
           "id": "1525727523",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rocket-ride-korean-version/1525727518?i=1525727523",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rocket Ride (Korean Version)",
         "previews": [
           {
@@ -669,11 +669,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, ZICO & \uc720\uac74\ud615",
-        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "playParams": {
           "id": "1620871961",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -718,8 +718,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Really Really",
         "previews": [
           {
@@ -755,11 +755,11 @@
           "textColor3": "bcb09f",
           "textColor4": "ba936d"
         },
-        "url": "https://music.apple.com/us/album/flower-korean-version/1470921587?i=1470921594",
         "playParams": {
           "id": "1470921594",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flower-korean-version/1470921587?i=1470921594",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -804,8 +804,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Se\u00f1orita",
         "previews": [
           {
@@ -840,11 +840,11 @@
           "textColor3": "3e3e3c",
           "textColor4": "454543"
         },
-        "url": "https://music.apple.com/us/album/loonatic-eng-ver/1299621014?i=1299621019",
         "playParams": {
           "id": "1299621019",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/loonatic-eng-ver/1299621014?i=1299621019",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -883,11 +883,11 @@
           "textColor4": "a98652"
         },
         "composerName": "Kobee, Charlotte Wilson, earattack & J.Y. Park \u201cThe Asiansoul\u201d",
-        "url": "https://music.apple.com/us/album/not-shy/1608247235?i=1608247446",
         "playParams": {
           "id": "1608247446",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/not-shy/1608247235?i=1608247446",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -926,11 +926,11 @@
           "textColor4": "41333b"
         },
         "composerName": "\uc784\uc218\ud638, Cno & \uc6c5\ud0b4",
-        "url": "https://music.apple.com/us/album/1000/1569745005?i=1569745302",
         "playParams": {
           "id": "1569745302",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/1000/1569745005?i=1569745302",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1054,14 +1054,14 @@
           "textColor4": "67452d"
         },
         "composerName": "BLACK EDITION, Eastwest, Bull$EyE & Kim ga young",
-        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "playParams": {
           "id": "1569282078",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OPEN YOUR EYES",
         "previews": [
           {
@@ -1096,11 +1096,11 @@
           "textColor3": "373430",
           "textColor4": "3e4b5c"
         },
-        "url": "https://music.apple.com/us/album/hello-tutorial-feat-seulgi/1438831911?i=1438831913",
         "playParams": {
           "id": "1438831913",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hello-tutorial-feat-seulgi/1438831911?i=1438831913",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -1188,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Luv U",
         "previews": [
           {
@@ -1268,14 +1268,14 @@
           "textColor4": "454763"
         },
         "composerName": "Hyuk Shin, Jeong Yoon, Ashley Alisha, JJ Evans(Joombas), Moof & JJ Evans",
-        "url": "https://music.apple.com/us/album/bungee-fall-in-love/1551951200?i=1551951202",
         "playParams": {
           "id": "1551951202",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/bungee-fall-in-love/1551951200?i=1551951202",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "BUNGEE (Fall in Love)",
         "previews": [
           {
