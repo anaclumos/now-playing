@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1669378322",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1669378322",
+      "attributes": {
+        "albumName": "Poppy (Korean Ver.) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
+        "isrc": "KRA382300512",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d357f4",
+          "textColor2": "d933f7",
+          "textColor3": "a946c3",
+          "textColor4": "ad29c6"
+        },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
+        "playParams": {
+          "id": "1669378322",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Poppy (Korean Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "1670622073",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1670622073",
@@ -13,8 +55,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-14",
         "durationInMillis": 189773,
+        "releaseDate": "2023-02-14",
         "isrc": "KRA382300511",
         "artwork": {
           "width": 3000,
@@ -32,8 +74,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Teddy Bear",
         "previews": [
           {
@@ -81,48 +123,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/07/69/97/076997a3-8cab-d38b-edc7-8a642ef746da/mzaf_13303718278971176677.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1669378322",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1669378322",
-      "attributes": {
-        "albumName": "Poppy (Korean Ver.) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-03",
-        "durationInMillis": 178293,
-        "isrc": "KRA382300512",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d357f4",
-          "textColor2": "d933f7",
-          "textColor3": "a946c3",
-          "textColor4": "ad29c6"
-        },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
-        "playParams": {
-          "id": "1669378322",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Poppy (Korean Ver.)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
           }
         ],
         "artistName": "STAYC"
@@ -351,8 +351,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "releaseDate": "2014-04-01",
         "durationInMillis": 232742,
+        "releaseDate": "2014-04-01",
         "isrc": "USAT21401100",
         "artwork": {
           "width": 1425,
@@ -371,8 +371,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "SmartPhones",
         "previews": [
           {
@@ -394,8 +394,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 134256,
+        "releaseDate": "2022-10-21",
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -414,8 +414,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -481,8 +481,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-08-29",
         "durationInMillis": 213853,
+        "releaseDate": "2016-08-29",
         "isrc": "KRA921600019",
         "artwork": {
           "width": 2400,
@@ -500,8 +500,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Galaxy",
         "previews": [
           {
@@ -609,8 +609,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-08-28",
         "durationInMillis": 168067,
+        "releaseDate": "2020-08-28",
         "isrc": "DEXO12085207",
         "artwork": {
           "width": 3000,
@@ -629,8 +629,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rocket Ride (Korean Version)",
         "previews": [
           {
@@ -655,8 +655,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-04-29",
         "durationInMillis": 199766,
+        "releaseDate": "2022-04-29",
         "isrc": "QZEKE2084403",
         "artwork": {
           "width": 3000,
@@ -675,8 +675,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Celeb",
         "previews": [
           {
@@ -699,8 +699,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-05-22",
         "durationInMillis": 195680,
+        "releaseDate": "2019-05-22",
         "isrc": "KRA381902039",
         "artwork": {
           "width": 3000,
@@ -718,8 +718,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Really Really",
         "previews": [
           {
@@ -742,8 +742,8 @@
           "Dance"
         ],
         "trackNumber": 7,
-        "releaseDate": "2019-07-01",
         "durationInMillis": 217587,
+        "releaseDate": "2019-07-01",
         "isrc": "KRA381903445",
         "artwork": {
           "width": 3000,
@@ -761,8 +761,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Flower (Korean Version)",
         "previews": [
           {
@@ -785,8 +785,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-02-26",
         "durationInMillis": 197616,
+        "releaseDate": "2019-02-26",
         "isrc": "KRA391900008",
         "artwork": {
           "width": 3000,
@@ -804,8 +804,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Se\u00f1orita",
         "previews": [
           {
@@ -827,8 +827,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-10-23",
         "durationInMillis": 180576,
+        "releaseDate": "2017-10-23",
         "isrc": "KRA341754770",
         "artwork": {
           "width": 1772,
@@ -846,8 +846,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOONATIC (Eng. Ver.)",
         "previews": [
           {
@@ -912,8 +912,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2018-08-18",
         "durationInMillis": 216371,
+        "releaseDate": "2018-08-18",
         "isrc": "KRA491800736",
         "artwork": {
           "width": 1400,
@@ -932,8 +932,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "1000%",
         "previews": [
           {
@@ -997,8 +997,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 217960,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900036",
         "artwork": {
           "width": 1400,
@@ -1017,8 +1017,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "EYES",
         "previews": [
           {
@@ -1040,8 +1040,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 197972,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900047",
         "artwork": {
           "width": 1400,
@@ -1060,8 +1060,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OPEN YOUR EYES",
         "previews": [
           {
@@ -1083,8 +1083,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2018-10-15",
         "durationInMillis": 202343,
+        "releaseDate": "2018-10-15",
         "isrc": "KRA401800132",
         "artwork": {
           "width": 4000,
@@ -1102,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Hello Tutorial (feat. SEULGI)",
         "previews": [
           {
@@ -1125,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-07-07",
         "durationInMillis": 205013,
+        "releaseDate": "2020-07-07",
         "isrc": "KRA392000050",
         "artwork": {
           "width": 3000,
@@ -1145,8 +1145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "i'M THE TREND",
         "previews": [
           {
@@ -1211,8 +1211,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-07-08",
         "durationInMillis": 178133,
+        "releaseDate": "2022-07-08",
         "isrc": "KRA302200099",
         "artwork": {
           "width": 4000,
@@ -1231,8 +1231,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Life's Too Short",
         "previews": [
           {
