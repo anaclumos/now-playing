@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1639416903",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639416903",
+      "attributes": {
+        "albumName": "After LIKE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
+        "isrc": "QMBZ92254957",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00ff00",
+          "textColor1": "000000",
+          "textColor2": "002f00",
+          "textColor3": "003300",
+          "textColor4": "005800"
+        },
+        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
+        "playParams": {
+          "id": "1639416903",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "After LIKE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
       "id": "1584809295",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1584809295",
@@ -32,8 +75,8 @@
         },
         "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Antifreeze",
         "previews": [
           {
@@ -74,8 +117,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -97,8 +140,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-14",
         "durationInMillis": 189773,
+        "releaseDate": "2023-02-14",
         "isrc": "KRA382300511",
         "artwork": {
           "width": 3000,
@@ -110,11 +153,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -139,8 +182,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-16",
         "durationInMillis": 179867,
+        "releaseDate": "2022-11-16",
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -153,11 +196,11 @@
           "textColor4": "414546"
         },
         "composerName": "Rado, Fly-T & Will.B",
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "playParams": {
           "id": "1654124215",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -182,8 +225,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-03",
         "durationInMillis": 198587,
+        "releaseDate": "2022-08-03",
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -196,11 +239,11 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -225,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199067,
         "releaseDate": "2022-06-02",
+        "durationInMillis": 199067,
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -239,11 +282,11 @@
           "textColor4": "494643"
         },
         "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "playParams": {
           "id": "1626233053",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -287,8 +330,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -309,8 +352,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 229605,
         "releaseDate": "2023-01-27",
+        "durationInMillis": 229605,
         "isrc": "GBUM72205420",
         "artwork": {
           "width": 3000,
@@ -323,11 +366,11 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -371,8 +414,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Our Dawn Is Hotter Than Day",
         "previews": [
           {
@@ -413,8 +456,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "SmartPhones",
         "previews": [
           {
@@ -436,8 +479,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -450,11 +493,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -499,8 +542,8 @@
         },
         "url": "https://music.apple.com/us/album/hold-my-hand/444687177?i=444687268",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hold My Hand",
         "previews": [
           {
@@ -523,8 +566,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-08-29",
         "durationInMillis": 213853,
+        "releaseDate": "2016-08-29",
         "isrc": "KRA921600019",
         "artwork": {
           "width": 2400,
@@ -536,11 +579,11 @@
           "textColor3": "b3bec2",
           "textColor4": "b58586"
         },
+        "url": "https://music.apple.com/us/album/galaxy/1446837994?i=1446837995",
         "playParams": {
           "id": "1446837995",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/galaxy/1446837994?i=1446837995",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -566,8 +609,8 @@
           "Dance"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-07-01",
         "durationInMillis": 197307,
+        "releaseDate": "2019-07-01",
         "isrc": "KRA381903440",
         "artwork": {
           "width": 3000,
@@ -579,11 +622,11 @@
           "textColor3": "bcb09f",
           "textColor4": "ba936d"
         },
+        "url": "https://music.apple.com/us/album/mr-blue/1470921587?i=1470921589",
         "playParams": {
           "id": "1470921589",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/mr-blue/1470921587?i=1470921589",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -628,8 +671,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Abittipsy",
         "previews": [
           {
@@ -651,8 +694,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168067,
         "releaseDate": "2020-08-28",
+        "durationInMillis": 168067,
         "isrc": "DEXO12085207",
         "artwork": {
           "width": 3000,
@@ -665,11 +708,11 @@
           "textColor4": "34383b"
         },
         "composerName": "YOU JI SANG, Patrick Gold, Janieck G. van de Poler, Yasmeen Semaan & Seo Jung-Hwa",
-        "url": "https://music.apple.com/us/album/rocket-ride-korean-version/1525727518?i=1525727523",
         "playParams": {
           "id": "1525727523",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rocket-ride-korean-version/1525727518?i=1525727523",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -697,8 +740,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 199766,
         "releaseDate": "2022-04-29",
+        "durationInMillis": 199766,
         "isrc": "QZEKE2084403",
         "artwork": {
           "width": 3000,
@@ -711,11 +754,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, ZICO & \uc720\uac74\ud615",
-        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "playParams": {
           "id": "1620871961",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -760,8 +803,8 @@
         },
         "url": "https://music.apple.com/us/album/really-really/1464882593?i=1464882594",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Really Really",
         "previews": [
           {
@@ -803,8 +846,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Flower (Korean Version)",
         "previews": [
           {
@@ -846,8 +889,8 @@
         },
         "url": "https://music.apple.com/us/album/se%C3%B1orita/1454363872?i=1454363873",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Se\u00f1orita",
         "previews": [
           {
@@ -888,8 +931,8 @@
         },
         "url": "https://music.apple.com/us/album/loonatic-eng-ver/1299621014?i=1299621019",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOONATIC (Eng. Ver.)",
         "previews": [
           {
@@ -931,8 +974,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Not Shy",
         "previews": [
           {
@@ -954,8 +997,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2018-08-18",
         "durationInMillis": 216371,
+        "releaseDate": "2018-08-18",
         "isrc": "KRA491800736",
         "artwork": {
           "width": 1400,
@@ -968,11 +1011,11 @@
           "textColor4": "41333b"
         },
         "composerName": "\uc784\uc218\ud638, Cno & \uc6c5\ud0b4",
+        "url": "https://music.apple.com/us/album/1000/1569745005?i=1569745302",
         "playParams": {
           "id": "1569745302",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/1000/1569745005?i=1569745302",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1016,8 +1059,8 @@
         },
         "url": "https://music.apple.com/us/album/thirsty/1453487150?i=1453487152",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Thirsty",
         "previews": [
           {
@@ -1039,8 +1082,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217960,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 217960,
         "isrc": "KRA871900036",
         "artwork": {
           "width": 1400,
@@ -1053,11 +1096,11 @@
           "textColor4": "67452d"
         },
         "composerName": "\ub77c\uc774\uc5b8 \uc804, Andy Love, Andreas \u00d6berg, David Amber & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "playParams": {
           "id": "1569281733",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1082,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 197972,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900047",
         "artwork": {
           "width": 1400,
@@ -1096,11 +1139,11 @@
           "textColor4": "67452d"
         },
         "composerName": "BLACK EDITION, Eastwest, Bull$EyE & Kim ga young",
+        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "playParams": {
           "id": "1569282078",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1125,8 +1168,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 202343,
         "releaseDate": "2018-10-15",
+        "durationInMillis": 202343,
         "isrc": "KRA401800132",
         "artwork": {
           "width": 4000,
@@ -1138,11 +1181,11 @@
           "textColor3": "373430",
           "textColor4": "3e4b5c"
         },
-        "url": "https://music.apple.com/us/album/hello-tutorial-feat-seulgi/1438831911?i=1438831913",
         "playParams": {
           "id": "1438831913",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hello-tutorial-feat-seulgi/1438831911?i=1438831913",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1167,8 +1210,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 205013,
         "releaseDate": "2020-07-07",
+        "durationInMillis": 205013,
         "isrc": "KRA392000050",
         "artwork": {
           "width": 3000,
@@ -1181,11 +1224,11 @@
           "textColor4": "cec4db"
         },
         "composerName": "Minnie, Yuqi, FCMHoudini & YUTO",
-        "url": "https://music.apple.com/us/album/im-the-trend/1520355339?i=1520355364",
         "playParams": {
           "id": "1520355364",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/im-the-trend/1520355339?i=1520355364",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1230,8 +1273,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Luv U",
         "previews": [
           {
@@ -1239,49 +1282,6 @@
           }
         ],
         "artistName": "(G)I-DLE"
-      }
-    },
-    {
-      "id": "1626752995",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1626752995",
-      "attributes": {
-        "albumName": "Girls - The 2nd Mini Album (Apple Music Up Next Film Edition)",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2022-07-08",
-        "durationInMillis": 178133,
-        "isrc": "KRA302200099",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c9/7d/dd/c97ddd34-5962-8cf1-a55c-cf730d3069f5/888735941375.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "f0fafc",
-          "textColor2": "f4c4d1",
-          "textColor3": "c0c8ca",
-          "textColor4": "c39da8"
-        },
-        "composerName": "Becky Hill, Sam Klempner & Uzoechi Emenike",
-        "playParams": {
-          "id": "1626752995",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Life's Too Short",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/08/8d/cf088d40-3520-81ab-64fc-13b165dbd9e2/mzaf_5649360840681632743.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
       }
     }
   ]
