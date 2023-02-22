@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
+      "id": "1273710101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1273710101",
+      "attributes": {
+        "albumName": "Excitement of Youth",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 1838,
+          "height": 1600,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a4030f",
+          "textColor1": "f5e5e7",
+          "textColor2": "fe9792",
+          "textColor3": "e5b8bb",
+          "textColor4": "ec7a78"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
+        "playParams": {
+          "id": "1273710101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
       "id": "1620871958",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1620871958",
@@ -36,8 +121,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "That That (prod. & feat. SUGA of BTS)",
         "previews": [
           {
@@ -79,8 +164,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oh my god",
         "previews": [
           {
@@ -121,8 +206,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "La Vie en Rose (Japanese Version)",
         "previews": [
           {
@@ -164,8 +249,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Violeta",
         "previews": [
           {
@@ -206,8 +291,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Violeta (Japanese Version)",
         "previews": [
           {
@@ -249,8 +334,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HOT",
         "previews": [
           {
@@ -265,20 +350,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.4YBezv3h2Vvp1BD",
       "attributes": {
-        "discNumber": 1,
         "albumName": "\u30b5\u30e0\u30cd\u30a4\u30eb (Type B)",
+        "discNumber": 1,
         "genreNames": [
           "Pop"
         ],
-        "trackNumber": 8,
         "hasLyrics": false,
+        "trackNumber": 8,
         "durationInMillis": 227970,
         "name": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3",
         "artistName": "AKB48",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6c/c5/3f/6cc53f56-37ab-984a-43c9-9d99381df7d8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230222T210848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230222%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=5d64aeed60d6c302678fa4ebcdb70c203d706ac28af8c8bb52790e816d8781db"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6c/c5/3f/6cc53f56-37ab-984a-43c9-9d99381df7d8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230222T211954Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230222%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=ccb3ef54fa72853840eb01c5c139d41e83fb2689523a5980d0cd67a42cb6633c"
         },
         "playParams": {
           "id": "i.4YBezv3h2Vvp1BD",
@@ -319,8 +404,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "WANNABE",
         "previews": [
           {
@@ -361,8 +446,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "\uc0c1\uc0c1\ub354\ud558\uae30 (Instrumental)",
         "previews": [
           {
@@ -403,8 +488,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Touch",
         "previews": [
           {
@@ -445,8 +530,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Beware",
         "previews": [
           {
@@ -488,8 +573,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hold My Hand",
         "previews": [
           {
@@ -531,8 +616,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Get It Out",
         "previews": [
           {
@@ -552,15 +637,15 @@
         "genreNames": [
           "Dance"
         ],
-        "trackNumber": 1,
         "hasLyrics": false,
+        "trackNumber": 1,
         "durationInMillis": 189100,
         "name": "\ud53c\uce74\ubd80 (Peek-A-Boo)",
         "artistName": "Red Velvet",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/3b/3a/7f/3b3a7f54-8b21-9740-5217-462db8b71417/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230222T210848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230222%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=198d26f898394d772de292632972cc6a38925ae3ee789cdc9ce241c108e4192e"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/3b/3a/7f/3b3a7f54-8b21-9740-5217-462db8b71417/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230222T211954Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230222%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=dcbca9ee8920b09958ebc77879640715f617743d2057871fa4515926d2325a37"
         },
         "playParams": {
           "id": "i.DVENZZ0FRZBl3Le",
@@ -602,8 +687,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Crazy Over You",
         "previews": [
           {
@@ -645,8 +730,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Merry & Happy",
         "previews": [
           {
@@ -687,8 +772,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Shy boy",
         "previews": [
           {
@@ -730,8 +815,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Butterfly",
         "previews": [
           {
@@ -773,8 +858,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BAZOOKA!",
         "previews": [
           {
@@ -816,8 +901,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Night Aviation (The Interpretation of Dreams)",
         "previews": [
           {
@@ -859,8 +944,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Like It Hot",
         "previews": [
           {
@@ -902,8 +987,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "YOLOWA",
         "previews": [
           {
@@ -944,8 +1029,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hi High",
         "previews": [
           {
@@ -986,8 +1071,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SO BAD",
         "previews": [
           {
@@ -1029,8 +1114,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMILEY (feat. BIBI)",
         "previews": [
           {
@@ -1072,8 +1157,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hush",
         "previews": [
           {
@@ -1115,8 +1200,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OPEN YOUR EYES",
         "previews": [
           {
@@ -1158,8 +1243,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Gasoline",
         "previews": [
           {
@@ -1167,92 +1252,6 @@
           }
         ],
         "artistName": "KEY"
-      }
-    },
-    {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-03",
-        "durationInMillis": 198587,
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
-      }
-    },
-    {
-      "id": "1439420504",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1439420504",
-      "attributes": {
-        "albumName": "Pop / Stars (feat. Jaira Burns) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2018-11-03",
-        "durationInMillis": 191100,
-        "isrc": "NLRD51859885",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3d/c3/bb/3dc3bbff-12fd-3828-02c8-813f0f4f0c4a/8718857592648.png/{w}x{h}bb.jpg",
-          "bgColor": "060515",
-          "textColor1": "e8bdd5",
-          "textColor2": "e3a1bf",
-          "textColor3": "bb98af",
-          "textColor4": "b7829d"
-        },
-        "composerName": "Sebastien Najand & Jessica Karpov",
-        "url": "https://music.apple.com/us/album/pop-stars-feat-jaira-burns/1439420228?i=1439420504",
-        "playParams": {
-          "id": "1439420504",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Pop / Stars (feat. Jaira Burns)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f0/b2/2a/f0b22a57-9d5d-c40e-a910-6c6003c8b017/mzaf_11724984527309053951.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "K/DA, Madison Beer & (G)I-DLE"
       }
     }
   ]
