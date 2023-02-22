@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
       "id": "1273710101",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1273710101",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "durationInMillis": 235241,
         "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 1838,
@@ -55,8 +98,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -110,14 +153,14 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Teddy Bear",
         "previews": [
           {
@@ -171,49 +214,6 @@
       }
     },
     {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 198587,
-        "releaseDate": "2022-08-03",
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
-      }
-    },
-    {
       "id": "1626233053",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1626233053",
@@ -225,8 +225,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199067,
         "releaseDate": "2022-06-02",
+        "durationInMillis": 199067,
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -365,22 +365,22 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Alvin Isaacs, Bryan Nelson, Samuel Jean & Tremaine Neverson",
-        "url": "https://music.apple.com/us/album/smartphones/886332086?i=886332110",
         "playParams": {
           "id": "886332110",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smartphones/886332086?i=886332110",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "SmartPhones",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/54/89/73548917-e83f-3327-6d01-8c16e4061221/mzaf_9211868602834679551.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Trey Songz",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Trey Songz"
       }
     },
     {
@@ -408,14 +408,14 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -438,8 +438,8 @@
           "Soundtrack"
         ],
         "trackNumber": 1,
-        "durationInMillis": 195187,
         "releaseDate": "2011-05-25",
+        "durationInMillis": 195187,
         "isrc": "KRA381001561",
         "artwork": {
           "width": 1772,
@@ -481,8 +481,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213853,
         "releaseDate": "2016-08-29",
+        "durationInMillis": 213853,
         "isrc": "KRA921600019",
         "artwork": {
           "width": 2400,
@@ -494,14 +494,14 @@
           "textColor3": "b3bec2",
           "textColor4": "b58586"
         },
-        "url": "https://music.apple.com/us/album/galaxy/1446837994?i=1446837995",
         "playParams": {
           "id": "1446837995",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/galaxy/1446837994?i=1446837995",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Galaxy",
         "previews": [
           {
@@ -566,8 +566,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165545,
         "releaseDate": "2021-01-13",
+        "durationInMillis": 165545,
         "isrc": "KRUM72100001",
         "artwork": {
           "width": 4000,
@@ -623,14 +623,14 @@
           "textColor4": "34383b"
         },
         "composerName": "YOU JI SANG, Patrick Gold, Janieck G. van de Poler, Yasmeen Semaan & Seo Jung-Hwa",
-        "url": "https://music.apple.com/us/album/rocket-ride-korean-version/1525727518?i=1525727523",
         "playParams": {
           "id": "1525727523",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rocket-ride-korean-version/1525727518?i=1525727523",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rocket Ride (Korean Version)",
         "previews": [
           {
@@ -655,8 +655,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 199766,
         "releaseDate": "2022-04-29",
+        "durationInMillis": 199766,
         "isrc": "QZEKE2084403",
         "artwork": {
           "width": 3000,
@@ -669,14 +669,14 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, ZICO & \uc720\uac74\ud615",
-        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "playParams": {
           "id": "1620871961",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Celeb",
         "previews": [
           {
@@ -742,8 +742,8 @@
           "Dance"
         ],
         "trackNumber": 7,
-        "durationInMillis": 217587,
         "releaseDate": "2019-07-01",
+        "durationInMillis": 217587,
         "isrc": "KRA381903445",
         "artwork": {
           "width": 3000,
@@ -869,8 +869,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177728,
         "releaseDate": "2020-08-17",
+        "durationInMillis": 177728,
         "isrc": "US5TA2000074",
         "artwork": {
           "width": 1400,
@@ -883,14 +883,14 @@
           "textColor4": "a98652"
         },
         "composerName": "Kobee, Charlotte Wilson, earattack & J.Y. Park \u201cThe Asiansoul\u201d",
-        "url": "https://music.apple.com/us/album/not-shy/1608247235?i=1608247446",
         "playParams": {
           "id": "1608247446",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/not-shy/1608247235?i=1608247446",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Not Shy",
         "previews": [
           {
@@ -912,8 +912,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 216371,
         "releaseDate": "2018-08-18",
+        "durationInMillis": 216371,
         "isrc": "KRA491800736",
         "artwork": {
           "width": 1400,
@@ -926,14 +926,14 @@
           "textColor4": "41333b"
         },
         "composerName": "\uc784\uc218\ud638, Cno & \uc6c5\ud0b4",
-        "url": "https://music.apple.com/us/album/1000/1569745005?i=1569745302",
         "playParams": {
           "id": "1569745302",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/1000/1569745005?i=1569745302",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "1000%",
         "previews": [
           {
@@ -955,8 +955,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186546,
         "releaseDate": "2017-03-27",
+        "durationInMillis": 186546,
         "isrc": "KRA381700639",
         "artwork": {
           "width": 3000,
@@ -1011,14 +1011,14 @@
           "textColor4": "67452d"
         },
         "composerName": "\ub77c\uc774\uc5b8 \uc804, Andy Love, Andreas \u00d6berg, David Amber & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "playParams": {
           "id": "1569281733",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "EYES",
         "previews": [
           {
@@ -1054,14 +1054,14 @@
           "textColor4": "67452d"
         },
         "composerName": "BLACK EDITION, Eastwest, Bull$EyE & Kim ga young",
-        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "playParams": {
           "id": "1569282078",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OPEN YOUR EYES",
         "previews": [
           {
@@ -1083,8 +1083,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 202343,
         "releaseDate": "2018-10-15",
+        "durationInMillis": 202343,
         "isrc": "KRA401800132",
         "artwork": {
           "width": 4000,
@@ -1096,14 +1096,14 @@
           "textColor3": "373430",
           "textColor4": "3e4b5c"
         },
-        "url": "https://music.apple.com/us/album/hello-tutorial-feat-seulgi/1438831911?i=1438831913",
         "playParams": {
           "id": "1438831913",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hello-tutorial-feat-seulgi/1438831911?i=1438831913",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Hello Tutorial (feat. SEULGI)",
         "previews": [
           {
@@ -1125,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 205013,
         "releaseDate": "2020-07-07",
+        "durationInMillis": 205013,
         "isrc": "KRA392000050",
         "artwork": {
           "width": 3000,
@@ -1168,8 +1168,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 213613,
         "releaseDate": "2020-04-06",
+        "durationInMillis": 213613,
         "isrc": "KRA392000023",
         "artwork": {
           "width": 3000,
@@ -1182,14 +1182,14 @@
           "textColor4": "454443"
         },
         "composerName": "JEON SOYEON & Bicksancho",
-        "url": "https://music.apple.com/us/album/luv-u/1504618353?i=1504618596",
         "playParams": {
           "id": "1504618596",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/luv-u/1504618353?i=1504618596",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Luv U",
         "previews": [
           {
@@ -1254,8 +1254,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177400,
         "releaseDate": "2019-08-05",
+        "durationInMillis": 177400,
         "isrc": "KRA381903713",
         "artwork": {
           "width": 3000,
@@ -1268,14 +1268,14 @@
           "textColor4": "454763"
         },
         "composerName": "Hyuk Shin, Jeong Yoon, Ashley Alisha, JJ Evans(Joombas), Moof & JJ Evans",
-        "url": "https://music.apple.com/us/album/bungee-fall-in-love/1551951200?i=1551951202",
         "playParams": {
           "id": "1551951202",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/bungee-fall-in-love/1551951200?i=1551951202",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "BUNGEE (Fall in Love)",
         "previews": [
           {
