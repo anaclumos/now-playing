@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1431643741",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1431643741",
+      "attributes": {
+        "albumName": "[+ +] - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2018-08-20",
+        "durationInMillis": 196864,
+        "isrc": "KRE081800012",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/1a/ba/681aba4d-4209-fc1a-e545-d4ec9da1cc69/8809550052109.jpg/{w}x{h}bb.jpg",
+          "bgColor": "06050b",
+          "textColor1": "f4eefa",
+          "textColor2": "eaecf9",
+          "textColor3": "c4bfca",
+          "textColor4": "bcbec9"
+        },
+        "url": "https://music.apple.com/us/album/hi-high/1431643685?i=1431643741",
+        "playParams": {
+          "id": "1431643741",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Hi High",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/8c/89/7c8c89c8-f645-dca2-663f-05d7bf7789ad/mzaf_15052304444088087116.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA"
+      }
+    },
+    {
+      "id": "1538734206",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1538734206",
+      "attributes": {
+        "albumName": "Star to a Young Culture - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-11-12",
+        "durationInMillis": 212265,
+        "isrc": "KRA382006274",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/b0/60/dc/b060dc0e-5872-fccc-0ba2-a1d89869ef43/dj.qzhbxzef.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000905",
+          "textColor1": "e7cdbd",
+          "textColor2": "e8b595",
+          "textColor3": "b8a699",
+          "textColor4": "b99378"
+        },
+        "playParams": {
+          "id": "1538734206",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/so-bad/1538734085?i=1538734206",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "SO BAD",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/8f/a7/cc8fa7b7-0fa9-e407-d0d7-e0c3fbf0c241/mzaf_2112260168473976926.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1605083055",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1605083055",
+      "attributes": {
+        "albumName": "SMiLEY - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-01-17",
+        "durationInMillis": 173413,
+        "isrc": "KRMIM2201803",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/12/3c/77123ccd-0e15-2388-ff7f-d456f57b56a4/888272093742_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "3c348f",
+          "textColor1": "f7ca42",
+          "textColor2": "e59618",
+          "textColor3": "d2ac51",
+          "textColor4": "c38230"
+        },
+        "composerName": "BIBI, twlv, 72, Olof Lindskog, Gavin Jones, Hayley Aitken & YENA",
+        "playParams": {
+          "id": "1605083055",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/smiley-feat-bibi/1605083051?i=1605083055",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "SMILEY (feat. BIBI)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5f/a6/d5/5fa6d5e5-d9e8-a333-5eb9-0275f2a0615a/mzaf_9014526783875667118.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
       "id": "1569758004",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1569758004",
@@ -13,8 +140,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 164640,
         "releaseDate": "2019-08-19",
+        "durationInMillis": 164640,
         "isrc": "KRMIM1914432",
         "artwork": {
           "width": 1400,
@@ -27,14 +154,14 @@
           "textColor4": "58555e"
         },
         "composerName": "72, Melanie Fontana, Lena Leon, Michel \"Lindgren\" Schulz & \uc774\ubcf4\ub77c",
-        "url": "https://music.apple.com/us/album/hush/1569758000?i=1569758004",
         "playParams": {
           "id": "1569758004",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hush/1569758000?i=1569758004",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hush",
         "previews": [
           {
@@ -56,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "durationInMillis": 197972,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 197972,
         "isrc": "KRA871900047",
         "artwork": {
           "width": 1400,
@@ -70,14 +197,14 @@
           "textColor4": "67452d"
         },
         "composerName": "BLACK EDITION, Eastwest, Bull$EyE & Kim ga young",
-        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "playParams": {
           "id": "1569282078",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/open-your-eyes/1569281731?i=1569282078",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OPEN YOUR EYES",
         "previews": [
           {
@@ -113,14 +240,14 @@
           "textColor4": "c6b292"
         },
         "composerName": "KENZIE, Moonshine, KC & Ninos Hanna",
+        "url": "https://music.apple.com/us/album/gasoline/1641655639?i=1641655640",
         "playParams": {
           "id": "1641655640",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/gasoline/1641655639?i=1641655640",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Gasoline",
         "previews": [
           {
@@ -142,8 +269,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 198587,
         "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -156,14 +283,14 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -185,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 191100,
         "releaseDate": "2018-11-03",
+        "durationInMillis": 191100,
         "isrc": "NLRD51859885",
         "artwork": {
           "width": 1500,
@@ -285,14 +412,14 @@
           "textColor4": "5b5b5b"
         },
         "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
+        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "playParams": {
           "id": "1656336322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "WHEN I MOVE",
         "previews": [
           {
@@ -327,14 +454,14 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cheshire",
         "previews": [
           {
@@ -360,8 +487,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -374,14 +501,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -403,8 +530,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -446,8 +573,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -546,14 +673,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -617,8 +744,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217322,
         "releaseDate": "2020-06-19",
+        "durationInMillis": 217322,
         "isrc": "KRA382002102",
         "artwork": {
           "width": 3000,
@@ -755,14 +882,14 @@
           "textColor3": "3d3633",
           "textColor4": "64584a"
         },
+        "url": "https://music.apple.com/us/album/%EB%84%88%EC%97%90%EA%B2%8C/1501134118?i=1501134119",
         "playParams": {
           "id": "1501134119",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/%EB%84%88%EC%97%90%EA%B2%8C/1501134118?i=1501134119",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "\ub108\uc5d0\uac8c",
         "previews": [
           {
@@ -783,8 +910,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "durationInMillis": 235241,
         "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 1838,
@@ -911,8 +1038,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199067,
         "releaseDate": "2022-06-02",
+        "durationInMillis": 199067,
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -953,8 +1080,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 229605,
         "releaseDate": "2023-01-27",
+        "durationInMillis": 229605,
         "isrc": "GBUM72205420",
         "artwork": {
           "width": 3000,
@@ -996,8 +1123,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "durationInMillis": 212310,
         "releaseDate": "2018-07-16",
+        "durationInMillis": 212310,
         "isrc": "KRA381800259",
         "artwork": {
           "width": 3000,
@@ -1009,14 +1136,14 @@
           "textColor3": "1b1f2e",
           "textColor4": "3f2732"
         },
-        "url": "https://music.apple.com/us/album/our-dawn-is-hotter-than-day/1643675840?i=1643675850",
         "playParams": {
           "id": "1643675850",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/our-dawn-is-hotter-than-day/1643675840?i=1643675850",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Our Dawn Is Hotter Than Day",
         "previews": [
           {
@@ -1037,8 +1164,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "durationInMillis": 232742,
         "releaseDate": "2014-04-01",
+        "durationInMillis": 232742,
         "isrc": "USAT21401100",
         "artwork": {
           "width": 1425,
@@ -1082,8 +1209,8 @@
           "Soundtrack"
         ],
         "trackNumber": 1,
-        "durationInMillis": 195187,
         "releaseDate": "2011-05-25",
+        "durationInMillis": 195187,
         "isrc": "KRA381001561",
         "artwork": {
           "width": 1772,
@@ -1138,14 +1265,14 @@
           "textColor3": "b3bec2",
           "textColor4": "b58586"
         },
+        "url": "https://music.apple.com/us/album/galaxy/1446837994?i=1446837995",
         "playParams": {
           "id": "1446837995",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/galaxy/1446837994?i=1446837995",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Galaxy",
         "previews": [
           {
@@ -1153,135 +1280,6 @@
           }
         ],
         "artistName": "BOL4"
-      }
-    },
-    {
-      "id": "1470921589",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1470921589",
-      "attributes": {
-        "albumName": "Fever Season",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 197307,
-        "releaseDate": "2019-07-01",
-        "isrc": "KRA381903440",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d1/52/29/d152292a-05cc-556d-d2d8-5ec24fe73dd0/cover-_GFRIEND.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ebdcc7",
-          "textColor2": "e9b888",
-          "textColor3": "bcb09f",
-          "textColor4": "ba936d"
-        },
-        "url": "https://music.apple.com/us/album/mr-blue/1470921587?i=1470921589",
-        "playParams": {
-          "id": "1470921589",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Mr. Blue",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/89/e0/73/89e073eb-775a-49c5-3e28-f7847322a410/mzaf_8884600071148859915.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "GFRIEND"
-      }
-    },
-    {
-      "id": "1548000801",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1548000801",
-      "attributes": {
-        "albumName": "Abittipsy - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-01-13",
-        "durationInMillis": 165545,
-        "isrc": "KRUM72100001",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/af/c7/a8/afc7a88a-1b4a-3e22-1084-d0b55093d37d/21UMGIM00086.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "bbc7d7",
-          "textColor1": "0f0d0d",
-          "textColor2": "1d1717",
-          "textColor3": "313236",
-          "textColor4": "3c3a3e"
-        },
-        "composerName": "YOUHA, Vadim Arnaud Constantin, Ryan S. Jhun, Jeremy Lecarour & Rodolphe Lejeune",
-        "playParams": {
-          "id": "1548000801",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/abittipsy/1548000795?i=1548000801",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Abittipsy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/70/75/9970759b-94e1-16a0-d8fe-ee951eb19ae0/mzaf_11497993280094566200.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOUHA"
-      }
-    },
-    {
-      "id": "1525727523",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1525727523",
-      "attributes": {
-        "albumName": "Rocket Ride - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 168067,
-        "releaseDate": "2020-08-28",
-        "isrc": "DEXO12085207",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/d5/74/44/d57444bc-69e8-e3c6-1292-63fd50a4cda3/4251703561879_3000.jpg/{w}x{h}bb.jpg",
-          "bgColor": "96b2ca",
-          "textColor1": "08060d",
-          "textColor2": "1b1a18",
-          "textColor3": "242933",
-          "textColor4": "34383b"
-        },
-        "composerName": "YOU JI SANG, Patrick Gold, Janieck G. van de Poler, Yasmeen Semaan & Seo Jung-Hwa",
-        "url": "https://music.apple.com/us/album/rocket-ride-korean-version/1525727518?i=1525727523",
-        "playParams": {
-          "id": "1525727523",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Rocket Ride (Korean Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/68/67/9e6867a7-268c-3835-1102-879c3ec5742b/mzaf_16136297920467961157.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OH MY GIRL & Keanu Silva"
       }
     }
   ]
