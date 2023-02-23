@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1637490926",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1637490926",
+      "attributes": {
+        "albumName": "Takin' It Back",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
+        "isrc": "USSM12204574",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/55/dd/ab/55ddab67-26ec-e244-2c37-37f92b63bf19/196589366870.jpg/{w}x{h}bb.jpg",
+          "bgColor": "cc003b",
+          "textColor1": "f8f8f8",
+          "textColor2": "b7dcf7",
+          "textColor3": "efc6d2",
+          "textColor4": "bbb0d2"
+        },
+        "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
+        "playParams": {
+          "id": "1637490926",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Made You Look",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3a/50/68/3a5068f1-f6a9-c8fc-0f23-ab8f8ce72f12/mzaf_319455285393302854.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Meghan Trainor"
+      }
+    },
+    {
       "id": "1647830394",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1647830394",
@@ -33,8 +75,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -56,8 +98,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -76,8 +118,8 @@
         },
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
@@ -113,14 +155,14 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -162,8 +204,8 @@
         },
         "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No Celestial",
         "previews": [
           {
@@ -185,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -199,14 +241,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -228,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 178924,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 178924,
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -248,8 +290,8 @@
         },
         "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -272,8 +314,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "durationInMillis": 206627,
         "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -314,8 +356,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -357,8 +399,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 204933,
         "releaseDate": "2021-12-20",
+        "durationInMillis": 204933,
         "isrc": "KRA302100400",
         "artwork": {
           "width": 4000,
@@ -400,8 +442,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -414,14 +456,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Illusion",
         "previews": [
           {
@@ -442,8 +484,8 @@
           "Music"
         ],
         "trackNumber": 13,
-        "releaseDate": "2020-10-21",
         "durationInMillis": 263067,
+        "releaseDate": "2020-10-21",
         "isrc": "JPPO02002956",
         "artwork": {
           "width": 3000,
@@ -456,14 +498,14 @@
           "textColor4": "55212d"
         },
         "composerName": "Miki Watanabe",
+        "url": "https://music.apple.com/us/album/shy-boy/1533391521?i=1533391747",
         "playParams": {
           "id": "1533391747",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/shy-boy/1533391521?i=1533391747",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Shy boy",
         "previews": [
           {
@@ -487,8 +529,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-08-09",
         "durationInMillis": 229280,
+        "releaseDate": "2019-08-09",
         "isrc": "QZEKE1912518",
         "artwork": {
           "width": 3000,
@@ -501,14 +543,14 @@
           "textColor4": "715352"
         },
         "composerName": "1601",
+        "url": "https://music.apple.com/us/album/new-love-instrumental/1476040287?i=1476040290",
         "playParams": {
           "id": "1476040290",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/new-love-instrumental/1476040287?i=1476040290",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "New Love (Instrumental)",
         "previews": [
           {
@@ -530,8 +572,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-05-17",
         "durationInMillis": 182930,
+        "releaseDate": "2021-05-17",
         "isrc": "KRA382103732",
         "artwork": {
           "width": 3000,
@@ -543,14 +585,14 @@
           "textColor3": "3d321e",
           "textColor4": "483524"
         },
+        "url": "https://music.apple.com/us/album/ring-ring/1567387136?i=1567387137",
         "playParams": {
           "id": "1567387137",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ring-ring/1567387136?i=1567387137",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ring Ring",
         "previews": [
           {
@@ -572,8 +614,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-05-31",
         "durationInMillis": 187161,
+        "releaseDate": "2017-05-31",
         "isrc": "KRB471700765",
         "artwork": {
           "width": 3000,
@@ -585,14 +627,14 @@
           "textColor3": "b8b8b8",
           "textColor4": "a2a2a2"
         },
+        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "playParams": {
           "id": "1548766747",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Overlap",
         "previews": [
           {
@@ -615,8 +657,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-05-12",
         "durationInMillis": 203173,
+        "releaseDate": "2021-05-12",
         "isrc": "JPWP02170304",
         "artwork": {
           "width": 2000,
@@ -629,14 +671,14 @@
           "textColor4": "c29170"
         },
         "composerName": "Ciara Muscat & Trippy",
+        "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
         "playParams": {
           "id": "1561940784",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Strawberry Moon",
         "previews": [
           {
@@ -658,8 +700,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-03-07",
         "durationInMillis": 197747,
+        "releaseDate": "2017-03-07",
         "isrc": "KRB921940113",
         "artwork": {
           "width": 1400,
@@ -672,14 +714,14 @@
           "textColor4": "244259"
         },
         "composerName": "\uc6a9\uac10\ud55c \ud615\uc81c, \ucc28\ucfe4 & 2champ",
+        "url": "https://music.apple.com/us/album/rollin/1638035095?i=1638035098",
         "playParams": {
           "id": "1638035098",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rollin/1638035095?i=1638035098",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rollin'",
         "previews": [
           {
@@ -701,8 +743,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -743,8 +785,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2018-08-18",
         "durationInMillis": 204272,
+        "releaseDate": "2018-08-18",
         "isrc": "KRA491800737",
         "artwork": {
           "width": 1400,
@@ -757,14 +799,14 @@
           "textColor4": "41333b"
         },
         "composerName": "\uc9c4\ub9ac, \uc601\uad11\uc758 \uc5bc\uad74\ub4e4 & Jake K",
+        "url": "https://music.apple.com/us/album/i-am/1569745005?i=1569745311",
         "playParams": {
           "id": "1569745311",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-am/1569745005?i=1569745311",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I AM",
         "previews": [
           {
@@ -803,11 +845,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, SUGA & EL CAPITXN",
+        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "playParams": {
           "id": "1620871958",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -846,14 +888,14 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -894,8 +936,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -937,8 +979,8 @@
         },
         "url": "https://music.apple.com/us/album/oh-my-god/1504618353?i=1504618354",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oh my god",
         "previews": [
           {
@@ -959,8 +1001,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 221543,
         "releaseDate": "2020-10-21",
+        "durationInMillis": 221543,
         "isrc": "JPPO02002951",
         "artwork": {
           "width": 3000,
@@ -973,14 +1015,14 @@
           "textColor4": "55212d"
         },
         "composerName": "MosPick",
-        "url": "https://music.apple.com/us/album/la-vie-en-rose-japanese-version/1533391521?i=1533391532",
         "playParams": {
           "id": "1533391532",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/la-vie-en-rose-japanese-version/1533391521?i=1533391532",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "La Vie en Rose (Japanese Version)",
         "previews": [
           {
@@ -1002,8 +1044,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 200912,
         "releaseDate": "2019-04-01",
+        "durationInMillis": 200912,
         "isrc": "KRA871900003",
         "artwork": {
           "width": 1400,
@@ -1022,8 +1064,8 @@
         },
         "url": "https://music.apple.com/us/album/violeta/1569293222?i=1569293224",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Violeta",
         "previews": [
           {
@@ -1044,8 +1086,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "releaseDate": "2020-10-21",
         "durationInMillis": 202949,
+        "releaseDate": "2020-10-21",
         "isrc": "JPPO02002952",
         "artwork": {
           "width": 3000,
@@ -1058,14 +1100,14 @@
           "textColor4": "55212d"
         },
         "composerName": "Choi Hyun Joon & Seung Soo Kim",
+        "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "playParams": {
           "id": "1533391533",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Violeta (Japanese Version)",
         "previews": [
           {
@@ -1087,8 +1129,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 177827,
         "releaseDate": "2019-04-22",
+        "durationInMillis": 177827,
         "isrc": "US5TA1900045",
         "artwork": {
           "width": 1400,
@@ -1107,8 +1149,8 @@
         },
         "url": "https://music.apple.com/us/album/hot/1555390183?i=1555390195",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HOT",
         "previews": [
           {
@@ -1123,20 +1165,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.4YBezv3h2Vvp1BD",
       "attributes": {
-        "discNumber": 1,
         "albumName": "\u30b5\u30e0\u30cd\u30a4\u30eb (Type B)",
+        "discNumber": 1,
         "genreNames": [
           "Pop"
         ],
-        "trackNumber": 8,
         "hasLyrics": false,
+        "trackNumber": 8,
         "durationInMillis": 227970,
         "name": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3",
         "artistName": "AKB48",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6c/c5/3f/6cc53f56-37ab-984a-43c9-9d99381df7d8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230223T013628Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230223%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=b2f93240a708640f750b49d6477cc559d99a1c1cc83a77bdec4d6c46af53fb08"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6c/c5/3f/6cc53f56-37ab-984a-43c9-9d99381df7d8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230223T020936Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230223%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=cf0617e50366366bb6eecbcaf6f763ac84fb0b96818a0f5bcc1905b06a43d8f9"
         },
         "playParams": {
           "id": "i.4YBezv3h2Vvp1BD",
@@ -1171,11 +1213,11 @@
           "textColor4": "c97435"
         },
         "composerName": "F R I D A Y . (KANG JUNG HOON), CHANG (KIM CHANG KYUM), AthenA (LEE JI HYE) & \uc784\uc6b0\ube48",
+        "url": "https://music.apple.com/us/album/wannabe/1608253207?i=1608253214",
         "playParams": {
           "id": "1608253214",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/wannabe/1608253207?i=1608253214",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1200,8 +1242,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 240627,
         "releaseDate": "2016-04-06",
+        "durationInMillis": 240627,
         "isrc": "KRA341617109",
         "artwork": {
           "width": 2244,
@@ -1219,8 +1261,8 @@
         },
         "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0-instrumental/1265727242?i=1265727583",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "\uc0c1\uc0c1\ub354\ud558\uae30 (Instrumental)",
         "previews": [
           {
@@ -1228,48 +1270,6 @@
           }
         ],
         "artistName": "LABOUM"
-      }
-    },
-    {
-      "id": "1309176953",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1309176953",
-      "attributes": {
-        "albumName": "Glory Days: The Platinum Edition",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 17,
-        "releaseDate": "2016-11-15",
-        "durationInMillis": 213307,
-        "isrc": "GBHMU1600074",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/62/a1/1e/62a11e38-a0e9-1c3d-ede1-ce7dd815158f/886446834702.jpg/{w}x{h}bb.jpg",
-          "bgColor": "1a1615",
-          "textColor1": "ffffff",
-          "textColor2": "caa3ec",
-          "textColor3": "d1d0d0",
-          "textColor4": "a787c1"
-        },
-        "composerName": "Patrick Patrikios, Hanni Ibrahim, Phil Plested & A.S. Govere",
-        "playParams": {
-          "id": "1309176953",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/touch/1309173849?i=1309176953",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Touch",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ad/4c/6e/ad4c6e87-73dc-4dd6-6d73-d053ccd0ab77/mzaf_12806894011547811563.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Little Mix"
       }
     }
   ]
