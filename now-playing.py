@@ -15,7 +15,11 @@ headers: dict = {
 
 def get_now_playing():
     import requests
-    result = requests.get(url, headers=headers)
+    try:
+        result = requests.get(url, headers=headers)
+    except requests.exceptions.RequestException as e:
+        print(e)
+        return None
     print(result.status_code)
     print(result.headers)
     print(result.content)
@@ -25,4 +29,6 @@ def get_now_playing():
 if __name__ == '__main__':
     import json
     with open('now-playing.json', 'w') as f:
-        json.dump(get_now_playing().json(), f, indent=2)
+        result = get_now_playing().json()
+        if result is not None:
+            json.dump(result, f, indent=2)
