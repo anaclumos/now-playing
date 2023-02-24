@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
       "id": "1639416903",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1639416903",
@@ -27,14 +70,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -55,8 +98,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-06-07",
         "durationInMillis": 204000,
+        "releaseDate": "2019-06-07",
         "isrc": "KRA491900393",
         "artwork": {
           "width": 1400,
@@ -98,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -112,11 +155,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -127,49 +170,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-03",
-        "durationInMillis": 198587,
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
       }
     },
     {
@@ -184,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -226,8 +226,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 134256,
+        "releaseDate": "2022-10-21",
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -283,14 +283,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -332,8 +332,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -375,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -398,8 +398,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -441,8 +441,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 199640,
         "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -455,11 +455,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -504,8 +504,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No Celestial",
         "previews": [
           {
@@ -527,8 +527,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -541,11 +541,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -570,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 204933,
         "releaseDate": "2021-12-20",
+        "durationInMillis": 204933,
         "isrc": "KRA302100400",
         "artwork": {
           "width": 4000,
@@ -584,11 +584,11 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -633,8 +633,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Illusion",
         "previews": [
           {
@@ -675,8 +675,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Shy boy",
         "previews": [
           {
@@ -714,14 +714,14 @@
           "textColor4": "715352"
         },
         "composerName": "1601",
-        "url": "https://music.apple.com/us/album/new-love-instrumental/1476040287?i=1476040290",
         "playParams": {
           "id": "1476040290",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/new-love-instrumental/1476040287?i=1476040290",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "New Love (Instrumental)",
         "previews": [
           {
@@ -743,8 +743,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-05-17",
         "durationInMillis": 182930,
+        "releaseDate": "2021-05-17",
         "isrc": "KRA382103732",
         "artwork": {
           "width": 3000,
@@ -798,14 +798,14 @@
           "textColor3": "b8b8b8",
           "textColor4": "a2a2a2"
         },
-        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "playParams": {
           "id": "1548766747",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Overlap",
         "previews": [
           {
@@ -848,8 +848,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Strawberry Moon",
         "previews": [
           {
@@ -871,8 +871,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 197747,
         "releaseDate": "2017-03-07",
+        "durationInMillis": 197747,
         "isrc": "KRB921940113",
         "artwork": {
           "width": 1400,
@@ -885,11 +885,11 @@
           "textColor4": "244259"
         },
         "composerName": "\uc6a9\uac10\ud55c \ud615\uc81c, \ucc28\ucfe4 & 2champ",
-        "url": "https://music.apple.com/us/album/rollin/1638035095?i=1638035098",
         "playParams": {
           "id": "1638035098",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rollin/1638035095?i=1638035098",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -914,8 +914,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -927,11 +927,11 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -956,8 +956,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2018-08-18",
         "durationInMillis": 204272,
+        "releaseDate": "2018-08-18",
         "isrc": "KRA491800737",
         "artwork": {
           "width": 1400,
@@ -1002,8 +1002,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 174647,
         "releaseDate": "2022-04-29",
+        "durationInMillis": 174647,
         "isrc": "QZEKE2084402",
         "artwork": {
           "width": 3000,
@@ -1016,11 +1016,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, SUGA & EL CAPITXN",
-        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "playParams": {
           "id": "1620871958",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1064,8 +1064,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -1107,8 +1107,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oh my god",
         "previews": [
           {
@@ -1129,8 +1129,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 221543,
         "releaseDate": "2020-10-21",
+        "durationInMillis": 221543,
         "isrc": "JPPO02002951",
         "artwork": {
           "width": 3000,
@@ -1143,11 +1143,11 @@
           "textColor4": "55212d"
         },
         "composerName": "MosPick",
-        "url": "https://music.apple.com/us/album/la-vie-en-rose-japanese-version/1533391521?i=1533391532",
         "playParams": {
           "id": "1533391532",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/la-vie-en-rose-japanese-version/1533391521?i=1533391532",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1172,8 +1172,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-04-01",
         "durationInMillis": 200912,
+        "releaseDate": "2019-04-01",
         "isrc": "KRA871900003",
         "artwork": {
           "width": 1400,
@@ -1228,14 +1228,14 @@
           "textColor4": "55212d"
         },
         "composerName": "Choi Hyun Joon & Seung Soo Kim",
-        "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "playParams": {
           "id": "1533391533",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Violeta (Japanese Version)",
         "previews": [
           {
@@ -1257,8 +1257,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2019-04-22",
         "durationInMillis": 177827,
+        "releaseDate": "2019-04-22",
         "isrc": "US5TA1900045",
         "artwork": {
           "width": 1400,
