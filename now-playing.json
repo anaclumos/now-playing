@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-03",
-        "durationInMillis": 198587,
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
-      }
-    },
-    {
       "id": "1639416903",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1639416903",
@@ -70,11 +27,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -119,8 +76,8 @@
         },
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -155,11 +112,11 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -262,6 +219,49 @@
       }
     },
     {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
       "id": "1644440677",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1644440677",
@@ -293,8 +293,8 @@
         },
         "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -421,8 +421,8 @@
         },
         "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -501,14 +501,14 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -550,8 +550,8 @@
         },
         "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -587,11 +587,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -673,14 +673,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Illusion",
         "previews": [
           {
@@ -766,8 +766,8 @@
         },
         "url": "https://music.apple.com/us/album/new-love-instrumental/1476040287?i=1476040290",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "New Love (Instrumental)",
         "previews": [
           {
@@ -802,14 +802,14 @@
           "textColor3": "3d321e",
           "textColor4": "483524"
         },
+        "url": "https://music.apple.com/us/album/ring-ring/1567387136?i=1567387137",
         "playParams": {
           "id": "1567387137",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ring-ring/1567387136?i=1567387137",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ring Ring",
         "previews": [
           {
@@ -844,11 +844,11 @@
           "textColor3": "b8b8b8",
           "textColor4": "a2a2a2"
         },
-        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "playParams": {
           "id": "1548766747",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -894,8 +894,8 @@
         },
         "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Strawberry Moon",
         "previews": [
           {
@@ -937,8 +937,8 @@
         },
         "url": "https://music.apple.com/us/album/rollin/1638035095?i=1638035098",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rollin'",
         "previews": [
           {
@@ -973,11 +973,11 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1062,11 +1062,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, SUGA & EL CAPITXN",
-        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "playParams": {
           "id": "1620871958",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1104,14 +1104,14 @@
           "textColor4": "ec7a78"
         },
         "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "playParams": {
           "id": "1273710101",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -1147,14 +1147,14 @@
           "textColor4": "454443"
         },
         "composerName": "JEON SOYEON & Bicksancho",
+        "url": "https://music.apple.com/us/album/oh-my-god/1504618353?i=1504618354",
         "playParams": {
           "id": "1504618354",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oh-my-god/1504618353?i=1504618354",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oh my god",
         "previews": [
           {
@@ -1189,11 +1189,11 @@
           "textColor4": "55212d"
         },
         "composerName": "MosPick",
-        "url": "https://music.apple.com/us/album/la-vie-en-rose-japanese-version/1533391521?i=1533391532",
         "playParams": {
           "id": "1533391532",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/la-vie-en-rose-japanese-version/1533391521?i=1533391532",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1232,14 +1232,14 @@
           "textColor4": "415244"
         },
         "composerName": "Choi Hyun Joon & \uae40\uc2b9\uc218",
+        "url": "https://music.apple.com/us/album/violeta/1569293222?i=1569293224",
         "playParams": {
           "id": "1569293224",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/violeta/1569293222?i=1569293224",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Violeta",
         "previews": [
           {
@@ -1274,14 +1274,14 @@
           "textColor4": "55212d"
         },
         "composerName": "Choi Hyun Joon & Seung Soo Kim",
+        "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "playParams": {
           "id": "1533391533",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/violeta-japanese-version/1533391521?i=1533391533",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Violeta (Japanese Version)",
         "previews": [
           {
