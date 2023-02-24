@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1654124215",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1654124215",
+      "attributes": {
+        "albumName": "Poppy - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 179867,
+        "releaseDate": "2022-11-16",
+        "isrc": "JPPO02203955",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/5b/41/0b/5b410b11-0bfd-db80-2413-f2fd99454b5e/22UM1IM26561.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "def5fd",
+          "textColor1": "0c0a0a",
+          "textColor2": "1a1a19",
+          "textColor3": "36393b",
+          "textColor4": "414546"
+        },
+        "composerName": "Rado, Fly-T & Will.B",
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
+        "playParams": {
+          "id": "1654124215",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Poppy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/07/69/97/076997a3-8cab-d38b-edc7-8a642ef746da/mzaf_13303718278971176677.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "1670622073",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1670622073",
@@ -13,8 +56,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189773,
         "releaseDate": "2023-02-14",
+        "durationInMillis": 189773,
         "isrc": "KRA382300511",
         "artwork": {
           "width": 3000,
@@ -44,6 +87,91 @@
       }
     },
     {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 198587,
+        "releaseDate": "2022-08-03",
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
+      "id": "1670622074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670622074",
+      "attributes": {
+        "albumName": "Teddy Bear - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
+        "isrc": "KRA382300512",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d458f5",
+          "textColor2": "d522f6",
+          "textColor3": "aa46c4",
+          "textColor4": "ab1bc4"
+        },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
+        "playParams": {
+          "id": "1670622074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Poppy (Korean Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/df/89/14/df8914f4-b15f-fe49-1ed6-cc09128c7e1a/mzaf_11186161707499779216.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "1670027620",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1670027620",
@@ -56,8 +184,8 @@
           "Folk"
         ],
         "trackNumber": 3,
-        "durationInMillis": 171947,
         "releaseDate": "2023-02-05",
+        "durationInMillis": 171947,
         "isrc": "KRF252300220",
         "artwork": {
           "width": 3000,
@@ -118,8 +246,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -161,8 +289,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -190,8 +318,8 @@
           "Pop/Rock"
         ],
         "trackNumber": 8,
-        "releaseDate": "1981-06-01",
         "durationInMillis": 233720,
+        "releaseDate": "1981-06-01",
         "isrc": "SEAYD8102080",
         "artwork": {
           "width": 3000,
@@ -210,8 +338,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Slipping Through My Fingers",
         "previews": [
           {
@@ -232,8 +360,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-01-18",
         "durationInMillis": 154814,
+        "releaseDate": "2023-01-18",
         "isrc": "US39N2205469",
         "artwork": {
           "width": 3000,
@@ -252,8 +380,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Mantrum",
         "previews": [
           {
@@ -295,8 +423,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ABYSS",
         "previews": [
           {
@@ -319,8 +447,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-12-22",
         "durationInMillis": 168573,
+        "releaseDate": "2022-12-22",
         "isrc": "KRA382209101",
         "artwork": {
           "width": 3000,
@@ -338,8 +466,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "CHEMISTRY",
         "previews": [
           {
@@ -362,8 +490,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-07",
         "durationInMillis": 244809,
+        "releaseDate": "2023-02-07",
         "isrc": "KRMIM2317578",
         "artwork": {
           "width": 3000,
@@ -382,8 +510,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "In other season",
         "previews": [
           {
@@ -405,8 +533,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 230733,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 230733,
         "isrc": "KRA302300029",
         "artwork": {
           "width": 4000,
@@ -480,49 +608,6 @@
       }
     },
     {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 198587,
-        "releaseDate": "2022-08-03",
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
-      }
-    },
-    {
       "id": "1639416903",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1639416903",
@@ -534,8 +619,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -619,8 +704,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 182453,
         "releaseDate": "2022-11-30",
+        "durationInMillis": 182453,
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -665,8 +750,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-06-07",
         "durationInMillis": 204000,
+        "releaseDate": "2019-06-07",
         "isrc": "KRA491900393",
         "artwork": {
           "width": 1400,
@@ -685,8 +770,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Milky Way Between Us",
         "previews": [
           {
@@ -728,8 +813,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -856,8 +941,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -879,8 +964,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 199640,
         "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -985,8 +1070,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -1051,8 +1136,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -1093,8 +1178,8 @@
           "Music"
         ],
         "trackNumber": 13,
-        "releaseDate": "2020-10-21",
         "durationInMillis": 263067,
+        "releaseDate": "2020-10-21",
         "isrc": "JPPO02002956",
         "artwork": {
           "width": 3000,
@@ -1113,8 +1198,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Shy boy",
         "previews": [
           {
@@ -1138,8 +1223,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 229280,
         "releaseDate": "2019-08-09",
+        "durationInMillis": 229280,
         "isrc": "QZEKE1912518",
         "artwork": {
           "width": 3000,
@@ -1181,8 +1266,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-05-17",
         "durationInMillis": 182930,
+        "releaseDate": "2021-05-17",
         "isrc": "KRA382103732",
         "artwork": {
           "width": 3000,
@@ -1200,8 +1285,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ring Ring",
         "previews": [
           {
@@ -1209,92 +1294,6 @@
           }
         ],
         "artistName": "Rocket Punch"
-      }
-    },
-    {
-      "id": "1548766747",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1548766747",
-      "attributes": {
-        "albumName": "Overlap",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-05-31",
-        "durationInMillis": 187161,
-        "isrc": "KRB471700765",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/92/25/99/92259904-b3db-b6d0-bcc9-34981c2c6524/3000.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "e6e6e6",
-          "textColor2": "cbcbcb",
-          "textColor3": "b8b8b8",
-          "textColor4": "a2a2a2"
-        },
-        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
-        "playParams": {
-          "id": "1548766747",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Overlap",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/2b/70/572b7024-eda0-46c6-ff24-ad47fae1604d/mzaf_9343486350559541500.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sophiya"
-      }
-    },
-    {
-      "id": "1561940784",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1561940784",
-      "attributes": {
-        "albumName": "Kura Kura - EP",
-        "genreNames": [
-          "J-Pop",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 203173,
-        "releaseDate": "2021-05-12",
-        "isrc": "JPWP02170304",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/f7/80/3e/f7803ea1-a7b5-00fb-4438-70b46f018b10/190296710896.jpg/{w}x{h}bb.jpg",
-          "bgColor": "01180d",
-          "textColor1": "eebba7",
-          "textColor2": "f2b088",
-          "textColor3": "bf9a89",
-          "textColor4": "c29170"
-        },
-        "composerName": "Ciara Muscat & Trippy",
-        "url": "https://music.apple.com/us/album/strawberry-moon/1561940504?i=1561940784",
-        "playParams": {
-          "id": "1561940784",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Strawberry Moon",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e2/40/dc/e240dc1a-dd4a-05f5-002a-61c62a7b9270/mzaf_2818221669769409092.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
       }
     }
   ]
