@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1594292084",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1594292084",
+      "attributes": {
+        "albumName": "YOUNHA 6th Album 'END THEORY'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
+        "isrc": "KRA382163578",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/f7/ec/83/f7ec837e-3a7f-6476-1890-be94cbbc887b/YOUNHA_6th_Album_END_THEORY_Digitalcover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fff9d9",
+          "textColor1": "0b0202",
+          "textColor2": "4b1e10",
+          "textColor3": "3c332d",
+          "textColor4": "6f4a38"
+        },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
+        "playParams": {
+          "id": "1594292084",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Oort Cloud",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/19/ce/79/19ce7920-99b9-358a-190d-b7b748d4de02/mzaf_13520814028107338416.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
+      }
+    },
+    {
+      "id": "1046202717",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1046202717",
+      "attributes": {
+        "albumName": "I - The 1st Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 206039,
+        "releaseDate": "2015-10-07",
+        "isrc": "KRA301500490",
+        "artwork": {
+          "width": 4961,
+          "height": 4961,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/49/b2/9a49b2d2-2501-2fc7-60eb-2b8ff34a1412/TAEYEON-DIGITAL20COVER.jpg/{w}x{h}bb.jpg",
+          "bgColor": "feedf4",
+          "textColor1": "1d1b1b",
+          "textColor2": "332f31",
+          "textColor3": "4a4547",
+          "textColor4": "5c5558"
+        },
+        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
+        "playParams": {
+          "id": "1046202717",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I (feat. Verbal Jint)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4c/a4/ca/4ca4caf5-1bed-158d-abee-f6a57d3fd0c4/mzaf_8913641255827872025.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TAEYEON"
+      }
+    },
+    {
+      "id": "1669378322",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1669378322",
+      "attributes": {
+        "albumName": "Poppy (Korean Ver.) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
+        "isrc": "KRA382300512",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d357f4",
+          "textColor2": "d933f7",
+          "textColor3": "a946c3",
+          "textColor4": "ad29c6"
+        },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
+        "playParams": {
+          "id": "1669378322",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Poppy (Korean Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "i.ldDOXRrS8LaVGWo",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.ldDOXRrS8LaVGWo",
@@ -19,7 +146,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T063341Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ecb62fb81fb4fafbe929a1251129b770407c441fc19afa94e9dbcb04ad24df05"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T064255Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e978eb375d5c1606bace95e5b391abc15c1c206db38358980bef1bcf3bdc6c86"
         },
         "playParams": {
           "id": "i.ldDOXRrS8LaVGWo",
@@ -47,7 +174,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T063341Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a10309be95672a455668c6d3887940b6e55952db7e223d6b198b66c1ac88853b"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T064255Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a1f57dacafe2b008c8142aa1d8e1e049a1006958c866f4f0f5675b8cd82a2411"
         },
         "playParams": {
           "id": "i.eoDz1ZXHkaYRBvJ",
@@ -62,8 +189,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.b1JvkKdSbdrMKBq",
       "attributes": {
-        "discNumber": 0,
         "albumName": "NewJeans MINDA",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -75,7 +202,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T063341Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=640145f3974866f81d952a07eb2480ede98c44f3cbb44c0ac98fa5851ec41f6e"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T064255Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=27285dcba340110a35d25f7d0524a973e0f56de0b3ae9933d1bf58cfcdb5a130"
         },
         "playParams": {
           "id": "i.b1JvkKdSbdrMKBq",
@@ -97,8 +224,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -117,8 +244,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -146,7 +273,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T063341Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bb6638550ac1bf98456d008bc4d47b3a8b5cbc8bf619a0be15e4c2b24d778b73"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T064255Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7315a68e71bfdb9e03b46903b6e0ebee9b6dced65cf7e0c715d0112ab550451f"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -188,8 +315,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -210,8 +337,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 134256,
+        "releaseDate": "2022-10-21",
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -230,8 +357,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -253,8 +380,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 198587,
         "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -316,8 +443,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -338,8 +465,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "2023-01-27",
         "durationInMillis": 229605,
+        "releaseDate": "2023-01-27",
         "isrc": "GBUM72205420",
         "artwork": {
           "width": 3000,
@@ -358,8 +485,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "I'm Not Here To Make Friends",
         "previews": [
           {
@@ -423,8 +550,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-02-03",
         "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -442,8 +569,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -507,8 +634,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179867,
         "releaseDate": "2022-11-16",
+        "durationInMillis": 179867,
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -570,8 +697,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -593,8 +720,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189846,
         "releaseDate": "2018-09-05",
+        "durationInMillis": 189846,
         "isrc": "KRA301800336",
         "artwork": {
           "width": 4000,
@@ -654,8 +781,8 @@
           "kind": "song"
         },
         "discNumber": 2,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "La vie en rose (Single Version)",
         "previews": [
           {
@@ -719,8 +846,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-03-17",
         "durationInMillis": 183387,
+        "releaseDate": "2021-03-17",
         "isrc": "KRA382101557",
         "artwork": {
           "width": 3000,
@@ -738,8 +865,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Yummy!",
         "previews": [
           {
@@ -781,8 +908,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Sour Grapes",
         "previews": [
           {
@@ -846,8 +973,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 190587,
         "releaseDate": "2023-02-12",
+        "durationInMillis": 190587,
         "isrc": "KRMIM2331183",
         "artwork": {
           "width": 2400,
@@ -889,8 +1016,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 230733,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 230733,
         "isrc": "KRA302300029",
         "artwork": {
           "width": 4000,
@@ -921,49 +1048,6 @@
       }
     },
     {
-      "id": "1594292084",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1594292084",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album 'END THEORY'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 206627,
-        "releaseDate": "2021-11-16",
-        "isrc": "KRA382163578",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/f7/ec/83/f7ec837e-3a7f-6476-1890-be94cbbc887b/YOUNHA_6th_Album_END_THEORY_Digitalcover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fff9d9",
-          "textColor1": "0b0202",
-          "textColor2": "4b1e10",
-          "textColor3": "3c332d",
-          "textColor4": "6f4a38"
-        },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
-        "playParams": {
-          "id": "1594292084",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Oort Cloud",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/19/ce/79/19ce7920-99b9-358a-190d-b7b748d4de02/mzaf_13520814028107338416.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
-      }
-    },
-    {
       "id": "1440715697",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1440715697",
@@ -981,8 +1065,8 @@
           "Pop/Rock"
         ],
         "trackNumber": 8,
-        "releaseDate": "1981-06-01",
         "durationInMillis": 233720,
+        "releaseDate": "1981-06-01",
         "isrc": "SEAYD8102080",
         "artwork": {
           "width": 3000,
@@ -1001,8 +1085,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Slipping Through My Fingers",
         "previews": [
           {
@@ -1023,8 +1107,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-01-18",
         "durationInMillis": 154814,
+        "releaseDate": "2023-01-18",
         "isrc": "US39N2205469",
         "artwork": {
           "width": 3000,
@@ -1043,8 +1127,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Mantrum",
         "previews": [
           {
@@ -1067,8 +1151,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "durationInMillis": 232040,
         "releaseDate": "2023-02-22",
+        "durationInMillis": 232040,
         "isrc": "KRA382300896",
         "artwork": {
           "width": 3000,
@@ -1138,93 +1222,6 @@
           }
         ],
         "artistName": "Moon Byul"
-      }
-    },
-    {
-      "id": "1670052592",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670052592",
-      "attributes": {
-        "albumName": "In other season - Single",
-        "genreNames": [
-          "Folk",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 244809,
-        "releaseDate": "2023-02-07",
-        "isrc": "KRMIM2317578",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/43/19/45/431945b4-7539-6b3f-2b6e-5f0ea3ca7b4e/191953261966.jpg/{w}x{h}bb.jpg",
-          "bgColor": "151611",
-          "textColor1": "f6f2f3",
-          "textColor2": "e3dac4",
-          "textColor3": "c9c6c6",
-          "textColor4": "b9b3a0"
-        },
-        "composerName": "SUNGHWI",
-        "url": "https://music.apple.com/us/album/in-other-season/1670052591?i=1670052592",
-        "playParams": {
-          "id": "1670052592",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "In other season",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f3/53/7e/f3537e1e-85ea-12c8-4f05-3cbdf1a0c1e6/mzaf_1376378571333433548.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "SUNGHWI"
-      }
-    },
-    {
-      "id": "1668065142",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1668065142",
-      "attributes": {
-        "albumName": "Umm (With Park Jun) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 218901,
-        "releaseDate": "2023-01-27",
-        "isrc": "KRF452300003",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/fd/a9/39/fda939a6-fe64-d5c1-70b1-23a6575bf01a/191953259277.jpg/{w}x{h}bb.jpg",
-          "bgColor": "1a201e",
-          "textColor1": "d3c5b8",
-          "textColor2": "d8bcaa",
-          "textColor3": "aea499",
-          "textColor4": "b29c8e"
-        },
-        "composerName": "ShortPaper, \ud55c\uc131\ud76c & wudstak",
-        "url": "https://music.apple.com/us/album/umm-with-park-jun/1668065141?i=1668065142",
-        "playParams": {
-          "id": "1668065142",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Umm (With Park Jun)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/fd/07/01/fd070133-f7f1-4fab-fdc2-46cfab1588f8/mzaf_3739249546691681839.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ShortPaper"
       }
     }
   ]
