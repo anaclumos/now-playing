@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1626233053",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1626233053",
+      "attributes": {
+        "albumName": "Op.22 Y-Waltz : in Major - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-06-02",
+        "durationInMillis": 199067,
+        "isrc": "KRA492200507",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/ab/38/02ab38b1-0048-35fa-058d-70aab34a408e/888272100082_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f9f8f4",
+          "textColor1": "060605",
+          "textColor2": "1e1a17",
+          "textColor3": "363635",
+          "textColor4": "494643"
+        },
+        "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
+        "playParams": {
+          "id": "1626233053",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Love Shhh!",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cb/12/66/cb1266e1-ee4b-9a08-2059-748a339d7952/mzaf_17031982910428537100.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JO YURI"
+      }
+    },
+    {
+      "id": "1649325667",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1649325667",
+      "attributes": {
+        "albumName": "Gloria",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2023-01-27",
+        "durationInMillis": 229605,
+        "isrc": "GBUM72205420",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "36311d",
+          "textColor1": "e4c29d",
+          "textColor2": "e0a581",
+          "textColor3": "c1a583",
+          "textColor4": "be8e6d"
+        },
+        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "playParams": {
+          "id": "1649325667",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "I'm Not Here To Make Friends",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sam Smith"
+      }
+    },
+    {
       "id": "1273710101",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1273710101",
@@ -32,8 +117,8 @@
         },
         "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -74,8 +159,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -110,11 +195,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -153,11 +238,11 @@
           "textColor4": "414546"
         },
         "composerName": "Rado, Fly-T & Will.B",
-        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "playParams": {
           "id": "1654124215",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -202,8 +287,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -238,11 +323,11 @@
           "textColor3": "353c36",
           "textColor4": "4c5e46"
         },
-        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "playParams": {
           "id": "1578842459",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -286,8 +371,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Yummy!",
         "previews": [
           {
@@ -329,8 +414,8 @@
         },
         "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Sour Grapes",
         "previews": [
           {
@@ -372,8 +457,8 @@
         },
         "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame",
         "previews": [
           {
@@ -409,11 +494,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -451,11 +536,11 @@
           "textColor4": "282626"
         },
         "composerName": "Dept, Roydo, Clam, Sunkiss & Suru",
+        "url": "https://music.apple.com/us/album/broken-feat-j-o-y-suru/1670255968?i=1670255969",
         "playParams": {
           "id": "1670255969",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/broken-feat-j-o-y-suru/1670255968?i=1670255969",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -500,8 +585,8 @@
         },
         "url": "https://music.apple.com/us/album/killer/1670050845?i=1670051176",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Killer",
         "previews": [
           {
@@ -537,11 +622,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -586,11 +671,11 @@
           "textColor4": "d7bdb5"
         },
         "composerName": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "playParams": {
           "id": "1440715697",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -628,11 +713,11 @@
           "textColor4": "cd9194"
         },
         "composerName": "Barry Cohen, Colin Magalong, Elana Caceres, Lillian Gillespie, Makhyli Simpson, Olivia Ruby & Queenie Mae Villaluz",
+        "url": "https://music.apple.com/us/album/mantrum/1661231082?i=1661231084",
         "playParams": {
           "id": "1661231084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/mantrum/1661231082?i=1661231084",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -677,8 +762,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ABYSS",
         "previews": [
           {
@@ -714,11 +799,11 @@
           "textColor3": "3d3c3e",
           "textColor4": "6e323b"
         },
+        "url": "https://music.apple.com/us/album/chemistry/1660564708?i=1660564714",
         "playParams": {
           "id": "1660564714",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/chemistry/1660564708?i=1660564714",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -764,8 +849,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "In other season",
         "previews": [
           {
@@ -801,11 +886,11 @@
           "textColor4": "b29c8e"
         },
         "composerName": "ShortPaper, \ud55c\uc131\ud76c & wudstak",
+        "url": "https://music.apple.com/us/album/umm-with-park-jun/1668065141?i=1668065142",
         "playParams": {
           "id": "1668065142",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/umm-with-park-jun/1668065141?i=1668065142",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -844,11 +929,11 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -893,8 +978,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -930,11 +1015,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -978,8 +1063,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cheshire",
         "previews": [
           {
@@ -1018,11 +1103,11 @@
           "textColor4": "484b60"
         },
         "composerName": "Kako & CURTIS F",
-        "url": "https://music.apple.com/us/album/milky-way-between-us/1611486062?i=1611486063",
         "playParams": {
           "id": "1611486063",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/milky-way-between-us/1611486062?i=1611486063",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1067,8 +1152,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -1104,11 +1189,11 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1146,11 +1231,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1189,11 +1274,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1204,92 +1289,6 @@
           }
         ],
         "artistName": "Younha"
-      }
-    },
-    {
-      "id": "1588219798",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1588219798",
-      "attributes": {
-        "albumName": "VENI VIDI VICI",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 7,
-        "releaseDate": "2021-05-18",
-        "durationInMillis": 199640,
-        "isrc": "KRUM72100123",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/10/3f/18/103f1829-12c4-e91c-103c-e1064ce02f70/21UM1IM16483.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e9e6ff",
-          "textColor1": "10262b",
-          "textColor2": "232346",
-          "textColor3": "3b4c55",
-          "textColor4": "4b4a6b"
-        },
-        "composerName": "S.Tiger, Elly & J.mee Kim",
-        "playParams": {
-          "id": "1588219798",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "RUB-A-DUM",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ca/35/ef/ca35efff-ae93-f237-0854-dae8fdd7ae78/mzaf_507588980058338654.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TRI.BE"
-      }
-    },
-    {
-      "id": "1647830401",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1647830401",
-      "attributes": {
-        "albumName": "ANTIFRAGILE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2022-10-17",
-        "durationInMillis": 166491,
-        "isrc": "USA2P2230331",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "212121",
-          "textColor3": "333333",
-          "textColor4": "4e4e4e"
-        },
-        "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "playParams": {
-          "id": "1647830401",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "No Celestial",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0a/1a/8f/0a1a8f9c-7899-719a-32d2-0fca51b4810c/mzaf_14152309364360016338.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
       }
     }
   ]
