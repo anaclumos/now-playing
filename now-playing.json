@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1649325667",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1649325667",
+      "attributes": {
+        "albumName": "Gloria",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2023-01-27",
+        "durationInMillis": 229605,
+        "isrc": "GBUM72205420",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "36311d",
+          "textColor1": "e4c29d",
+          "textColor2": "e0a581",
+          "textColor3": "c1a583",
+          "textColor4": "be8e6d"
+        },
+        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
+        "playParams": {
+          "id": "1649325667",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "I'm Not Here To Make Friends",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sam Smith"
+      }
+    },
+    {
       "id": "1636642074",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1636642074",
@@ -27,14 +69,14 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -55,8 +97,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "durationInMillis": 235241,
         "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 1838,
@@ -75,8 +117,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -112,14 +154,14 @@
           "textColor4": "41363d"
         },
         "composerName": "Lauren Aquilina, Isaac Sakima & Joe Kearns",
+        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
         "playParams": {
           "id": "1649467575",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -127,48 +169,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1649325667",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649325667",
-      "attributes": {
-        "albumName": "Gloria",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2023-01-27",
-        "durationInMillis": 229605,
-        "isrc": "GBUM72205420",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "36311d",
-          "textColor1": "e4c29d",
-          "textColor2": "e0a581",
-          "textColor3": "c1a583",
-          "textColor4": "be8e6d"
-        },
-        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "playParams": {
-          "id": "1649325667",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "I'm Not Here To Make Friends",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sam Smith"
       }
     },
     {
@@ -186,8 +186,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 174647,
         "releaseDate": "2022-04-29",
+        "durationInMillis": 174647,
         "isrc": "QZEKE2084402",
         "artwork": {
           "width": 3000,
@@ -242,11 +242,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "playParams": {
           "id": "1670622074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -271,8 +271,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189773,
         "releaseDate": "2023-02-14",
+        "durationInMillis": 189773,
         "isrc": "KRA382300511",
         "artwork": {
           "width": 3000,
@@ -290,8 +290,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Teddy Bear",
         "previews": [
           {
@@ -313,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179867,
         "releaseDate": "2022-11-16",
+        "durationInMillis": 179867,
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -356,8 +356,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 245840,
         "releaseDate": "2021-09-10",
+        "durationInMillis": 245840,
         "isrc": "KRMIM2135398",
         "artwork": {
           "width": 3000,
@@ -398,8 +398,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 230733,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 230733,
         "isrc": "KRA302300029",
         "artwork": {
           "width": 4000,
@@ -418,8 +418,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Killer",
         "previews": [
           {
@@ -441,8 +441,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 178680,
         "releaseDate": "2022-12-16",
+        "durationInMillis": 178680,
         "isrc": "KRA302200261",
         "artwork": {
           "width": 5000,
@@ -496,11 +496,11 @@
           "textColor3": "bdb7a6",
           "textColor4": "af684e"
         },
+        "url": "https://music.apple.com/us/album/super-mario-bros/1092845136?i=1092845223",
         "playParams": {
           "id": "1092845223",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super-mario-bros/1092845136?i=1092845223",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -524,8 +524,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 226627,
         "releaseDate": "2022-08-12",
+        "durationInMillis": 226627,
         "isrc": "QZAKB2166405",
         "artwork": {
           "width": 3000,
@@ -544,8 +544,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "B.O.T.A. (Baddest Of Them All) [Edit]",
         "previews": [
           {
@@ -580,14 +580,14 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
+        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
         "playParams": {
           "id": "1640343360",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Animal",
         "previews": [
           {
@@ -622,14 +622,14 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -665,11 +665,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -707,11 +707,11 @@
           "textColor3": "4a4547",
           "textColor4": "5c5558"
         },
+        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "playParams": {
           "id": "1046202717",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -736,8 +736,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -755,8 +755,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -784,7 +784,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T092338Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a9780885eda7b089ae6293a66e1df74c3890decd96e9db9ea73bdcb6ea5ff9ea"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T093208Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b5a36df50caecf3f1122398d9f3e62e7cb1a262fd585d2ea0063d21f0ada6f30"
         },
         "playParams": {
           "id": "i.ldDOXRrS8LaVGWo",
@@ -799,8 +799,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.eoDz1ZXHkaYRBvJ",
       "attributes": {
-        "discNumber": 0,
         "albumName": "NewJeans MINDA",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -812,7 +812,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T092338Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=51242294e7f60922d7891a569110a3b4b5e8666308180cb8a08f9555f7621210"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T093208Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0cd17aba9153d04049759160ef256fb0d9e80a68200ced3cc15b23cb4f91bdc0"
         },
         "playParams": {
           "id": "i.eoDz1ZXHkaYRBvJ",
@@ -840,7 +840,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T092338Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8d42dccb4dc113672c7421cb9843cd4e5ddd8d689712310cf941663e1c74f45d"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T093208Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a3298216726f4089f27486d6e537d6cd55d83c144be63c412ac8cd340180b6b7"
         },
         "playParams": {
           "id": "i.b1JvkKdSbdrMKBq",
@@ -876,14 +876,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -911,7 +911,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T092338Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cbe9a54055183ba89e1e1a48d9a1ad626a75c1baacd41a8616ce972d880a9c77"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T093208Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=00a1a3085d86fc42326d0bf006ec65d280a03d7c5d8d2f3bd1999e807ecc2e0d"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -947,11 +947,11 @@
           "textColor4": "2e1738"
         },
         "composerName": "Flyin\u2019",
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "playParams": {
           "id": "1640448906",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -975,8 +975,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -1032,11 +1032,11 @@
           "textColor4": "494643"
         },
         "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "playParams": {
           "id": "1626233053",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1061,8 +1061,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189846,
         "releaseDate": "2018-09-05",
+        "durationInMillis": 189846,
         "isrc": "KRA301800336",
         "artwork": {
           "width": 4000,
@@ -1080,8 +1080,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Lil\u2019 Touch",
         "previews": [
           {
@@ -1116,14 +1116,14 @@
           "textColor4": "4a2214"
         },
         "composerName": "Edith Piaf, Louis Guglielmi & Mack David",
+        "url": "https://music.apple.com/us/album/la-vie-en-rose-single-version/1445668547?i=1445668827",
         "playParams": {
           "id": "1445668827",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/la-vie-en-rose-single-version/1445668547?i=1445668827",
         "discNumber": 2,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "La vie en rose (Single Version)",
         "previews": [
           {
@@ -1145,8 +1145,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 189307,
         "releaseDate": "2021-08-04",
+        "durationInMillis": 189307,
         "isrc": "KRA382159869",
         "artwork": {
           "width": 3000,
@@ -1164,8 +1164,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Holiday Party",
         "previews": [
           {
@@ -1200,14 +1200,14 @@
           "textColor3": "041f2e",
           "textColor4": "213037"
         },
+        "url": "https://music.apple.com/us/album/yummy/1558430429?i=1558430430",
         "playParams": {
           "id": "1558430430",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yummy/1558430429?i=1558430430",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Yummy!",
         "previews": [
           {
