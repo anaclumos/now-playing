@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1273710101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1273710101",
+      "attributes": {
+        "albumName": "Excitement of Youth",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 1838,
+          "height": 1600,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a4030f",
+          "textColor1": "f5e5e7",
+          "textColor2": "fe9792",
+          "textColor3": "e5b8bb",
+          "textColor4": "ec7a78"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
+        "playParams": {
+          "id": "1273710101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
       "id": "1670622074",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1670622074",
@@ -26,11 +68,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "playParams": {
           "id": "1670622074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -68,11 +110,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -111,11 +153,11 @@
           "textColor4": "414546"
         },
         "composerName": "Rado, Fly-T & Will.B",
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "playParams": {
           "id": "1654124215",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -196,11 +238,11 @@
           "textColor3": "2f3837",
           "textColor4": "33403d"
         },
-        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "playParams": {
           "id": "1584809295",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -211,48 +253,6 @@
           }
         ],
         "artistName": "Yerin Baek"
-      }
-    },
-    {
-      "id": "1273710101",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1273710101",
-      "attributes": {
-        "albumName": "Excitement of Youth",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 7,
-        "releaseDate": "2017-04-14",
-        "durationInMillis": 235241,
-        "isrc": "JPWP01770243",
-        "artwork": {
-          "width": 1838,
-          "height": 1600,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a4030f",
-          "textColor1": "f5e5e7",
-          "textColor2": "fe9792",
-          "textColor3": "e5b8bb",
-          "textColor4": "ec7a78"
-        },
-        "composerName": "Aimyon",
-        "playParams": {
-          "id": "1273710101",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Ai Wo Tsutaetaidatoka",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Aimyon"
       }
     },
     {
@@ -324,11 +324,11 @@
           "textColor4": "bebab1"
         },
         "composerName": "Landon Warren Sears, Jonathan Bach, David Wilson, Patrick Lok & MZMC",
-        "url": "https://music.apple.com/us/album/tangerine-love-favorite/1658222131?i=1658222137",
         "playParams": {
           "id": "1658222137",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tangerine-love-favorite/1658222131?i=1658222137",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -365,11 +365,11 @@
           "textColor3": "bdb7a6",
           "textColor4": "af684e"
         },
+        "url": "https://music.apple.com/us/album/super-mario-bros/1092845136?i=1092845223",
         "playParams": {
           "id": "1092845223",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super-mario-bros/1092845136?i=1092845223",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -534,11 +534,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -645,15 +645,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 157779,
         "name": "Attention (Funk Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T081426Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=67c03ead5f43e91af717cbbd0246bdeed73f6531ff2aeacaf28d4d23e87d075e"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T082719Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6613eb6c774829da8457c4f8785ee77a284834e0c0cc3387ed00ddf6e16c0a84"
         },
         "playParams": {
           "id": "i.ldDOXRrS8LaVGWo",
@@ -673,15 +673,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 173400,
         "name": "Hurt (Indie Pop Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T081426Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=582f5633cbc05fe031b2bf3f4813a04f07fdbb282de97dfc7d064e6e13a73cf5"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T082719Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=98cbb51f25d8b795c2d64cc099767169f33b8b90f14a1d79267d20fcf57f86fc"
         },
         "playParams": {
           "id": "i.eoDz1ZXHkaYRBvJ",
@@ -696,20 +696,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.b1JvkKdSbdrMKBq",
       "attributes": {
-        "albumName": "NewJeans MINDA",
         "discNumber": 0,
+        "albumName": "NewJeans MINDA",
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 220368,
         "name": "Ditto (UK Garage Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T081426Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e26b87a130e8c701df6fafd35a8f14b6667cc79325b4d6a5ae6c7d38f7167385"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T082719Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d2c337fa283e35cdfbbd15ce1ceaa02f0d237c265597f78763ae9c1cab0f2b42"
         },
         "playParams": {
           "id": "i.b1JvkKdSbdrMKBq",
@@ -767,20 +767,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.WmYQbMqtxo4rAzD",
       "attributes": {
-        "albumName": "NewJeans MINDA",
         "discNumber": 0,
+        "albumName": "NewJeans MINDA",
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 195735,
         "name": "Cookie (Highschool Band Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T081426Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9a1270facf722441f3290805a2e2de255e7a2a787e71aba34acdd07621da8e8b"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T082719Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cf5cfd55827eb8a7235ab6073b12b67619ca241dca192337bba369031acc82cf"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -816,11 +816,11 @@
           "textColor4": "2e1738"
         },
         "composerName": "Flyin\u2019",
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "playParams": {
           "id": "1640448906",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -944,11 +944,11 @@
           "textColor4": "494643"
         },
         "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "playParams": {
           "id": "1626233053",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
