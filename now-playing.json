@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1273710101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1273710101",
+      "attributes": {
+        "albumName": "Excitement of Youth",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 1838,
+          "height": 1600,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a4030f",
+          "textColor1": "f5e5e7",
+          "textColor2": "fe9792",
+          "textColor3": "e5b8bb",
+          "textColor4": "ec7a78"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
+        "playParams": {
+          "id": "1273710101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
       "id": "1654124215",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1654124215",
@@ -13,8 +55,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179867,
         "releaseDate": "2022-11-16",
+        "durationInMillis": 179867,
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -27,11 +69,11 @@
           "textColor4": "414546"
         },
         "composerName": "Rado, Fly-T & Will.B",
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "playParams": {
           "id": "1654124215",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -42,6 +84,92 @@
           }
         ],
         "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1670051176",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670051176",
+      "attributes": {
+        "albumName": "Killer: The 2nd Album Repackage",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-13",
+        "durationInMillis": 230733,
+        "isrc": "KRA302300029",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/0c/b5/cb/0cb5cb34-a6b4-dc25-5da7-6074237b1aec/KEY_Digital_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "f0f2f6",
+          "textColor2": "fbc8de",
+          "textColor3": "c0c1c5",
+          "textColor4": "c9a0b2"
+        },
+        "composerName": "Christoph Cronauer, Simon Klose, Rita Bavanati & Thilo Berndt",
+        "url": "https://music.apple.com/us/album/killer/1670050845?i=1670051176",
+        "playParams": {
+          "id": "1670051176",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Killer",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/96/9d/78/969d78f0-eed1-20c5-dd3c-d02e19e57461/mzaf_2475226049334755213.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "KEY"
+      }
+    },
+    {
+      "id": "1658222137",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1658222137",
+      "attributes": {
+        "albumName": "Candy - Winter Special Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-12-16",
+        "durationInMillis": 178680,
+        "isrc": "KRA302200261",
+        "artwork": {
+          "width": 5000,
+          "height": 5000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/41/0f/bd/410fbda4-aff9-9807-6014-f51bdd19fe3c/Digital_Cover_NCT_DREAM_Candy.jpg/{w}x{h}bb.jpg",
+          "bgColor": "011605",
+          "textColor1": "fefeff",
+          "textColor2": "ede4dc",
+          "textColor3": "cbcfcc",
+          "textColor4": "bebab1"
+        },
+        "composerName": "Landon Warren Sears, Jonathan Bach, David Wilson, Patrick Lok & MZMC",
+        "url": "https://music.apple.com/us/album/tangerine-love-favorite/1658222131?i=1658222137",
+        "playParams": {
+          "id": "1658222137",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Tangerine Love (Favorite)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/72/9e/6d729ee9-db86-c358-8341-cd0fac9aaf1e/mzaf_3663727672620992940.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NCT DREAM"
       }
     },
     {
@@ -56,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 145320,
         "releaseDate": "2022-10-19",
+        "durationInMillis": 145320,
         "isrc": "KRMIM2281382",
         "artwork": {
           "width": 3000,
@@ -70,14 +198,14 @@
           "textColor4": "41363d"
         },
         "composerName": "Lauren Aquilina, Isaac Sakima & Joe Kearns",
+        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
         "playParams": {
           "id": "1649467575",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -111,14 +239,14 @@
           "textColor3": "bdb7a6",
           "textColor4": "af684e"
         },
+        "url": "https://music.apple.com/us/album/super-mario-bros/1092845136?i=1092845223",
         "playParams": {
           "id": "1092845223",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super-mario-bros/1092845136?i=1092845223",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super Mario Bros.",
         "previews": [
           {
@@ -139,8 +267,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 226627,
         "releaseDate": "2022-08-12",
+        "durationInMillis": 226627,
         "isrc": "QZAKB2166405",
         "artwork": {
           "width": 3000,
@@ -153,14 +281,14 @@
           "textColor4": "c87f51"
         },
         "composerName": "Eliza Rose & Interplanetary Criminal",
+        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "playParams": {
           "id": "1639317826",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "B.O.T.A. (Baddest Of Them All) [Edit]",
         "previews": [
           {
@@ -195,14 +323,14 @@
           "textColor4": "dfbebb"
         },
         "composerName": "Aurora Aksnes, Tobias Gad & David Dahlquist",
+        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
         "playParams": {
           "id": "1640343360",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/animal/1640343353?i=1640343360",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Animal",
         "previews": [
           {
@@ -224,8 +352,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 198559,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 198559,
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -237,11 +365,11 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -267,8 +395,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "durationInMillis": 206627,
         "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -280,14 +408,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -309,8 +437,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 206039,
         "releaseDate": "2015-10-07",
+        "durationInMillis": 206039,
         "isrc": "KRA301500490",
         "artwork": {
           "width": 4961,
@@ -322,11 +450,11 @@
           "textColor3": "4a4547",
           "textColor4": "5c5558"
         },
+        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "playParams": {
           "id": "1046202717",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -351,8 +479,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -364,14 +492,14 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -399,7 +527,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T073650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1b901d80ec2b9a892bde2ca742248f49472e49880a6cfea69f4277f66a97c640"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T074503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=460d778adaab6a7a8493f2db866e13c4b9ded3df8e61f2658347f8a82ccf0887"
         },
         "playParams": {
           "id": "i.ldDOXRrS8LaVGWo",
@@ -414,8 +542,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.eoDz1ZXHkaYRBvJ",
       "attributes": {
-        "discNumber": 0,
         "albumName": "NewJeans MINDA",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -427,7 +555,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T073650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=139f21a6af5f4fc33cb7093d1d8114347d5a615cbeb6ab9c23961130e92ffa10"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T074503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f974b7a956e4a1e14e6b027a995c8f97f12ce8248e8ecac828a1cf64255fe807"
         },
         "playParams": {
           "id": "i.eoDz1ZXHkaYRBvJ",
@@ -442,8 +570,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.b1JvkKdSbdrMKBq",
       "attributes": {
-        "albumName": "NewJeans MINDA",
         "discNumber": 0,
+        "albumName": "NewJeans MINDA",
         "genreNames": [
           ""
         ],
@@ -455,7 +583,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T073650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=44dda86dcd20bb4868535a2d82657d80c998710e81611efbcb1f45be3dfaed79"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T074503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e87d829f89d5bd683f902a202aad6a5c71714834ae19593aee99e691b20b2a4d"
         },
         "playParams": {
           "id": "i.b1JvkKdSbdrMKBq",
@@ -491,11 +619,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -526,7 +654,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T073650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9867656945761366fc780c1f167b450b3fd176154afa7e7020258ebd4cfa6578"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230225T074503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e45e2c58d40f233fc69b29d451f8d06db88be59cba9df0b9ca81aa057cd575e6"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -548,8 +676,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 160549,
         "releaseDate": "2022-09-30",
+        "durationInMillis": 160549,
         "isrc": "SE5Q52202527",
         "artwork": {
           "width": 3000,
@@ -562,14 +690,14 @@
           "textColor4": "2e1738"
         },
         "composerName": "Flyin\u2019",
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "playParams": {
           "id": "1640448906",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -604,14 +732,14 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -647,11 +775,11 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -676,8 +804,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199067,
         "releaseDate": "2022-06-02",
+        "durationInMillis": 199067,
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -690,14 +818,14 @@
           "textColor4": "494643"
         },
         "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "playParams": {
           "id": "1626233053",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -732,14 +860,14 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "I'm Not Here To Make Friends",
         "previews": [
           {
@@ -747,48 +875,6 @@
           }
         ],
         "artistName": "Sam Smith"
-      }
-    },
-    {
-      "id": "1273710101",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1273710101",
-      "attributes": {
-        "albumName": "Excitement of Youth",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 7,
-        "durationInMillis": 235241,
-        "releaseDate": "2017-04-14",
-        "isrc": "JPWP01770243",
-        "artwork": {
-          "width": 1838,
-          "height": 1600,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a4030f",
-          "textColor1": "f5e5e7",
-          "textColor2": "fe9792",
-          "textColor3": "e5b8bb",
-          "textColor4": "ec7a78"
-        },
-        "composerName": "Aimyon",
-        "playParams": {
-          "id": "1273710101",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Ai Wo Tsutaetaidatoka",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Aimyon"
       }
     },
     {
@@ -803,8 +889,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -816,14 +902,14 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "playParams": {
           "id": "1670622074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -858,11 +944,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -900,11 +986,11 @@
           "textColor3": "cbcbcb",
           "textColor4": "b2b2b2"
         },
+        "url": "https://music.apple.com/us/album/lil-touch/1435055371?i=1435055380",
         "playParams": {
           "id": "1435055380",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lil-touch/1435055371?i=1435055380",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -942,14 +1028,14 @@
           "textColor4": "4a2214"
         },
         "composerName": "Edith Piaf, Louis Guglielmi & Mack David",
+        "url": "https://music.apple.com/us/album/la-vie-en-rose-single-version/1445668547?i=1445668827",
         "playParams": {
           "id": "1445668827",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/la-vie-en-rose-single-version/1445668547?i=1445668827",
         "discNumber": 2,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "La vie en rose (Single Version)",
         "previews": [
           {
@@ -971,8 +1057,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 189307,
         "releaseDate": "2021-08-04",
+        "durationInMillis": 189307,
         "isrc": "KRA382159869",
         "artwork": {
           "width": 3000,
@@ -984,14 +1070,14 @@
           "textColor3": "353c36",
           "textColor4": "4c5e46"
         },
+        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "playParams": {
           "id": "1578842459",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Holiday Party",
         "previews": [
           {
@@ -1026,14 +1112,14 @@
           "textColor3": "041f2e",
           "textColor4": "213037"
         },
+        "url": "https://music.apple.com/us/album/yummy/1558430429?i=1558430430",
         "playParams": {
           "id": "1558430430",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yummy/1558430429?i=1558430430",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Yummy!",
         "previews": [
           {
@@ -1069,14 +1155,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Danke, ABIR, Kayofkaj, Nermin Harambasic (Dsign Music), Lady V, \uae40\uc778\ud615 & Sunshine (Cazzi Opeia & Ellen Berg)",
+        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "playParams": {
           "id": "1621089856",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Sour Grapes",
         "previews": [
           {
@@ -1098,8 +1184,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 201895,
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -1112,14 +1198,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame",
         "previews": [
           {
@@ -1127,91 +1213,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1670255969",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670255969",
-      "attributes": {
-        "albumName": "Bye My Blue - EP",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 190587,
-        "releaseDate": "2023-02-12",
-        "isrc": "KRMIM2331183",
-        "artwork": {
-          "width": 2400,
-          "height": 2400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/9a/2d/cf/9a2dcf6d-0d2d-1fd1-c614-87b28d3c41e7/5054197557101.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a2a6b1",
-          "textColor1": "080503",
-          "textColor2": "090603",
-          "textColor3": "272526",
-          "textColor4": "282626"
-        },
-        "composerName": "Dept, Roydo, Clam, Sunkiss & Suru",
-        "playParams": {
-          "id": "1670255969",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/broken-feat-j-o-y-suru/1670255968?i=1670255969",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Broken (feat. J.O.Y & suru)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fe/df/87/fedf8796-9f58-69b9-805c-5f27cf9ad70b/mzaf_12613675243245092065.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Dept"
-      }
-    },
-    {
-      "id": "1670051176",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670051176",
-      "attributes": {
-        "albumName": "Killer: The 2nd Album Repackage",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-13",
-        "durationInMillis": 230733,
-        "isrc": "KRA302300029",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/0c/b5/cb/0cb5cb34-a6b4-dc25-5da7-6074237b1aec/KEY_Digital_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "f0f2f6",
-          "textColor2": "fbc8de",
-          "textColor3": "c0c1c5",
-          "textColor4": "c9a0b2"
-        },
-        "composerName": "Christoph Cronauer, Simon Klose, Rita Bavanati & Thilo Berndt",
-        "playParams": {
-          "id": "1670051176",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/killer/1670050845?i=1670051176",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Killer",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/96/9d/78/969d78f0-eed1-20c5-dd3c-d02e19e57461/mzaf_2475226049334755213.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "KEY"
       }
     }
   ]
