@@ -2,91 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1649325667",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649325667",
-      "attributes": {
-        "albumName": "Gloria",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2023-01-27",
-        "durationInMillis": 229605,
-        "isrc": "GBUM72205420",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "36311d",
-          "textColor1": "e4c29d",
-          "textColor2": "e0a581",
-          "textColor3": "c1a583",
-          "textColor4": "be8e6d"
-        },
-        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
-        "playParams": {
-          "id": "1649325667",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "I'm Not Here To Make Friends",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sam Smith"
-      }
-    },
-    {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-03",
-        "durationInMillis": 198587,
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
-      }
-    },
-    {
       "id": "1273710101",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1273710101",
@@ -97,8 +12,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "releaseDate": "2017-04-14",
         "durationInMillis": 235241,
+        "releaseDate": "2017-04-14",
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 1838,
@@ -157,14 +72,14 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, SUGA & EL CAPITXN",
+        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "playParams": {
           "id": "1620871958",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "That That (prod. & feat. SUGA of BTS)",
         "previews": [
           {
@@ -172,6 +87,91 @@
           }
         ],
         "artistName": "PSY"
+      }
+    },
+    {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 198587,
+        "releaseDate": "2022-08-03",
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
+      "id": "1649325667",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1649325667",
+      "attributes": {
+        "albumName": "Gloria",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2023-01-27",
+        "durationInMillis": 229605,
+        "isrc": "GBUM72205420",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "36311d",
+          "textColor1": "e4c29d",
+          "textColor2": "e0a581",
+          "textColor3": "c1a583",
+          "textColor4": "be8e6d"
+        },
+        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
+        "playParams": {
+          "id": "1649325667",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "I'm Not Here To Make Friends",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sam Smith"
       }
     },
     {
@@ -186,8 +186,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-02-03",
         "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -228,8 +228,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-14",
         "durationInMillis": 189773,
+        "releaseDate": "2023-02-14",
         "isrc": "KRA382300511",
         "artwork": {
           "width": 3000,
@@ -241,11 +241,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -270,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-16",
         "durationInMillis": 179867,
+        "releaseDate": "2022-11-16",
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -313,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-19",
         "durationInMillis": 145320,
+        "releaseDate": "2022-10-19",
         "isrc": "KRMIM2281382",
         "artwork": {
           "width": 3000,
@@ -375,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Antifreeze",
         "previews": [
           {
@@ -412,14 +412,14 @@
           "textColor4": "bebab1"
         },
         "composerName": "Landon Warren Sears, Jonathan Bach, David Wilson, Patrick Lok & MZMC",
+        "url": "https://music.apple.com/us/album/tangerine-love-favorite/1658222131?i=1658222137",
         "playParams": {
           "id": "1658222137",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tangerine-love-favorite/1658222131?i=1658222137",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Tangerine Love (Favorite)",
         "previews": [
           {
@@ -441,8 +441,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-13",
         "durationInMillis": 230733,
+        "releaseDate": "2023-02-13",
         "isrc": "KRA302300029",
         "artwork": {
           "width": 4000,
@@ -455,11 +455,11 @@
           "textColor4": "c9a0b2"
         },
         "composerName": "Christoph Cronauer, Simon Klose, Rita Bavanati & Thilo Berndt",
+        "url": "https://music.apple.com/us/album/killer/1670050845?i=1670051176",
         "playParams": {
           "id": "1670051176",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/killer/1670050845?i=1670051176",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -496,14 +496,14 @@
           "textColor3": "bdb7a6",
           "textColor4": "af684e"
         },
+        "url": "https://music.apple.com/us/album/super-mario-bros/1092845136?i=1092845223",
         "playParams": {
           "id": "1092845223",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super-mario-bros/1092845136?i=1092845223",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super Mario Bros.",
         "previews": [
           {
@@ -538,14 +538,14 @@
           "textColor4": "c87f51"
         },
         "composerName": "Eliza Rose & Interplanetary Criminal",
+        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "playParams": {
           "id": "1639317826",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/b-o-t-a-baddest-of-them-all-edit/1639317367?i=1639317826",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "B.O.T.A. (Baddest Of Them All) [Edit]",
         "previews": [
           {
@@ -566,8 +566,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-01-24",
         "durationInMillis": 215401,
+        "releaseDate": "2019-01-24",
         "isrc": "GBUM71807807",
         "artwork": {
           "width": 3000,
@@ -622,14 +622,14 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -652,8 +652,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -665,11 +665,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -707,14 +707,14 @@
           "textColor3": "4a4547",
           "textColor4": "5c5558"
         },
+        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "playParams": {
           "id": "1046202717",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I (feat. Verbal Jint)",
         "previews": [
           {
@@ -755,8 +755,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -778,8 +778,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -821,8 +821,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-30",
         "durationInMillis": 160549,
+        "releaseDate": "2022-09-30",
         "isrc": "SE5Q52202527",
         "artwork": {
           "width": 3000,
@@ -835,11 +835,11 @@
           "textColor4": "2e1738"
         },
         "composerName": "Flyin\u2019",
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "playParams": {
           "id": "1640448906",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -883,8 +883,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -906,8 +906,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-02",
         "durationInMillis": 199067,
+        "releaseDate": "2022-06-02",
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -968,8 +968,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Lil\u2019 Touch",
         "previews": [
           {
@@ -1010,8 +1010,8 @@
           "kind": "song"
         },
         "discNumber": 2,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "La vie en rose (Single Version)",
         "previews": [
           {
@@ -1033,8 +1033,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-08-04",
         "durationInMillis": 189307,
+        "releaseDate": "2021-08-04",
         "isrc": "KRA382159869",
         "artwork": {
           "width": 3000,
@@ -1046,11 +1046,11 @@
           "textColor3": "353c36",
           "textColor4": "4c5e46"
         },
+        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "playParams": {
           "id": "1578842459",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1075,8 +1075,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-03-17",
         "durationInMillis": 183387,
+        "releaseDate": "2021-03-17",
         "isrc": "KRA382101557",
         "artwork": {
           "width": 3000,
@@ -1131,14 +1131,14 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Danke, ABIR, Kayofkaj, Nermin Harambasic (Dsign Music), Lady V, \uae40\uc778\ud615 & Sunshine (Cazzi Opeia & Ellen Berg)",
+        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "playParams": {
           "id": "1621089856",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Sour Grapes",
         "previews": [
           {
@@ -1160,8 +1160,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 201895,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2219220",
         "artwork": {
           "width": 1400,
@@ -1216,14 +1216,14 @@
           "textColor4": "282626"
         },
         "composerName": "Dept, Roydo, Clam, Sunkiss & Suru",
+        "url": "https://music.apple.com/us/album/broken-feat-j-o-y-suru/1670255968?i=1670255969",
         "playParams": {
           "id": "1670255969",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/broken-feat-j-o-y-suru/1670255968?i=1670255969",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Broken (feat. J.O.Y & suru)",
         "previews": [
           {
@@ -1246,8 +1246,8 @@
           "Folk"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-02-05",
         "durationInMillis": 171947,
+        "releaseDate": "2023-02-05",
         "isrc": "KRF252300220",
         "artwork": {
           "width": 3000,
