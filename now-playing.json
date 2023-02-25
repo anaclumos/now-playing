@@ -2,6 +2,132 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1273710101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1273710101",
+      "attributes": {
+        "albumName": "Excitement of Youth",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 1838,
+          "height": 1600,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a4030f",
+          "textColor1": "f5e5e7",
+          "textColor2": "fe9792",
+          "textColor3": "e5b8bb",
+          "textColor4": "ec7a78"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
+        "playParams": {
+          "id": "1273710101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
+      "id": "1670622073",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670622073",
+      "attributes": {
+        "albumName": "Teddy Bear - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-14",
+        "durationInMillis": 189773,
+        "isrc": "KRA382300511",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d458f5",
+          "textColor2": "d522f6",
+          "textColor3": "aa46c4",
+          "textColor4": "ab1bc4"
+        },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
+        "playParams": {
+          "id": "1670622073",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Teddy Bear",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/df/90/3ddf9079-cd94-6c73-d437-1a1f2f28de15/mzaf_2025394688294119483.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1445668827",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1445668827",
+      "attributes": {
+        "albumName": "Louis Armstrong: Highlights from His Decca Years (The Original Decca Recordings)",
+        "genreNames": [
+          "Jazz",
+          "Music"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "1950-06-26",
+        "durationInMillis": 206333,
+        "isrc": "USMC15076528",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/4e/94/ba/4e94ba92-463f-b37e-37d9-9f543b9700c4/06UMGIM03781.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e6632a",
+          "textColor1": "110c0b",
+          "textColor2": "23120e",
+          "textColor3": "3b1d11",
+          "textColor4": "4a2214"
+        },
+        "composerName": "Edith Piaf, Louis Guglielmi & Mack David",
+        "url": "https://music.apple.com/us/album/la-vie-en-rose-single-version/1445668547?i=1445668827",
+        "playParams": {
+          "id": "1445668827",
+          "kind": "song"
+        },
+        "discNumber": 2,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "La vie en rose (Single Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8b/cf/c0/8bcfc04a-77b6-f0bf-f973-243c37060ea2/mzaf_17324403527218715526.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Louis Armstrong and His Orchestra"
+      }
+    },
+    {
       "id": "1654124215",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1654124215",
@@ -33,8 +159,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Poppy",
         "previews": [
           {
@@ -70,14 +196,14 @@
           "textColor4": "41363d"
         },
         "composerName": "Lauren Aquilina, Isaac Sakima & Joe Kearns",
+        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
         "playParams": {
           "id": "1649467575",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -112,11 +238,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -155,11 +281,11 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -204,8 +330,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -240,14 +366,14 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "I'm Not Here To Make Friends",
         "previews": [
           {
@@ -255,48 +381,6 @@
           }
         ],
         "artistName": "Sam Smith"
-      }
-    },
-    {
-      "id": "1273710101",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1273710101",
-      "attributes": {
-        "albumName": "Excitement of Youth",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 7,
-        "releaseDate": "2017-04-14",
-        "durationInMillis": 235241,
-        "isrc": "JPWP01770243",
-        "artwork": {
-          "width": 1838,
-          "height": 1600,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a4030f",
-          "textColor1": "f5e5e7",
-          "textColor2": "fe9792",
-          "textColor3": "e5b8bb",
-          "textColor4": "ec7a78"
-        },
-        "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
-        "playParams": {
-          "id": "1273710101",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Ai Wo Tsutaetaidatoka",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Aimyon"
       }
     },
     {
@@ -324,11 +408,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "playParams": {
           "id": "1670622074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -336,48 +420,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/df/89/14/df8914f4-b15f-fe49-1ed6-cc09128c7e1a/mzaf_11186161707499779216.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1670622073",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670622073",
-      "attributes": {
-        "albumName": "Teddy Bear - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-14",
-        "durationInMillis": 189773,
-        "isrc": "KRA382300511",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d458f5",
-          "textColor2": "d522f6",
-          "textColor3": "aa46c4",
-          "textColor4": "ab1bc4"
-        },
-        "playParams": {
-          "id": "1670622073",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Teddy Bear",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/df/90/3ddf9079-cd94-6c73-d437-1a1f2f28de15/mzaf_2025394688294119483.plus.aac.p.m4a"
           }
         ],
         "artistName": "STAYC"
@@ -414,8 +456,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Holiday Party",
         "previews": [
           {
@@ -499,8 +541,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Sour Grapes",
         "previews": [
           {
@@ -621,14 +663,14 @@
           "textColor4": "282626"
         },
         "composerName": "Dept, Roydo, Clam, Sunkiss & Suru",
+        "url": "https://music.apple.com/us/album/broken-feat-j-o-y-suru/1670255968?i=1670255969",
         "playParams": {
           "id": "1670255969",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/broken-feat-j-o-y-suru/1670255968?i=1670255969",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Broken (feat. J.O.Y & suru)",
         "previews": [
           {
@@ -713,8 +755,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -884,14 +926,14 @@
           "textColor3": "3d3c3e",
           "textColor4": "6e323b"
         },
+        "url": "https://music.apple.com/us/album/chemistry/1660564708?i=1660564714",
         "playParams": {
           "id": "1660564714",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/chemistry/1660564708?i=1660564714",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "CHEMISTRY",
         "previews": [
           {
@@ -1014,11 +1056,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1099,11 +1141,11 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1145,14 +1187,14 @@
           "textColor4": "484b60"
         },
         "composerName": "Kako & CURTIS F",
+        "url": "https://music.apple.com/us/album/milky-way-between-us/1611486062?i=1611486063",
         "playParams": {
           "id": "1611486063",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/milky-way-between-us/1611486062?i=1611486063",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Milky Way Between Us",
         "previews": [
           {
@@ -1188,14 +1230,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -1231,14 +1273,14 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -1246,49 +1288,6 @@
           }
         ],
         "artistName": "BLACKPINK"
-      }
-    },
-    {
-      "id": "1616649362",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616649362",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2022-03-30",
-        "durationInMillis": 300787,
-        "isrc": "KRA382204244",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "110d01",
-          "textColor2": "442217",
-          "textColor3": "403e34",
-          "textColor4": "694e46"
-        },
-        "playParams": {
-          "id": "1616649362",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Event Horizon",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
       }
     }
   ]
