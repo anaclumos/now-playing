@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1560638109",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1560638109",
+      "attributes": {
+        "albumName": "STALKER - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2021-04-01",
+        "durationInMillis": 228000,
+        "isrc": "KRMIM2113455",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ea/27/8e/ea278ef9-b4b9-4ef6-c5ee-ec965aced513/886449195541.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0d0225",
+          "textColor1": "fdfffe",
+          "textColor2": "bfc1c7",
+          "textColor3": "cdccd2",
+          "textColor4": "9c9ba6"
+        },
+        "composerName": "Wooziq & Myo",
+        "playParams": {
+          "id": "1560638109",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/stalker/1560637610?i=1560638109",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "STALKER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e2/e2/95/e2e29582-fb1d-82b1-0d8b-d9c826daf09f/mzaf_4332224917889821674.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "3YE"
+      }
+    },
+    {
+      "id": "1616804152",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1616804152",
+      "attributes": {
+        "albumName": "LOVE DIVE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-04-05",
+        "durationInMillis": 177187,
+        "isrc": "KRA382204375",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/67/f8/16/67f8164a-bfc2-f29b-e241-800426a968ef/cover_KM0015013_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "006eb8",
+          "textColor1": "f6f8fc",
+          "textColor2": "f6f8fc",
+          "textColor3": "c5dcef",
+          "textColor4": "c5dcef"
+        },
+        "playParams": {
+          "id": "1616804152",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "LOVE DIVE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a3/f2/04/a3f20464-c068-fbc5-8f76-42f9947c1b61/mzaf_177491966313232028.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1635470002",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635470002",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 177947,
+        "isrc": "USA2P2230224",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Amanda Lundstedt, 250 & Gigi",
+        "playParams": {
+          "id": "1635470002",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Hurt",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/38/a3/cf38a361-d2e1-a5e7-b948-b924673953a4/mzaf_124166364879994793.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1649325667",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1649325667",
@@ -26,11 +154,11 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -74,8 +202,8 @@
         },
         "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -111,14 +239,14 @@
           "textColor4": "41363d"
         },
         "composerName": "Lauren Aquilina, Isaac Sakima & Joe Kearns",
+        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
         "playParams": {
           "id": "1649467575",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -157,11 +285,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, SUGA & EL CAPITXN",
-        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "playParams": {
           "id": "1620871958",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1620871679?i=1620871958",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -200,11 +328,11 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -284,14 +412,14 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Teddy Bear",
         "previews": [
           {
@@ -369,14 +497,14 @@
           "textColor3": "2f3837",
           "textColor4": "33403d"
         },
+        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "playParams": {
           "id": "1584809295",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Antifreeze",
         "previews": [
           {
@@ -418,8 +546,8 @@
         },
         "url": "https://music.apple.com/us/album/tangerine-love-favorite/1658222131?i=1658222137",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Tangerine Love (Favorite)",
         "previews": [
           {
@@ -461,8 +589,8 @@
         },
         "url": "https://music.apple.com/us/album/killer/1670050845?i=1670051176",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Killer",
         "previews": [
           {
@@ -622,14 +750,14 @@
           "textColor3": "b4b5de",
           "textColor4": "c0a9d9"
         },
+        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "playParams": {
           "id": "1649293727",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/panorama/1649293510?i=1649293727",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -665,14 +793,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -713,8 +841,8 @@
         },
         "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I (feat. Verbal Jint)",
         "previews": [
           {
@@ -749,14 +877,14 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -798,8 +926,8 @@
         },
         "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -835,11 +963,11 @@
           "textColor4": "2e1738"
         },
         "composerName": "Flyin\u2019",
-        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "playParams": {
           "id": "1640448906",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sugar-high/1640448905?i=1640448906",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -920,14 +1048,14 @@
           "textColor4": "494643"
         },
         "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "playParams": {
           "id": "1626233053",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -1088,11 +1216,11 @@
           "textColor3": "041f2e",
           "textColor4": "213037"
         },
-        "url": "https://music.apple.com/us/album/yummy/1558430429?i=1558430430",
         "playParams": {
           "id": "1558430430",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yummy/1558430429?i=1558430430",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1131,11 +1259,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Danke, ABIR, Kayofkaj, Nermin Harambasic (Dsign Music), Lady V, \uae40\uc778\ud615 & Sunshine (Cazzi Opeia & Ellen Berg)",
-        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "playParams": {
           "id": "1621089856",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sour-grapes/1621089349?i=1621089856",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1146,134 +1274,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1621089614",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1621089614",
-      "attributes": {
-        "albumName": "Fearless - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-05-02",
-        "durationInMillis": 201895,
-        "isrc": "USA2P2219220",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/90/dc/9f/90dc9fdb-c0f3-f506-0942-0e33c94d26f4/196922016622_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "dedede",
-          "textColor3": "cbcbcb",
-          "textColor4": "b1b1b1"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
-        "playParams": {
-          "id": "1621089614",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Blue Flame",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/06/6e/8e/066e8ee8-22a5-29ce-9840-455cfa9e7f2f/mzaf_10761610533428846279.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1670255969",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670255969",
-      "attributes": {
-        "albumName": "Bye My Blue - EP",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-12",
-        "durationInMillis": 190587,
-        "isrc": "KRMIM2331183",
-        "artwork": {
-          "width": 2400,
-          "height": 2400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/9a/2d/cf/9a2dcf6d-0d2d-1fd1-c614-87b28d3c41e7/5054197557101.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a2a6b1",
-          "textColor1": "080503",
-          "textColor2": "090603",
-          "textColor3": "272526",
-          "textColor4": "282626"
-        },
-        "composerName": "Dept, Roydo, Clam, Sunkiss & Suru",
-        "playParams": {
-          "id": "1670255969",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/broken-feat-j-o-y-suru/1670255968?i=1670255969",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Broken (feat. J.O.Y & suru)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fe/df/87/fedf8796-9f58-69b9-805c-5f27cf9ad70b/mzaf_12613675243245092065.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Dept"
-      }
-    },
-    {
-      "id": "1670027620",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670027620",
-      "attributes": {
-        "albumName": "Remake 1.0 - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Folk"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-02-05",
-        "durationInMillis": 171947,
-        "isrc": "KRF252300220",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/3f/81/09/3f810960-e4a0-0615-3d24-aa032ea85cbf/cover_KM0016819_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e7e7e7",
-          "textColor1": "020608",
-          "textColor2": "252525",
-          "textColor3": "303335",
-          "textColor4": "4c4c4c"
-        },
-        "playParams": {
-          "id": "1670027620",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/someone-you-used-to-know-kyulisme/1670027617?i=1670027620",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Someone You Used To Know (@kyulisme)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b7/84/a1/b784a174-5d8c-afd9-3167-07857520d9ce/mzaf_13813019085816215605.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "10cm"
       }
     }
   ]
