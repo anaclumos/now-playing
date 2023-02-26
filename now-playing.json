@@ -2,6 +2,132 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1649325667",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1649325667",
+      "attributes": {
+        "albumName": "Gloria",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2023-01-27",
+        "durationInMillis": 229605,
+        "isrc": "GBUM72205420",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "36311d",
+          "textColor1": "e4c29d",
+          "textColor2": "e0a581",
+          "textColor3": "c1a583",
+          "textColor4": "be8e6d"
+        },
+        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
+        "playParams": {
+          "id": "1649325667",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "I'm Not Here To Make Friends",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sam Smith"
+      }
+    },
+    {
+      "id": "1273710101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1273710101",
+      "attributes": {
+        "albumName": "Excitement of Youth",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "durationInMillis": 235241,
+        "releaseDate": "2017-04-14",
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 1838,
+          "height": 1600,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a4030f",
+          "textColor1": "f5e5e7",
+          "textColor2": "fe9792",
+          "textColor3": "e5b8bb",
+          "textColor4": "ec7a78"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
+        "playParams": {
+          "id": "1273710101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
+      "id": "1670622073",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670622073",
+      "attributes": {
+        "albumName": "Teddy Bear - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 189773,
+        "releaseDate": "2023-02-14",
+        "isrc": "KRA382300511",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d458f5",
+          "textColor2": "d522f6",
+          "textColor3": "aa46c4",
+          "textColor4": "ab1bc4"
+        },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
+        "playParams": {
+          "id": "1670622073",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Teddy Bear",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/df/90/3ddf9079-cd94-6c73-d437-1a1f2f28de15/mzaf_2025394688294119483.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "1560638109",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1560638109",
@@ -13,8 +139,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-04-01",
         "durationInMillis": 228000,
+        "releaseDate": "2021-04-01",
         "isrc": "KRMIM2113455",
         "artwork": {
           "width": 3000,
@@ -33,8 +159,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STALKER",
         "previews": [
           {
@@ -56,8 +182,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-05",
         "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
         "isrc": "KRA382204375",
         "artwork": {
           "width": 3000,
@@ -75,8 +201,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -118,8 +244,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hurt",
         "previews": [
           {
@@ -127,90 +253,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1649325667",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649325667",
-      "attributes": {
-        "albumName": "Gloria",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2023-01-27",
-        "durationInMillis": 229605,
-        "isrc": "GBUM72205420",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "36311d",
-          "textColor1": "e4c29d",
-          "textColor2": "e0a581",
-          "textColor3": "c1a583",
-          "textColor4": "be8e6d"
-        },
-        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
-        "playParams": {
-          "id": "1649325667",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "I'm Not Here To Make Friends",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sam Smith"
-      }
-    },
-    {
-      "id": "1273710101",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1273710101",
-      "attributes": {
-        "albumName": "Excitement of Youth",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 7,
-        "durationInMillis": 235241,
-        "releaseDate": "2017-04-14",
-        "isrc": "JPWP01770243",
-        "artwork": {
-          "width": 1838,
-          "height": 1600,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a4030f",
-          "textColor1": "f5e5e7",
-          "textColor2": "fe9792",
-          "textColor3": "e5b8bb",
-          "textColor4": "ec7a78"
-        },
-        "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
-        "playParams": {
-          "id": "1273710101",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Ai Wo Tsutaetaidatoka",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Aimyon"
       }
     },
     {
@@ -245,8 +287,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -291,8 +333,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "That That (prod. & feat. SUGA of BTS)",
         "previews": [
           {
@@ -334,8 +376,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -357,8 +399,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-02-03",
         "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -376,54 +418,12 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/df/89/14/df8914f4-b15f-fe49-1ed6-cc09128c7e1a/mzaf_11186161707499779216.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1670622073",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670622073",
-      "attributes": {
-        "albumName": "Teddy Bear - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-14",
-        "durationInMillis": 189773,
-        "isrc": "KRA382300511",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d458f5",
-          "textColor2": "d522f6",
-          "textColor3": "aa46c4",
-          "textColor4": "ab1bc4"
-        },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
-        "playParams": {
-          "id": "1670622073",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Teddy Bear",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/df/90/3ddf9079-cd94-6c73-d437-1a1f2f28de15/mzaf_2025394688294119483.plus.aac.p.m4a"
           }
         ],
         "artistName": "STAYC"
@@ -461,8 +461,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Poppy",
         "previews": [
           {
@@ -503,8 +503,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Antifreeze",
         "previews": [
           {
@@ -546,8 +546,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Tangerine Love (Favorite)",
         "previews": [
           {
@@ -569,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 230733,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 230733,
         "isrc": "KRA302300029",
         "artwork": {
           "width": 4000,
@@ -589,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Killer",
         "previews": [
           {
@@ -611,8 +611,8 @@
           "Music"
         ],
         "trackNumber": 12,
-        "releaseDate": "2009-04-30",
         "durationInMillis": 88500,
+        "releaseDate": "2009-04-30",
         "isrc": "SEYOK1613360",
         "artwork": {
           "width": 1400,
@@ -630,8 +630,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super Mario Bros.",
         "previews": [
           {
@@ -672,8 +672,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "B.O.T.A. (Baddest Of Them All) [Edit]",
         "previews": [
           {
@@ -714,8 +714,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Animal",
         "previews": [
           {
@@ -737,8 +737,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 198559,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 198559,
         "isrc": "KRA402200056",
         "artwork": {
           "width": 4000,
@@ -756,8 +756,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -780,8 +780,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "durationInMillis": 206627,
         "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -799,8 +799,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -841,8 +841,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I (feat. Verbal Jint)",
         "previews": [
           {
@@ -883,8 +883,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -926,8 +926,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -969,8 +969,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -991,8 +991,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -1011,8 +1011,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -1034,8 +1034,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199067,
         "releaseDate": "2022-06-02",
+        "durationInMillis": 199067,
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -1054,8 +1054,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -1096,8 +1096,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Lil\u2019 Touch",
         "previews": [
           {
@@ -1138,8 +1138,8 @@
           "kind": "song"
         },
         "discNumber": 2,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "La vie en rose (Single Version)",
         "previews": [
           {
@@ -1180,8 +1180,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Holiday Party",
         "previews": [
           {
@@ -1222,8 +1222,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Yummy!",
         "previews": [
           {
@@ -1265,8 +1265,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Sour Grapes",
         "previews": [
           {
