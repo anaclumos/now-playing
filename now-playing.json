@@ -2,48 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1649325667",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649325667",
-      "attributes": {
-        "albumName": "Gloria",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2023-01-27",
-        "durationInMillis": 229605,
-        "isrc": "GBUM72205420",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "36311d",
-          "textColor1": "e4c29d",
-          "textColor2": "e0a581",
-          "textColor3": "c1a583",
-          "textColor4": "be8e6d"
-        },
-        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
-        "playParams": {
-          "id": "1649325667",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "I'm Not Here To Make Friends",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sam Smith"
-      }
-    },
-    {
       "id": "1273710101",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1273710101",
@@ -74,8 +32,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -83,6 +41,48 @@
           }
         ],
         "artistName": "Aimyon"
+      }
+    },
+    {
+      "id": "1649325667",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1649325667",
+      "attributes": {
+        "albumName": "Gloria",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2023-01-27",
+        "durationInMillis": 229605,
+        "isrc": "GBUM72205420",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "36311d",
+          "textColor1": "e4c29d",
+          "textColor2": "e0a581",
+          "textColor3": "c1a583",
+          "textColor4": "be8e6d"
+        },
+        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
+        "playParams": {
+          "id": "1649325667",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "I'm Not Here To Make Friends",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sam Smith"
       }
     },
     {
@@ -116,8 +116,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -158,8 +158,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Teddy Bear",
         "previews": [
           {
@@ -201,8 +201,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Who Do You Love",
         "previews": [
           {
@@ -243,8 +243,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -259,8 +259,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.ldDOXRrS8LaVGWo",
       "attributes": {
-        "albumName": "NewJeans MINDA",
         "discNumber": 0,
+        "albumName": "NewJeans MINDA",
         "genreNames": [
           ""
         ],
@@ -272,7 +272,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T155958Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a3bb06044714162dfccfd6dbaf5b3b7b1d79bb64ba6e36bb0522b989ae5a32df"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/72/4c/80/724c80aa-c1a7-b831-541a-07992bc4ee8f/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T161104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5535df3c3eaf8836133354980c7dacf2bb41c9b585e2a956b42732604457c780"
         },
         "playParams": {
           "id": "i.ldDOXRrS8LaVGWo",
@@ -287,20 +287,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.RBrMdq3t15KXVPZ",
       "attributes": {
-        "albumName": "NewJeans MINDA",
         "discNumber": 0,
+        "albumName": "NewJeans MINDA",
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 178181,
         "name": "OMG (Jazz Piano Remix) (Prod. MINDA)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/6d/fd/8c/6dfd8c0a-4bef-f47c-df9b-3869677f0059/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T155958Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=39b885ae7906eae5f259673149c81a624c1649ac5f804f7612b1222f9e5515a0"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/6d/fd/8c/6dfd8c0a-4bef-f47c-df9b-3869677f0059/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T161104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dd5ccd023cc75c3220d84337c698374ed4205d63d6f3bd793d64a610638c49b8"
         },
         "playParams": {
           "id": "i.RBrMdq3t15KXVPZ",
@@ -328,7 +328,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/b0/0a/98/b00a980a-e5a7-d516-9fd8-04b52c23815b/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T155958Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2e334516b0ff6a43c69dbeb2ff6491b438f91d937a8373ae6e043c387e41a653"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/b0/0a/98/b00a980a-e5a7-d516-9fd8-04b52c23815b/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T161104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=426e537ab6faf076766161dd8e8c95409a0ef26b84e70b96c3e67660f92df6fa"
         },
         "playParams": {
           "id": "i.DVEXAv1fRZBl3Le",
@@ -356,7 +356,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T155958Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=39f65d0ac041d55ebbaca4194690d0b08f3c2e04522d2aaa47fb658ee2835b33"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/3c/c6/f2/3cc6f278-0220-4dea-430a-cf1558883c3d/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T161104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a772b29bde786a068c71949b7ebfef2c8220e1e4fed90e18a7afc9d06cee4223"
         },
         "playParams": {
           "id": "i.eoDz1ZXHkaYRBvJ",
@@ -371,8 +371,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.b1JvkKdSbdrMKBq",
       "attributes": {
-        "albumName": "NewJeans MINDA",
         "discNumber": 0,
+        "albumName": "NewJeans MINDA",
         "genreNames": [
           ""
         ],
@@ -384,7 +384,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T155958Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=15926dd3b544428755a1623cfeed9774ca75e6bc24582d58b2a68e7956aa1624"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T161104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=345ebf136197b095228403bd03ca5e89571cc16a4f9f5fb3813c93d0650dfb10"
         },
         "playParams": {
           "id": "i.b1JvkKdSbdrMKBq",
@@ -404,15 +404,15 @@
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 195735,
         "name": "Cookie (Highschool Band Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T155958Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2ec59a8f9fd73c57ce21fbea29d4ba61701067a2cef64dba89c6fbf969b20f60"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T161104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7ffd2a4df53668785be03d87544393c3196d7e3252657f1d0db17150575f458b"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -454,8 +454,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -496,8 +496,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -539,8 +539,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -582,8 +582,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -625,8 +625,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "STALKER",
         "previews": [
           {
@@ -667,8 +667,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE DIVE",
         "previews": [
           {
@@ -710,8 +710,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hurt",
         "previews": [
           {
@@ -753,8 +753,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -799,8 +799,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "That That (prod. & feat. SUGA of BTS)",
         "previews": [
           {
@@ -842,8 +842,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Poppy",
         "previews": [
           {
@@ -884,8 +884,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Antifreeze",
         "previews": [
           {
@@ -927,8 +927,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Tangerine Love (Favorite)",
         "previews": [
           {
@@ -970,8 +970,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Killer",
         "previews": [
           {
@@ -1011,8 +1011,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super Mario Bros.",
         "previews": [
           {
@@ -1053,8 +1053,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "B.O.T.A. (Baddest Of Them All) [Edit]",
         "previews": [
           {
@@ -1095,8 +1095,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Animal",
         "previews": [
           {
@@ -1137,8 +1137,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -1180,8 +1180,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
