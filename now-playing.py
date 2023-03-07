@@ -20,15 +20,12 @@ def get_now_playing():
     except requests.exceptions.RequestException as e:
         print(e)
         return None
-    print(result.status_code)
-    print(result.headers)
-    print(result.content)
     return result
 
 
 if __name__ == '__main__':
     import json
     with open('now-playing.json', 'w') as f:
-        result = get_now_playing().json()
+        result = get_now_playing()
         if result is not None:
-            json.dump(result, f, indent=2)
+            json.dump(result.json(), f, indent=2)
