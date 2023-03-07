@@ -18,7 +18,6 @@ def get_now_playing():
     try:
         result = requests.get(url, headers=headers)
     except requests.exceptions.RequestException as e:
-        print(e)
         return None
     return result
 
