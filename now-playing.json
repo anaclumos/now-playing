@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1541126250",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1541126250",
+      "attributes": {
+        "albumName": "Fantastic - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 200360,
+        "releaseDate": "2019-05-25",
+        "isrc": "QZF452010528",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f2/88/76/f2887686-a728-3c1a-416f-67eed4b48d1d/8809764915474.jpg/{w}x{h}bb.jpg",
+          "bgColor": "afc8cd",
+          "textColor1": "110c17",
+          "textColor2": "1f1011",
+          "textColor3": "30323c",
+          "textColor4": "3b3536"
+        },
+        "url": "https://music.apple.com/us/album/%EB%8B%AC%EB%B9%9B%EC%95%84%EB%9E%98-%EC%B6%A4%EC%9D%84/1541126247?i=1541126250",
+        "playParams": {
+          "id": "1541126250",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "\ub2ec\ube5b\uc544\ub798 \ucda4\uc744",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a5/22/46/a52246ca-7110-33cb-9ffe-ff90abb44457/mzaf_3369343683487548496.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Berry Good"
+      }
+    },
+    {
+      "id": "1569287196",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569287196",
+      "attributes": {
+        "albumName": "One-reeler / Act IV - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "durationInMillis": 190867,
+        "releaseDate": "2020-12-07",
+        "isrc": "KRA492001347",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/c2/e347c25d-0fee-35cb-1f5d-6bf651f977ae/888272071962_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "dfdfdf",
+          "textColor2": "edcdd7",
+          "textColor3": "b2b2b2",
+          "textColor4": "bea4ac"
+        },
+        "composerName": "\uc815\ud638\ud604",
+        "url": "https://music.apple.com/us/album/sequence/1569286882?i=1569287196",
+        "playParams": {
+          "id": "1569287196",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Sequence",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/b7/8f/43b78fbc-d7b2-c451-2d6b-f02e3d81c160/mzaf_11374130319675444707.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
       "id": "1530216889",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1530216889",
@@ -33,8 +118,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "End Of Story",
         "previews": [
           {
@@ -70,14 +155,14 @@
           "textColor4": "c93528"
         },
         "composerName": "JEON SOYEON & Woo Min Lee \u201ccollapsedone\u201d",
-        "url": "https://music.apple.com/us/album/where-is-love/1545320377?i=1545320622",
         "playParams": {
           "id": "1545320622",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/where-is-love/1545320377?i=1545320622",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Where is love",
         "previews": [
           {
@@ -99,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-10-01",
         "durationInMillis": 198053,
+        "releaseDate": "2021-10-01",
         "isrc": "US5TA2100080",
         "artwork": {
           "width": 1400,
@@ -142,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-03-12",
         "durationInMillis": 168086,
+        "releaseDate": "2021-03-12",
         "isrc": "KRA402100040",
         "artwork": {
           "width": 4000,
@@ -162,8 +247,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "On The Ground",
         "previews": [
           {
@@ -205,8 +290,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dance The Night Away",
         "previews": [
           {
@@ -228,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-10-20",
         "durationInMillis": 179080,
+        "releaseDate": "2020-10-20",
         "isrc": "KRA382006022",
         "artwork": {
           "width": 3000,
@@ -327,11 +412,11 @@
           "textColor4": "3e372d"
         },
         "composerName": "\ud669\ud604",
+        "url": "https://music.apple.com/us/album/love-live/1493355409?i=1493355413",
         "playParams": {
           "id": "1493355413",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-live/1493355409?i=1493355413",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -349,20 +434,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.DVENvY2FRZBl3Le",
       "attributes": {
-        "albumName": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
         "discNumber": 1,
+        "albumName": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
         "genreNames": [
           "Rock"
         ],
-        "trackNumber": 1,
         "hasLyrics": false,
+        "trackNumber": 1,
         "durationInMillis": 203363,
         "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
         "artistName": "\ud0dc\uc5f0",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/9c/9f/95/9c9f958e-0357-15be-b9f8-22b2d77cc881/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230307T072841Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230307%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=7eaf2ccf2b4ed2edeebc62853bca6e618a9bcd20456f868771aab3fe839a5ef3"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/9c/9f/95/9c9f958e-0357-15be-b9f8-22b2d77cc881/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230307T073711Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230307%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=a93074f80499314e7d7bce609f12d5c9833857f38fc8b3e5f8497b31c4e18b17"
         },
         "playParams": {
           "id": "i.DVENvY2FRZBl3Le",
@@ -384,8 +469,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-10-07",
         "durationInMillis": 189933,
+        "releaseDate": "2021-10-07",
         "isrc": "KRA492101033",
         "artwork": {
           "width": 1400,
@@ -511,8 +596,8 @@
           "Music"
         ],
         "trackNumber": 13,
-        "releaseDate": "2020-10-21",
         "durationInMillis": 263067,
+        "releaseDate": "2020-10-21",
         "isrc": "JPPO02002956",
         "artwork": {
           "width": 3000,
@@ -568,11 +653,11 @@
           "textColor4": "a87350"
         },
         "composerName": "\uae40\uc5f0\uc11c, \ubc0d\uc9c0\uc158 & JAMIE",
+        "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
         "playParams": {
           "id": "1642468018",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -611,11 +696,11 @@
           "textColor4": "67452d"
         },
         "composerName": "Park Tae Jin, Kim Hyun Ah & Kim Min-ju",
-        "url": "https://music.apple.com/us/album/you-i/1569281731?i=1569282070",
         "playParams": {
           "id": "1569282070",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/you-i/1569281731?i=1569282070",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -702,8 +787,8 @@
         },
         "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -739,11 +824,11 @@
           "textColor4": "494643"
         },
         "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "playParams": {
           "id": "1626233053",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -781,14 +866,14 @@
           "textColor4": "ec7a78"
         },
         "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "playParams": {
           "id": "1273710101",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -823,14 +908,14 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "I'm Not Here To Make Friends",
         "previews": [
           {
@@ -853,8 +938,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-02-13",
         "durationInMillis": 190786,
+        "releaseDate": "2019-02-13",
         "isrc": "KRA381900397",
         "artwork": {
           "width": 3000,
@@ -914,8 +999,8 @@
         },
         "url": "https://music.apple.com/us/album/stereotype/1583902626?i=1583902627",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STEREOTYPE",
         "previews": [
           {
@@ -951,11 +1036,11 @@
           "textColor4": "67452d"
         },
         "composerName": "Choi Hyun Joon, \uae40\uc2b9\uc218, \uc11c\uc9c0\uc74c & Ko Hyunjung",
+        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "playParams": {
           "id": "1569281734",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1000,8 +1085,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hey. Bae. Like it.",
         "previews": [
           {
@@ -1066,8 +1151,8 @@
           "Rock"
         ],
         "trackNumber": 15,
-        "releaseDate": "2019-05-06",
         "durationInMillis": 371160,
+        "releaseDate": "2019-05-06",
         "isrc": "KRA381901852",
         "artwork": {
           "width": 3000,
@@ -1128,8 +1213,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "5th Season (SSFWL)",
         "previews": [
           {
@@ -1171,8 +1256,8 @@
         },
         "url": "https://music.apple.com/us/album/ice-cream/1529336927?i=1529336929",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Ice Cream",
         "previews": [
           {
@@ -1180,89 +1265,6 @@
           }
         ],
         "artistName": "BLACKPINK & Selena Gomez"
-      }
-    },
-    {
-      "id": "1459596374",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1459596374",
-      "attributes": {
-        "albumName": "Find Your Peace - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 194127,
-        "releaseDate": "2019-04-12",
-        "isrc": "KRB471900548",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/9c/88/88/9c888850-cba6-5300-ac8a-073e02166075/81145822.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f6c0e2",
-          "textColor1": "12050c",
-          "textColor2": "0f080c",
-          "textColor3": "402b36",
-          "textColor4": "3d2c37"
-        },
-        "url": "https://music.apple.com/us/album/yallacha-instrumental/1459596369?i=1459596374",
-        "playParams": {
-          "id": "1459596374",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Yallacha (Instrumental)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/b8/c1/04/b8c10436-b708-843d-b52e-549e130b2b91/mzaf_3246212342007651246.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Peace"
-      }
-    },
-    {
-      "id": "1460240104",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1460240104",
-      "attributes": {
-        "albumName": "Fantasy - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 183573,
-        "releaseDate": "2019-04-19",
-        "isrc": "KRMIM1906692",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/e1/fc/8e/e1fc8ec3-8678-a1ea-3d9e-97388adb3feb/dj.djnsdeqt.jpg/{w}x{h}bb.jpg",
-          "bgColor": "de5c8c",
-          "textColor1": "150002",
-          "textColor2": "360708",
-          "textColor3": "3d131d",
-          "textColor4": "571822"
-        },
-        "url": "https://music.apple.com/us/album/fantasy/1460240102?i=1460240104",
-        "playParams": {
-          "id": "1460240104",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Fantasy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/8e/9c/d08e9c25-418c-e635-f9c2-2ca82b4a486c/mzaf_17219824674937137363.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Ho1iday"
       }
     }
   ]
