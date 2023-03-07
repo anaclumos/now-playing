@@ -2,6 +2,77 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.DVENvY2FRZBl3Le",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.DVENvY2FRZBl3Le",
+      "attributes": {
+        "discNumber": 1,
+        "albumName": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
+        "genreNames": [
+          "Rock"
+        ],
+        "trackNumber": 1,
+        "hasLyrics": false,
+        "durationInMillis": 203363,
+        "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
+        "artistName": "\ud0dc\uc5f0",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/9c/9f/95/9c9f958e-0357-15be-b9f8-22b2d77cc881/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230307T065838Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230307%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=96d5b747039037fcffcadf0dafe61d7cfd7f58926062c1d2204fd74101ef37fd"
+        },
+        "playParams": {
+          "id": "i.DVENvY2FRZBl3Le",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1588860462",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588860462",
+      "attributes": {
+        "albumName": "GLASSY - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 189933,
+        "releaseDate": "2021-10-07",
+        "isrc": "KRA492101033",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/40/a3/0a40a304-fe30-fdf1-73e8-33b2e91ca3e1/888272087291_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f94a55",
+          "textColor1": "00080d",
+          "textColor2": "001513",
+          "textColor3": "32151c",
+          "textColor4": "312020"
+        },
+        "composerName": "\ubc15\uc6b0\uc0c1, Bottle Paik, \ubcf4\ub780, Inner Child(MonoTree) & \ud669\uc720\ube48",
+        "playParams": {
+          "id": "1588860462",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/glassy/1588860459?i=1588860462",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "GLASSY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/18/a0/3d18a0fe-3db8-a129-feb7-7b5226f407ec/mzaf_15556982153698212809.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JO YURI"
+      }
+    },
+    {
       "id": "1608253307",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1608253307",
@@ -26,11 +97,11 @@
           "textColor4": "2d3344"
         },
         "composerName": "F R I D A Y . (KANG JUNG HOON), CHANG (KIM CHANG KYUM) & AthenA (LEE JI HYE)",
-        "url": "https://music.apple.com/us/album/dalla-dalla-dallask-remix/1608253081?i=1608253307",
         "playParams": {
           "id": "1608253307",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dalla-dalla-dallask-remix/1608253081?i=1608253307",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -69,14 +140,14 @@
           "textColor4": "3c2a59"
         },
         "composerName": "Hyuk Shin, Melanie Joy Fontana, Michel \"Lindgren\" Schulz & Jisoo Park",
-        "url": "https://music.apple.com/us/album/helicopter/1528937196?i=1528937197",
         "playParams": {
           "id": "1528937197",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/helicopter/1528937196?i=1528937197",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "HELICOPTER",
         "previews": [
           {
@@ -154,11 +225,11 @@
           "textColor4": "a87350"
         },
         "composerName": "\uae40\uc5f0\uc11c, \ubc0d\uc9c0\uc158 & JAMIE",
-        "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
         "playParams": {
           "id": "1642468018",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -183,8 +254,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 204560,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900043",
         "artwork": {
           "width": 1400,
@@ -203,8 +274,8 @@
         },
         "url": "https://music.apple.com/us/album/you-i/1569281731?i=1569282070",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "YOU & I",
         "previews": [
           {
@@ -226,8 +297,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-05-15",
         "durationInMillis": 205568,
+        "releaseDate": "2019-05-15",
         "isrc": "KRMIM1907984",
         "artwork": {
           "width": 3000,
@@ -239,14 +310,14 @@
           "textColor3": "bfbfbf",
           "textColor4": "cb9100"
         },
+        "url": "https://music.apple.com/us/album/dramatic/1463467110?i=1463467111",
         "playParams": {
           "id": "1463467111",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dramatic/1463467110?i=1463467111",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Dramatic",
         "previews": [
           {
@@ -268,8 +339,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-03",
         "durationInMillis": 198587,
+        "releaseDate": "2022-08-03",
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -288,8 +359,8 @@
         },
         "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -325,11 +396,11 @@
           "textColor4": "494643"
         },
         "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "playParams": {
           "id": "1626233053",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -367,11 +438,11 @@
           "textColor4": "ec7a78"
         },
         "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "playParams": {
           "id": "1273710101",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -395,8 +466,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "2023-01-27",
         "durationInMillis": 229605,
+        "releaseDate": "2023-01-27",
         "isrc": "GBUM72205420",
         "artwork": {
           "width": 3000,
@@ -452,11 +523,11 @@
           "textColor3": "b37d73",
           "textColor4": "ab766a"
         },
-        "url": "https://music.apple.com/us/album/twit/1452787147?i=1452787149",
         "playParams": {
           "id": "1452787149",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/twit/1452787147?i=1452787149",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -523,8 +594,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2020-09-07",
         "durationInMillis": 225173,
+        "releaseDate": "2020-09-07",
         "isrc": "KRB462000771",
         "artwork": {
           "width": 3000,
@@ -543,8 +614,8 @@
         },
         "url": "https://music.apple.com/us/album/end-of-story/1530216879?i=1530216889",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "End Of Story",
         "previews": [
           {
@@ -566,8 +637,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 217760,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900037",
         "artwork": {
           "width": 1400,
@@ -580,14 +651,14 @@
           "textColor4": "67452d"
         },
         "composerName": "Choi Hyun Joon, \uae40\uc2b9\uc218, \uc11c\uc9c0\uc74c & Ko Hyunjung",
+        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "playParams": {
           "id": "1569281734",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FIESTA",
         "previews": [
           {
@@ -609,8 +680,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-04-01",
         "durationInMillis": 212674,
+        "releaseDate": "2019-04-01",
         "isrc": "KRA871900002",
         "artwork": {
           "width": 1400,
@@ -665,11 +736,11 @@
           "textColor3": "e9c1c6",
           "textColor4": "e5b7bc"
         },
-        "url": "https://music.apple.com/us/album/egotistic/1662104665?i=1662104668",
         "playParams": {
           "id": "1662104668",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/egotistic/1662104665?i=1662104668",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -695,8 +766,8 @@
           "Rock"
         ],
         "trackNumber": 15,
-        "releaseDate": "2019-05-06",
         "durationInMillis": 371160,
+        "releaseDate": "2019-05-06",
         "isrc": "KRA381901852",
         "artwork": {
           "width": 3000,
@@ -708,14 +779,14 @@
           "textColor3": "3c3b41",
           "textColor4": "583f4b"
         },
+        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "playParams": {
           "id": "1462733791",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "To You",
         "previews": [
           {
@@ -737,8 +808,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-05-08",
         "durationInMillis": 240387,
+        "releaseDate": "2019-05-08",
         "isrc": "KRA381901696",
         "artwork": {
           "width": 3000,
@@ -757,8 +828,8 @@
         },
         "url": "https://music.apple.com/us/album/5th-season-ssfwl/1551943316?i=1551943366",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "5th Season (SSFWL)",
         "previews": [
           {
@@ -780,8 +851,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-08-28",
         "durationInMillis": 175813,
+        "releaseDate": "2020-08-28",
         "isrc": "KRA402000131",
         "artwork": {
           "width": 4000,
@@ -835,14 +906,14 @@
           "textColor3": "402b36",
           "textColor4": "3d2c37"
         },
-        "url": "https://music.apple.com/us/album/yallacha-instrumental/1459596369?i=1459596374",
         "playParams": {
           "id": "1459596374",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yallacha-instrumental/1459596369?i=1459596374",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Yallacha (Instrumental)",
         "previews": [
           {
@@ -877,14 +948,14 @@
           "textColor3": "3d131d",
           "textColor4": "571822"
         },
-        "url": "https://music.apple.com/us/album/fantasy/1460240102?i=1460240104",
         "playParams": {
           "id": "1460240104",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fantasy/1460240102?i=1460240104",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Fantasy",
         "previews": [
           {
@@ -906,8 +977,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-04-01",
         "durationInMillis": 228000,
+        "releaseDate": "2021-04-01",
         "isrc": "KRMIM2113455",
         "artwork": {
           "width": 3000,
@@ -926,8 +997,8 @@
         },
         "url": "https://music.apple.com/us/album/stalker/1560637610?i=1560638109",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STALKER",
         "previews": [
           {
@@ -949,8 +1020,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-07-05",
         "durationInMillis": 192876,
+        "releaseDate": "2022-07-05",
         "isrc": "KRA402200006",
         "artwork": {
           "width": 4000,
@@ -968,8 +1039,8 @@
         },
         "url": "https://music.apple.com/us/album/holiday/1632174622?i=1632174629",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HOLIDAY",
         "previews": [
           {
@@ -1005,11 +1076,11 @@
           "textColor4": "67452d"
         },
         "composerName": "\uad8c\uc740\ube44, Elum, ANCHOR & N.More",
-        "url": "https://music.apple.com/us/album/spaceship/1569281731?i=1569282002",
         "playParams": {
           "id": "1569282002",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/spaceship/1569281731?i=1569282002",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1034,8 +1105,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-08-19",
         "durationInMillis": 164640,
+        "releaseDate": "2019-08-19",
         "isrc": "KRMIM1914432",
         "artwork": {
           "width": 1400,
@@ -1077,8 +1148,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-10-23",
         "durationInMillis": 180576,
+        "releaseDate": "2017-10-23",
         "isrc": "KRA341754770",
         "artwork": {
           "width": 1772,
@@ -1090,14 +1161,14 @@
           "textColor3": "3e3e3c",
           "textColor4": "454543"
         },
+        "url": "https://music.apple.com/us/album/loonatic-eng-ver/1299621014?i=1299621019",
         "playParams": {
           "id": "1299621019",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/loonatic-eng-ver/1299621014?i=1299621019",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LOONATIC (Eng. Ver.)",
         "previews": [
           {
@@ -1133,11 +1204,11 @@
           "textColor3": "3b3634",
           "textColor4": "524b47"
         },
-        "url": "https://music.apple.com/us/album/must-have-love/1495322858?i=1495322859",
         "playParams": {
           "id": "1495322859",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/must-have-love/1495322858?i=1495322859",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1190,92 +1261,6 @@
           }
         ],
         "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1569282475",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569282475",
-      "attributes": {
-        "albumName": "Flourishing - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 198819,
-        "releaseDate": "2019-06-24",
-        "isrc": "KRMIM1910137",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/07/b2/87/07b28758-2eb7-b211-5932-197953ff7d10/8809658312938_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "704d84",
-          "textColor1": "f1f1e6",
-          "textColor2": "e8df97",
-          "textColor3": "d7d0d2",
-          "textColor4": "d0c294"
-        },
-        "composerName": "Yerin Baek & \uad6c\ub984",
-        "url": "https://music.apple.com/us/album/young-in-love/1569282456?i=1569282475",
-        "playParams": {
-          "id": "1569282475",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Young In Love",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/65/52/1b/65521b49-4bfa-29bb-499c-6bb572186051/mzaf_14417736695981282807.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "CHUNG HA"
-      }
-    },
-    {
-      "id": "1212180083",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1212180083",
-      "attributes": {
-        "albumName": "The Awakening - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 215009,
-        "releaseDate": "2017-03-06",
-        "isrc": "KRA381700461",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/8e/ca/4a/8eca4a43-0311-054b-c467-f5fba0f22e7e/cover-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "1d0000",
-          "textColor1": "e7e5d6",
-          "textColor2": "d68b7b",
-          "textColor3": "bfb7ab",
-          "textColor4": "b16f62"
-        },
-        "url": "https://music.apple.com/us/album/hear-the-wind-sing/1212180082?i=1212180083",
-        "playParams": {
-          "id": "1212180083",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Hear the Wind Sing",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/ea/53/feea53ae-3cac-3d9b-a1bb-8c4c6f44283a/mzaf_9129189097250839228.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "GFRIEND"
       }
     }
   ]
