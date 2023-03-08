@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1534800437",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1534800437",
+      "attributes": {
+        "albumName": "[12:00]",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2020-10-19",
+        "durationInMillis": 214360,
+        "isrc": "KRA382005819",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/1e/33/12/1e331279-c1e7-246b-b618-d0fb24455b1e/190296809996.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1e0e21",
+          "textColor1": "d49f21",
+          "textColor2": "d88833",
+          "textColor3": "b08221",
+          "textColor4": "b36f2f"
+        },
+        "composerName": "Daniel Durn, Katrine Neya Klith Joergensen, Peter Wallevik & \uc870\uc724\uacbd",
+        "playParams": {
+          "id": "1534800437",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/universe/1534800428?i=1534800437",
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Universe",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/5b/b6/195bb6c8-21f2-5c99-e2e3-de5bafef0040/mzaf_330739392065298026.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA"
+      }
+    },
+    {
       "id": "1606409354",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1606409354",
@@ -56,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 178229,
         "releaseDate": "2017-04-03",
+        "durationInMillis": 178229,
         "isrc": "KRA381700680",
         "artwork": {
           "width": 3000,
@@ -70,14 +113,14 @@
           "textColor4": "cb505f"
         },
         "composerName": "Darren Smith, Andreas \u00d6berg, Michele Angel Wylen & Sean Alexander",
-        "url": "https://music.apple.com/us/album/agit/1478604547?i=1478604563",
         "playParams": {
           "id": "1478604563",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/agit/1478604547?i=1478604563",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Agit",
         "previews": [
           {
@@ -100,8 +143,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-03-06",
         "durationInMillis": 215009,
+        "releaseDate": "2017-03-06",
         "isrc": "KRA381700461",
         "artwork": {
           "width": 1400,
@@ -113,14 +156,14 @@
           "textColor3": "bfb7ab",
           "textColor4": "b16f62"
         },
+        "url": "https://music.apple.com/us/album/hear-the-wind-sing/1212180082?i=1212180083",
         "playParams": {
           "id": "1212180083",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hear-the-wind-sing/1212180082?i=1212180083",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hear the Wind Sing",
         "previews": [
           {
@@ -186,8 +229,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 203667,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900044",
         "artwork": {
           "width": 1400,
@@ -200,14 +243,14 @@
           "textColor4": "67452d"
         },
         "composerName": "AiRPLAY, Nash Overstreet, Sidnie Tipton, Danke & \ubbfc\uc5f0\uc7ac",
+        "url": "https://music.apple.com/us/album/daydream/1569281731?i=1569282073",
         "playParams": {
           "id": "1569282073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/daydream/1569281731?i=1569282073",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DAYDREAM",
         "previews": [
           {
@@ -271,8 +314,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-11-12",
         "durationInMillis": 201893,
+        "releaseDate": "2019-11-12",
         "isrc": "KRF581900006",
         "artwork": {
           "width": 1400,
@@ -285,14 +328,14 @@
           "textColor4": "cb5d25"
         },
         "composerName": "OneWay",
+        "url": "https://music.apple.com/us/album/oopsie-my-bad/1616479858?i=1616479863",
         "playParams": {
           "id": "1616479863",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oopsie-my-bad/1616479858?i=1616479863",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OOPSIE (My Bad)",
         "previews": [
           {
@@ -356,8 +399,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 197469,
         "releaseDate": "2017-12-28",
+        "durationInMillis": 197469,
         "isrc": "KRE081700035",
         "artwork": {
           "width": 3000,
@@ -369,14 +412,14 @@
           "textColor3": "343433",
           "textColor4": "414849"
         },
-        "url": "https://music.apple.com/us/album/girls-talk-yves-chuu/1329847014?i=1329847016",
         "playParams": {
           "id": "1329847016",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/girls-talk-yves-chuu/1329847014?i=1329847016",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Girl's Talk (Yves, Chuu)",
         "previews": [
           {
@@ -527,8 +570,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 195000,
         "releaseDate": "2018-01-18",
+        "durationInMillis": 195000,
         "isrc": "KRA381703070",
         "artwork": {
           "width": 1440,
@@ -540,14 +583,14 @@
           "textColor3": "ca9a8f",
           "textColor4": "b37269"
         },
-        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "playParams": {
           "id": "1336924065",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Heroine",
         "previews": [
           {
@@ -568,8 +611,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 228000,
         "releaseDate": "2021-09-24",
+        "durationInMillis": 228000,
         "isrc": "GBAYE2100910",
         "artwork": {
           "width": 4000,
@@ -582,14 +625,14 @@
           "textColor4": "c15f95"
         },
         "composerName": "Bill Rahko, Chris Martin, Guy Berryman, Jonny Buckland, Max Martin, Oscar Holter, RM, SUGA, Will Champion & J-Hope",
-        "url": "https://music.apple.com/us/album/my-universe/1586356904?i=1586356916",
         "playParams": {
           "id": "1586356916",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/my-universe/1586356904?i=1586356916",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "My Universe",
         "previews": [
           {
@@ -612,8 +655,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-02-13",
         "durationInMillis": 190786,
+        "releaseDate": "2019-02-13",
         "isrc": "KRA381900397",
         "artwork": {
           "width": 3000,
@@ -625,14 +668,14 @@
           "textColor3": "b37d73",
           "textColor4": "ab766a"
         },
+        "url": "https://music.apple.com/us/album/twit/1452787147?i=1452787149",
         "playParams": {
           "id": "1452787149",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/twit/1452787147?i=1452787149",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TWIT",
         "previews": [
           {
@@ -653,8 +696,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 237360,
         "releaseDate": "2019-06-21",
+        "durationInMillis": 237360,
         "isrc": "JPPO01902194",
         "artwork": {
           "width": 3000,
@@ -667,14 +710,14 @@
           "textColor4": "bd8885"
         },
         "composerName": "TAKAFUMI FUJINO",
-        "url": "https://music.apple.com/us/album/human-love/1466727926?i=1466727949",
         "playParams": {
           "id": "1466727949",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/human-love/1466727926?i=1466727949",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Human Love",
         "previews": [
           {
@@ -696,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212674,
         "releaseDate": "2019-04-01",
+        "durationInMillis": 212674,
         "isrc": "KRA871900002",
         "artwork": {
           "width": 1400,
@@ -710,14 +753,14 @@
           "textColor4": "415244"
         },
         "composerName": "\ud150\uc870, Muna, Kebee & E.B.",
-        "url": "https://music.apple.com/us/album/hey-bae-like-it/1569293222?i=1569293223",
         "playParams": {
           "id": "1569293223",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hey-bae-like-it/1569293222?i=1569293223",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hey. Bae. Like it.",
         "previews": [
           {
@@ -782,8 +825,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 202400,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900039",
         "artwork": {
           "width": 1400,
@@ -796,14 +839,14 @@
           "textColor4": "67452d"
         },
         "composerName": "\uc724\uc885\uc131, Anna Timgren, \uc2e0\ubbfc\uacbd & Inner Child",
+        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
         "playParams": {
           "id": "1569281904",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "AYAYAYA",
         "previews": [
           {
@@ -910,8 +953,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-12-30",
         "durationInMillis": 198200,
+        "releaseDate": "2019-12-30",
         "isrc": "KRA381905394",
         "artwork": {
           "width": 3000,
@@ -923,14 +966,14 @@
           "textColor3": "bbbbbb",
           "textColor4": "a1a1a1"
         },
+        "url": "https://music.apple.com/us/album/thumbs-up/1492897659?i=1492897660",
         "playParams": {
           "id": "1492897660",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/thumbs-up/1492897659?i=1492897660",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Thumbs Up",
         "previews": [
           {
@@ -1122,8 +1165,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-14",
         "durationInMillis": 192449,
+        "releaseDate": "2021-02-14",
         "isrc": "QZFZ32182416",
         "artwork": {
           "width": 3000,
@@ -1136,14 +1179,14 @@
           "textColor4": "452b4a"
         },
         "composerName": "Dounia El Bekri, Yasmin Bokaleff & Aymen Khamlichi",
+        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
         "playParams": {
           "id": "1551287548",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Arcade Love",
         "previews": [
           {
@@ -1165,8 +1208,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-12-07",
         "durationInMillis": 222853,
+        "releaseDate": "2020-12-07",
         "isrc": "KRA492001345",
         "artwork": {
           "width": 1400,
@@ -1179,14 +1222,14 @@
           "textColor4": "bea4ac"
         },
         "composerName": "kz, B.O., F.A.B., Nthonius, \uc81c\uc778\uc2a4 & \uc9c0\uc608\uc900",
+        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "playParams": {
           "id": "1569286889",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Panorama",
         "previews": [
           {
@@ -1208,8 +1251,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174880,
         "releaseDate": "2019-08-27",
+        "durationInMillis": 174880,
         "isrc": "KRMIM1914771",
         "artwork": {
           "width": 3000,
@@ -1222,14 +1265,14 @@
           "textColor4": "b78578"
         },
         "composerName": "SUNMI & FRANTS",
-        "url": "https://music.apple.com/us/album/lalalay/1477184226?i=1477184227",
         "playParams": {
           "id": "1477184227",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lalalay/1477184226?i=1477184227",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LALALAY",
         "previews": [
           {
@@ -1237,49 +1280,6 @@
           }
         ],
         "artistName": "SUNMI"
-      }
-    },
-    {
-      "id": "1635469851",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469851",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 179027,
-        "releaseDate": "2022-08-01",
-        "isrc": "USA2P2230222",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
-        "playParams": {
-          "id": "1635469851",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Hype Boy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
