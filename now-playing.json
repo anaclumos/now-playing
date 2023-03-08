@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1612582135",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1612582135",
+      "attributes": {
+        "albumName": "La Luna - Single",
+        "genreNames": [
+          "Electronic",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 206387,
+        "releaseDate": "2020-09-10",
+        "isrc": "KRB142000026",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/7d/e8/d5/7de8d58c-a2e9-a5f9-b2c6-fc57474ca927/8809704419901_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1a1a1a",
+          "textColor1": "fafffb",
+          "textColor2": "d3cbd0",
+          "textColor3": "cdd1cd",
+          "textColor4": "aea7ac"
+        },
+        "composerName": "James Birt, Katy Tiz, Ryan S. Jhun, George Tizzard, Rick Parkhouse & HA:TFELT",
+        "url": "https://music.apple.com/us/album/la-luna/1612582132?i=1612582135",
+        "playParams": {
+          "id": "1612582135",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "La Luna",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fc/4e/04/fc4e0464-0278-5161-640e-8bbdee1ce1dd/mzaf_3233913487488712846.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "HA:TFELT"
+      }
+    },
+    {
+      "id": "1329847016",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1329847016",
+      "attributes": {
+        "albumName": "Chuu - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 197469,
+        "releaseDate": "2017-12-28",
+        "isrc": "KRE081700035",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/24/6c/92/246c9266-33d1-8ef9-4c3a-9f681c97c9f8/8809550037526.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "010100",
+          "textColor2": "121a1c",
+          "textColor3": "343433",
+          "textColor4": "414849"
+        },
+        "url": "https://music.apple.com/us/album/girls-talk-yves-chuu/1329847014?i=1329847016",
+        "playParams": {
+          "id": "1329847016",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Girl's Talk (Yves, Chuu)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/14/3f/47143f22-5f2e-a931-6695-cb78e17a8bce/mzaf_13739157434302677870.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA"
+      }
+    },
+    {
       "id": "1533894684",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1533894684",
@@ -27,11 +111,11 @@
           "textColor4": "c9788b"
         },
         "composerName": "Tushar Apte, Rob Grimaldi & 24",
-        "url": "https://music.apple.com/us/album/love-to-hate-me/1533894050?i=1533894684",
         "playParams": {
           "id": "1533894684",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-to-hate-me/1533894050?i=1533894684",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -56,8 +140,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-06-15",
         "durationInMillis": 199933,
+        "releaseDate": "2020-06-15",
         "isrc": "KRA492000674",
         "artwork": {
           "width": 1400,
@@ -70,14 +154,14 @@
           "textColor4": "763042"
         },
         "composerName": "\ubd88\uc2a4\uc544\uc774, real-fantasy & Grin",
+        "url": "https://music.apple.com/us/album/pretty/1569282878?i=1569282885",
         "playParams": {
           "id": "1569282885",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pretty/1569282878?i=1569282885",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pretty",
         "previews": [
           {
@@ -118,8 +202,8 @@
         },
         "url": "https://music.apple.com/us/album/bouncy/1497844728?i=1497844730",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "BOUNCY",
         "previews": [
           {
@@ -142,8 +226,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-01-18",
         "durationInMillis": 195000,
+        "releaseDate": "2018-01-18",
         "isrc": "KRA381703070",
         "artwork": {
           "width": 1440,
@@ -155,14 +239,14 @@
           "textColor3": "ca9a8f",
           "textColor4": "b37269"
         },
+        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "playParams": {
           "id": "1336924065",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Heroine",
         "previews": [
           {
@@ -183,8 +267,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-09-24",
         "durationInMillis": 228000,
+        "releaseDate": "2021-09-24",
         "isrc": "GBAYE2100910",
         "artwork": {
           "width": 4000,
@@ -246,8 +330,8 @@
         },
         "url": "https://music.apple.com/us/album/twit/1452787147?i=1452787149",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TWIT",
         "previews": [
           {
@@ -288,8 +372,8 @@
         },
         "url": "https://music.apple.com/us/album/human-love/1466727926?i=1466727949",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Human Love",
         "previews": [
           {
@@ -311,8 +395,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-04-01",
         "durationInMillis": 212674,
+        "releaseDate": "2019-04-01",
         "isrc": "KRA871900002",
         "artwork": {
           "width": 1400,
@@ -354,8 +438,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-08-09",
         "durationInMillis": 218720,
+        "releaseDate": "2021-08-09",
         "isrc": "KRA302100263",
         "artwork": {
           "width": 4000,
@@ -368,14 +452,14 @@
           "textColor4": "6c4f48"
         },
         "composerName": "Melanie Fontana, Gino Barletta, Britten Newbill, Michel Schulz & BIBI",
+        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
         "playParams": {
           "id": "1579487839",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Second (feat. BIBI)",
         "previews": [
           {
@@ -397,8 +481,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 202400,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900039",
         "artwork": {
           "width": 1400,
@@ -411,14 +495,14 @@
           "textColor4": "67452d"
         },
         "composerName": "\uc724\uc885\uc131, Anna Timgren, \uc2e0\ubbfc\uacbd & Inner Child",
+        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
         "playParams": {
           "id": "1569281904",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "AYAYAYA",
         "previews": [
           {
@@ -459,8 +543,8 @@
         },
         "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dumhdurum",
         "previews": [
           {
@@ -482,8 +566,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-07-29",
         "durationInMillis": 213573,
+        "releaseDate": "2020-07-29",
         "isrc": "KRA382003122",
         "artwork": {
           "width": 3000,
@@ -525,8 +609,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-12-30",
         "durationInMillis": 198200,
+        "releaseDate": "2019-12-30",
         "isrc": "KRA381905394",
         "artwork": {
           "width": 3000,
@@ -587,8 +671,8 @@
         },
         "url": "https://music.apple.com/us/album/fever/1470921587?i=1470921588",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fever",
         "previews": [
           {
@@ -610,8 +694,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2018-07-16",
         "durationInMillis": 196018,
+        "releaseDate": "2018-07-16",
         "isrc": "KRA381800261",
         "artwork": {
           "width": 3000,
@@ -651,8 +735,8 @@
           "Music"
         ],
         "trackNumber": 13,
-        "releaseDate": "2020-10-21",
         "durationInMillis": 263067,
+        "releaseDate": "2020-10-21",
         "isrc": "JPPO02002956",
         "artwork": {
           "width": 3000,
@@ -695,8 +779,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-10",
         "durationInMillis": 196107,
+        "releaseDate": "2020-01-10",
         "isrc": "KSA012229686",
         "artwork": {
           "width": 3000,
@@ -737,8 +821,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-14",
         "durationInMillis": 192449,
+        "releaseDate": "2021-02-14",
         "isrc": "QZFZ32182416",
         "artwork": {
           "width": 3000,
@@ -751,14 +835,14 @@
           "textColor4": "452b4a"
         },
         "composerName": "Dounia El Bekri, Yasmin Bokaleff & Aymen Khamlichi",
+        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
         "playParams": {
           "id": "1551287548",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Arcade Love",
         "previews": [
           {
@@ -794,11 +878,11 @@
           "textColor4": "bea4ac"
         },
         "composerName": "kz, B.O., F.A.B., Nthonius, \uc81c\uc778\uc2a4 & \uc9c0\uc608\uc900",
-        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "playParams": {
           "id": "1569286889",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -843,8 +927,8 @@
         },
         "url": "https://music.apple.com/us/album/lalalay/1477184226?i=1477184227",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LALALAY",
         "previews": [
           {
@@ -866,8 +950,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -923,11 +1007,11 @@
           "textColor4": "c9788b"
         },
         "composerName": "Bekuh Boom & 24",
-        "url": "https://music.apple.com/us/album/you-never-know/1533894050?i=1533894686",
         "playParams": {
           "id": "1533894686",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/you-never-know/1533894050?i=1533894686",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -972,8 +1056,8 @@
         },
         "url": "https://music.apple.com/us/album/parade/1468948702?i=1468949021",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Parade",
         "previews": [
           {
@@ -1009,11 +1093,11 @@
           "textColor4": "29373b"
         },
         "composerName": "Yoo Jungyeon",
-        "url": "https://music.apple.com/us/album/lies-you-can-see/1478601637?i=1478601649",
         "playParams": {
           "id": "1478601649",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lies-you-can-see/1478601637?i=1478601649",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -1038,8 +1122,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -1095,11 +1179,11 @@
           "textColor4": "2d3344"
         },
         "composerName": "Keith Hetrick, Allison Gillis, Emile Ghantous, Aimee Proal, Whitney Phillips, Erin Beck, Lee Seu-Ran & Tommy Park",
-        "url": "https://music.apple.com/us/album/want-it-imad-royal-remix/1608253081?i=1608253313",
         "playParams": {
           "id": "1608253313",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/want-it-imad-royal-remix/1608253081?i=1608253313",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1144,8 +1228,8 @@
         },
         "url": "https://music.apple.com/us/album/pop-stars-feat-jaira-burns/1439420228?i=1439420504",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pop / Stars (feat. Jaira Burns)",
         "previews": [
           {
@@ -1181,11 +1265,11 @@
           "textColor4": "67452d"
         },
         "composerName": "Park Tae Jin, Kim Hyun Ah & Kim Min-ju",
-        "url": "https://music.apple.com/us/album/you-i/1569281731?i=1569282070",
         "playParams": {
           "id": "1569282070",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/you-i/1569281731?i=1569282070",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1196,92 +1280,6 @@
           }
         ],
         "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1618175625",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1618175625",
-      "attributes": {
-        "albumName": "Produce 48 \u2013 Final - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2018-09-01",
-        "durationInMillis": 208036,
-        "isrc": "KRA491800803",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/af/52/51af5299-98af-a579-aa89-32c2e1871290/8809603545633_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eee2f0",
-          "textColor1": "16060d",
-          "textColor2": "15070e",
-          "textColor3": "41323b",
-          "textColor4": "41333b"
-        },
-        "composerName": "\uc774\uae30, \uc6a9\ubc30 & Yasushi Akimoto",
-        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version/1618175516?i=1618175625",
-        "playParams": {
-          "id": "1618175625",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Yume wo Miteiru Aida (Japanese Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/66/6b/97/666b97ff-6cfd-997d-1918-639742f6690c/mzaf_1750805642518810680.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "PRODUCE 48"
-      }
-    },
-    {
-      "id": "1671157678",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1671157678",
-      "attributes": {
-        "albumName": "WHERE DOES SASQUATCH LIVE? Pt. 1",
-        "genreNames": [
-          "Rock",
-          "Music"
-        ],
-        "trackNumber": 6,
-        "releaseDate": "2023-02-16",
-        "durationInMillis": 221040,
-        "isrc": "KRA252300247",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9a/1a/d2/9a1ad2c6-5ca6-a7e4-48f2-68d6ea5bf6ef/5054197566554.jpg/{w}x{h}bb.jpg",
-          "bgColor": "7b1c1b",
-          "textColor1": "ffaf89",
-          "textColor2": "f7a271",
-          "textColor3": "e49172",
-          "textColor4": "de885f"
-        },
-        "composerName": "Han-bin Kim, Rockitman & Zior Park",
-        "playParams": {
-          "id": "1671157678",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "CHRISTIAN",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d6/49/fd/d649fd4f-8864-9a1f-31c0-a2c8bc5efeb6/mzaf_664285048828385656.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Zior Park",
-        "contentRating": "explicit"
       }
     }
   ]
