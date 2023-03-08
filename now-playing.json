@@ -1,12 +1,1285 @@
 {
-  "errors": [
+  "next": "/v1/me/recent/played/tracks?offset=30",
+  "data": [
     {
-      "id": "U6GV3DIHJM6JDY33YVGEYMMEVM",
-      "title": "Insufficient Privileges",
-      "detail": "User's subscription tier does not have access to privilege: ListeningHistory",
-      "status": "400",
-      "code": "40015",
-      "messageForDisplay": "insufficient privileges"
+      "id": "1490544823",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1490544823",
+      "attributes": {
+        "albumName": "Every letter I sent you.",
+        "genreNames": [
+          "Singer/Songwriter",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "2019-12-10",
+        "durationInMillis": 261763,
+        "isrc": "KRF251900204",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/58/77/ca5877d9-2e1e-0456-c3b2-7704e423dc70/Every_letter_I_sent_you_3000.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f6ece2",
+          "textColor1": "1b2220",
+          "textColor2": "292824",
+          "textColor3": "474a47",
+          "textColor4": "524f4a"
+        },
+        "url": "https://music.apple.com/us/album/square-2017/1490544506?i=1490544823",
+        "playParams": {
+          "id": "1490544823",
+          "kind": "song"
+        },
+        "discNumber": 2,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Square (2017)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/87/17/0a8717cd-def8-a401-dcbe-3217738ad6f9/mzaf_2314626443326572709.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yerin Baek"
+      }
+    },
+    {
+      "id": "1664646378",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1664646378",
+      "attributes": {
+        "albumName": "Say My Name - Single",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-01-10",
+        "durationInMillis": 196107,
+        "isrc": "KSA012229686",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/64/5d/5d/645d5d71-d1d9-4cfb-ac88-5e2d164b01cf/8809912886410.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e7dcda",
+          "textColor1": "010000",
+          "textColor2": "140d09",
+          "textColor3": "2f2c2b",
+          "textColor4": "3e3733"
+        },
+        "url": "https://music.apple.com/us/album/say-my-name/1664646074?i=1664646378",
+        "playParams": {
+          "id": "1664646378",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Say My Name",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/b4/a1/3e/b4a13e8c-20b7-1cb4-26b1-6aa33cd8c958/mzaf_6066902255456074603.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ANS"
+      }
+    },
+    {
+      "id": "1535654244",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1535654244",
+      "attributes": {
+        "albumName": "Eyes wide open",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-10-26",
+        "durationInMillis": 205493,
+        "isrc": "US5TA2000134",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/1f/46/44/1f46442a-ed5a-7cc8-c119-c6453b559ef7/192641580802_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "bcb7b3",
+          "textColor1": "14060a",
+          "textColor2": "1d1d1e",
+          "textColor3": "352a2c",
+          "textColor4": "3d3c3b"
+        },
+        "composerName": "Melanie Joy Fontana, Michel \"Lindgren\" Schulz, A. Wright, J.Y. Park \u201cThe Asiansoul\u201d & Sim Eun Jee",
+        "url": "https://music.apple.com/us/album/i-cant-stop-me/1535654236?i=1535654244",
+        "playParams": {
+          "id": "1535654244",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I CAN'T STOP ME",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/10/49/931049bb-8e0d-b987-cbf2-407631880911/mzaf_8393986293664874135.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1541126250",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1541126250",
+      "attributes": {
+        "albumName": "Fantastic - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2019-05-25",
+        "durationInMillis": 200360,
+        "isrc": "QZF452010528",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f2/88/76/f2887686-a728-3c1a-416f-67eed4b48d1d/8809764915474.jpg/{w}x{h}bb.jpg",
+          "bgColor": "afc8cd",
+          "textColor1": "110c17",
+          "textColor2": "1f1011",
+          "textColor3": "30323c",
+          "textColor4": "3b3536"
+        },
+        "url": "https://music.apple.com/us/album/%EB%8B%AC%EB%B9%9B%EC%95%84%EB%9E%98-%EC%B6%A4%EC%9D%84/1541126247?i=1541126250",
+        "playParams": {
+          "id": "1541126250",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "\ub2ec\ube5b\uc544\ub798 \ucda4\uc744",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a5/22/46/a52246ca-7110-33cb-9ffe-ff90abb44457/mzaf_3369343683487548496.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Berry Good"
+      }
+    },
+    {
+      "id": "1569287196",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569287196",
+      "attributes": {
+        "albumName": "One-reeler / Act IV - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2020-12-07",
+        "durationInMillis": 190867,
+        "isrc": "KRA492001347",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/c2/e347c25d-0fee-35cb-1f5d-6bf651f977ae/888272071962_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "dfdfdf",
+          "textColor2": "edcdd7",
+          "textColor3": "b2b2b2",
+          "textColor4": "bea4ac"
+        },
+        "composerName": "\uc815\ud638\ud604",
+        "url": "https://music.apple.com/us/album/sequence/1569286882?i=1569287196",
+        "playParams": {
+          "id": "1569287196",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Sequence",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/b7/8f/43b78fbc-d7b2-c451-2d6b-f02e3d81c160/mzaf_11374130319675444707.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "1530216889",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1530216889",
+      "attributes": {
+        "albumName": "Bon Voyage - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2020-09-07",
+        "durationInMillis": 225173,
+        "isrc": "KRB462000771",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/91/36/1d/91361dc2-50f0-e96c-3741-7213fc35f418/886448746386.jpg/{w}x{h}bb.jpg",
+          "bgColor": "9ad2e7",
+          "textColor1": "0f0d0a",
+          "textColor2": "1f261b",
+          "textColor3": "2b3436",
+          "textColor4": "384843"
+        },
+        "composerName": "Joo Hyoung Lee (MonoTree) & Mayu Wakisaka",
+        "url": "https://music.apple.com/us/album/end-of-story/1530216879?i=1530216889",
+        "playParams": {
+          "id": "1530216889",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "End Of Story",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/64/ba/69/64ba6909-a7c0-1e04-36bb-f44ff3870e77/mzaf_7148307530087310150.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YooA"
+      }
+    },
+    {
+      "id": "1545320622",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1545320622",
+      "attributes": {
+        "albumName": "I burn - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2021-01-11",
+        "durationInMillis": 177053,
+        "isrc": "KRA392000076",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/c3/30/f1/c330f11e-9bbf-b596-580c-ed0a33531b11/20UM1IM15100.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0c0201",
+          "textColor1": "fffcf3",
+          "textColor2": "f94232",
+          "textColor3": "cec9c2",
+          "textColor4": "c93528"
+        },
+        "composerName": "JEON SOYEON & Woo Min Lee \u201ccollapsedone\u201d",
+        "url": "https://music.apple.com/us/album/where-is-love/1545320377?i=1545320622",
+        "playParams": {
+          "id": "1545320622",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Where is love",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/a3/42/a6a342d9-f0a4-94aa-945f-abb02d8a52c5/mzaf_9247263941014962526.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1584128934",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1584128934",
+      "attributes": {
+        "albumName": "The Feels - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-10-01",
+        "durationInMillis": 198053,
+        "isrc": "US5TA2100080",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/e0/d5/e6/e0d5e67a-9723-4d72-7510-dbf82553ca68/738676858334_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fcf2fb",
+          "textColor1": "000f00",
+          "textColor2": "551c10",
+          "textColor3": "323c32",
+          "textColor4": "77473f"
+        },
+        "composerName": "Woo Min Lee \u201ccollapsedone\u201d, Justin Reinstein, Anna Timgren & Boy Matthews",
+        "url": "https://music.apple.com/us/album/the-feels/1584128932?i=1584128934",
+        "playParams": {
+          "id": "1584128934",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "The Feels",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/21/b6/61/21b6613e-0565-3d88-1d2c-01d275973797/mzaf_15505524316751627602.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1557745420",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1557745420",
+      "attributes": {
+        "albumName": "R - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-03-12",
+        "durationInMillis": 168086,
+        "isrc": "KRA402100040",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/c2/a9/23/c2a923ac-b382-e73b-91f4-013a8d5a0600/21UMGIM18155.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a294c7",
+          "textColor1": "110612",
+          "textColor2": "231425",
+          "textColor3": "2e2336",
+          "textColor4": "3c2e45"
+        },
+        "composerName": "ROS\u00c9, Amy Allen, Jon Bellion, Jorgen Odegard, Raul Cubina & Teddy",
+        "url": "https://music.apple.com/us/album/on-the-ground/1557744841?i=1557745420",
+        "playParams": {
+          "id": "1557745420",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "On The Ground",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/20/e0/44/20e04430-b7dd-0247-c0c5-b1b84a14e7e5/mzaf_18079230591993679712.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ROS\u00c9"
+      }
+    },
+    {
+      "id": "1555401454",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1555401454",
+      "attributes": {
+        "albumName": "Summer Nights",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-07-09",
+        "durationInMillis": 180800,
+        "isrc": "US5TA1800053",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0e0400",
+          "textColor1": "f1e096",
+          "textColor2": "efc76f",
+          "textColor3": "c3b478",
+          "textColor4": "c2a059"
+        },
+        "composerName": "Seung Eun Oh, Andreas Baertels, Anne Judith Stokke Wik, Jonatan Gusmark, Ludvig Evers, Moa Anna Carlebecker Forsell & REALSLOW",
+        "url": "https://music.apple.com/us/album/dance-the-night-away/1555401452?i=1555401454",
+        "playParams": {
+          "id": "1555401454",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Dance The Night Away",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/e5/00/28e500e2-8f20-0385-f37b-84899a8384a0/mzaf_7117980557950201814.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1536553137",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1536553137",
+      "attributes": {
+        "albumName": "Dingga - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-10-20",
+        "durationInMillis": 179080,
+        "isrc": "KRA382006022",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/cb/a8/59/cba85951-e425-c8e0-7b1c-25c26b4abe1f/cover_-_DS.jpg/{w}x{h}bb.jpg",
+          "bgColor": "025c25",
+          "textColor1": "fdff92",
+          "textColor2": "f5c080",
+          "textColor3": "cade7c",
+          "textColor4": "c4ac6e"
+        },
+        "url": "https://music.apple.com/us/album/dingga/1536553134?i=1536553137",
+        "playParams": {
+          "id": "1536553137",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Dingga",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/87/e4/0a87e4ce-baa0-3b36-9d87-6f2f215fb348/mzaf_3532556926050030656.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "MAMAMOO"
+      }
+    },
+    {
+      "id": "1594292084",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1594292084",
+      "attributes": {
+        "albumName": "YOUNHA 6th Album 'END THEORY'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
+        "isrc": "KRA382163578",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/f7/ec/83/f7ec837e-3a7f-6476-1890-be94cbbc887b/YOUNHA_6th_Album_END_THEORY_Digitalcover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fff9d9",
+          "textColor1": "0b0202",
+          "textColor2": "4b1e10",
+          "textColor3": "3c332d",
+          "textColor4": "6f4a38"
+        },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
+        "playParams": {
+          "id": "1594292084",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Oort Cloud",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/19/ce/79/19ce7920-99b9-358a-190d-b7b748d4de02/mzaf_13520814028107338416.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
+      }
+    },
+    {
+      "id": "1493355413",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1493355413",
+      "attributes": {
+        "albumName": "Love & Evil",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2017-03-13",
+        "durationInMillis": 206869,
+        "isrc": "KRE081700005",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/60/98/53/609853a8-90f6-d333-607c-312835fc1a76/8804775133015.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b8a182",
+          "textColor1": "0d0903",
+          "textColor2": "1f1c18",
+          "textColor3": "2f271c",
+          "textColor4": "3e372d"
+        },
+        "composerName": "\ud669\ud604",
+        "url": "https://music.apple.com/us/album/love-live/1493355409?i=1493355413",
+        "playParams": {
+          "id": "1493355413",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Love & Live",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/59/a4/3559a409-724e-06ee-5aad-884803c2b025/mzaf_3577360280435257772.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA 1/3"
+      }
+    },
+    {
+      "id": "1588860462",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588860462",
+      "attributes": {
+        "albumName": "GLASSY - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-10-07",
+        "durationInMillis": 189933,
+        "isrc": "KRA492101033",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/40/a3/0a40a304-fe30-fdf1-73e8-33b2e91ca3e1/888272087291_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f94a55",
+          "textColor1": "00080d",
+          "textColor2": "001513",
+          "textColor3": "32151c",
+          "textColor4": "312020"
+        },
+        "composerName": "\ubc15\uc6b0\uc0c1, Bottle Paik, \ubcf4\ub780, Inner Child(MonoTree) & \ud669\uc720\ube48",
+        "url": "https://music.apple.com/us/album/glassy/1588860459?i=1588860462",
+        "playParams": {
+          "id": "1588860462",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "GLASSY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/18/a0/3d18a0fe-3db8-a129-feb7-7b5226f407ec/mzaf_15556982153698212809.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JO YURI"
+      }
+    },
+    {
+      "id": "1608253307",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1608253307",
+      "attributes": {
+        "albumName": "IT'z ICY - EP",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2019-07-29",
+        "durationInMillis": 190547,
+        "isrc": "US5TA1900070",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/59/db/bd/59dbbdc8-9776-17e1-8bb5-b3b18b3ba461/192641939549_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "85a6d7",
+          "textColor1": "120a12",
+          "textColor2": "171620",
+          "textColor3": "292939",
+          "textColor4": "2d3344"
+        },
+        "composerName": "F R I D A Y . (KANG JUNG HOON), CHANG (KIM CHANG KYUM) & AthenA (LEE JI HYE)",
+        "url": "https://music.apple.com/us/album/dalla-dalla-dallask-remix/1608253081?i=1608253307",
+        "playParams": {
+          "id": "1608253307",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "DALLA DALLA (DallasK Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e7/ba/89/e7ba895c-1921-9c7e-9c3e-d4666c9d9900/mzaf_14734392537125510633.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ITZY"
+      }
+    },
+    {
+      "id": "1528937197",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1528937197",
+      "attributes": {
+        "albumName": "HELICOPTER - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-09-02",
+        "durationInMillis": 225720,
+        "isrc": "KRA392000055",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/28/1d/ba/281dbace-e3f8-eb71-3c1d-4acf562c2863/20UMGIM72665.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f8995f",
+          "textColor1": "000000",
+          "textColor2": "0d0e57",
+          "textColor3": "311e13",
+          "textColor4": "3c2a59"
+        },
+        "composerName": "Hyuk Shin, Melanie Joy Fontana, Michel \"Lindgren\" Schulz & Jisoo Park",
+        "url": "https://music.apple.com/us/album/helicopter/1528937196?i=1528937197",
+        "playParams": {
+          "id": "1528937197",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "HELICOPTER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c8/71/b7/c871b7f4-6129-4386-70f5-fbad090bfa3e/mzaf_9717085455746212530.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "CLC"
+      }
+    },
+    {
+      "id": "1533391747",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1533391747",
+      "attributes": {
+        "albumName": "Twelve (Special Edition)",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 13,
+        "releaseDate": "2020-10-21",
+        "durationInMillis": 263067,
+        "isrc": "JPPO02002956",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/05/d7/ce/05d7cea8-2dfa-2bd4-fdc2-c476bb691921/20UMGIM78457.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "c874a4",
+          "textColor1": "040202",
+          "textColor2": "380c0f",
+          "textColor3": "2b1922",
+          "textColor4": "55212d"
+        },
+        "composerName": "Miki Watanabe",
+        "url": "https://music.apple.com/us/album/shy-boy/1533391521?i=1533391747",
+        "playParams": {
+          "id": "1533391747",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Shy boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/a8/ed/d0a8ed1f-8d34-687c-f7e3-07a57325a342/mzaf_4906316223639230579.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "1642468018",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1642468018",
+      "attributes": {
+        "albumName": "jiminxjamie - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-09-04",
+        "durationInMillis": 198313,
+        "isrc": "US5TA1800064",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/9d/47/1d/9d471d1b-9655-c4ed-287b-04d068ef4598/738676857078.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ddb87a",
+          "textColor2": "d29065",
+          "textColor3": "b09362",
+          "textColor4": "a87350"
+        },
+        "composerName": "\uae40\uc5f0\uc11c, \ubc0d\uc9c0\uc158 & JAMIE",
+        "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
+        "playParams": {
+          "id": "1642468018",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "April Fools (0401)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d2/c4/2f/d2c42fbe-c314-ef3b-6025-710b5e090520/mzaf_1978690592350960513.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JAMIE"
+      }
+    },
+    {
+      "id": "1569282070",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569282070",
+      "attributes": {
+        "albumName": "BLOOM*IZ",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "2020-02-17",
+        "durationInMillis": 204560,
+        "isrc": "KRA871900043",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0be7f",
+          "textColor1": "030302",
+          "textColor2": "452719",
+          "textColor3": "32281b",
+          "textColor4": "67452d"
+        },
+        "composerName": "Park Tae Jin, Kim Hyun Ah & Kim Min-ju",
+        "url": "https://music.apple.com/us/album/you-i/1569281731?i=1569282070",
+        "playParams": {
+          "id": "1569282070",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "YOU & I",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/76/14/bc/7614bc43-a8a8-577d-9670-3ed1adff0a4b/mzaf_1975671239349797666.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "1463467111",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1463467111",
+      "attributes": {
+        "albumName": "Dramatic - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-05-15",
+        "durationInMillis": 205568,
+        "isrc": "KRMIM1907984",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/95/aa/bd/95aabd71-9ed9-2b45-f22e-0f2e7837f700/dramatic_cover_F.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "eeeeee",
+          "textColor2": "ffb600",
+          "textColor3": "bfbfbf",
+          "textColor4": "cb9100"
+        },
+        "url": "https://music.apple.com/us/album/dramatic/1463467110?i=1463467111",
+        "playParams": {
+          "id": "1463467111",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Dramatic",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/8f/5d/3a8f5d57-805b-dec2-e154-24e6f097ce1f/mzaf_10228933726181877828.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BVNDIT"
+      }
+    },
+    {
+      "id": "1636642074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1636642074",
+      "attributes": {
+        "albumName": "SMARTPHONE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
+        "isrc": "KRMIM2242962",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0a3b5",
+          "textColor1": "0e0b1d",
+          "textColor2": "310c28",
+          "textColor3": "3b293b",
+          "textColor4": "572a44"
+        },
+        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
+        "playParams": {
+          "id": "1636642074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "SMARTPHONE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YENA"
+      }
+    },
+    {
+      "id": "1626233053",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1626233053",
+      "attributes": {
+        "albumName": "Op.22 Y-Waltz : in Major - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-06-02",
+        "durationInMillis": 199067,
+        "isrc": "KRA492200507",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/ab/38/02ab38b1-0048-35fa-058d-70aab34a408e/888272100082_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f9f8f4",
+          "textColor1": "060605",
+          "textColor2": "1e1a17",
+          "textColor3": "363635",
+          "textColor4": "494643"
+        },
+        "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
+        "playParams": {
+          "id": "1626233053",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Love Shhh!",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cb/12/66/cb1266e1-ee4b-9a08-2059-748a339d7952/mzaf_17031982910428537100.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JO YURI"
+      }
+    },
+    {
+      "id": "1273710101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1273710101",
+      "attributes": {
+        "albumName": "Excitement of Youth",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 1838,
+          "height": 1600,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a4030f",
+          "textColor1": "f5e5e7",
+          "textColor2": "fe9792",
+          "textColor3": "e5b8bb",
+          "textColor4": "ec7a78"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
+        "playParams": {
+          "id": "1273710101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/94/3e/e4943e0b-6f14-f01e-29af-84344a082de2/mzaf_17657299734577883729.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
+      "id": "1649325667",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1649325667",
+      "attributes": {
+        "albumName": "Gloria",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2023-01-27",
+        "durationInMillis": 229605,
+        "isrc": "GBUM72205420",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "36311d",
+          "textColor1": "e4c29d",
+          "textColor2": "e0a581",
+          "textColor3": "c1a583",
+          "textColor4": "be8e6d"
+        },
+        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
+        "playParams": {
+          "id": "1649325667",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "I'm Not Here To Make Friends",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sam Smith"
+      }
+    },
+    {
+      "id": "1438719770",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1438719770",
+      "attributes": {
+        "albumName": "Toca Toca (Remixes)",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2013-09-18",
+        "durationInMillis": 165606,
+        "isrc": "ROROT1313101",
+        "artwork": {
+          "width": 1440,
+          "height": 1440,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "e5e1e2",
+          "textColor2": "e3bc40",
+          "textColor3": "b7b4b5",
+          "textColor4": "b59633"
+        },
+        "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
+        "playParams": {
+          "id": "1438719770",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Toca Toca (Radio Edit)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5d/e6/4b/5de64b02-a183-1051-e7cc-0f71d0f1d8dc/mzaf_14149449640921313679.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Fly Project"
+      }
+    },
+    {
+      "id": "1452787149",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1452787149",
+      "attributes": {
+        "albumName": "TWIT - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-02-13",
+        "durationInMillis": 190786,
+        "isrc": "KRA381900397",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3b/0d/24/3b0d2467-173c-98e8-9ada-1da25aae7581/cover-_DS.jpg/{w}x{h}bb.jpg",
+          "bgColor": "050c18",
+          "textColor1": "df998a",
+          "textColor2": "d5907f",
+          "textColor3": "b37d73",
+          "textColor4": "ab766a"
+        },
+        "url": "https://music.apple.com/us/album/twit/1452787147?i=1452787149",
+        "playParams": {
+          "id": "1452787149",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "TWIT",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/7f/75/4b7f75d6-70a0-f573-8e99-c8f8b514635a/mzaf_10626210618490765550.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Hwa Sa"
+      }
+    },
+    {
+      "id": "1583902627",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1583902627",
+      "attributes": {
+        "albumName": "STEREOTYPE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-09-06",
+        "durationInMillis": 191696,
+        "isrc": "KRA382160813",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/07/9b/27/079b2760-a382-6d95-b43e-2cf4c563c1ce/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ccd0d3",
+          "textColor1": "001001",
+          "textColor2": "261411",
+          "textColor3": "29362b",
+          "textColor4": "473938"
+        },
+        "url": "https://music.apple.com/us/album/stereotype/1583902626?i=1583902627",
+        "playParams": {
+          "id": "1583902627",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "STEREOTYPE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/2e/5a/81/2e5a818f-0f08-d28e-6681-87805ed2d8a2/mzaf_3008465989831258244.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1569281734",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569281734",
+      "attributes": {
+        "albumName": "BLOOM*IZ",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2020-02-17",
+        "durationInMillis": 217760,
+        "isrc": "KRA871900037",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3c/18/cd/3c18cd7d-e4f7-bfd8-9e4a-b7c1bd48bb33/8809658318862_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f0be7f",
+          "textColor1": "030302",
+          "textColor2": "452719",
+          "textColor3": "32281b",
+          "textColor4": "67452d"
+        },
+        "composerName": "Choi Hyun Joon, \uae40\uc2b9\uc218, \uc11c\uc9c0\uc74c & Ko Hyunjung",
+        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
+        "playParams": {
+          "id": "1569281734",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "FIESTA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/aa/b5/4daab5a6-0710-b325-54f5-ca1d11788f5f/mzaf_6819508331410297511.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "1569293223",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569293223",
+      "attributes": {
+        "albumName": "HEART*IZ",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-04-01",
+        "durationInMillis": 212674,
+        "isrc": "KRA871900002",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/bc/f1/6e/bcf16eb1-7fd3-58b6-7f31-4c464efc3c04/8809658311085_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b6e3bc",
+          "textColor1": "182219",
+          "textColor2": "242e26",
+          "textColor3": "37493a",
+          "textColor4": "415244"
+        },
+        "composerName": "\ud150\uc870, Muna, Kebee & E.B.",
+        "url": "https://music.apple.com/us/album/hey-bae-like-it/1569293222?i=1569293223",
+        "playParams": {
+          "id": "1569293223",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Hey. Bae. Like it.",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/98/59/b89859b8-77ca-0314-0a5f-c5201d0624ed/mzaf_14865656177124890640.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "1662104668",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1662104668",
+      "attributes": {
+        "albumName": "Red Moon",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2018-07-16",
+        "durationInMillis": 196018,
+        "isrc": "KRA381800261",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/67/a1/4c/67a14c67-3411-2eed-0aec-09ee7fcef61b/cover_KM0007054_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "a40011",
+          "textColor1": "faf2f3",
+          "textColor2": "f5e5e7",
+          "textColor3": "e9c1c6",
+          "textColor4": "e5b7bc"
+        },
+        "url": "https://music.apple.com/us/album/egotistic/1662104665?i=1662104668",
+        "playParams": {
+          "id": "1662104668",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Egotistic",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/32/1a/81/321a81b9-4f49-b772-565a-491689722c68/mzaf_17412193112253608496.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "MAMAMOO"
+      }
     }
   ]
 }
