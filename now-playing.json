@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1510547727",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1510547727",
+      "attributes": {
+        "albumName": "THE PARK IN THE NIGHT, Pt. 3",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 185898,
+        "releaseDate": "2019-07-23",
+        "isrc": "KRA381903608",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/80/d5/8e/80d58e83-e46d-2421-1852-2738df623490/886448444992.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f7ce76",
+          "textColor1": "060b07",
+          "textColor2": "132813",
+          "textColor3": "36321d",
+          "textColor4": "404927"
+        },
+        "composerName": "Justin Reinstein, Red Anne & Sophia Pae",
+        "url": "https://music.apple.com/us/album/night-aviation-the-interpretation-of-dreams/1510547717?i=1510547727",
+        "playParams": {
+          "id": "1510547727",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Night Aviation (The Interpretation of Dreams)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/4c/80/ac4c804b-06ba-8d20-8a51-177d84ab4022/mzaf_13115302004862788665.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "GWSN"
+      }
+    },
+    {
+      "id": "1478601858",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1478601858",
+      "attributes": {
+        "albumName": "Pink Ocean - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2016-03-21",
+        "durationInMillis": 223559,
+        "isrc": "KRA381600429",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5d/e7/7d/5de77d6f-b6f6-e8e8-bc53-16b62e7d3502/886447921746.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ecc6b3",
+          "textColor1": "32171a",
+          "textColor2": "392124",
+          "textColor3": "573a39",
+          "textColor4": "5c4241"
+        },
+        "composerName": "Jinyoung",
+        "url": "https://music.apple.com/us/album/step-by-step/1478601850?i=1478601858",
+        "playParams": {
+          "id": "1478601858",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Step By Step",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/38/8a/0a388ab4-4f3e-3cd9-5d31-a31bd2a30fe5/mzaf_13049698697978874083.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "OH MY GIRL"
+      }
+    },
+    {
+      "id": "1449572292",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1449572292",
+      "attributes": {
+        "albumName": "Loca - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2019-01-15",
+        "durationInMillis": 204042,
+        "isrc": "KRA381900192",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/00/67/9800678a-9830-443d-177e-1eb536cfcaba/cover-FAVORITE.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "f0e0be",
+          "textColor2": "e9c58c",
+          "textColor3": "c0b398",
+          "textColor4": "bb9e70"
+        },
+        "url": "https://music.apple.com/us/album/loca-instrumental/1449572286?i=1449572292",
+        "playParams": {
+          "id": "1449572292",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Loca (Instrumental)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/42/c0/4f42c09e-2bdd-512e-4850-0a8e5b2353a2/mzaf_11748903786519966926.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "FAVORITE"
+      }
+    },
+    {
       "id": "i.DVEX96QTRZBl3Le",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.DVEX96QTRZBl3Le",
@@ -11,8 +140,8 @@
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 154434,
         "name": "Feel Special",
         "artistName": "Rocket Punch",
@@ -50,14 +179,14 @@
           "textColor4": "b36f2f"
         },
         "composerName": "Daniel Durn, Katrine Neya Klith Joergensen, Peter Wallevik & \uc870\uc724\uacbd",
-        "url": "https://music.apple.com/us/album/universe/1534800428?i=1534800437",
         "playParams": {
           "id": "1534800437",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/universe/1534800428?i=1534800437",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Universe",
         "previews": [
           {
@@ -93,14 +222,14 @@
           "textColor4": "c7453b"
         },
         "composerName": "Jiyoung Ahn & Vanilla Man",
+        "url": "https://music.apple.com/us/album/red-lipstick/1606409353?i=1606409354",
         "playParams": {
           "id": "1606409354",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/red-lipstick/1606409353?i=1606409354",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Red Lipstick",
         "previews": [
           {
@@ -136,14 +265,14 @@
           "textColor4": "cb505f"
         },
         "composerName": "Darren Smith, Andreas \u00d6berg, Michele Angel Wylen & Sean Alexander",
+        "url": "https://music.apple.com/us/album/agit/1478604547?i=1478604563",
         "playParams": {
           "id": "1478604563",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/agit/1478604547?i=1478604563",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Agit",
         "previews": [
           {
@@ -179,14 +308,14 @@
           "textColor3": "bfb7ab",
           "textColor4": "b16f62"
         },
+        "url": "https://music.apple.com/us/album/hear-the-wind-sing/1212180082?i=1212180083",
         "playParams": {
           "id": "1212180083",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hear-the-wind-sing/1212180082?i=1212180083",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hear the Wind Sing",
         "previews": [
           {
@@ -229,8 +358,8 @@
         },
         "url": "https://music.apple.com/us/album/bdz/1445463549?i=1445463652",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BDZ",
         "previews": [
           {
@@ -252,8 +381,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "durationInMillis": 203667,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 203667,
         "isrc": "KRA871900044",
         "artwork": {
           "width": 1400,
@@ -266,14 +395,14 @@
           "textColor4": "67452d"
         },
         "composerName": "AiRPLAY, Nash Overstreet, Sidnie Tipton, Danke & \ubbfc\uc5f0\uc7ac",
+        "url": "https://music.apple.com/us/album/daydream/1569281731?i=1569282073",
         "playParams": {
           "id": "1569282073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/daydream/1569281731?i=1569282073",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DAYDREAM",
         "previews": [
           {
@@ -295,8 +424,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -308,11 +437,11 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -351,11 +480,11 @@
           "textColor4": "cb5d25"
         },
         "composerName": "OneWay",
+        "url": "https://music.apple.com/us/album/oopsie-my-bad/1616479858?i=1616479863",
         "playParams": {
           "id": "1616479863",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oopsie-my-bad/1616479858?i=1616479863",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -379,8 +508,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 206387,
         "releaseDate": "2020-09-10",
+        "durationInMillis": 206387,
         "isrc": "KRB142000026",
         "artwork": {
           "width": 1400,
@@ -393,14 +522,14 @@
           "textColor4": "aea7ac"
         },
         "composerName": "James Birt, Katy Tiz, Ryan S. Jhun, George Tizzard, Rick Parkhouse & HA:TFELT",
+        "url": "https://music.apple.com/us/album/la-luna/1612582132?i=1612582135",
         "playParams": {
           "id": "1612582135",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/la-luna/1612582132?i=1612582135",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "La Luna",
         "previews": [
           {
@@ -435,14 +564,14 @@
           "textColor3": "343433",
           "textColor4": "414849"
         },
-        "url": "https://music.apple.com/us/album/girls-talk-yves-chuu/1329847014?i=1329847016",
         "playParams": {
           "id": "1329847016",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/girls-talk-yves-chuu/1329847014?i=1329847016",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Girl's Talk (Yves, Chuu)",
         "previews": [
           {
@@ -464,8 +593,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 169798,
         "releaseDate": "2020-10-02",
+        "durationInMillis": 169798,
         "isrc": "KRA402000138",
         "artwork": {
           "width": 4000,
@@ -507,8 +636,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-06-15",
         "durationInMillis": 199933,
+        "releaseDate": "2020-06-15",
         "isrc": "KRA492000674",
         "artwork": {
           "width": 1400,
@@ -521,14 +650,14 @@
           "textColor4": "763042"
         },
         "composerName": "\ubd88\uc2a4\uc544\uc774, real-fantasy & Grin",
+        "url": "https://music.apple.com/us/album/pretty/1569282878?i=1569282885",
         "playParams": {
           "id": "1569282885",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pretty/1569282878?i=1569282885",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pretty",
         "previews": [
           {
@@ -550,8 +679,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 208573,
         "releaseDate": "2020-02-10",
+        "durationInMillis": 208573,
         "isrc": "KRA382000196",
         "artwork": {
           "width": 3000,
@@ -563,11 +692,11 @@
           "textColor3": "f0d3d4",
           "textColor4": "a0c2a8"
         },
+        "url": "https://music.apple.com/us/album/bouncy/1497844728?i=1497844730",
         "playParams": {
           "id": "1497844730",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bouncy/1497844728?i=1497844730",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -593,8 +722,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 195000,
         "releaseDate": "2018-01-18",
+        "durationInMillis": 195000,
         "isrc": "KRA381703070",
         "artwork": {
           "width": 1440,
@@ -606,14 +735,14 @@
           "textColor3": "ca9a8f",
           "textColor4": "b37269"
         },
+        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "playParams": {
           "id": "1336924065",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heroine",
         "previews": [
           {
@@ -648,14 +777,14 @@
           "textColor4": "c15f95"
         },
         "composerName": "Bill Rahko, Chris Martin, Guy Berryman, Jonny Buckland, Max Martin, Oscar Holter, RM, SUGA, Will Champion & J-Hope",
-        "url": "https://music.apple.com/us/album/my-universe/1586356904?i=1586356916",
         "playParams": {
           "id": "1586356916",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/my-universe/1586356904?i=1586356916",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "My Universe",
         "previews": [
           {
@@ -697,8 +826,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TWIT",
         "previews": [
           {
@@ -719,8 +848,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2019-06-21",
         "durationInMillis": 237360,
+        "releaseDate": "2019-06-21",
         "isrc": "JPPO01902194",
         "artwork": {
           "width": 3000,
@@ -739,8 +868,8 @@
         },
         "url": "https://music.apple.com/us/album/human-love/1466727926?i=1466727949",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Human Love",
         "previews": [
           {
@@ -762,8 +891,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212674,
         "releaseDate": "2019-04-01",
+        "durationInMillis": 212674,
         "isrc": "KRA871900002",
         "artwork": {
           "width": 1400,
@@ -776,11 +905,11 @@
           "textColor4": "415244"
         },
         "composerName": "\ud150\uc870, Muna, Kebee & E.B.",
+        "url": "https://music.apple.com/us/album/hey-bae-like-it/1569293222?i=1569293223",
         "playParams": {
           "id": "1569293223",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hey-bae-like-it/1569293222?i=1569293223",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -819,14 +948,14 @@
           "textColor4": "6c4f48"
         },
         "composerName": "Melanie Fontana, Gino Barletta, Britten Newbill, Michel Schulz & BIBI",
+        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
         "playParams": {
           "id": "1579487839",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Second (feat. BIBI)",
         "previews": [
           {
@@ -848,8 +977,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 202400,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 202400,
         "isrc": "KRA871900039",
         "artwork": {
           "width": 1400,
@@ -868,8 +997,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "AYAYAYA",
         "previews": [
           {
@@ -904,14 +1033,14 @@
           "textColor3": "313732",
           "textColor4": "3f5132"
         },
+        "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "playParams": {
           "id": "1507748381",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dumhdurum",
         "previews": [
           {
@@ -952,8 +1081,8 @@
         },
         "url": "https://music.apple.com/us/album/paradise/1525520603?i=1525520605",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Paradise",
         "previews": [
           {
@@ -976,8 +1105,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 198200,
         "releaseDate": "2019-12-30",
+        "durationInMillis": 198200,
         "isrc": "KRA381905394",
         "artwork": {
           "width": 3000,
@@ -989,11 +1118,11 @@
           "textColor3": "bbbbbb",
           "textColor4": "a1a1a1"
         },
+        "url": "https://music.apple.com/us/album/thumbs-up/1492897659?i=1492897660",
         "playParams": {
           "id": "1492897660",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/thumbs-up/1492897659?i=1492897660",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1032,14 +1161,14 @@
           "textColor3": "bcb09f",
           "textColor4": "ba936d"
         },
+        "url": "https://music.apple.com/us/album/fever/1470921587?i=1470921588",
         "playParams": {
           "id": "1470921588",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fever/1470921587?i=1470921588",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fever",
         "previews": [
           {
@@ -1074,11 +1203,11 @@
           "textColor3": "e9c1c6",
           "textColor4": "e5b7bc"
         },
+        "url": "https://music.apple.com/us/album/egotistic/1662104665?i=1662104668",
         "playParams": {
           "id": "1662104668",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/egotistic/1662104665?i=1662104668",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1116,147 +1245,18 @@
           "textColor4": "55212d"
         },
         "composerName": "Miki Watanabe",
-        "url": "https://music.apple.com/us/album/shy-boy/1533391521?i=1533391747",
         "playParams": {
           "id": "1533391747",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shy-boy/1533391521?i=1533391747",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Shy boy",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/a8/ed/d0a8ed1f-8d34-687c-f7e3-07a57325a342/mzaf_4906316223639230579.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1664646378",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1664646378",
-      "attributes": {
-        "albumName": "Say My Name - Single",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 196107,
-        "releaseDate": "2020-01-10",
-        "isrc": "KSA012229686",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/64/5d/5d/645d5d71-d1d9-4cfb-ac88-5e2d164b01cf/8809912886410.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e7dcda",
-          "textColor1": "010000",
-          "textColor2": "140d09",
-          "textColor3": "2f2c2b",
-          "textColor4": "3e3733"
-        },
-        "playParams": {
-          "id": "1664646378",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/say-my-name/1664646074?i=1664646378",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Say My Name",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/b4/a1/3e/b4a13e8c-20b7-1cb4-26b1-6aa33cd8c958/mzaf_6066902255456074603.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ANS"
-      }
-    },
-    {
-      "id": "1551287548",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1551287548",
-      "attributes": {
-        "albumName": "Arcade Love - Single",
-        "genreNames": [
-          "Pop",
-          "Music",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 192449,
-        "releaseDate": "2021-02-14",
-        "isrc": "QZFZ32182416",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/8b/a9/c28ba92f-0d47-5e43-58d5-00febc28659d/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e566e9",
-          "textColor1": "0a070f",
-          "textColor2": "1d1d22",
-          "textColor3": "361a3a",
-          "textColor4": "452b4a"
-        },
-        "composerName": "Dounia El Bekri, Yasmin Bokaleff & Aymen Khamlichi",
-        "playParams": {
-          "id": "1551287548",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Arcade Love",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/a1/3a/baa13a54-dbd3-b9b3-8454-4c87b2d49187/mzaf_10194252932738923131.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LYNXCATS"
-      }
-    },
-    {
-      "id": "1569286889",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569286889",
-      "attributes": {
-        "albumName": "One-reeler / Act IV - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2020-12-07",
-        "durationInMillis": 222853,
-        "isrc": "KRA492001345",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/c2/e347c25d-0fee-35cb-1f5d-6bf651f977ae/888272071962_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "dfdfdf",
-          "textColor2": "edcdd7",
-          "textColor3": "b2b2b2",
-          "textColor4": "bea4ac"
-        },
-        "composerName": "kz, B.O., F.A.B., Nthonius, \uc81c\uc778\uc2a4 & \uc9c0\uc608\uc900",
-        "playParams": {
-          "id": "1569286889",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Panorama",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/b8/c4/a9b8c486-3207-4217-5462-eaf49b8cfe10/mzaf_13911690752979177202.plus.aac.p.m4a"
           }
         ],
         "artistName": "IZ*ONE"
