@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1635469851",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469851",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
+        "isrc": "USA2P2230222",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
+        "playParams": {
+          "id": "1635469851",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Hype Boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1533894686",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1533894686",
+      "attributes": {
+        "albumName": "THE ALBUM",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "2020-10-02",
+        "durationInMillis": 229202,
+        "isrc": "KRA402000139",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/c3/64/46/c364465f-6271-8aae-93a8-b9979d2befe5/20UMGIM82075.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0e0508",
+          "textColor1": "feb6c8",
+          "textColor2": "f795ac",
+          "textColor3": "ce93a2",
+          "textColor4": "c9788b"
+        },
+        "composerName": "Bekuh Boom & 24",
+        "playParams": {
+          "id": "1533894686",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/you-never-know/1533894050?i=1533894686",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "You Never Know",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/77/5f/3e/775f3e7c-6da4-64aa-01e6-05b111c19f3b/mzaf_14738037039509036712.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BLACKPINK"
+      }
+    },
+    {
       "id": "1468949021",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1468949021",
@@ -27,14 +113,14 @@
           "textColor4": "5a3f19"
         },
         "composerName": "Fredrik H\u00e4ggstam, Johan Gustafsson, Sebastian Lundberg & Ylva Dimberg",
+        "url": "https://music.apple.com/us/album/parade/1468948702?i=1468949021",
         "playParams": {
           "id": "1468949021",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/parade/1468948702?i=1468949021",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Parade",
         "previews": [
           {
@@ -99,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 144240,
         "releaseDate": "2022-03-14",
+        "durationInMillis": 144240,
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -142,8 +228,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 207871,
         "releaseDate": "2019-07-29",
+        "durationInMillis": 207871,
         "isrc": "US5TA1900071",
         "artwork": {
           "width": 1400,
@@ -185,8 +271,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 191100,
         "releaseDate": "2018-11-03",
+        "durationInMillis": 191100,
         "isrc": "NLRD51859885",
         "artwork": {
           "width": 1500,
@@ -199,14 +285,14 @@
           "textColor4": "b7829d"
         },
         "composerName": "Sebastien Najand & Jessica Karpov",
-        "url": "https://music.apple.com/us/album/pop-stars-feat-jaira-burns/1439420228?i=1439420504",
         "playParams": {
           "id": "1439420504",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pop-stars-feat-jaira-burns/1439420228?i=1439420504",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pop / Stars (feat. Jaira Burns)",
         "previews": [
           {
@@ -242,14 +328,14 @@
           "textColor4": "67452d"
         },
         "composerName": "Park Tae Jin, Kim Hyun Ah & Kim Min-ju",
+        "url": "https://music.apple.com/us/album/you-i/1569281731?i=1569282070",
         "playParams": {
           "id": "1569282070",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/you-i/1569281731?i=1569282070",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "YOU & I",
         "previews": [
           {
@@ -285,14 +371,14 @@
           "textColor4": "41333b"
         },
         "composerName": "\uc774\uae30, \uc6a9\ubc30 & Yasushi Akimoto",
+        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version/1618175516?i=1618175625",
         "playParams": {
           "id": "1618175625",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version/1618175516?i=1618175625",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Yume wo Miteiru Aida (Japanese Version)",
         "previews": [
           {
@@ -313,8 +399,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "durationInMillis": 221040,
         "releaseDate": "2023-02-16",
+        "durationInMillis": 221040,
         "isrc": "KRA252300247",
         "artwork": {
           "width": 3000,
@@ -327,14 +413,14 @@
           "textColor4": "de885f"
         },
         "composerName": "Han-bin Kim, Rockitman & Zior Park",
-        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "playParams": {
           "id": "1671157678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "CHRISTIAN",
         "previews": [
           {
@@ -370,14 +456,14 @@
           "textColor4": "305272"
         },
         "composerName": "imase",
+        "url": "https://music.apple.com/us/album/bokurada/1671079314?i=1671079316",
         "playParams": {
           "id": "1671079316",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bokurada/1671079314?i=1671079316",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bokurada",
         "previews": [
           {
@@ -398,8 +484,8 @@
           "Music"
         ],
         "trackNumber": 19,
-        "durationInMillis": 147498,
         "releaseDate": "2023-01-13",
+        "durationInMillis": 147498,
         "isrc": "USSM12300273",
         "artwork": {
           "width": 3000,
@@ -412,14 +498,14 @@
           "textColor4": "524540"
         },
         "composerName": "Meghan Trainor, Kim Petras, Sean Douglas & Federico Vindver",
-        "url": "https://music.apple.com/us/album/made-you-look-feat-kim-petras/1673849626?i=1673850900",
         "playParams": {
           "id": "1673850900",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look-feat-kim-petras/1673849626?i=1673850900",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look (feat. Kim Petras)",
         "previews": [
           {
@@ -484,8 +570,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 214827,
         "releaseDate": "2023-02-23",
+        "durationInMillis": 214827,
         "isrc": "KRA492300169",
         "artwork": {
           "width": 3000,
@@ -498,14 +584,14 @@
           "textColor4": "4a566f"
         },
         "composerName": "Jonatan Gusmark, Ludvig Evers, Emily Yeonseo Kim, Moa \u201cCazzi Opeia\u201d Carlebecker & Ellen Berg",
-        "url": "https://music.apple.com/us/album/i-do-do-you/1669654964?i=1669654965",
         "playParams": {
           "id": "1669654965",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-do-do-you/1669654964?i=1669654965",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I do! Do you?",
         "previews": [
           {
@@ -527,8 +613,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 174253,
         "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
         "isrc": "KSA012239181",
         "artwork": {
           "width": 3000,
@@ -614,8 +700,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 243587,
         "releaseDate": "2023-02-27",
+        "durationInMillis": 243587,
         "isrc": "KRMIM2334653",
         "artwork": {
           "width": 3000,
@@ -657,8 +743,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 188800,
         "releaseDate": "2023-02-14",
+        "durationInMillis": 188800,
         "isrc": "KRUM72300013",
         "artwork": {
           "width": 4000,
@@ -781,8 +867,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -824,8 +910,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 198587,
         "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -838,14 +924,14 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -924,14 +1010,14 @@
           "textColor3": "2f2c2b",
           "textColor4": "3e3733"
         },
+        "url": "https://music.apple.com/us/album/say-my-name/1664646074?i=1664646378",
         "playParams": {
           "id": "1664646378",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/say-my-name/1664646074?i=1664646378",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Say My Name",
         "previews": [
           {
@@ -953,8 +1039,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 205493,
         "releaseDate": "2020-10-26",
+        "durationInMillis": 205493,
         "isrc": "US5TA2000134",
         "artwork": {
           "width": 1400,
@@ -996,8 +1082,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 200360,
         "releaseDate": "2019-05-25",
+        "durationInMillis": 200360,
         "isrc": "QZF452010528",
         "artwork": {
           "width": 3000,
@@ -1081,8 +1167,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 225173,
         "releaseDate": "2020-09-07",
+        "durationInMillis": 225173,
         "isrc": "KRB462000771",
         "artwork": {
           "width": 3000,
@@ -1095,14 +1181,14 @@
           "textColor4": "384843"
         },
         "composerName": "Joo Hyoung Lee (MonoTree) & Mayu Wakisaka",
-        "url": "https://music.apple.com/us/album/end-of-story/1530216879?i=1530216889",
         "playParams": {
           "id": "1530216889",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/end-of-story/1530216879?i=1530216889",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "End Of Story",
         "previews": [
           {
@@ -1124,8 +1210,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 177053,
         "releaseDate": "2021-01-11",
+        "durationInMillis": 177053,
         "isrc": "KRA392000076",
         "artwork": {
           "width": 3000,
@@ -1181,104 +1267,18 @@
           "textColor4": "77473f"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, Justin Reinstein, Anna Timgren & Boy Matthews",
+        "url": "https://music.apple.com/us/album/the-feels/1584128932?i=1584128934",
         "playParams": {
           "id": "1584128934",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-feels/1584128932?i=1584128934",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The Feels",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/21/b6/61/21b6613e-0565-3d88-1d2c-01d275973797/mzaf_15505524316751627602.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
-      }
-    },
-    {
-      "id": "1557745420",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1557745420",
-      "attributes": {
-        "albumName": "R - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-03-12",
-        "durationInMillis": 168086,
-        "isrc": "KRA402100040",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/c2/a9/23/c2a923ac-b382-e73b-91f4-013a8d5a0600/21UMGIM18155.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "a294c7",
-          "textColor1": "110612",
-          "textColor2": "231425",
-          "textColor3": "2e2336",
-          "textColor4": "3c2e45"
-        },
-        "composerName": "ROS\u00c9, Amy Allen, Jon Bellion, Jorgen Odegard, Raul Cubina & Teddy",
-        "playParams": {
-          "id": "1557745420",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/on-the-ground/1557744841?i=1557745420",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "On The Ground",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/20/e0/44/20e04430-b7dd-0247-c0c5-b1b84a14e7e5/mzaf_18079230591993679712.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ROS\u00c9"
-      }
-    },
-    {
-      "id": "1555401454",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1555401454",
-      "attributes": {
-        "albumName": "Summer Nights",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 180800,
-        "releaseDate": "2018-07-09",
-        "isrc": "US5TA1800053",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0e0400",
-          "textColor1": "f1e096",
-          "textColor2": "efc76f",
-          "textColor3": "c3b478",
-          "textColor4": "c2a059"
-        },
-        "composerName": "Seung Eun Oh, Andreas Baertels, Anne Judith Stokke Wik, Jonatan Gusmark, Ludvig Evers, Moa Anna Carlebecker Forsell & REALSLOW",
-        "url": "https://music.apple.com/us/album/dance-the-night-away/1555401452?i=1555401454",
-        "playParams": {
-          "id": "1555401454",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Dance The Night Away",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/e5/00/28e500e2-8f20-0385-f37b-84899a8384a0/mzaf_7117980557950201814.plus.aac.p.m4a"
           }
         ],
         "artistName": "TWICE"
