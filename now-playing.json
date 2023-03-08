@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1336924065",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1336924065",
+      "attributes": {
+        "albumName": "Heroine - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-01-18",
+        "durationInMillis": 195000,
+        "isrc": "KRA381703070",
+        "artwork": {
+          "width": 1440,
+          "height": 1439,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/da/80/29/da8029da-bc4c-5828-afa6-378a513dbb36/cover-_DS_small.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010000",
+          "textColor1": "fcc1b3",
+          "textColor2": "e08e84",
+          "textColor3": "ca9a8f",
+          "textColor4": "b37269"
+        },
+        "playParams": {
+          "id": "1336924065",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/heroine/1336924062?i=1336924065",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Heroine",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/25/71/05/257105d6-78e9-f95f-0fe2-ce84fd69724b/mzaf_11292935637417329302.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "SUNMI"
+      }
+    },
+    {
+      "id": "1586356916",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1586356916",
+      "attributes": {
+        "albumName": "My Universe - Single",
+        "genreNames": [
+          "Alternative",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-09-24",
+        "durationInMillis": 228000,
+        "isrc": "GBAYE2100910",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0b/66/70/0b667065-6be7-3ac9-ce18-f1c66bcfa1b4/190296451997.jpg/{w}x{h}bb.jpg",
+          "bgColor": "030303",
+          "textColor1": "ffffff",
+          "textColor2": "f076b9",
+          "textColor3": "cccccc",
+          "textColor4": "c15f95"
+        },
+        "composerName": "Bill Rahko, Chris Martin, Guy Berryman, Jonny Buckland, Max Martin, Oscar Holter, RM, SUGA, Will Champion & J-Hope",
+        "playParams": {
+          "id": "1586356916",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/my-universe/1586356904?i=1586356916",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "My Universe",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/27/26/5a/27265a64-bbfa-0c17-eecc-2c1c373b813e/mzaf_5682957445269626489.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Coldplay X BTS"
+      }
+    },
+    {
+      "id": "1452787149",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1452787149",
+      "attributes": {
+        "albumName": "TWIT - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 190786,
+        "releaseDate": "2019-02-13",
+        "isrc": "KRA381900397",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3b/0d/24/3b0d2467-173c-98e8-9ada-1da25aae7581/cover-_DS.jpg/{w}x{h}bb.jpg",
+          "bgColor": "050c18",
+          "textColor1": "df998a",
+          "textColor2": "d5907f",
+          "textColor3": "b37d73",
+          "textColor4": "ab766a"
+        },
+        "url": "https://music.apple.com/us/album/twit/1452787147?i=1452787149",
+        "playParams": {
+          "id": "1452787149",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "TWIT",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/7f/75/4b7f75d6-70a0-f573-8e99-c8f8b514635a/mzaf_10626210618490765550.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Hwa Sa"
+      }
+    },
+    {
       "id": "1466727949",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1466727949",
@@ -12,8 +140,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2019-06-21",
         "durationInMillis": 237360,
+        "releaseDate": "2019-06-21",
         "isrc": "JPPO01902194",
         "artwork": {
           "width": 3000,
@@ -32,8 +160,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Human Love",
         "previews": [
           {
@@ -69,14 +197,14 @@
           "textColor4": "415244"
         },
         "composerName": "\ud150\uc870, Muna, Kebee & E.B.",
-        "url": "https://music.apple.com/us/album/hey-bae-like-it/1569293222?i=1569293223",
         "playParams": {
           "id": "1569293223",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hey-bae-like-it/1569293222?i=1569293223",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hey. Bae. Like it.",
         "previews": [
           {
@@ -98,8 +226,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-08-09",
         "durationInMillis": 218720,
+        "releaseDate": "2021-08-09",
         "isrc": "KRA302100263",
         "artwork": {
           "width": 4000,
@@ -118,8 +246,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Second (feat. BIBI)",
         "previews": [
           {
@@ -155,14 +283,14 @@
           "textColor4": "67452d"
         },
         "composerName": "\uc724\uc885\uc131, Anna Timgren, \uc2e0\ubbfc\uacbd & Inner Child",
-        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
         "playParams": {
           "id": "1569281904",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "AYAYAYA",
         "previews": [
           {
@@ -197,14 +325,14 @@
           "textColor3": "313732",
           "textColor4": "3f5132"
         },
-        "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "playParams": {
           "id": "1507748381",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dumhdurum/1507748380?i=1507748381",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dumhdurum",
         "previews": [
           {
@@ -239,14 +367,14 @@
           "textColor3": "2f3a32",
           "textColor4": "4b4a36"
         },
-        "url": "https://music.apple.com/us/album/paradise/1525520603?i=1525520605",
         "playParams": {
           "id": "1525520605",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/paradise/1525520603?i=1525520605",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Paradise",
         "previews": [
           {
@@ -269,8 +397,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-12-30",
         "durationInMillis": 198200,
+        "releaseDate": "2019-12-30",
         "isrc": "KRA381905394",
         "artwork": {
           "width": 3000,
@@ -288,8 +416,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Thumbs Up",
         "previews": [
           {
@@ -312,8 +440,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-07-01",
         "durationInMillis": 214293,
+        "releaseDate": "2019-07-01",
         "isrc": "KRA381903439",
         "artwork": {
           "width": 3000,
@@ -331,8 +459,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fever",
         "previews": [
           {
@@ -367,14 +495,14 @@
           "textColor3": "e9c1c6",
           "textColor4": "e5b7bc"
         },
-        "url": "https://music.apple.com/us/album/egotistic/1662104665?i=1662104668",
         "playParams": {
           "id": "1662104668",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/egotistic/1662104665?i=1662104668",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Egotistic",
         "previews": [
           {
@@ -409,14 +537,14 @@
           "textColor4": "55212d"
         },
         "composerName": "Miki Watanabe",
-        "url": "https://music.apple.com/us/album/shy-boy/1533391521?i=1533391747",
         "playParams": {
           "id": "1533391747",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shy-boy/1533391521?i=1533391747",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Shy boy",
         "previews": [
           {
@@ -439,8 +567,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-10",
         "durationInMillis": 196107,
+        "releaseDate": "2020-01-10",
         "isrc": "KSA012229686",
         "artwork": {
           "width": 3000,
@@ -458,8 +586,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Say My Name",
         "previews": [
           {
@@ -481,8 +609,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-14",
         "durationInMillis": 192449,
+        "releaseDate": "2021-02-14",
         "isrc": "QZFZ32182416",
         "artwork": {
           "width": 3000,
@@ -501,8 +629,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Arcade Love",
         "previews": [
           {
@@ -524,8 +652,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-12-07",
         "durationInMillis": 222853,
+        "releaseDate": "2020-12-07",
         "isrc": "KRA492001345",
         "artwork": {
           "width": 1400,
@@ -544,8 +672,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Panorama",
         "previews": [
           {
@@ -581,14 +709,14 @@
           "textColor4": "b78578"
         },
         "composerName": "SUNMI & FRANTS",
-        "url": "https://music.apple.com/us/album/lalalay/1477184226?i=1477184227",
         "playParams": {
           "id": "1477184227",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lalalay/1477184226?i=1477184227",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LALALAY",
         "previews": [
           {
@@ -624,14 +752,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -653,8 +781,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2020-10-02",
         "durationInMillis": 229202,
+        "releaseDate": "2020-10-02",
         "isrc": "KRA402000139",
         "artwork": {
           "width": 4000,
@@ -673,8 +801,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "You Never Know",
         "previews": [
           {
@@ -710,14 +838,14 @@
           "textColor4": "5a3f19"
         },
         "composerName": "Fredrik H\u00e4ggstam, Johan Gustafsson, Sebastian Lundberg & Ylva Dimberg",
-        "url": "https://music.apple.com/us/album/parade/1468948702?i=1468949021",
         "playParams": {
           "id": "1468949021",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/parade/1468948702?i=1468949021",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Parade",
         "previews": [
           {
@@ -739,8 +867,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2016-08-01",
         "durationInMillis": 238018,
+        "releaseDate": "2016-08-01",
         "isrc": "KRA381601418",
         "artwork": {
           "width": 3000,
@@ -759,8 +887,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Lies You Can See",
         "previews": [
           {
@@ -782,8 +910,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-14",
         "durationInMillis": 144240,
+        "releaseDate": "2022-03-14",
         "isrc": "KRA392100081",
         "artwork": {
           "width": 1400,
@@ -802,8 +930,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Never Stop Me",
         "previews": [
           {
@@ -839,14 +967,14 @@
           "textColor4": "2d3344"
         },
         "composerName": "Keith Hetrick, Allison Gillis, Emile Ghantous, Aimee Proal, Whitney Phillips, Erin Beck, Lee Seu-Ran & Tommy Park",
-        "url": "https://music.apple.com/us/album/want-it-imad-royal-remix/1608253081?i=1608253313",
         "playParams": {
           "id": "1608253313",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/want-it-imad-royal-remix/1608253081?i=1608253313",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "WANT IT? (Imad Royal Remix)",
         "previews": [
           {
@@ -868,8 +996,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-11-03",
         "durationInMillis": 191100,
+        "releaseDate": "2018-11-03",
         "isrc": "NLRD51859885",
         "artwork": {
           "width": 1500,
@@ -888,8 +1016,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pop / Stars (feat. Jaira Burns)",
         "previews": [
           {
@@ -911,8 +1039,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2020-02-17",
         "durationInMillis": 204560,
+        "releaseDate": "2020-02-17",
         "isrc": "KRA871900043",
         "artwork": {
           "width": 1400,
@@ -931,8 +1059,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "YOU & I",
         "previews": [
           {
@@ -954,8 +1082,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2018-09-01",
         "durationInMillis": 208036,
+        "releaseDate": "2018-09-01",
         "isrc": "KRA491800803",
         "artwork": {
           "width": 1400,
@@ -974,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Yume wo Miteiru Aida (Japanese Version)",
         "previews": [
           {
@@ -996,8 +1124,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "releaseDate": "2023-02-16",
         "durationInMillis": 221040,
+        "releaseDate": "2023-02-16",
         "isrc": "KRA252300247",
         "artwork": {
           "width": 3000,
@@ -1016,16 +1144,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "CHRISTIAN",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d6/49/fd/d649fd4f-8864-9a1f-31c0-a2c8bc5efeb6/mzaf_664285048828385656.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Zior Park",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Zior Park"
       }
     },
     {
@@ -1039,8 +1167,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 198173,
+        "releaseDate": "2023-02-24",
         "isrc": "JPPO02300199",
         "artwork": {
           "width": 3000,
@@ -1059,8 +1187,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bokurada",
         "previews": [
           {
@@ -1095,14 +1223,14 @@
           "textColor4": "524540"
         },
         "composerName": "Meghan Trainor, Kim Petras, Sean Douglas & Federico Vindver",
-        "url": "https://music.apple.com/us/album/made-you-look-feat-kim-petras/1673849626?i=1673850900",
         "playParams": {
           "id": "1673850900",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look-feat-kim-petras/1673849626?i=1673850900",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look (feat. Kim Petras)",
         "previews": [
           {
@@ -1138,14 +1266,14 @@
           "textColor4": "484444"
         },
         "composerName": "Yuki Kokubo, STAND ALONE & Gou Ishikuro",
-        "url": "https://music.apple.com/us/album/target/1670513316?i=1670513319",
         "playParams": {
           "id": "1670513319",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/target/1670513316?i=1670513319",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "TARGET",
         "previews": [
           {
@@ -1153,135 +1281,6 @@
           }
         ],
         "artistName": "CLASS:y"
-      }
-    },
-    {
-      "id": "1669654965",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1669654965",
-      "attributes": {
-        "albumName": "<FLY-BY> - Special Edition - - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-23",
-        "durationInMillis": 214827,
-        "isrc": "KRA492300169",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/ef/d3/b1/efd3b147-4217-19e3-3d10-96f8809e39ba/4547366608847.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e7e7dd",
-          "textColor1": "1a2c4f",
-          "textColor2": "233153",
-          "textColor3": "43516b",
-          "textColor4": "4a566f"
-        },
-        "composerName": "Jonatan Gusmark, Ludvig Evers, Emily Yeonseo Kim, Moa \u201cCazzi Opeia\u201d Carlebecker & Ellen Berg",
-        "url": "https://music.apple.com/us/album/i-do-do-you/1669654964?i=1669654965",
-        "playParams": {
-          "id": "1669654965",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "I do! Do you?",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7a/00/09/7a0009dd-68d5-3fb5-20a8-cee501ff803b/mzaf_1632548088788821223.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Kep1er"
-      }
-    },
-    {
-      "id": "1673667168",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1673667168",
-      "attributes": {
-        "albumName": "The Beginning: Cupid - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-02-24",
-        "durationInMillis": 174253,
-        "isrc": "KSA012239181",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/17/96/6a/17966a71-fc9c-1fe7-8768-03283eb5dfbd/8809933174794.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fce3aa",
-          "textColor1": "000100",
-          "textColor2": "333333",
-          "textColor3": "322e22",
-          "textColor4": "5b564b"
-        },
-        "composerName": "Adam Von Mentzer, Mac Fellander-Tsai & Louise Udin",
-        "url": "https://music.apple.com/us/album/cupid-twin-version/1673666964?i=1673667168",
-        "playParams": {
-          "id": "1673667168",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Cupid (Twin Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a3/16/79/a31679a2-d10c-2ada-7b15-99c137470fc7/mzaf_12910674716514939814.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "FIFTY FIFTY"
-      }
-    },
-    {
-      "id": "1673652607",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1673652607",
-      "attributes": {
-        "albumName": "I Hope You Like Me too - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-25",
-        "durationInMillis": 191493,
-        "isrc": "KRMIM2334468",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/81/ee/a1/81eea102-b879-7ada-da63-e9e415fcd809/888272113365_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "dee9fd",
-          "textColor1": "000000",
-          "textColor2": "313235",
-          "textColor3": "2c2e33",
-          "textColor4": "54575d"
-        },
-        "composerName": "DOKO",
-        "url": "https://music.apple.com/us/album/i-hope-you-like-me-too/1673652606?i=1673652607",
-        "playParams": {
-          "id": "1673652607",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "I Hope You Like Me too",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/10/08/2b/10082b0b-1a4d-8e5c-b5ec-18a4b8c4cf23/mzaf_17918345688471514103.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yi Chae Bin"
       }
     }
   ]
