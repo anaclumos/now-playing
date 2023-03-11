@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1625629978",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1625629978",
+      "attributes": {
+        "albumName": "Pisces - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 227000,
+        "releaseDate": "2022-05-24",
+        "isrc": "KRMIM2220051",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/a9/cd/50/a9cd507c-5bd3-0465-25a9-d857b47fa32c/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1e1f19",
+          "textColor1": "e6a176",
+          "textColor2": "db8d5c",
+          "textColor3": "be8763",
+          "textColor4": "b5774f"
+        },
+        "url": "https://music.apple.com/us/album/pisces/1625629976?i=1625629978",
+        "playParams": {
+          "id": "1625629978",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Pisces",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c9/eb/74/c9eb740f-9f34-ae2e-587a-8c7a00533a0b/mzaf_10521836712945885603.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yerin Baek"
+      }
+    },
+    {
+      "id": "766247624",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/766247624",
+      "attributes": {
+        "albumName": "\uad1c\ucc2e\ub2e4 - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2013-11-26",
+        "durationInMillis": 291640,
+        "isrc": "KRA491301554",
+        "artwork": {
+          "width": 2500,
+          "height": 2500,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music6/v4/31/46/43/3146433a-b6e9-d471-03fa-4359f1a6be3a/8809388743545.jpg/{w}x{h}bb.jpg",
+          "bgColor": "c3c3bb",
+          "textColor1": "2a1d1c",
+          "textColor2": "2e262a",
+          "textColor3": "493e3c",
+          "textColor4": "4c4547"
+        },
+        "playParams": {
+          "id": "766247624",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/%EA%B4%9C%EC%B0%AE%EB%8B%A4/766247618?i=766247624",
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "\uad1c\ucc2e\ub2e4",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/ac/e5/1eace5fd-ab2e-ef47-cced-120863e171f4/mzaf_153032087624338451.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
+      }
+    },
+    {
+      "id": "1229073402",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1229073402",
+      "attributes": {
+        "albumName": "Palette",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "R&B/Soul"
+        ],
+        "trackNumber": 4,
+        "durationInMillis": 195230,
+        "releaseDate": "2017-04-07",
+        "isrc": "KRA381700864",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/94/ec/24/94ec2442-5add-d1ca-5eba-37f1298abfbc/cover_KM0005225_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "271a16",
+          "textColor2": "241c1b",
+          "textColor3": "524845",
+          "textColor4": "504a48"
+        },
+        "url": "https://music.apple.com/us/album/cant-love-you-anymore-with-ohhyuk/1229073300?i=1229073402",
+        "playParams": {
+          "id": "1229073402",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Can't Love You Anymore (with OHHYUK)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/17/a5/eb17a5c5-6b52-4ae1-c46c-b5ef185b3d17/mzaf_15785498733457341000.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IU"
+      }
+    },
+    {
       "id": "1556087008",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1556087008",
@@ -185,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 179027,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -199,11 +326,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -318,8 +445,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-03-08",
         "durationInMillis": 281305,
+        "releaseDate": "2023-03-08",
         "isrc": "KRA0R2300223",
         "artwork": {
           "width": 3000,
@@ -332,11 +459,11 @@
           "textColor4": "a9aba4"
         },
         "composerName": "Heungboo, PIZZA FAIRY, Charming Jo & Yeju Lee",
+        "url": "https://music.apple.com/us/album/lost-my-phone/1675434965?i=1675434966",
         "playParams": {
           "id": "1675434966",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lost-my-phone/1675434965?i=1675434966",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -403,8 +530,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 262000,
         "releaseDate": "2023-02-26",
+        "durationInMillis": 262000,
         "isrc": "KRB472300260",
         "artwork": {
           "width": 3000,
@@ -416,11 +543,11 @@
           "textColor3": "3f3531",
           "textColor4": "564e42"
         },
-        "url": "https://music.apple.com/us/album/always-with-you/1673220466?i=1673220467",
         "playParams": {
           "id": "1673220467",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/always-with-you/1673220466?i=1673220467",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -531,8 +658,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-03-07",
         "durationInMillis": 234627,
+        "releaseDate": "2023-03-07",
         "isrc": "KRMIM2335100",
         "artwork": {
           "width": 1400,
@@ -545,11 +672,11 @@
           "textColor4": "5a5051"
         },
         "composerName": "Gallery",
+        "url": "https://music.apple.com/us/album/goodbye/1675436363?i=1675436368",
         "playParams": {
           "id": "1675436368",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/goodbye/1675436363?i=1675436368",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -659,8 +786,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-27",
         "durationInMillis": 152478,
+        "releaseDate": "2023-02-27",
         "isrc": "QM4TW2351109",
         "artwork": {
           "width": 3000,
@@ -673,11 +800,11 @@
           "textColor4": "50555b"
         },
         "composerName": "Melanie Fontana, Michel Schulz & Andreas Carlsson",
+        "url": "https://music.apple.com/us/album/mood-v5/1668425791?i=1668425801",
         "playParams": {
           "id": "1668425801",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/mood-v5/1668425791?i=1668425801",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -702,8 +829,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-17",
         "durationInMillis": 189747,
+        "releaseDate": "2023-02-17",
         "isrc": "KRA492300195",
         "artwork": {
           "width": 1400,
@@ -716,11 +843,11 @@
           "textColor4": "cdbdb9"
         },
         "composerName": "\uae40\uc2b9\uc218, Kim Min Gu & Eltz",
+        "url": "https://music.apple.com/us/album/honestly/1671077584?i=1671077585",
         "playParams": {
           "id": "1671077585",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/honestly/1671077584?i=1671077585",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -788,8 +915,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-13",
         "durationInMillis": 158933,
+        "releaseDate": "2023-02-13",
         "isrc": "KRA382300731",
         "artwork": {
           "width": 3000,
@@ -801,11 +928,11 @@
           "textColor3": "cbcbcb",
           "textColor4": "c4afae"
         },
+        "url": "https://music.apple.com/us/album/beam/1670327195?i=1670327197",
         "playParams": {
           "id": "1670327197",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/beam/1670327195?i=1670327197",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -830,8 +957,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "durationInMillis": 202360,
         "releaseDate": "2022-12-26",
+        "durationInMillis": 202360,
         "isrc": "KRA302200280",
         "artwork": {
           "width": 4000,
@@ -844,11 +971,11 @@
           "textColor4": "565555"
         },
         "composerName": "Malia Civetz, Nick Bradley & Lawrent",
-        "url": "https://music.apple.com/us/album/good-to-be-alive/1660716275?i=1660716399",
         "playParams": {
           "id": "1660716399",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/good-to-be-alive/1660716275?i=1660716399",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -873,8 +1000,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-03-07",
         "durationInMillis": 194387,
+        "releaseDate": "2023-03-07",
         "isrc": "KRA382301050",
         "artwork": {
           "width": 3000,
@@ -886,11 +1013,11 @@
           "textColor3": "36302c",
           "textColor4": "36312d"
         },
+        "url": "https://music.apple.com/us/album/p-o-w-play-on-the-world/1675036049?i=1675036050",
         "playParams": {
           "id": "1675036050",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/p-o-w-play-on-the-world/1675036049?i=1675036050",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -915,8 +1042,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 197077,
         "releaseDate": "2018-08-18",
+        "durationInMillis": 197077,
         "isrc": "KRA491800734",
         "artwork": {
           "width": 1400,
@@ -929,11 +1056,11 @@
           "textColor4": "41333b"
         },
         "composerName": "Thirteen & J.Rise",
-        "url": "https://music.apple.com/us/album/rumor/1569745005?i=1569745298",
         "playParams": {
           "id": "1569745298",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rumor/1569745005?i=1569745298",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -958,8 +1085,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189773,
         "releaseDate": "2023-02-14",
+        "durationInMillis": 189773,
         "isrc": "KRA382300511",
         "artwork": {
           "width": 3000,
@@ -971,11 +1098,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1043,8 +1170,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-01-14",
         "durationInMillis": 199013,
+        "releaseDate": "2022-01-14",
         "isrc": "KRB462200033",
         "artwork": {
           "width": 3000,
@@ -1057,11 +1184,11 @@
           "textColor4": "ca0174"
         },
         "composerName": "Jonatan Gusmark, Ludvig Evers, Moa \u201cCazzi Opeia\u201d Carlebecker & Ellen Berg",
+        "url": "https://music.apple.com/us/album/yummy-yummy-love-instrumental/1604196215?i=1604196458",
         "playParams": {
           "id": "1604196458",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yummy-yummy-love-instrumental/1604196215?i=1604196458",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1085,8 +1212,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165606,
         "releaseDate": "2013-09-18",
+        "durationInMillis": 165606,
         "isrc": "ROROT1313101",
         "artwork": {
           "width": 1440,
@@ -1099,11 +1226,11 @@
           "textColor4": "b59633"
         },
         "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "playParams": {
           "id": "1438719770",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1129,8 +1256,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 204120,
         "releaseDate": "2018-09-18",
+        "durationInMillis": 204120,
         "isrc": "KRA381801225",
         "artwork": {
           "width": 3000,
@@ -1143,11 +1270,11 @@
           "textColor4": "602c5e"
         },
         "composerName": "Brave Brothers, CHAKUN & \ub808\ub4dc\ucfe0\ud0a4",
-        "url": "https://music.apple.com/us/album/i-mean/1505983617?i=1505983624",
         "playParams": {
           "id": "1505983624",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-mean/1505983617?i=1505983624",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1158,135 +1285,6 @@
           }
         ],
         "artistName": "UNI.T"
-      }
-    },
-    {
-      "id": "1488434222",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1488434222",
-      "attributes": {
-        "albumName": "As You Wish",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 195668,
-        "releaseDate": "2019-11-19",
-        "isrc": "KRA381904808",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/fb/f8/f9/fbf8f95f-f4a0-5b68-dd8f-713fdcded228/wjsn_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e8e8e8",
-          "textColor1": "000000",
-          "textColor2": "261b16",
-          "textColor3": "2e2e2e",
-          "textColor4": "4d4440"
-        },
-        "url": "https://music.apple.com/us/album/as-you-wish/1488434221?i=1488434222",
-        "playParams": {
-          "id": "1488434222",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "As You Wish",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5f/5e/d3/5f5ed3c3-5540-175e-d665-9f33eac07b50/mzaf_9151063058272312354.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "WJSN"
-      }
-    },
-    {
-      "id": "1510547727",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1510547727",
-      "attributes": {
-        "albumName": "THE PARK IN THE NIGHT, Pt. 3",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 185898,
-        "releaseDate": "2019-07-23",
-        "isrc": "KRA381903608",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/80/d5/8e/80d58e83-e46d-2421-1852-2738df623490/886448444992.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f7ce76",
-          "textColor1": "060b07",
-          "textColor2": "132813",
-          "textColor3": "36321d",
-          "textColor4": "404927"
-        },
-        "composerName": "Justin Reinstein, Red Anne & Sophia Pae",
-        "url": "https://music.apple.com/us/album/night-aviation-the-interpretation-of-dreams/1510547717?i=1510547727",
-        "playParams": {
-          "id": "1510547727",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Night Aviation (The Interpretation of Dreams)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/4c/80/ac4c804b-06ba-8d20-8a51-177d84ab4022/mzaf_13115302004862788665.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "GWSN"
-      }
-    },
-    {
-      "id": "1478601858",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1478601858",
-      "attributes": {
-        "albumName": "Pink Ocean - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 5,
-        "releaseDate": "2016-03-21",
-        "durationInMillis": 223559,
-        "isrc": "KRA381600429",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5d/e7/7d/5de77d6f-b6f6-e8e8-bc53-16b62e7d3502/886447921746.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ecc6b3",
-          "textColor1": "32171a",
-          "textColor2": "392124",
-          "textColor3": "573a39",
-          "textColor4": "5c4241"
-        },
-        "composerName": "Jinyoung",
-        "playParams": {
-          "id": "1478601858",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/step-by-step/1478601850?i=1478601858",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Step By Step",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/38/8a/0a388ab4-4f3e-3cd9-5d31-a31bd2a30fe5/mzaf_13049698697978874083.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OH MY GIRL"
       }
     }
   ]
