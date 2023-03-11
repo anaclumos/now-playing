@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1440476356",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1440476356",
+      "attributes": {
+        "albumName": "Me After You - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-10-29",
+        "durationInMillis": 280359,
+        "isrc": "KRA381801716",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f0/3d/1a/f03d1a7f-a47c-6527-ed49-47268dbb9722/cover-_DS.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dbdbdb",
+          "textColor1": "0f0d10",
+          "textColor2": "101010",
+          "textColor3": "383638",
+          "textColor4": "393939"
+        },
+        "playParams": {
+          "id": "1440476356",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/me-after-you/1440476354?i=1440476356",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Me After You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e0/e2/f2/e0e2f229-9987-2f6b-81b0-5bba2516cf10/mzaf_7513402190675553460.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Paul Kim"
+      }
+    },
+    {
+      "id": "943874863",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/943874863",
+      "attributes": {
+        "albumName": "3.0",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2014-11-19",
+        "durationInMillis": 252801,
+        "isrc": "UK6821400426",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/17/a1/3f/17a13fdd-d598-17d8-f77b-5f668e3d7370/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "476776",
+          "textColor1": "fbf4e6",
+          "textColor2": "fdef65",
+          "textColor3": "d7d8d0",
+          "textColor4": "d8d468"
+        },
+        "composerName": "10cm",
+        "url": "https://music.apple.com/us/album/stalker/943874853?i=943874863",
+        "playParams": {
+          "id": "943874863",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Stalker",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/82/bb/02/82bb0228-3ddc-5ca7-2681-98976255dd10/mzaf_1227756535240892342.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "10cm"
+      }
+    },
+    {
+      "id": "1315910780",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1315910780",
+      "attributes": {
+        "albumName": "SPRING - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2016-05-04",
+        "durationInMillis": 188717,
+        "isrc": "KRA401600072",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/26/91/a5/2691a522-ccac-9eb4-e157-d58150175a38/160503_AKMU_DS.jpg/{w}x{h}bb.jpg",
+          "bgColor": "3e6099",
+          "textColor1": "ffffff",
+          "textColor2": "edf4fc",
+          "textColor3": "d8dfea",
+          "textColor4": "cad6e8"
+        },
+        "url": "https://music.apple.com/us/album/re-bye/1315910390?i=1315910780",
+        "playParams": {
+          "id": "1315910780",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "RE-BYE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/00/57/b8005717-fe11-4d33-5b60-e56c2e0de205/mzaf_12937573778951712655.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "AKMU"
+      }
+    },
+    {
       "id": "1625629978",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1625629978",
@@ -13,8 +140,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 227000,
         "releaseDate": "2022-05-24",
+        "durationInMillis": 227000,
         "isrc": "KRMIM2220051",
         "artwork": {
           "width": 3000,
@@ -26,14 +153,14 @@
           "textColor3": "be8763",
           "textColor4": "b5774f"
         },
-        "url": "https://music.apple.com/us/album/pisces/1625629976?i=1625629978",
         "playParams": {
           "id": "1625629978",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pisces/1625629976?i=1625629978",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pisces",
         "previews": [
           {
@@ -68,14 +195,14 @@
           "textColor3": "493e3c",
           "textColor4": "4c4547"
         },
+        "url": "https://music.apple.com/us/album/%EA%B4%9C%EC%B0%AE%EB%8B%A4/766247618?i=766247624",
         "playParams": {
           "id": "766247624",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/%EA%B4%9C%EC%B0%AE%EB%8B%A4/766247618?i=766247624",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "\uad1c\ucc2e\ub2e4",
         "previews": [
           {
@@ -98,8 +225,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 4,
-        "durationInMillis": 195230,
         "releaseDate": "2017-04-07",
+        "durationInMillis": 195230,
         "isrc": "KRA381700864",
         "artwork": {
           "width": 3000,
@@ -111,14 +238,14 @@
           "textColor3": "524845",
           "textColor4": "504a48"
         },
-        "url": "https://music.apple.com/us/album/cant-love-you-anymore-with-ohhyuk/1229073300?i=1229073402",
         "playParams": {
           "id": "1229073402",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cant-love-you-anymore-with-ohhyuk/1229073300?i=1229073402",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Can't Love You Anymore (with OHHYUK)",
         "previews": [
           {
@@ -160,8 +287,8 @@
         },
         "url": "https://music.apple.com/us/album/feel-special/1556087002?i=1556087008",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel Special",
         "previews": [
           {
@@ -183,8 +310,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "durationInMillis": 193800,
         "releaseDate": "2012-10-10",
+        "durationInMillis": 193800,
         "isrc": "UK6821400375",
         "artwork": {
           "width": 1400,
@@ -197,14 +324,14 @@
           "textColor4": "383331"
         },
         "composerName": "10cm",
-        "url": "https://music.apple.com/us/album/mind/931554353?i=931554403",
         "playParams": {
           "id": "931554403",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/mind/931554353?i=931554403",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Mind",
         "previews": [
           {
@@ -239,14 +366,14 @@
           "textColor3": "4a4547",
           "textColor4": "5c5558"
         },
+        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "playParams": {
           "id": "1046202717",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-feat-verbal-jint/1046202716?i=1046202717",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I (feat. Verbal Jint)",
         "previews": [
           {
@@ -270,8 +397,8 @@
           "Korean Hip-Hop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 173440,
         "releaseDate": "2022-04-12",
+        "durationInMillis": 173440,
         "isrc": "KRA382204506",
         "artwork": {
           "width": 3000,
@@ -283,14 +410,14 @@
           "textColor3": "1a2a38",
           "textColor4": "292c2d"
         },
-        "url": "https://music.apple.com/us/album/love-me/1618400068?i=1618400071",
         "playParams": {
           "id": "1618400071",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-me/1618400068?i=1618400071",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LOVE me",
         "previews": [
           {
@@ -332,8 +459,8 @@
         },
         "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -368,14 +495,14 @@
           "textColor3": "343a3e",
           "textColor4": "4c5760"
         },
+        "url": "https://music.apple.com/us/album/noir/1454604993?i=1454604994",
         "playParams": {
           "id": "1454604994",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/noir/1454604993?i=1454604994",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Noir",
         "previews": [
           {
@@ -402,8 +529,8 @@
           "Dance"
         ],
         "trackNumber": 11,
-        "durationInMillis": 265796,
         "releaseDate": "2007-08-03",
+        "durationInMillis": 265796,
         "isrc": "KRA300802941",
         "artwork": {
           "width": 1400,
@@ -415,14 +542,14 @@
           "textColor3": "eec7d4",
           "textColor4": "eca3b8"
         },
-        "url": "https://music.apple.com/us/album/into-the-new-world/854885986?i=854886013",
         "playParams": {
           "id": "854886013",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/into-the-new-world/854885986?i=854886013",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Into the New World",
         "previews": [
           {
@@ -445,8 +572,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "durationInMillis": 281305,
         "releaseDate": "2023-03-08",
+        "durationInMillis": 281305,
         "isrc": "KRA0R2300223",
         "artwork": {
           "width": 3000,
@@ -465,8 +592,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Lost My Phone",
         "previews": [
           {
@@ -487,8 +614,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 183973,
         "releaseDate": "2023-02-26",
+        "durationInMillis": 183973,
         "isrc": "KRMIM2334264",
         "artwork": {
           "width": 3000,
@@ -507,8 +634,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cozy (feat. Kevin Chung & Kelsey Kuan)",
         "previews": [
           {
@@ -549,8 +676,8 @@
         },
         "url": "https://music.apple.com/us/album/always-with-you/1673220466?i=1673220467",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Always with you",
         "previews": [
           {
@@ -573,8 +700,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 222090,
         "releaseDate": "2023-03-03",
+        "durationInMillis": 222090,
         "isrc": "KRMIM2333505",
         "artwork": {
           "width": 3000,
@@ -593,8 +720,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Bird",
         "previews": [
           {
@@ -615,8 +742,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 255213,
         "releaseDate": "2023-03-06",
+        "durationInMillis": 255213,
         "isrc": "KRF632300727",
         "artwork": {
           "width": 3000,
@@ -629,14 +756,14 @@
           "textColor4": "44256a"
         },
         "composerName": "yoonsang & Yang Sion",
-        "url": "https://music.apple.com/us/album/violet-fragrance-remake/1675545697?i=1675545698",
         "playParams": {
           "id": "1675545698",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/violet-fragrance-remake/1675545697?i=1675545698",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Violet Fragrance (Remake)",
         "previews": [
           {
@@ -658,8 +785,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 234627,
         "releaseDate": "2023-03-07",
+        "durationInMillis": 234627,
         "isrc": "KRMIM2335100",
         "artwork": {
           "width": 1400,
@@ -678,8 +805,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Goodbye",
         "previews": [
           {
@@ -721,8 +848,8 @@
         },
         "url": "https://music.apple.com/us/album/unrequited-love-feat-minsu-kiiiiiiiiiite/1670027617?i=1670027619",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Unrequited Love (feat. Minsu) (@kiiiiiiiiiite)",
         "previews": [
           {
@@ -758,14 +885,14 @@
           "textColor4": "da9f8e"
         },
         "composerName": "Tomoki Kiuchi, Ryo Hanai, Ryota Fukuoka & Sayaka Inoue",
+        "url": "https://music.apple.com/us/album/like-it-like-it/1666564307?i=1666564791",
         "playParams": {
           "id": "1666564791",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/like-it-like-it/1666564307?i=1666564791",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LIKE IT LIKE IT",
         "previews": [
           {
@@ -786,8 +913,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 152478,
         "releaseDate": "2023-02-27",
+        "durationInMillis": 152478,
         "isrc": "QM4TW2351109",
         "artwork": {
           "width": 3000,
@@ -806,8 +933,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Mood V5",
         "previews": [
           {
@@ -829,8 +956,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189747,
         "releaseDate": "2023-02-17",
+        "durationInMillis": 189747,
         "isrc": "KRA492300195",
         "artwork": {
           "width": 1400,
@@ -849,8 +976,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Honestly",
         "previews": [
           {
@@ -885,14 +1012,14 @@
           "textColor4": "453a2f"
         },
         "composerName": "Sorn, Josh Wei, Linying, Nick Lee & Dharni",
+        "url": "https://music.apple.com/us/album/not-a-friend/1672458620?i=1672458633",
         "playParams": {
           "id": "1672458633",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/not-a-friend/1672458620?i=1672458633",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Not A Friend",
         "previews": [
           {
@@ -915,8 +1042,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 158933,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 158933,
         "isrc": "KRA382300731",
         "artwork": {
           "width": 3000,
@@ -928,14 +1055,14 @@
           "textColor3": "cbcbcb",
           "textColor4": "c4afae"
         },
-        "url": "https://music.apple.com/us/album/beam/1670327195?i=1670327197",
         "playParams": {
           "id": "1670327197",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/beam/1670327195?i=1670327197",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Beam",
         "previews": [
           {
@@ -971,14 +1098,14 @@
           "textColor4": "565555"
         },
         "composerName": "Malia Civetz, Nick Bradley & Lawrent",
+        "url": "https://music.apple.com/us/album/good-to-be-alive/1660716275?i=1660716399",
         "playParams": {
           "id": "1660716399",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/good-to-be-alive/1660716275?i=1660716399",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Good To Be Alive",
         "previews": [
           {
@@ -1000,8 +1127,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 194387,
         "releaseDate": "2023-03-07",
+        "durationInMillis": 194387,
         "isrc": "KRA382301050",
         "artwork": {
           "width": 3000,
@@ -1013,14 +1140,14 @@
           "textColor3": "36302c",
           "textColor4": "36312d"
         },
-        "url": "https://music.apple.com/us/album/p-o-w-play-on-the-world/1675036049?i=1675036050",
         "playParams": {
           "id": "1675036050",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/p-o-w-play-on-the-world/1675036049?i=1675036050",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "P.O.W! (Play On the World)",
         "previews": [
           {
@@ -1062,8 +1189,8 @@
         },
         "url": "https://music.apple.com/us/album/rumor/1569745005?i=1569745298",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rumor",
         "previews": [
           {
@@ -1098,14 +1225,14 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Teddy Bear",
         "previews": [
           {
@@ -1127,8 +1254,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179867,
         "releaseDate": "2022-11-16",
+        "durationInMillis": 179867,
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -1147,8 +1274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Poppy",
         "previews": [
           {
@@ -1156,135 +1283,6 @@
           }
         ],
         "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1604196458",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1604196458",
-      "attributes": {
-        "albumName": "Yummy Yummy Love - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 199013,
-        "releaseDate": "2022-01-14",
-        "isrc": "KRB462200033",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/c7/5b/63c75be0-f501-18fd-4f11-ac51b90639f2/886449836390.jpg/{w}x{h}bb.jpg",
-          "bgColor": "180313",
-          "textColor1": "feffff",
-          "textColor2": "f7018c",
-          "textColor3": "cfcccf",
-          "textColor4": "ca0174"
-        },
-        "composerName": "Jonatan Gusmark, Ludvig Evers, Moa \u201cCazzi Opeia\u201d Carlebecker & Ellen Berg",
-        "url": "https://music.apple.com/us/album/yummy-yummy-love-instrumental/1604196215?i=1604196458",
-        "playParams": {
-          "id": "1604196458",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Yummy Yummy Love (Instrumental)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/15/08/6e/15086e0a-6cb5-a743-08bc-5b9512f58ce9/mzaf_4961321440779154339.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "MOMOLAND & Natti Natasha"
-      }
-    },
-    {
-      "id": "1438719770",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1438719770",
-      "attributes": {
-        "albumName": "Toca Toca (Remixes)",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2013-09-18",
-        "durationInMillis": 165606,
-        "isrc": "ROROT1313101",
-        "artwork": {
-          "width": 1440,
-          "height": 1440,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "e5e1e2",
-          "textColor2": "e3bc40",
-          "textColor3": "b7b4b5",
-          "textColor4": "b59633"
-        },
-        "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
-        "playParams": {
-          "id": "1438719770",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Toca Toca (Radio Edit)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5d/e6/4b/5de64b02-a183-1051-e7cc-0f71d0f1d8dc/mzaf_14149449640921313679.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Fly Project"
-      }
-    },
-    {
-      "id": "1505983624",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1505983624",
-      "attributes": {
-        "albumName": "Begin with the End - EP",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2018-09-18",
-        "durationInMillis": 204120,
-        "isrc": "KRA381801225",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/51/cd/74/51cd745c-cfc6-49e0-801b-cbe338ce2b3c/8809717455156.jpg/{w}x{h}bb.jpg",
-          "bgColor": "9bd4f2",
-          "textColor1": "18143c",
-          "textColor2": "520239",
-          "textColor3": "323a60",
-          "textColor4": "602c5e"
-        },
-        "composerName": "Brave Brothers, CHAKUN & \ub808\ub4dc\ucfe0\ud0a4",
-        "playParams": {
-          "id": "1505983624",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/i-mean/1505983617?i=1505983624",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "I Mean",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e7/8f/09/e78f0981-a915-77c3-0366-11b48fa386b3/mzaf_9836056721391493920.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "UNI.T"
       }
     }
   ]
