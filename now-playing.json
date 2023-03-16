@@ -2,6 +2,132 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1444144207",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1444144207",
+      "attributes": {
+        "albumName": "Polaroid Memories",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2015-04-29",
+        "durationInMillis": 185609,
+        "isrc": "SEUM71401326",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f9/15/83/f9158364-cf7a-5362-ed63-a42156421b20/00602547233400.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d2e2f9",
+          "textColor1": "272c37",
+          "textColor2": "30303c",
+          "textColor3": "49505e",
+          "textColor4": "505462"
+        },
+        "composerName": "Tove Lo, Rasmus Flyckt & Emil Gustafsson",
+        "playParams": {
+          "id": "1444144207",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/come-back-to-me-feat-tove-lo/1444143914?i=1444144207",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Come Back to Me (feat. Tove Lo)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b9/ed/13/b9ed1300-3e3b-04ea-a667-87055c07d4c6/mzaf_11761072343296355840.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Urban Cone"
+      }
+    },
+    {
+      "id": "1445300105",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1445300105",
+      "attributes": {
+        "albumName": "Come Back To Me (Remixes) [feat. Tove Lo]",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2015-04-24",
+        "durationInMillis": 171789,
+        "isrc": "SEUM71500478",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7c/ec/dc/7cecdcbe-3976-3227-24fc-336579496442/00602547331861.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000005",
+          "textColor1": "f9f9f7",
+          "textColor2": "dee0df",
+          "textColor3": "c7c7c6",
+          "textColor4": "b1b3b3"
+        },
+        "composerName": "Tove Lo, Rasmus Flyckt & Emil Gustafsson",
+        "url": "https://music.apple.com/us/album/come-back-to-me-feat-tove-lo-filous-remix/1445300102?i=1445300105",
+        "playParams": {
+          "id": "1445300105",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Come Back To Me (feat. Tove Lo) [filous Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/0b/cf/390bcfc3-b975-30c8-da7c-ac3c37d2523f/mzaf_3871102530942855478.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Urban Cone"
+      }
+    },
+    {
+      "id": "1445300104",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1445300104",
+      "attributes": {
+        "albumName": "Come Back To Me (Remixes) [feat. Tove Lo]",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2015-04-24",
+        "durationInMillis": 186667,
+        "isrc": "SEUM71500494",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7c/ec/dc/7cecdcbe-3976-3227-24fc-336579496442/00602547331861.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000005",
+          "textColor1": "f9f9f7",
+          "textColor2": "dee0df",
+          "textColor3": "c7c7c6",
+          "textColor4": "b1b3b3"
+        },
+        "composerName": "Tove Lo, Rasmus Flyckt & Emil Gustafsson",
+        "url": "https://music.apple.com/us/album/come-back-to-me-feat-tove-lo-vicetone-remix/1445300102?i=1445300104",
+        "playParams": {
+          "id": "1445300104",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Come Back To Me (feat. Tove Lo) [Vicetone Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/96/b4/c496b438-2481-e98f-d529-dff5b5a0c572/mzaf_13628777004182475294.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Urban Cone"
+      }
+    },
+    {
       "id": "755044244",
       "type": "songs",
       "href": "/v1/catalog/us/songs/755044244",
@@ -74,11 +200,11 @@
           "textColor3": "272726",
           "textColor4": "3b3a39"
         },
+        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "playParams": {
           "id": "1619757892",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -159,11 +285,11 @@
           "textColor4": "383331"
         },
         "composerName": "10cm",
+        "url": "https://music.apple.com/us/album/mind/931554353?i=931554403",
         "playParams": {
           "id": "931554403",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/mind/931554353?i=931554403",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -202,11 +328,11 @@
           "textColor4": "9c9ba6"
         },
         "composerName": "Wooziq & Myo",
+        "url": "https://music.apple.com/us/album/stalker/1560637610?i=1560638109",
         "playParams": {
           "id": "1560638109",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/stalker/1560637610?i=1560638109",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -245,11 +371,11 @@
           "textColor4": "5c494f"
         },
         "composerName": "SUNMI, Melanie Fontana, Michel Schulz, Ross Golan & Lindgren",
+        "url": "https://music.apple.com/us/album/you-cant-sit-with-us/1577333067?i=1577333322",
         "playParams": {
           "id": "1577333322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/you-cant-sit-with-us/1577333067?i=1577333322",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -331,11 +457,11 @@
           "textColor4": "c48b5c"
         },
         "composerName": "Mario Marchetti, Adam McInnis, YOO YOUNG JIN & Sophie Curtis",
-        "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
         "playParams": {
           "id": "1567326688",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -374,11 +500,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, \uac00\uc601(PNP), \uae40\uc778\ud615, Danke, \uae40\ucc44\uc6d0, Ronnie Icon, Caroline Gustavsson & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "playParams": {
           "id": "1621089614",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-flame/1621089349?i=1621089614",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -417,11 +543,11 @@
           "textColor4": "183236"
         },
         "composerName": "Aaron Sharp, Alexander Jackson, Chondrak Lerdamornpong & Greg Erwin",
-        "url": "https://music.apple.com/us/album/my-type/886709875?i=886709881",
         "playParams": {
           "id": "886709881",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/my-type/886709875?i=886709881",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -460,11 +586,11 @@
           "textColor3": "d2cc7a",
           "textColor4": "d1c769"
         },
-        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
         "playParams": {
           "id": "1455952874",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hakuna-matata/1455952872?i=1455952874",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -503,11 +629,11 @@
           "textColor4": "4d4d4d"
         },
         "composerName": "Jessica Agombar & David Stewart",
+        "url": "https://music.apple.com/us/album/dynamite/1596532185?i=1596532400",
         "playParams": {
           "id": "1596532400",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dynamite/1596532185?i=1596532400",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -630,11 +756,11 @@
           "textColor3": "cac5b8",
           "textColor4": "2bbe95"
         },
-        "url": "https://music.apple.com/us/album/alien/1535146863?i=1535146864",
         "playParams": {
           "id": "1535146864",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/alien/1535146863?i=1535146864",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -715,11 +841,11 @@
           "textColor3": "f0d3d4",
           "textColor4": "a0c2a8"
         },
-        "url": "https://music.apple.com/us/album/so-solo/1497844728?i=1497844731",
         "playParams": {
           "id": "1497844731",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/so-solo/1497844728?i=1497844731",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -758,11 +884,11 @@
           "textColor4": "d0c294"
         },
         "composerName": "Vincenzo, Any Masingga, Fuxxy & Anna Timgren",
+        "url": "https://music.apple.com/us/album/chica/1569282456?i=1569282461",
         "playParams": {
           "id": "1569282461",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/chica/1569282456?i=1569282461",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -801,11 +927,11 @@
           "textColor3": "582530",
           "textColor4": "4c3152"
         },
-        "url": "https://music.apple.com/us/album/oh-my-mistake/1439180281?i=1439180283",
         "playParams": {
           "id": "1439180283",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oh-my-mistake/1439180281?i=1439180283",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -886,11 +1012,11 @@
           "textColor3": "343737",
           "textColor4": "5f5451"
         },
-        "url": "https://music.apple.com/us/album/high-tension/1169916747?i=1169916802",
         "playParams": {
           "id": "1169916802",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/high-tension/1169916747?i=1169916802",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -929,11 +1055,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1015,11 +1141,11 @@
           "textColor4": "c1c1cd"
         },
         "composerName": "YOO YOUNG JIN, Omega, Ella Isaacson, Gabriela Geneva, Jordan Reyes, Shaun Lopez & Scott Chesak",
-        "url": "https://music.apple.com/us/album/black-mamba/1540251303?i=1540251305",
         "playParams": {
           "id": "1540251305",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/black-mamba/1540251303?i=1540251305",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1100,11 +1226,11 @@
           "textColor4": "77473f"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, Justin Reinstein & Anna Timgren",
-        "url": "https://music.apple.com/us/album/the-feels-the-stereotypes-remix-instrumental/1607381002?i=1607381377",
         "playParams": {
           "id": "1607381377",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-feels-the-stereotypes-remix-instrumental/1607381002?i=1607381377",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1142,11 +1268,11 @@
           "textColor3": "b8b8b8",
           "textColor4": "a2a2a2"
         },
+        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "playParams": {
           "id": "1548766747",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/overlap/1548766746?i=1548766747",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1157,134 +1283,6 @@
           }
         ],
         "artistName": "Sophiya"
-      }
-    },
-    {
-      "id": "1555396346",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1555396346",
-      "attributes": {
-        "albumName": "Twicecoaster: Lane 2",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-02-20",
-        "durationInMillis": 195747,
-        "isrc": "US5TA1700022",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/db/ff/88/dbff880c-4485-d42a-062b-c90b90d031d0/00602508870224_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b8350f",
-          "textColor1": "fee974",
-          "textColor2": "f2d86c",
-          "textColor3": "f0c560",
-          "textColor4": "e7b75a"
-        },
-        "composerName": "Mayu Wakisaka, Woo Min Lee \u201ccollapsedone\u201d & Eun Jee Sim",
-        "playParams": {
-          "id": "1555396346",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/knock-knock/1555396345?i=1555396346",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "KNOCK KNOCK",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/51/74/a6517469-201f-9667-d016-af0b0412346d/mzaf_16992424951043883364.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
-      }
-    },
-    {
-      "id": "1468949007",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1468949007",
-      "attributes": {
-        "albumName": "\u2018The ReVe Festival\u2019 Day 1 - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2019-06-19",
-        "durationInMillis": 203818,
-        "isrc": "KRA301900258",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/7a/d0/f5/7ad0f523-eda6-7b2a-1ff0-e58402cde920/RV_The_ReVe_Festival_Day1_COV.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e5b138",
-          "textColor1": "000016",
-          "textColor2": "382211",
-          "textColor3": "2d231d",
-          "textColor4": "5a3f19"
-        },
-        "composerName": "Moonshine, Ellen Berg & Cazzi Opeia",
-        "url": "https://music.apple.com/us/album/sunny-side-up/1468948702?i=1468949007",
-        "playParams": {
-          "id": "1468949007",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Sunny Side Up!",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/ae/02/2dae027c-3101-d5b0-052c-abc718145319/mzaf_11749105015923696716.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Red Velvet"
-      }
-    },
-    {
-      "id": "1608253231",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1608253231",
-      "attributes": {
-        "albumName": "IT'z ME",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2020-03-09",
-        "durationInMillis": 180180,
-        "isrc": "US5TA2000008",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/40/b0/1a/40b01aff-1aa6-5dda-4263-00384501ae35/192641939570_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c2960",
-          "textColor1": "e1b894",
-          "textColor2": "f8872b",
-          "textColor3": "b69b8a",
-          "textColor4": "c97435"
-        },
-        "composerName": "Sim Eunjee, KASS & Ariowa Irosogie",
-        "url": "https://music.apple.com/us/album/thats-a-no-no/1608253207?i=1608253231",
-        "playParams": {
-          "id": "1608253231",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "THAT'S A NO NO",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e7/8f/58/e78f5800-d6a7-93b0-3f24-d1c4e0efbea6/mzaf_757988966849194679.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ITZY"
       }
     }
   ]
