@@ -2,6 +2,78 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.ldDQ4X5S8LaVGWo",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.ldDQ4X5S8LaVGWo",
+      "attributes": {
+        "albumName": "Square Two",
+        "discNumber": 1,
+        "genreNames": [
+          ""
+        ],
+        "trackNumber": 1,
+        "hasLyrics": false,
+        "durationInMillis": 197289,
+        "name": "\ubd88\uc7a5\ub09c",
+        "artistName": "BLACKPINK",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/fc/0d/7f/fc0d7fb6-da08-4975-7a91-c1760a4bf172/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230318T195748Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230318%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=746e384ed1d7e3d1ce0e5a9b4b9ea974aefd7042d6178b39fb457060525e9d4b"
+        },
+        "playParams": {
+          "id": "i.ldDQ4X5S8LaVGWo",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1445463652",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1445463652",
+      "attributes": {
+        "albumName": "BDZ - Repackage -",
+        "genreNames": [
+          "J-Pop",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2018-08-17",
+        "durationInMillis": 197800,
+        "isrc": "JPWP01870896",
+        "artwork": {
+          "width": 2000,
+          "height": 2010,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/34/8e/79/348e799b-7829-a3c6-7d2e-9893373bbcf7/190295498986.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d5d9dc",
+          "textColor1": "272122",
+          "textColor2": "3a3229",
+          "textColor3": "494647",
+          "textColor4": "59544d"
+        },
+        "composerName": "J.Y. Park \"The Asiasoul\"",
+        "playParams": {
+          "id": "1445463652",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/bdz/1445463549?i=1445463652",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "BDZ",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/44/b5/48/44b548b7-0fdc-45c2-6604-c3263a4611ae/mzaf_13210106021130391685.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
       "id": "1569293567",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1569293567",
@@ -27,14 +99,14 @@
           "textColor4": "415244"
         },
         "composerName": "Shintaro Fujiwara & \uc544\ud0a4\ubaa8\ud1a0 \uc57c\uc2a4\uc2dc",
+        "url": "https://music.apple.com/us/album/nekoni-naritai-korean-version/1569293222?i=1569293567",
         "playParams": {
           "id": "1569293567",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nekoni-naritai-korean-version/1569293222?i=1569293567",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "NEKONI NARITAI (Korean Version)",
         "previews": [
           {
@@ -70,14 +142,14 @@
           "textColor4": "67452d"
         },
         "composerName": "\ub77c\uc774\uc5b8 \uc804, Andy Love, Andreas \u00d6berg, David Amber & \uc870\uc724\uacbd",
+        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "playParams": {
           "id": "1569281733",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eyes/1569281731?i=1569281733",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "EYES",
         "previews": [
           {
@@ -100,8 +172,8 @@
           "Adult Alternative"
         ],
         "trackNumber": 8,
-        "durationInMillis": 268466,
         "releaseDate": "2014-05-02",
+        "durationInMillis": 268466,
         "isrc": "GBAYE1400226",
         "artwork": {
           "width": 1426,
@@ -114,14 +186,14 @@
           "textColor4": "98aac6"
         },
         "composerName": "Avicii, Chris Martin, Guy Berryman, Jonny Buckland & Will Champion",
-        "url": "https://music.apple.com/us/album/a-sky-full-of-stars/829909653?i=829910927",
         "playParams": {
           "id": "829910927",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/a-sky-full-of-stars/829909653?i=829910927",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "A Sky Full of Stars",
         "previews": [
           {
@@ -143,8 +215,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174933,
         "releaseDate": "2020-11-17",
+        "durationInMillis": 174933,
         "isrc": "KRA302000590",
         "artwork": {
           "width": 4000,
@@ -163,8 +235,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Black Mamba",
         "previews": [
           {
@@ -186,8 +258,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 228000,
         "releaseDate": "2021-04-01",
+        "durationInMillis": 228000,
         "isrc": "KRMIM2113455",
         "artwork": {
           "width": 3000,
@@ -206,8 +278,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STALKER",
         "previews": [
           {
@@ -228,8 +300,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 199874,
         "releaseDate": "2019-02-12",
+        "durationInMillis": 199874,
         "isrc": "US5TA1900013",
         "artwork": {
           "width": 1400,
@@ -285,14 +357,14 @@
           "textColor4": "404927"
         },
         "composerName": "Justin Reinstein, Red Anne & Sophia Pae",
+        "url": "https://music.apple.com/us/album/night-aviation-the-interpretation-of-dreams/1510547717?i=1510547727",
         "playParams": {
           "id": "1510547727",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/night-aviation-the-interpretation-of-dreams/1510547717?i=1510547727",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Night Aviation (The Interpretation of Dreams)",
         "previews": [
           {
@@ -315,8 +387,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193867,
         "releaseDate": "2020-05-13",
+        "durationInMillis": 193867,
         "isrc": "KRF842000223",
         "artwork": {
           "width": 3000,
@@ -328,14 +400,14 @@
           "textColor3": "ded3e7",
           "textColor4": "cfa4a5"
         },
-        "url": "https://music.apple.com/us/album/paeonia/1588115644?i=1588116037",
         "playParams": {
           "id": "1588116037",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/paeonia/1588115644?i=1588116037",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Paeonia",
         "previews": [
           {
@@ -357,8 +429,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 203400,
         "releaseDate": "2021-12-23",
+        "durationInMillis": 203400,
         "isrc": "KRMIM2179624",
         "artwork": {
           "width": 3000,
@@ -377,8 +449,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Shark",
         "previews": [
           {
@@ -413,11 +485,11 @@
           "textColor4": "55212d"
         },
         "composerName": "iggy & Syb",
+        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
         "playParams": {
           "id": "1533391535",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -442,8 +514,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210253,
         "releaseDate": "2022-03-21",
+        "durationInMillis": 210253,
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -456,14 +528,14 @@
           "textColor4": "143d30"
         },
         "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
-        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "playParams": {
           "id": "1614179710",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -484,8 +556,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189283,
         "releaseDate": "2019-07-29",
+        "durationInMillis": 189283,
         "isrc": "TCAET2062944",
         "artwork": {
           "width": 1600,
@@ -504,8 +576,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Streets of Gold",
         "previews": [
           {
@@ -540,14 +612,14 @@
           "textColor4": "363b3c"
         },
         "composerName": "Caroline Ailin, Dua Lipa, Emily Warren & Ian Kirkpatrick",
+        "url": "https://music.apple.com/us/album/dont-start-now/1484636581?i=1484636829",
         "playParams": {
           "id": "1484636829",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dont-start-now/1484636581?i=1484636829",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Don't Start Now",
         "previews": [
           {
@@ -569,8 +641,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217229,
         "releaseDate": "2021-02-22",
+        "durationInMillis": 217229,
         "isrc": "KRMIM2105217",
         "artwork": {
           "width": 1400,
@@ -583,14 +655,14 @@
           "textColor4": "4ea0b0"
         },
         "composerName": "Melanie Fontana Schulz, A\u2019Dee, Co-Chlear & Jinooya",
-        "url": "https://music.apple.com/us/album/get-it-out/1606665786?i=1606665787",
         "playParams": {
           "id": "1606665787",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/get-it-out/1606665786?i=1606665787",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Get It Out",
         "previews": [
           {
@@ -626,11 +698,11 @@
           "textColor4": "5f484d"
         },
         "composerName": "Louise Frick Sveen, Sana & earattack",
+        "url": "https://music.apple.com/us/album/turn-it-up/1555390183?i=1555390199",
         "playParams": {
           "id": "1555390199",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/turn-it-up/1555390183?i=1555390199",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -698,8 +770,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 178229,
         "releaseDate": "2017-04-03",
+        "durationInMillis": 178229,
         "isrc": "KRA381700680",
         "artwork": {
           "width": 3000,
@@ -741,8 +813,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 194626,
         "releaseDate": "2018-09-10",
+        "durationInMillis": 194626,
         "isrc": "KRA381801069",
         "artwork": {
           "width": 3000,
@@ -797,11 +869,11 @@
           "textColor3": "041f2e",
           "textColor4": "213037"
         },
+        "url": "https://music.apple.com/us/album/after-school/1558430429?i=1558430433",
         "playParams": {
           "id": "1558430433",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-school/1558430429?i=1558430433",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -840,14 +912,14 @@
           "textColor4": "cb505f"
         },
         "composerName": "Mayu Wakisaka & Sean Alexander",
+        "url": "https://music.apple.com/us/album/real-world/1478604547?i=1478604560",
         "playParams": {
           "id": "1478604560",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/real-world/1478604547?i=1478604560",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Real World",
         "previews": [
           {
@@ -883,14 +955,14 @@
           "textColor3": "44373a",
           "textColor4": "64464b"
         },
+        "url": "https://music.apple.com/us/album/bboom-bboom/1330921813?i=1330921814",
         "playParams": {
           "id": "1330921814",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bboom-bboom/1330921813?i=1330921814",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bboom Bboom",
         "previews": [
           {
@@ -955,8 +1027,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -1011,14 +1083,14 @@
           "textColor3": "d8d7d8",
           "textColor4": "c0c0c0"
         },
+        "url": "https://music.apple.com/us/album/100-facts-cool-english-version/1534557847?i=1534557854",
         "playParams": {
           "id": "1534557854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/100-facts-cool-english-version/1534557847?i=1534557854",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "100 FACTS (COOL English Version)",
         "previews": [
           {
@@ -1054,14 +1126,14 @@
           "textColor4": "bea4ac"
         },
         "composerName": "\uc815\ud638\ud604",
+        "url": "https://music.apple.com/us/album/sequence/1569286882?i=1569287196",
         "playParams": {
           "id": "1569287196",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sequence/1569286882?i=1569287196",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Sequence",
         "previews": [
           {
@@ -1097,14 +1169,14 @@
           "textColor4": "624d59"
         },
         "composerName": "Drew Ryan Scott, Sean Michael Alexander, MELODESIGN, \uae40\uc9c0\ud5a5, \ucd08\uc2ec, \uad6c\ubcf8\uc554 & \ud669\uc720\ube48",
+        "url": "https://music.apple.com/us/album/fun/1570577418?i=1570577419",
         "playParams": {
           "id": "1570577419",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fun/1570577418?i=1570577419",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FUN!",
         "previews": [
           {
@@ -1126,8 +1198,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "durationInMillis": 197972,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 197972,
         "isrc": "KRA871900047",
         "artwork": {
           "width": 1400,
@@ -1169,8 +1241,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "durationInMillis": 219013,
         "releaseDate": "2020-06-15",
+        "durationInMillis": 219013,
         "isrc": "KRA492000677",
         "artwork": {
           "width": 1400,
@@ -1189,8 +1261,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "With*One",
         "previews": [
           {
@@ -1198,90 +1270,6 @@
           }
         ],
         "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1520356233",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1520356233",
-      "attributes": {
-        "albumName": "We Are - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 206813,
-        "releaseDate": "2020-06-30",
-        "isrc": "KRA382002128",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/93/f2/cc/93f2cca8-c02b-42a6-61dc-3908f72eb6a8/cover_-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "68558f",
-          "textColor1": "ffffff",
-          "textColor2": "ccdef0",
-          "textColor3": "e0dde8",
-          "textColor4": "b8c3dc"
-        },
-        "url": "https://music.apple.com/us/album/universe/1520356230?i=1520356233",
-        "playParams": {
-          "id": "1520356233",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Universe",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c6/e4/ab/c6e4abae-c17e-301f-2659-d774241a8ec2/mzaf_7897652916124571576.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Weeekly"
-      }
-    },
-    {
-      "id": "930699356",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/930699356",
-      "attributes": {
-        "albumName": "Wicked Wonderland - Single",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Electronic"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 217270,
-        "releaseDate": "2014-06-30",
-        "isrc": "DEN061401029",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6e/0a/2f/6e0a2f19-c0b3-7be4-04fb-60872f707b80/0617465569753.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f4f8",
-          "textColor1": "120709",
-          "textColor2": "471c23",
-          "textColor3": "403639",
-          "textColor4": "6a474d"
-        },
-        "url": "https://music.apple.com/us/album/wicked-wonderland/930699347?i=930699356",
-        "playParams": {
-          "id": "930699356",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Wicked Wonderland",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2c/21/6c/2c216c3e-e0b5-1ab0-f2f4-4e22def3883a/mzaf_4343255565358854183.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Tungevaag"
       }
     }
   ]
