@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1493355415",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1493355415",
+      "attributes": {
+        "albumName": "Love & Evil",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2017-03-13",
+        "durationInMillis": 187443,
+        "isrc": "KRE081700008",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/60/98/53/609853a8-90f6-d333-607c-312835fc1a76/8804775133015.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b8a182",
+          "textColor1": "0d0903",
+          "textColor2": "1f1c18",
+          "textColor3": "2f271c",
+          "textColor4": "3e372d"
+        },
+        "composerName": "Artronic Waves",
+        "playParams": {
+          "id": "1493355415",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/fairy-tale/1493355409?i=1493355415",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Fairy Tale",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/13/1c/a7131cda-7a82-0c7e-dea9-8726bd3af514/mzaf_3997782640740138340.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA 1/3"
+      }
+    },
+    {
+      "id": "1534800433",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1534800433",
+      "attributes": {
+        "albumName": "[12:00]",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2020-10-19",
+        "durationInMillis": 205520,
+        "isrc": "KRA382005816",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/1e/33/12/1e331279-c1e7-246b-b618-d0fb24455b1e/190296809996.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1e0e21",
+          "textColor1": "d49f21",
+          "textColor2": "d88833",
+          "textColor3": "b08221",
+          "textColor4": "b36f2f"
+        },
+        "composerName": "Ellen Berg, Julia Finnseter, Sondre Nystr\u00f8m, Will Simms & \ud669\uc720\ube48",
+        "playParams": {
+          "id": "1534800433",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/why-not/1534800428?i=1534800433",
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Why Not?",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/82/77/2c/82772cb5-cc6e-e648-da23-8ad7fa73090f/mzaf_3838809222737075646.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA"
+      }
+    },
+    {
       "id": "1169927353",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1169927353",
@@ -13,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 227613,
         "releaseDate": "2016-11-16",
+        "durationInMillis": 227613,
         "isrc": "JPKI01618695",
         "artwork": {
           "width": 1412,
@@ -97,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 192484,
         "releaseDate": "2019-06-24",
+        "durationInMillis": 192484,
         "isrc": "KRMIM1910136",
         "artwork": {
           "width": 1400,
@@ -140,8 +226,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 218796,
         "releaseDate": "2018-07-17",
+        "durationInMillis": 218796,
         "isrc": "KRD351800018",
         "artwork": {
           "width": 3000,
@@ -182,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177613,
         "releaseDate": "2020-08-16",
+        "durationInMillis": 177613,
         "isrc": "KRA382003368",
         "artwork": {
           "width": 3000,
@@ -224,8 +310,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2017-12-28",
         "durationInMillis": 197469,
+        "releaseDate": "2017-12-28",
         "isrc": "KRE081700035",
         "artwork": {
           "width": 3000,
@@ -237,14 +323,14 @@
           "textColor3": "343433",
           "textColor4": "414849"
         },
+        "url": "https://music.apple.com/us/album/girls-talk-yves-chuu/1329847014?i=1329847016",
         "playParams": {
           "id": "1329847016",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/girls-talk-yves-chuu/1329847014?i=1329847016",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Girl's Talk (Yves, Chuu)",
         "previews": [
           {
@@ -266,8 +352,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 206437,
         "releaseDate": "2020-11-24",
+        "durationInMillis": 206437,
         "isrc": "KRA382006445",
         "artwork": {
           "width": 3000,
@@ -306,15 +392,15 @@
         "genreNames": [
           ""
         ],
-        "trackNumber": 1,
         "hasLyrics": false,
+        "trackNumber": 1,
         "durationInMillis": 197289,
         "name": "\ubd88\uc7a5\ub09c",
         "artistName": "BLACKPINK",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/fc/0d/7f/fc0d7fb6-da08-4975-7a91-c1760a4bf172/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230318T202005Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230318%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=5aeca9c149f7fdac8e0647e5d9ff453367e7d6e78c4a36812928d41b6c41e5bf"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/fc/0d/7f/fc0d7fb6-da08-4975-7a91-c1760a4bf172/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230318T202816Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230318%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=3663121efa139126308e1d6965d8cf19a8c76b29abf0ee75f2405e551b6b349f"
         },
         "playParams": {
           "id": "i.ldDQ4X5S8LaVGWo",
@@ -337,8 +423,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2018-08-17",
         "durationInMillis": 197800,
+        "releaseDate": "2018-08-17",
         "isrc": "JPWP01870896",
         "artwork": {
           "width": 2000,
@@ -351,14 +437,14 @@
           "textColor4": "59544d"
         },
         "composerName": "J.Y. Park \"The Asiasoul\"",
+        "url": "https://music.apple.com/us/album/bdz/1445463549?i=1445463652",
         "playParams": {
           "id": "1445463652",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bdz/1445463549?i=1445463652",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BDZ",
         "previews": [
           {
@@ -394,11 +480,11 @@
           "textColor4": "415244"
         },
         "composerName": "Shintaro Fujiwara & \uc544\ud0a4\ubaa8\ud1a0 \uc57c\uc2a4\uc2dc",
+        "url": "https://music.apple.com/us/album/nekoni-naritai-korean-version/1569293222?i=1569293567",
         "playParams": {
           "id": "1569293567",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nekoni-naritai-korean-version/1569293222?i=1569293567",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -467,8 +553,8 @@
           "Adult Alternative"
         ],
         "trackNumber": 8,
-        "releaseDate": "2014-05-02",
         "durationInMillis": 268466,
+        "releaseDate": "2014-05-02",
         "isrc": "GBAYE1400226",
         "artwork": {
           "width": 1426,
@@ -481,14 +567,14 @@
           "textColor4": "98aac6"
         },
         "composerName": "Avicii, Chris Martin, Guy Berryman, Jonny Buckland & Will Champion",
+        "url": "https://music.apple.com/us/album/a-sky-full-of-stars/829909653?i=829910927",
         "playParams": {
           "id": "829910927",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/a-sky-full-of-stars/829909653?i=829910927",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "A Sky Full of Stars",
         "previews": [
           {
@@ -553,8 +639,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 228000,
         "releaseDate": "2021-04-01",
+        "durationInMillis": 228000,
         "isrc": "KRMIM2113455",
         "artwork": {
           "width": 3000,
@@ -609,11 +695,11 @@
           "textColor4": "2dc6a1"
         },
         "composerName": "F R I D A Y . (KANG JUNG HOON), CHANG (KIM CHANG KYUM) & AthenA (LEE JI HYE)",
+        "url": "https://music.apple.com/us/album/dalla-dalla/1608248892?i=1608248898",
         "playParams": {
           "id": "1608248898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dalla-dalla/1608248892?i=1608248898",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -658,8 +744,8 @@
         },
         "url": "https://music.apple.com/us/album/night-aviation-the-interpretation-of-dreams/1510547717?i=1510547727",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Night Aviation (The Interpretation of Dreams)",
         "previews": [
           {
@@ -724,8 +810,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 203400,
         "releaseDate": "2021-12-23",
+        "durationInMillis": 203400,
         "isrc": "KRMIM2179624",
         "artwork": {
           "width": 3000,
@@ -744,8 +830,8 @@
         },
         "url": "https://music.apple.com/us/album/shark/1600821318?i=1600821320",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Shark",
         "previews": [
           {
@@ -766,8 +852,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 210592,
         "releaseDate": "2020-10-21",
+        "durationInMillis": 210592,
         "isrc": "JPPO02002954",
         "artwork": {
           "width": 3000,
@@ -809,8 +895,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210253,
         "releaseDate": "2022-03-21",
+        "durationInMillis": 210253,
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -913,8 +999,8 @@
         },
         "url": "https://music.apple.com/us/album/dont-start-now/1484636581?i=1484636829",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Don't Start Now",
         "previews": [
           {
@@ -936,8 +1022,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-22",
         "durationInMillis": 217229,
+        "releaseDate": "2021-02-22",
         "isrc": "KRMIM2105217",
         "artwork": {
           "width": 1400,
@@ -950,14 +1036,14 @@
           "textColor4": "4ea0b0"
         },
         "composerName": "Melanie Fontana Schulz, A\u2019Dee, Co-Chlear & Jinooya",
+        "url": "https://music.apple.com/us/album/get-it-out/1606665786?i=1606665787",
         "playParams": {
           "id": "1606665787",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/get-it-out/1606665786?i=1606665787",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Get It Out",
         "previews": [
           {
@@ -999,8 +1085,8 @@
         },
         "url": "https://music.apple.com/us/album/turn-it-up/1555390183?i=1555390199",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TURN IT UP",
         "previews": [
           {
@@ -1022,8 +1108,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 177053,
         "releaseDate": "2021-01-11",
+        "durationInMillis": 177053,
         "isrc": "KRA392000076",
         "artwork": {
           "width": 3000,
@@ -1065,8 +1151,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 178229,
         "releaseDate": "2017-04-03",
+        "durationInMillis": 178229,
         "isrc": "KRA381700680",
         "artwork": {
           "width": 3000,
@@ -1108,8 +1194,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-09-10",
         "durationInMillis": 194626,
+        "releaseDate": "2018-09-10",
         "isrc": "KRA381801069",
         "artwork": {
           "width": 3000,
@@ -1122,14 +1208,14 @@
           "textColor4": "3d3733"
         },
         "composerName": "Steven Lee & Caroline Gustavsson",
+        "url": "https://music.apple.com/us/album/remember-me/1551935723?i=1551935724",
         "playParams": {
           "id": "1551935724",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/remember-me/1551935723?i=1551935724",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Remember Me",
         "previews": [
           {
@@ -1151,8 +1237,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 205373,
         "releaseDate": "2021-03-17",
+        "durationInMillis": 205373,
         "isrc": "KRA382101559",
         "artwork": {
           "width": 3000,
@@ -1179,92 +1265,6 @@
           }
         ],
         "artistName": "Weeekly"
-      }
-    },
-    {
-      "id": "1478604560",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1478604560",
-      "attributes": {
-        "albumName": "Coloring Book - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2017-04-03",
-        "durationInMillis": 200522,
-        "isrc": "KRA381700679",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/34/af/90/34af9009-0ef9-fae8-165a-6ea6460b5b47/886447921784.jpg/{w}x{h}bb.jpg",
-          "bgColor": "3e0000",
-          "textColor1": "fec3bf",
-          "textColor2": "ef6577",
-          "textColor3": "d89c99",
-          "textColor4": "cb505f"
-        },
-        "composerName": "Mayu Wakisaka & Sean Alexander",
-        "playParams": {
-          "id": "1478604560",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/real-world/1478604547?i=1478604560",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Real World",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/77/23/e97723df-1093-127f-0d91-b1d7e0d878f8/mzaf_1357707231430755314.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OH MY GIRL"
-      }
-    },
-    {
-      "id": "1330921814",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1330921814",
-      "attributes": {
-        "albumName": "Great! - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 208863,
-        "releaseDate": "2018-01-03",
-        "isrc": "KRA381702972",
-        "artwork": {
-          "width": 1439,
-          "height": 1440,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c1/ff/43/c1ff4301-b514-d41b-fa20-44b020bbbace/cover-_new.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "160508",
-          "textColor2": "3d181e",
-          "textColor3": "44373a",
-          "textColor4": "64464b"
-        },
-        "playParams": {
-          "id": "1330921814",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/bboom-bboom/1330921813?i=1330921814",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Bboom Bboom",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2c/e4/70/2ce470a0-1ee9-57b3-58f8-364fc8bbdb8c/mzaf_159927929878501157.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "MOMOLAND"
       }
     }
   ]
