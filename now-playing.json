@@ -2,6 +2,93 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1445463652",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1445463652",
+      "attributes": {
+        "albumName": "BDZ - Repackage -",
+        "genreNames": [
+          "J-Pop",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2018-08-17",
+        "durationInMillis": 197800,
+        "isrc": "JPWP01870896",
+        "artwork": {
+          "width": 2000,
+          "height": 2010,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/34/8e/79/348e799b-7829-a3c6-7d2e-9893373bbcf7/190295498986.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d5d9dc",
+          "textColor1": "272122",
+          "textColor2": "3a3229",
+          "textColor3": "494647",
+          "textColor4": "59544d"
+        },
+        "composerName": "J.Y. Park \"The Asiasoul\"",
+        "playParams": {
+          "id": "1445463652",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/bdz/1445463549?i=1445463652",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "BDZ",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/44/b5/48/44b548b7-0fdc-45c2-6604-c3263a4611ae/mzaf_13210106021130391685.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1626752995",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1626752995",
+      "attributes": {
+        "albumName": "Girls - The 2nd Mini Album (Apple Music Up Next Film Edition)",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "durationInMillis": 178133,
+        "releaseDate": "2022-07-08",
+        "isrc": "KRA302200099",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c9/7d/dd/c97ddd34-5962-8cf1-a55c-cf730d3069f5/888735941375.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "f0fafc",
+          "textColor2": "f4c4d1",
+          "textColor3": "c0c8ca",
+          "textColor4": "c39da8"
+        },
+        "composerName": "Becky Hill, Sam Klempner & Uzoechi Emenike",
+        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
+        "playParams": {
+          "id": "1626752995",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Life's Too Short",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/08/8d/cf088d40-3520-81ab-64fc-13b165dbd9e2/mzaf_5649360840681632743.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
       "id": "1568655896",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1568655896",
@@ -27,11 +114,11 @@
           "textColor4": "464748"
         },
         "composerName": "RYAN JHUN, Scott Russell Stoddart & Betsa Collins",
-        "url": "https://music.apple.com/us/album/like-it-hot/1568655539?i=1568655896",
         "playParams": {
           "id": "1568655896",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/like-it-hot/1568655539?i=1568655896",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -56,8 +143,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2018-01-20",
         "durationInMillis": 177729,
+        "releaseDate": "2018-01-20",
         "isrc": "KRA341759211",
         "artwork": {
           "width": 3000,
@@ -111,11 +198,11 @@
           "textColor4": "55212d"
         },
         "composerName": "iggy & Syb",
-        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
         "playParams": {
           "id": "1533391535",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -153,11 +240,11 @@
           "textColor4": "77473f"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, Justin Reinstein & Anna Timgren",
-        "url": "https://music.apple.com/us/album/the-feels-yves-v-remix-instrumental/1607381002?i=1607381378",
         "playParams": {
           "id": "1607381378",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-feels-yves-v-remix-instrumental/1607381002?i=1607381378",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -182,8 +269,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-07-22",
         "durationInMillis": 175327,
+        "releaseDate": "2020-07-22",
         "isrc": "KRA402000126",
         "artwork": {
           "width": 5000,
@@ -242,11 +329,11 @@
           "textColor4": "504f4c"
         },
         "composerName": "PSY, ZICO & \uc720\uac74\ud615",
-        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "playParams": {
           "id": "1620871961",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/celeb/1620871679?i=1620871961",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -285,11 +372,11 @@
           "textColor3": "3c3b41",
           "textColor4": "583f4b"
         },
-        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "playParams": {
           "id": "1462733791",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -328,11 +415,11 @@
           "textColor3": "524845",
           "textColor4": "504a48"
         },
-        "url": "https://music.apple.com/us/album/jam-jam/1229073300?i=1229073403",
         "playParams": {
           "id": "1229073403",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/jam-jam/1229073300?i=1229073403",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -370,11 +457,11 @@
           "textColor3": "f0ced1",
           "textColor4": "e79ea6"
         },
-        "url": "https://music.apple.com/us/album/not-that-type/1527036182?i=1527036183",
         "playParams": {
           "id": "1527036183",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/not-that-type/1527036182?i=1527036183",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -399,8 +486,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -442,8 +529,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-22",
         "durationInMillis": 217229,
+        "releaseDate": "2021-02-22",
         "isrc": "KRMIM2105217",
         "artwork": {
           "width": 1400,
@@ -485,8 +572,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-11-03",
         "durationInMillis": 191100,
+        "releaseDate": "2018-11-03",
         "isrc": "NLRD51859885",
         "artwork": {
           "width": 1500,
@@ -528,8 +615,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-07-05",
         "durationInMillis": 195310,
+        "releaseDate": "2018-07-05",
         "isrc": "KRB471801031",
         "artwork": {
           "width": 3000,
@@ -570,8 +657,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2017-09-21",
         "durationInMillis": 196734,
+        "releaseDate": "2017-09-21",
         "isrc": "KRE081700022",
         "artwork": {
           "width": 3000,
@@ -612,8 +699,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2018-08-20",
         "durationInMillis": 196864,
+        "releaseDate": "2018-08-20",
         "isrc": "KRE081800012",
         "artwork": {
           "width": 3000,
@@ -667,11 +754,11 @@
           "textColor3": "0c262f",
           "textColor4": "0e3540"
         },
-        "url": "https://music.apple.com/us/album/thirsty/1453487150?i=1453487152",
         "playParams": {
           "id": "1453487152",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thirsty/1453487150?i=1453487152",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -710,11 +797,11 @@
           "textColor4": "452b4a"
         },
         "composerName": "Dounia El Bekri, Yasmin Bokaleff & Aymen Khamlichi",
-        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
         "playParams": {
           "id": "1551287548",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -739,8 +826,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2020-04-27",
         "durationInMillis": 217239,
+        "releaseDate": "2020-04-27",
         "isrc": "KRMIM2009501",
         "artwork": {
           "width": 3000,
@@ -782,8 +869,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-04-08",
         "durationInMillis": 178853,
+        "releaseDate": "2021-04-08",
         "isrc": "KRA382102365",
         "artwork": {
           "width": 3000,
@@ -824,8 +911,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2019-04-01",
         "durationInMillis": 260958,
+        "releaseDate": "2019-04-01",
         "isrc": "KRA871900009",
         "artwork": {
           "width": 1400,
@@ -867,8 +954,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2017-04-03",
         "durationInMillis": 200522,
+        "releaseDate": "2017-04-03",
         "isrc": "KRA381700679",
         "artwork": {
           "width": 3000,
@@ -909,8 +996,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-02-12",
         "durationInMillis": 199874,
+        "releaseDate": "2019-02-12",
         "isrc": "US5TA1900013",
         "artwork": {
           "width": 1400,
@@ -966,11 +1053,11 @@
           "textColor4": "704d42"
         },
         "composerName": "\ud669\ud604",
-        "url": "https://music.apple.com/us/album/%ED%82%A4%EC%8A%A4%EB%8A%94-%EB%8B%A4%EC%9D%8C%EC%97%90/1493355595?i=1493355596",
         "playParams": {
           "id": "1493355596",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%ED%82%A4%EC%8A%A4%EB%8A%94-%EB%8B%A4%EC%9D%8C%EC%97%90/1493355595?i=1493355596",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1009,11 +1096,11 @@
           "textColor3": "bcb09f",
           "textColor4": "ba936d"
         },
-        "url": "https://music.apple.com/us/album/smile/1470921587?i=1470921590",
         "playParams": {
           "id": "1470921590",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smile/1470921587?i=1470921590",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1051,11 +1138,11 @@
           "textColor3": "383838",
           "textColor4": "6a3638"
         },
-        "url": "https://music.apple.com/us/album/lie/1502215361?i=1502215362",
         "playParams": {
           "id": "1502215362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lie/1502215361?i=1502215362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1080,8 +1167,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-21",
         "durationInMillis": 210253,
+        "releaseDate": "2022-03-21",
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -1122,8 +1209,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2015-04-29",
         "durationInMillis": 185609,
+        "releaseDate": "2015-04-29",
         "isrc": "SEUM71401326",
         "artwork": {
           "width": 1500,
@@ -1178,11 +1265,11 @@
           "textColor4": "b1b3b3"
         },
         "composerName": "Tove Lo, Rasmus Flyckt & Emil Gustafsson",
-        "url": "https://music.apple.com/us/album/come-back-to-me-feat-tove-lo-filous-remix/1445300102?i=1445300105",
         "playParams": {
           "id": "1445300105",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/come-back-to-me-feat-tove-lo-filous-remix/1445300102?i=1445300105",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -1193,90 +1280,6 @@
           }
         ],
         "artistName": "Urban Cone"
-      }
-    },
-    {
-      "id": "1445300104",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1445300104",
-      "attributes": {
-        "albumName": "Come Back To Me (Remixes) [feat. Tove Lo]",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2015-04-24",
-        "durationInMillis": 186667,
-        "isrc": "SEUM71500494",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7c/ec/dc/7cecdcbe-3976-3227-24fc-336579496442/00602547331861.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000005",
-          "textColor1": "f9f9f7",
-          "textColor2": "dee0df",
-          "textColor3": "c7c7c6",
-          "textColor4": "b1b3b3"
-        },
-        "composerName": "Tove Lo, Rasmus Flyckt & Emil Gustafsson",
-        "url": "https://music.apple.com/us/album/come-back-to-me-feat-tove-lo-vicetone-remix/1445300102?i=1445300104",
-        "playParams": {
-          "id": "1445300104",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Come Back To Me (feat. Tove Lo) [Vicetone Remix]",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/96/b4/c496b438-2481-e98f-d529-dff5b5a0c572/mzaf_13628777004182475294.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Urban Cone"
-      }
-    },
-    {
-      "id": "1626312829",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1626312829",
-      "attributes": {
-        "albumName": "HIGH HEELS - EP",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2016-06-27",
-        "durationInMillis": 180062,
-        "isrc": "KRB921940108",
-        "artwork": {
-          "width": 1600,
-          "height": 1600,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/6e/c7/4f/6ec74f10-3434-4a42-5ed5-0df9a4bae904/888618222744.png/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "530d0d",
-          "textColor2": "640903",
-          "textColor3": "753e3d",
-          "textColor4": "833a35"
-        },
-        "composerName": "\uc6a9\uac10\ud55c \ud615\uc81c, \ucc28\ucfe4 & JS",
-        "url": "https://music.apple.com/us/album/%ED%95%98%EC%9D%B4%ED%9E%90/1626312828?i=1626312829",
-        "playParams": {
-          "id": "1626312829",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "\ud558\uc774\ud790",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/41/d4/f2/41d4f26a-ee6f-d1bc-b884-e8ddf9a2537c/mzaf_2684299931836612842.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Brave Girls"
       }
     }
   ]
