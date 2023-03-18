@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1588116037",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588116037",
+      "attributes": {
+        "albumName": "Paeonia - EP",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 193867,
+        "releaseDate": "2020-05-13",
+        "isrc": "KRF842000223",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/36/22/e736227a-fcd6-fdbb-510f-7a2254806c2d/191953078298.jpg/{w}x{h}bb.jpg",
+          "bgColor": "5d248a",
+          "textColor1": "ffffff",
+          "textColor2": "ebc4ac",
+          "textColor3": "ded3e7",
+          "textColor4": "cfa4a5"
+        },
+        "url": "https://music.apple.com/us/album/paeonia/1588115644?i=1588116037",
+        "playParams": {
+          "id": "1588116037",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Paeonia",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/c8/22/73c82222-8b9e-31e4-188e-1eae97640a8c/mzaf_17109409716532144773.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BUSTERS"
+      }
+    },
+    {
+      "id": "1600821320",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1600821320",
+      "attributes": {
+        "albumName": "Shark - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-12-23",
+        "durationInMillis": 203400,
+        "isrc": "KRMIM2179624",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/1c/04/aa/1c04aaf4-b76f-bec7-97ab-877ec0105fde/190296293818.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0b0c04",
+          "textColor1": "f4f1e1",
+          "textColor2": "ccc1ae",
+          "textColor3": "c5c3b4",
+          "textColor4": "a59c8c"
+        },
+        "composerName": "Colde & BASECAMP",
+        "url": "https://music.apple.com/us/album/shark/1600821318?i=1600821320",
+        "playParams": {
+          "id": "1600821320",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Shark",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/be/cd/b5/becdb559-a67d-6dc3-e963-f7d6e0bad53a/mzaf_914791669454012494.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "OH MY GIRL"
+      }
+    },
+    {
+      "id": "1533391535",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1533391535",
+      "attributes": {
+        "albumName": "Twelve (Special Edition)",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "durationInMillis": 210592,
+        "releaseDate": "2020-10-21",
+        "isrc": "JPPO02002954",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/05/d7/ce/05d7cea8-2dfa-2bd4-fdc2-c476bb691921/20UMGIM78457.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "c874a4",
+          "textColor1": "040202",
+          "textColor2": "380c0f",
+          "textColor3": "2b1922",
+          "textColor4": "55212d"
+        },
+        "composerName": "iggy & Syb",
+        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
+        "playParams": {
+          "id": "1533391535",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Yume Wo Miteiru Aida (Japanese Version / IZ*ONE Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/55/a3/a055a357-28ad-a7f8-ac6c-7f8848b085b4/mzaf_9794572850915110346.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
       "id": "1614179710",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1614179710",
@@ -13,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210253,
         "releaseDate": "2022-03-21",
+        "durationInMillis": 210253,
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -33,8 +161,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -55,8 +183,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-07-29",
         "durationInMillis": 189283,
+        "releaseDate": "2019-07-29",
         "isrc": "TCAET2062944",
         "artwork": {
           "width": 1600,
@@ -75,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Streets of Gold",
         "previews": [
           {
@@ -183,8 +311,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 187253,
         "releaseDate": "2019-04-22",
+        "durationInMillis": 187253,
         "isrc": "US5TA1900046",
         "artwork": {
           "width": 1400,
@@ -203,8 +331,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TURN IT UP",
         "previews": [
           {
@@ -226,8 +354,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2021-01-11",
         "durationInMillis": 177053,
+        "releaseDate": "2021-01-11",
         "isrc": "KRA392000076",
         "artwork": {
           "width": 3000,
@@ -246,8 +374,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Where is love",
         "previews": [
           {
@@ -312,8 +440,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 194626,
         "releaseDate": "2018-09-10",
+        "durationInMillis": 194626,
         "isrc": "KRA381801069",
         "artwork": {
           "width": 3000,
@@ -332,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Remember Me",
         "previews": [
           {
@@ -355,8 +483,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 205373,
         "releaseDate": "2021-03-17",
+        "durationInMillis": 205373,
         "isrc": "KRA382101559",
         "artwork": {
           "width": 3000,
@@ -374,8 +502,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After School",
         "previews": [
           {
@@ -483,8 +611,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 177947,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230224",
         "artwork": {
           "width": 1400,
@@ -503,8 +631,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hurt",
         "previews": [
           {
@@ -526,8 +654,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -546,8 +674,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Illusion",
         "previews": [
           {
@@ -611,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2020-12-07",
         "durationInMillis": 190867,
+        "releaseDate": "2020-12-07",
         "isrc": "KRA492001347",
         "artwork": {
           "width": 1400,
@@ -631,8 +759,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Sequence",
         "previews": [
           {
@@ -654,8 +782,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-06-04",
         "durationInMillis": 183413,
+        "releaseDate": "2019-06-04",
         "isrc": "KRA871900017",
         "artwork": {
           "width": 1400,
@@ -674,8 +802,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FUN!",
         "previews": [
           {
@@ -697,8 +825,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "durationInMillis": 197972,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 197972,
         "isrc": "KRA871900047",
         "artwork": {
           "width": 1400,
@@ -717,8 +845,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OPEN YOUR EYES",
         "previews": [
           {
@@ -740,8 +868,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2020-06-15",
         "durationInMillis": 219013,
+        "releaseDate": "2020-06-15",
         "isrc": "KRA492000677",
         "artwork": {
           "width": 1400,
@@ -760,8 +888,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "With*One",
         "previews": [
           {
@@ -868,8 +996,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -887,8 +1015,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -953,8 +1081,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "durationInMillis": 203667,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 203667,
         "isrc": "KRA871900044",
         "artwork": {
           "width": 1400,
@@ -973,8 +1101,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DAYDREAM",
         "previews": [
           {
@@ -1083,8 +1211,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-05-26",
         "durationInMillis": 202787,
+        "releaseDate": "2021-05-26",
         "isrc": "KRB462100607",
         "artwork": {
           "width": 3000,
@@ -1103,8 +1231,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Like It Hot",
         "previews": [
           {
@@ -1126,8 +1254,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 177729,
         "releaseDate": "2018-01-20",
+        "durationInMillis": 177729,
         "isrc": "KRA341759211",
         "artwork": {
           "width": 3000,
@@ -1145,8 +1273,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cherry on Top",
         "previews": [
           {
@@ -1154,133 +1282,6 @@
           }
         ],
         "artistName": "10\uc2dc 45\ubd84"
-      }
-    },
-    {
-      "id": "1533391535",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1533391535",
-      "attributes": {
-        "albumName": "Twelve (Special Edition)",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2020-10-21",
-        "durationInMillis": 210592,
-        "isrc": "JPPO02002954",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/05/d7/ce/05d7cea8-2dfa-2bd4-fdc2-c476bb691921/20UMGIM78457.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "c874a4",
-          "textColor1": "040202",
-          "textColor2": "380c0f",
-          "textColor3": "2b1922",
-          "textColor4": "55212d"
-        },
-        "composerName": "iggy & Syb",
-        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
-        "playParams": {
-          "id": "1533391535",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Yume Wo Miteiru Aida (Japanese Version / IZ*ONE Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/55/a3/a055a357-28ad-a7f8-ac6c-7f8848b085b4/mzaf_9794572850915110346.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1607381378",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1607381378",
-      "attributes": {
-        "albumName": "The Feels",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 8,
-        "durationInMillis": 135000,
-        "releaseDate": "2021-10-01",
-        "isrc": "US5TA2100085",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/e3/ee/9b/e3ee9bc7-3a40-5445-485d-6048e9d49479/192641934643_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fcf2fb",
-          "textColor1": "000f00",
-          "textColor2": "551c10",
-          "textColor3": "323c32",
-          "textColor4": "77473f"
-        },
-        "composerName": "Woo Min Lee \u201ccollapsedone\u201d, Justin Reinstein & Anna Timgren",
-        "url": "https://music.apple.com/us/album/the-feels-yves-v-remix-instrumental/1607381002?i=1607381378",
-        "playParams": {
-          "id": "1607381378",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "The Feels (YVES V Remix) [Instrumental]",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b6/58/0f/b6580f49-92b8-d811-7184-f55375ae2fec/mzaf_9115174592084112475.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
-      }
-    },
-    {
-      "id": "1523722883",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1523722883",
-      "attributes": {
-        "albumName": "What You Waiting For - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 175327,
-        "releaseDate": "2020-07-22",
-        "isrc": "KRA402000126",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/28/6a/33/286a33e2-b9b7-38d9-4a1c-15274bc81ee1/20UMGIM60846.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ae2802",
-          "textColor1": "fac4ab",
-          "textColor2": "fbbd92",
-          "textColor3": "eba589",
-          "textColor4": "eb9f75"
-        },
-        "composerName": "JEON SOMI, Teddy & Danny Chung",
-        "url": "https://music.apple.com/us/album/what-you-waiting-for/1523722876?i=1523722883",
-        "playParams": {
-          "id": "1523722883",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "What You Waiting For",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3e/09/c8/3e09c8bd-960c-517d-34e6-135a734b67ca/mzaf_718000199453763022.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "JEON SOMI"
       }
     }
   ]
