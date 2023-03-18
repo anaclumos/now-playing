@@ -2,6 +2,132 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1299621019",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1299621019",
+      "attributes": {
+        "albumName": "LOONATIC (Eng. Ver.) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2017-10-23",
+        "durationInMillis": 180576,
+        "isrc": "KRA341754770",
+        "artwork": {
+          "width": 1772,
+          "height": 1772,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/8f/8f/13/8f8f1313-52eb-5d7b-870e-3e1cb5a502b9/LOONATIC.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "0e0e0c",
+          "textColor2": "161715",
+          "textColor3": "3e3e3c",
+          "textColor4": "454543"
+        },
+        "url": "https://music.apple.com/us/album/loonatic-eng-ver/1299621014?i=1299621019",
+        "playParams": {
+          "id": "1299621019",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "LOONATIC (Eng. Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/23/5b/83/235b832e-716e-078b-e13e-196ac6829f3c/mzaf_4787734200715225392.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA / ODD EYE CIRCLE"
+      }
+    },
+    {
+      "id": "1533391535",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1533391535",
+      "attributes": {
+        "albumName": "Twelve (Special Edition)",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2020-10-21",
+        "durationInMillis": 210592,
+        "isrc": "JPPO02002954",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/05/d7/ce/05d7cea8-2dfa-2bd4-fdc2-c476bb691921/20UMGIM78457.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "c874a4",
+          "textColor1": "040202",
+          "textColor2": "380c0f",
+          "textColor3": "2b1922",
+          "textColor4": "55212d"
+        },
+        "composerName": "iggy & Syb",
+        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
+        "playParams": {
+          "id": "1533391535",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Yume Wo Miteiru Aida (Japanese Version / IZ*ONE Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/55/a3/a055a357-28ad-a7f8-ac6c-7f8848b085b4/mzaf_9794572850915110346.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "1560113352",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1560113352",
+      "attributes": {
+        "albumName": "IU 5th Album 'LILAC'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 9,
+        "releaseDate": "2021-03-25",
+        "durationInMillis": 200293,
+        "isrc": "KRA382102085",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/35/9f/83/359f83b3-1423-3153-1641-98e948b7fc65/cover_-_EDAM_5_LILAC.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b0aba7",
+          "textColor1": "0a0002",
+          "textColor2": "1f0f12",
+          "textColor3": "2b2223",
+          "textColor4": "3c2e30"
+        },
+        "url": "https://music.apple.com/us/album/ah-puh/1560113132?i=1560113352",
+        "playParams": {
+          "id": "1560113352",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Ah puh",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/f6/21/61/f6216193-ed0a-8c6c-db17-861bf031f340/mzaf_2767983966501056077.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IU"
+      }
+    },
+    {
       "id": "1504618600",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1504618600",
@@ -13,8 +139,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 210973,
         "releaseDate": "2019-10-25",
+        "durationInMillis": 210973,
         "isrc": "KRA491901000",
         "artwork": {
           "width": 3000,
@@ -74,8 +200,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Yallacha",
         "previews": [
           {
@@ -97,8 +223,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "durationInMillis": 187443,
         "releaseDate": "2017-03-13",
+        "durationInMillis": 187443,
         "isrc": "KRE081700008",
         "artwork": {
           "width": 3000,
@@ -140,8 +266,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 205520,
         "releaseDate": "2020-10-19",
+        "durationInMillis": 205520,
         "isrc": "KRA382005816",
         "artwork": {
           "width": 3000,
@@ -183,8 +309,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 227613,
         "releaseDate": "2016-11-16",
+        "durationInMillis": 227613,
         "isrc": "JPKI01618695",
         "artwork": {
           "width": 1412,
@@ -244,8 +370,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Flu",
         "previews": [
           {
@@ -287,8 +413,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Chica",
         "previews": [
           {
@@ -310,8 +436,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 218796,
         "releaseDate": "2018-07-17",
+        "durationInMillis": 218796,
         "isrc": "KRD351800018",
         "artwork": {
           "width": 3000,
@@ -329,8 +455,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "HERE WE ARE",
         "previews": [
           {
@@ -352,8 +478,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177613,
         "releaseDate": "2020-08-16",
+        "durationInMillis": 177613,
         "isrc": "KRA382003368",
         "artwork": {
           "width": 3000,
@@ -371,8 +497,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SUPADUPA",
         "previews": [
           {
@@ -436,8 +562,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 206437,
         "releaseDate": "2020-11-24",
+        "durationInMillis": 206437,
         "isrc": "KRA382006445",
         "artwork": {
           "width": 3000,
@@ -471,8 +597,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.ldDQ4X5S8LaVGWo",
       "attributes": {
-        "discNumber": 1,
         "albumName": "Square Two",
+        "discNumber": 1,
         "genreNames": [
           ""
         ],
@@ -484,7 +610,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/fc/0d/7f/fc0d7fb6-da08-4975-7a91-c1760a4bf172/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230318T203646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230318%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=65441d5c197d22dc1ef38f6bfe90897769f58f3cd8f7eba4e81e635d22f8ef0d"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/fc/0d/7f/fc0d7fb6-da08-4975-7a91-c1760a4bf172/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230318T204457Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230318%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=d4d179d456fe484a138c3f60ec70d54f53327d957645f01e3a505550484e8d97"
         },
         "playParams": {
           "id": "i.ldDQ4X5S8LaVGWo",
@@ -507,8 +633,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 197800,
         "releaseDate": "2018-08-17",
+        "durationInMillis": 197800,
         "isrc": "JPWP01870896",
         "artwork": {
           "width": 2000,
@@ -527,8 +653,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "BDZ",
         "previews": [
           {
@@ -550,8 +676,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 256745,
         "releaseDate": "2019-04-01",
+        "durationInMillis": 256745,
         "isrc": "KRA871900008",
         "artwork": {
           "width": 1400,
@@ -570,8 +696,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "NEKONI NARITAI (Korean Version)",
         "previews": [
           {
@@ -637,8 +763,8 @@
           "Adult Alternative"
         ],
         "trackNumber": 8,
-        "durationInMillis": 268466,
         "releaseDate": "2014-05-02",
+        "durationInMillis": 268466,
         "isrc": "GBAYE1400226",
         "artwork": {
           "width": 1426,
@@ -657,8 +783,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "A Sky Full of Stars",
         "previews": [
           {
@@ -680,8 +806,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174933,
         "releaseDate": "2020-11-17",
+        "durationInMillis": 174933,
         "isrc": "KRA302000590",
         "artwork": {
           "width": 4000,
@@ -700,8 +826,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Black Mamba",
         "previews": [
           {
@@ -723,8 +849,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 228000,
         "releaseDate": "2021-04-01",
+        "durationInMillis": 228000,
         "isrc": "KRMIM2113455",
         "artwork": {
           "width": 3000,
@@ -765,8 +891,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 199874,
         "releaseDate": "2019-02-12",
+        "durationInMillis": 199874,
         "isrc": "US5TA1900013",
         "artwork": {
           "width": 1400,
@@ -785,8 +911,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DALLA DALLA",
         "previews": [
           {
@@ -808,8 +934,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 185898,
         "releaseDate": "2019-07-23",
+        "durationInMillis": 185898,
         "isrc": "KRA381903608",
         "artwork": {
           "width": 3000,
@@ -828,8 +954,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Night Aviation (The Interpretation of Dreams)",
         "previews": [
           {
@@ -852,8 +978,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193867,
         "releaseDate": "2020-05-13",
+        "durationInMillis": 193867,
         "isrc": "KRF842000223",
         "artwork": {
           "width": 3000,
@@ -871,8 +997,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Paeonia",
         "previews": [
           {
@@ -894,8 +1020,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 203400,
         "releaseDate": "2021-12-23",
+        "durationInMillis": 203400,
         "isrc": "KRMIM2179624",
         "artwork": {
           "width": 3000,
@@ -926,48 +1052,6 @@
       }
     },
     {
-      "id": "1533391535",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1533391535",
-      "attributes": {
-        "albumName": "Twelve (Special Edition)",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2020-10-21",
-        "durationInMillis": 210592,
-        "isrc": "JPPO02002954",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/05/d7/ce/05d7cea8-2dfa-2bd4-fdc2-c476bb691921/20UMGIM78457.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "c874a4",
-          "textColor1": "040202",
-          "textColor2": "380c0f",
-          "textColor3": "2b1922",
-          "textColor4": "55212d"
-        },
-        "composerName": "iggy & Syb",
-        "url": "https://music.apple.com/us/album/yume-wo-miteiru-aida-japanese-version-iz-one-version/1533391521?i=1533391535",
-        "playParams": {
-          "id": "1533391535",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Yume Wo Miteiru Aida (Japanese Version / IZ*ONE Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/55/a3/a055a357-28ad-a7f8-ac6c-7f8848b085b4/mzaf_9794572850915110346.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
       "id": "1614179710",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1614179710",
@@ -979,8 +1063,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210253,
         "releaseDate": "2022-03-21",
+        "durationInMillis": 210253,
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -999,8 +1083,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -1021,8 +1105,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189283,
         "releaseDate": "2019-07-29",
+        "durationInMillis": 189283,
         "isrc": "TCAET2062944",
         "artwork": {
           "width": 1600,
@@ -1041,8 +1125,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Streets of Gold",
         "previews": [
           {
@@ -1063,8 +1147,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 183290,
         "releaseDate": "2019-10-31",
+        "durationInMillis": 183290,
         "isrc": "GBAHT1901121",
         "artwork": {
           "width": 3000,
@@ -1083,8 +1167,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Don't Start Now",
         "previews": [
           {
@@ -1106,8 +1190,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217229,
         "releaseDate": "2021-02-22",
+        "durationInMillis": 217229,
         "isrc": "KRMIM2105217",
         "artwork": {
           "width": 1400,
@@ -1169,8 +1253,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TURN IT UP",
         "previews": [
           {
@@ -1178,92 +1262,6 @@
           }
         ],
         "artistName": "TWICE"
-      }
-    },
-    {
-      "id": "1545320622",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1545320622",
-      "attributes": {
-        "albumName": "I burn - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "durationInMillis": 177053,
-        "releaseDate": "2021-01-11",
-        "isrc": "KRA392000076",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/c3/30/f1/c330f11e-9bbf-b596-580c-ed0a33531b11/20UM1IM15100.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c0201",
-          "textColor1": "fffcf3",
-          "textColor2": "f94232",
-          "textColor3": "cec9c2",
-          "textColor4": "c93528"
-        },
-        "composerName": "JEON SOYEON & Woo Min Lee \u201ccollapsedone\u201d",
-        "url": "https://music.apple.com/us/album/where-is-love/1545320377?i=1545320622",
-        "playParams": {
-          "id": "1545320622",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Where is love",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/a3/42/a6a342d9-f0a4-94aa-945f-abb02d8a52c5/mzaf_9247263941014962526.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
-      }
-    },
-    {
-      "id": "1478604563",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1478604563",
-      "attributes": {
-        "albumName": "Coloring Book - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 178229,
-        "releaseDate": "2017-04-03",
-        "isrc": "KRA381700680",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/34/af/90/34af9009-0ef9-fae8-165a-6ea6460b5b47/886447921784.jpg/{w}x{h}bb.jpg",
-          "bgColor": "3e0000",
-          "textColor1": "fec3bf",
-          "textColor2": "ef6577",
-          "textColor3": "d89c99",
-          "textColor4": "cb505f"
-        },
-        "composerName": "Darren Smith, Andreas \u00d6berg, Michele Angel Wylen & Sean Alexander",
-        "url": "https://music.apple.com/us/album/agit/1478604547?i=1478604563",
-        "playParams": {
-          "id": "1478604563",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Agit",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e8/d9/3a/e8d93a3c-90fc-5467-db0b-c51130c3ff21/mzaf_8688128444129503370.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OH MY GIRL"
       }
     }
   ]
