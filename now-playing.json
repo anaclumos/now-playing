@@ -2,6 +2,77 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1588116041",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588116041",
+      "attributes": {
+        "albumName": "Paeonia - EP",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 193867,
+        "releaseDate": "2020-05-13",
+        "isrc": "KRF842000225",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/36/22/e736227a-fcd6-fdbb-510f-7a2254806c2d/191953078298.jpg/{w}x{h}bb.jpg",
+          "bgColor": "5d248a",
+          "textColor1": "ffffff",
+          "textColor2": "ebc4ac",
+          "textColor3": "ded3e7",
+          "textColor4": "cfa4a5"
+        },
+        "url": "https://music.apple.com/us/album/paeonia-instrumental/1588115644?i=1588116041",
+        "playParams": {
+          "id": "1588116041",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Paeonia (Instrumental)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/04/16/9f/04169ff1-0a3d-c99d-21ea-9f4dfb744a3f/mzaf_739209503503466391.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BUSTERS"
+      }
+    },
+    {
+      "id": "i.mmpY83EflqZ8EN4",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.mmpY83EflqZ8EN4",
+      "attributes": {
+        "discNumber": 1,
+        "albumName": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
+        "genreNames": [
+          "Dance"
+        ],
+        "hasLyrics": false,
+        "trackNumber": 1,
+        "durationInMillis": 210755,
+        "name": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10 (A-ing) (Feat. \uc2a4\uceec&\ud558\ud558)",
+        "artistName": "OH MY GIRL",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/ec/22/37/ec2237a6-9c7f-1a80-f522-fd3f61e90b5a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T055111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=2a97d5c18ef61e5dfc4194ddbf040c6c0829d2c9e3462e740eec4174795fa321"
+        },
+        "playParams": {
+          "id": "i.mmpY83EflqZ8EN4",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1541123843",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1541123843",
@@ -26,14 +97,14 @@
           "textColor3": "bebebe",
           "textColor4": "af8c98"
         },
+        "url": "https://music.apple.com/us/album/bad-girl/1541123841?i=1541123843",
         "playParams": {
           "id": "1541123843",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bad-girl/1541123841?i=1541123843",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Bad Girl",
         "previews": [
           {
@@ -56,8 +127,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 178360,
         "releaseDate": "2022-11-29",
+        "durationInMillis": 178360,
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -118,8 +189,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Egotistic",
         "previews": [
           {
@@ -161,8 +232,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "JUNGLE",
         "previews": [
           {
@@ -185,8 +256,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-05-06",
         "durationInMillis": 167573,
+        "releaseDate": "2020-05-06",
         "isrc": "KRA382001418",
         "artwork": {
           "width": 3000,
@@ -220,8 +291,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.JL1YoXKUbmLXpv3",
       "attributes": {
-        "discNumber": 0,
         "albumName": "AYAYAYA",
+        "discNumber": 0,
         "genreNames": [
           "K-Pop"
         ],
@@ -233,7 +304,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-035.blobstore.apple.com/sq-mq-us-035-000002/84/fa/90/84fa90c1-e8c1-c4fc-683b-08836d36421c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T054301Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAZJRVM1CLAZIYJ6OU%2F20230320%2Fstore-035%2Fs3%2Faws4_request&X-Amz-Signature=bc1dc38eb572e9798e0500fd9317bb4e8e93bc323d1a4121173bbdd757bcb4e2"
+          "url": "https://store-035.blobstore.apple.com/sq-mq-us-035-000002/84/fa/90/84fa90c1-e8c1-c4fc-683b-08836d36421c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T055111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAZJRVM1CLAZIYJ6OU%2F20230320%2Fstore-035%2Fs3%2Faws4_request&X-Amz-Signature=b19aeffc7d86992848e6481055f6179eb180f25e4d1164fa8f82edd30dfe66c9"
         },
         "playParams": {
           "id": "i.JL1YoXKUbmLXpv3",
@@ -255,8 +326,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-04-21",
         "durationInMillis": 231654,
+        "releaseDate": "2018-04-21",
         "isrc": "KRA381705099",
         "artwork": {
           "width": 1400,
@@ -312,14 +383,14 @@
           "textColor4": "c3c280"
         },
         "composerName": "Cazzi Opeia, Ludwig Lindell, Daniel Caesar, Nayeon Lim & JIHYO",
+        "url": "https://music.apple.com/us/album/24-7/1555410489?i=1555410505",
         "playParams": {
           "id": "1555410505",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/24-7/1555410489?i=1555410505",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "24/7",
         "previews": [
           {
@@ -354,14 +425,14 @@
           "textColor4": "2d3344"
         },
         "composerName": "F R I D A Y . (KANG JUNG HOON), CHANG (KIM CHANG KYUM) & AthenA (LEE JI HYE)",
+        "url": "https://music.apple.com/us/album/dalla-dalla-dallask-remix/1608253081?i=1608253307",
         "playParams": {
           "id": "1608253307",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dalla-dalla-dallask-remix/1608253081?i=1608253307",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DALLA DALLA (DallasK Remix)",
         "previews": [
           {
@@ -383,8 +454,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-04-06",
         "durationInMillis": 242600,
+        "releaseDate": "2016-04-06",
         "isrc": "KRA341617106",
         "artwork": {
           "width": 2244,
@@ -396,11 +467,11 @@
           "textColor3": "3f3e3e",
           "textColor4": "5a4f4e"
         },
+        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "playParams": {
           "id": "1265727250",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0/1265727242?i=1265727250",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -438,14 +509,14 @@
           "textColor3": "2f3a32",
           "textColor4": "4b4a36"
         },
+        "url": "https://music.apple.com/us/album/now-or-never/1525520603?i=1525520604",
         "playParams": {
           "id": "1525520604",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/now-or-never/1525520603?i=1525520604",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Now or Never",
         "previews": [
           {
@@ -487,8 +558,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "You can't sit with us",
         "previews": [
           {
@@ -529,8 +600,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Blinding Lights",
         "previews": [
           {
@@ -558,7 +629,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/f6/31/d6/f631d65a-df98-38b5-89b9-e88e440e4263/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T054301Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=97a1d1fa8a018f6e964bcadf4bbd40db0d25196688c1918cd3bb1abb338f289e"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/f6/31/d6/f631d65a-df98-38b5-89b9-e88e440e4263/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T055111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=98c00afc5014c0813c860c0846f2148814a4c32848770da4fe25db8a8f14a09b"
         },
         "playParams": {
           "id": "i.eoD8A7gckaYRBvJ",
@@ -573,8 +644,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.DVEX96QTRZBl3Le",
       "attributes": {
-        "albumName": "Feel Special",
         "discNumber": 0,
+        "albumName": "Feel Special",
         "genreNames": [
           ""
         ],
@@ -616,14 +687,14 @@
           "textColor3": "464a5d",
           "textColor4": "534c4c"
         },
-        "url": "https://music.apple.com/us/album/pporappippam/1518738614?i=1518738615",
         "playParams": {
           "id": "1518738615",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pporappippam/1518738614?i=1518738615",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pporappippam",
         "previews": [
           {
@@ -659,14 +730,14 @@
           "textColor4": "cb505f"
         },
         "composerName": "Mayu Wakisaka & Sean Alexander",
-        "url": "https://music.apple.com/us/album/real-world/1478604547?i=1478604560",
         "playParams": {
           "id": "1478604560",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/real-world/1478604547?i=1478604560",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Real World",
         "previews": [
           {
@@ -702,14 +773,14 @@
           "textColor4": "bb8f72"
         },
         "composerName": "David Anthony, Sophie White & Joe Killington",
-        "url": "https://music.apple.com/us/album/liar-liar-korean-version/1478604005?i=1478604012",
         "playParams": {
           "id": "1478604012",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/liar-liar-korean-version/1478604005?i=1478604012",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LIAR LIAR (Korean Version)",
         "previews": [
           {
@@ -737,7 +808,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6c/c5/3f/6cc53f56-37ab-984a-43c9-9d99381df7d8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T054301Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=610ef280d1da8eceece438a6135c45fdd2dfbb4ecb0c957beaf49cc9bb56ccde"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6c/c5/3f/6cc53f56-37ab-984a-43c9-9d99381df7d8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T055111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=1724ea2908fe5c961a9aef53fd40de732b084100204818fdeb59170b7b60f017"
         },
         "playParams": {
           "id": "i.4YBezv3h2Vvp1BD",
@@ -773,14 +844,14 @@
           "textColor3": "3c3b41",
           "textColor4": "583f4b"
         },
+        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "playParams": {
           "id": "1462733791",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "To You",
         "previews": [
           {
@@ -822,8 +893,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "PLAY (feat. CHANGMO)",
         "previews": [
           {
@@ -859,14 +930,14 @@
           "textColor3": "524845",
           "textColor4": "504a48"
         },
-        "url": "https://music.apple.com/us/album/black-out/1229073300?i=1229073404",
         "playParams": {
           "id": "1229073404",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/black-out/1229073300?i=1229073404",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Black Out",
         "previews": [
           {
@@ -888,8 +959,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-03-28",
         "durationInMillis": 194413,
+        "releaseDate": "2016-03-28",
         "isrc": "KRA381600425",
         "artwork": {
           "width": 3000,
@@ -902,11 +973,11 @@
           "textColor4": "5c4241"
         },
         "composerName": "David Anthony, Sophie White & Joe Killington",
+        "url": "https://music.apple.com/us/album/liar-liar/1478601850?i=1478601854",
         "playParams": {
           "id": "1478601854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/liar-liar/1478601850?i=1478601854",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -951,8 +1022,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Teddy Bear",
         "previews": [
           {
@@ -994,8 +1065,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Chica",
         "previews": [
           {
@@ -1017,8 +1088,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2021-01-11",
         "durationInMillis": 197320,
+        "releaseDate": "2021-01-11",
         "isrc": "KRA392000074",
         "artwork": {
           "width": 3000,
@@ -1031,11 +1102,11 @@
           "textColor4": "c93528"
         },
         "composerName": "JEON SOYEON & Pop Time",
+        "url": "https://music.apple.com/us/album/hwaa/1545320377?i=1545320397",
         "playParams": {
           "id": "1545320397",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hwaa/1545320377?i=1545320397",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1079,8 +1150,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Touch",
         "previews": [
           {
@@ -1121,8 +1192,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Why",
         "previews": [
           {
@@ -1130,91 +1201,6 @@
           }
         ],
         "artistName": "TAEYEON"
-      }
-    },
-    {
-      "id": "1607381377",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1607381377",
-      "attributes": {
-        "albumName": "The Feels",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 7,
-        "releaseDate": "2021-10-01",
-        "durationInMillis": 202922,
-        "isrc": "US5TA2100084",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/e3/ee/9b/e3ee9bc7-3a40-5445-485d-6048e9d49479/192641934643_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fcf2fb",
-          "textColor1": "000f00",
-          "textColor2": "551c10",
-          "textColor3": "323c32",
-          "textColor4": "77473f"
-        },
-        "composerName": "Woo Min Lee \u201ccollapsedone\u201d, Justin Reinstein & Anna Timgren",
-        "playParams": {
-          "id": "1607381377",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/the-feels-the-stereotypes-remix-instrumental/1607381002?i=1607381377",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "The Feels (The Stereotypes Remix) [Instrumental]",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7e/49/f9/7e49f992-8cf1-aa03-ea0e-a8809c9390d1/mzaf_16298725211444036844.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
-      }
-    },
-    {
-      "id": "1606409354",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1606409354",
-      "attributes": {
-        "albumName": "Filmlet - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-11-04",
-        "durationInMillis": 193867,
-        "isrc": "KRA382006250",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/1c/4e/391c4e33-c241-233d-5612-42092f691a34/8804775152788.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0d160b",
-          "textColor1": "e8b393",
-          "textColor2": "f65148",
-          "textColor3": "bc9378",
-          "textColor4": "c7453b"
-        },
-        "composerName": "Jiyoung Ahn & Vanilla Man",
-        "playParams": {
-          "id": "1606409354",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/red-lipstick/1606409353?i=1606409354",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Red Lipstick",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/05/06/2e/05062e13-c0f2-5e26-644a-6586a2e31418/mzaf_10581950998295981596.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BOL4"
       }
     }
   ]
