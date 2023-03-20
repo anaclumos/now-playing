@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1569745311",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569745311",
+      "attributes": {
+        "albumName": "PRODUCE 48 - 30 Girls 6 Concepts - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2018-08-18",
+        "durationInMillis": 204272,
+        "isrc": "KRA491800737",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/f5/c8/a6/f5c8a635-79b6-b400-6b81-7205e814d4a8/8809603545190_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eee2ee",
+          "textColor1": "13070d",
+          "textColor2": "16070e",
+          "textColor3": "3f323a",
+          "textColor4": "41333b"
+        },
+        "composerName": "\uc9c4\ub9ac, \uc601\uad11\uc758 \uc5bc\uad74\ub4e4 & Jake K",
+        "playParams": {
+          "id": "1569745311",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/i-am/1569745005?i=1569745311",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "I AM",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d1/e4/1a/d1e41a3e-b3d3-c22a-3846-3ae89bf791d6/mzaf_15994722416679654182.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "1AM"
+      }
+    },
+    {
+      "id": "1555401607",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1555401607",
+      "attributes": {
+        "albumName": "Summer Nights",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 186293,
+        "releaseDate": "2018-07-09",
+        "isrc": "US5TA1800054",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0e0400",
+          "textColor1": "f1e096",
+          "textColor2": "efc76f",
+          "textColor3": "c3b478",
+          "textColor4": "c2a059"
+        },
+        "composerName": "Val Del Prete, Min Lee collapsedone, Jeonghoon Kang & Chang Kyum Kim",
+        "playParams": {
+          "id": "1555401607",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/chillax/1555401452?i=1555401607",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "CHILLAX",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/3a/ea/c93aea42-29af-8507-8355-b96d9b7de29d/mzaf_18090825337682563413.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1460240105",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1460240105",
+      "attributes": {
+        "albumName": "Fantasy - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 183573,
+        "releaseDate": "2019-04-19",
+        "isrc": "KRMIM1906693",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/e1/fc/8e/e1fc8ec3-8678-a1ea-3d9e-97388adb3feb/dj.djnsdeqt.jpg/{w}x{h}bb.jpg",
+          "bgColor": "de5c8c",
+          "textColor1": "150002",
+          "textColor2": "360708",
+          "textColor3": "3d131d",
+          "textColor4": "571822"
+        },
+        "url": "https://music.apple.com/us/album/fantasy-instrumental/1460240102?i=1460240105",
+        "playParams": {
+          "id": "1460240105",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Fantasy (Instrumental)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/a7/6b/88/a76b8893-312b-3e96-12a7-e0175c2a4807/mzaf_8273678348114464657.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Ho1iday"
+      }
+    },
+    {
       "id": "1493355414",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1493355414",
@@ -13,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2017-03-13",
         "durationInMillis": 187704,
+        "releaseDate": "2017-03-13",
         "isrc": "KRE081700009",
         "artwork": {
           "width": 3000,
@@ -27,11 +155,11 @@
           "textColor4": "3e372d"
         },
         "composerName": "Artronic Waves & Kater D",
+        "url": "https://music.apple.com/us/album/you-and-me-together/1493355409?i=1493355414",
         "playParams": {
           "id": "1493355414",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/you-and-me-together/1493355409?i=1493355414",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -99,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-09-04",
         "durationInMillis": 198313,
+        "releaseDate": "2018-09-04",
         "isrc": "US5TA1800064",
         "artwork": {
           "width": 3000,
@@ -113,14 +241,14 @@
           "textColor4": "a87350"
         },
         "composerName": "\uae40\uc5f0\uc11c, \ubc0d\uc9c0\uc158 & JAMIE",
-        "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
         "playParams": {
           "id": "1642468018",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "April Fools (0401)",
         "previews": [
           {
@@ -231,8 +359,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-09-07",
         "durationInMillis": 211244,
+        "releaseDate": "2016-09-07",
         "isrc": "KRA301600315",
         "artwork": {
           "width": 4000,
@@ -250,8 +378,8 @@
         },
         "url": "https://music.apple.com/us/album/%EB%9F%AC%EC%8B%9C%EC%95%88-%EB%A3%B0%EB%A0%9B-russian-roulette/1151001050?i=1151001410",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
         "previews": [
           {
@@ -273,8 +401,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2018-06-15",
         "durationInMillis": 198867,
+        "releaseDate": "2018-06-15",
         "isrc": "KRA401800099",
         "artwork": {
           "width": 4000,
@@ -287,14 +415,14 @@
           "textColor4": "473438"
         },
         "composerName": "Teddy, R. Tee & 24",
+        "url": "https://music.apple.com/us/album/see-u-later/1551479990?i=1551480225",
         "playParams": {
           "id": "1551480225",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/see-u-later/1551479990?i=1551480225",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "See U Later",
         "previews": [
           {
@@ -317,8 +445,8 @@
           "K-Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2000-08-16",
         "durationInMillis": 242628,
+        "releaseDate": "2000-08-16",
         "isrc": "QZEKE1876488",
         "artwork": {
           "width": 3000,
@@ -330,14 +458,14 @@
           "textColor3": "d0cdc8",
           "textColor4": "cfcacc"
         },
+        "url": "https://music.apple.com/us/album/prince-of-the-sea/1546592564?i=1546592580",
         "playParams": {
           "id": "1546592580",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/prince-of-the-sea/1546592564?i=1546592580",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Prince of the sea",
         "previews": [
           {
@@ -359,8 +487,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-08-16",
         "durationInMillis": 220587,
+        "releaseDate": "2021-08-16",
         "isrc": "KRA302100270",
         "artwork": {
           "width": 4000,
@@ -408,7 +536,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/78/e8/68/78e86844-411a-fce2-beb5-1a9073f1bc6a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T073101Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=583d889039dc60ff7aed3d307c633baa6e1ea1db9d1742db40bf0cdf89336d71"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/78/e8/68/78e86844-411a-fce2-beb5-1a9073f1bc6a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T073925Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=82adbfd666e523d4a57369ffab1edaeb24fb2c1c8534b6ded1374238cb699b1e"
         },
         "playParams": {
           "id": "i.4YBeKzNC2Vvp1BD",
@@ -443,11 +571,11 @@
           "textColor3": "75becc",
           "textColor4": "52b4ca"
         },
-        "url": "https://music.apple.com/us/album/holiday/1632174622?i=1632174629",
         "playParams": {
           "id": "1632174629",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/holiday/1632174622?i=1632174629",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -486,14 +614,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -516,8 +644,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-01-14",
         "durationInMillis": 216488,
+        "releaseDate": "2019-01-14",
         "isrc": "KRA381900168",
         "artwork": {
           "width": 3000,
@@ -558,8 +686,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2019-06-24",
         "durationInMillis": 213164,
+        "releaseDate": "2019-06-24",
         "isrc": "KRMIM1910140",
         "artwork": {
           "width": 1400,
@@ -578,8 +706,8 @@
         },
         "url": "https://music.apple.com/us/album/snapping/1569282456?i=1569282482",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Snapping",
         "previews": [
           {
@@ -658,11 +786,11 @@
           "textColor4": "67452d"
         },
         "composerName": "AiRPLAY, Nash Overstreet, Sidnie Tipton, Danke & \ubbfc\uc5f0\uc7ac",
-        "url": "https://music.apple.com/us/album/daydream/1569281731?i=1569282073",
         "playParams": {
           "id": "1569282073",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/daydream/1569281731?i=1569282073",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -687,8 +815,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-30",
         "durationInMillis": 191907,
+        "releaseDate": "2022-08-30",
         "isrc": "KRA302200162",
         "artwork": {
           "width": 4000,
@@ -707,8 +835,8 @@
         },
         "url": "https://music.apple.com/us/album/gasoline/1641655639?i=1641655640",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Gasoline",
         "previews": [
           {
@@ -730,8 +858,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 2,
-        "releaseDate": "2018-06-28",
         "durationInMillis": 200480,
+        "releaseDate": "2018-06-28",
         "isrc": "KRF151800041",
         "artwork": {
           "width": 1400,
@@ -786,11 +914,11 @@
           "textColor3": "c9cace",
           "textColor4": "b69c74"
         },
-        "url": "https://music.apple.com/us/album/uncover/1304067811?i=1304067814",
         "playParams": {
           "id": "1304067814",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/uncover/1304067811?i=1304067814",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -829,11 +957,11 @@
           "textColor3": "bfb7ab",
           "textColor4": "b16f62"
         },
-        "url": "https://music.apple.com/us/album/hear-the-wind-sing/1212180082?i=1212180083",
         "playParams": {
           "id": "1212180083",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hear-the-wind-sing/1212180082?i=1212180083",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -872,14 +1000,14 @@
           "textColor4": "38272e"
         },
         "composerName": "\ube14\ub799\uc544\uc774\ub4dc\ud544\uc2b9",
-        "url": "https://music.apple.com/us/album/pretty/1617750197?i=1617750200",
         "playParams": {
           "id": "1617750200",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pretty/1617750197?i=1617750200",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pretty",
         "previews": [
           {
@@ -901,8 +1029,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-01-11",
         "durationInMillis": 200400,
+        "releaseDate": "2021-01-11",
         "isrc": "KRA392000075",
         "artwork": {
           "width": 3000,
@@ -921,8 +1049,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "MOON",
         "previews": [
           {
@@ -944,8 +1072,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-09-06",
         "durationInMillis": 191696,
+        "releaseDate": "2021-09-06",
         "isrc": "KRA382160813",
         "artwork": {
           "width": 3000,
@@ -957,14 +1085,14 @@
           "textColor3": "29362b",
           "textColor4": "473938"
         },
-        "url": "https://music.apple.com/us/album/stereotype/1583902626?i=1583902627",
         "playParams": {
           "id": "1583902627",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/stereotype/1583902626?i=1583902627",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "STEREOTYPE",
         "previews": [
           {
@@ -999,14 +1127,14 @@
           "textColor3": "143346",
           "textColor4": "163552"
         },
-        "url": "https://music.apple.com/us/album/supadupa/1528113711?i=1528113712",
         "playParams": {
           "id": "1528113712",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/supadupa/1528113711?i=1528113712",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SUPADUPA",
         "previews": [
           {
@@ -1090,8 +1218,8 @@
         },
         "url": "https://music.apple.com/us/album/dramatic/1463467110?i=1463467111",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Dramatic",
         "previews": [
           {
@@ -1126,14 +1254,14 @@
           "textColor3": "f0d3d4",
           "textColor4": "a0c2a8"
         },
-        "url": "https://music.apple.com/us/album/red-punch/1497844728?i=1497844729",
         "playParams": {
           "id": "1497844729",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/red-punch/1497844728?i=1497844729",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "RED PUNCH",
         "previews": [
           {
@@ -1141,135 +1269,6 @@
           }
         ],
         "artistName": "Rocket Punch"
-      }
-    },
-    {
-      "id": "1555410490",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1555410490",
-      "attributes": {
-        "albumName": "Merry & Happy",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-12-11",
-        "durationInMillis": 186893,
-        "isrc": "US5TA1700125",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/24/de/3e/24de3e0e-e7b0-29a1-1e08-396652a6d0c3/00602508875076_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "005c3e",
-          "textColor1": "e6eeae",
-          "textColor2": "f4db91",
-          "textColor3": "b8d198",
-          "textColor4": "c3c280"
-        },
-        "composerName": "David Amber & Galactika",
-        "url": "https://music.apple.com/us/album/heart-shaker/1555410489?i=1555410490",
-        "playParams": {
-          "id": "1555410490",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Heart Shaker",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/31/99/5931997f-9f6d-0c56-8268-fedd7ae8e225/mzaf_4793019604143876276.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
-      }
-    },
-    {
-      "id": "1478601977",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1478601977",
-      "attributes": {
-        "albumName": "Closer - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2015-10-08",
-        "durationInMillis": 207413,
-        "isrc": "KRA381500299",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/b2/c3/09b2c3a7-6467-3154-4427-323935550b52/886447921715.jpg/{w}x{h}bb.jpg",
-          "bgColor": "243628",
-          "textColor1": "e7b775",
-          "textColor2": "ceb074",
-          "textColor3": "c09d66",
-          "textColor4": "ac9865"
-        },
-        "composerName": "Laura Brian & Sean Alexander",
-        "playParams": {
-          "id": "1478601977",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/closer/1478601972?i=1478601977",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Closer",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/4d/76/fe4d764f-6745-dd31-13d2-4fff86f1a84a/mzaf_6994354086483858002.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OH MY GIRL"
-      }
-    },
-    {
-      "id": "1569281536",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569281536",
-      "attributes": {
-        "albumName": "Gotta Go - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-01-02",
-        "durationInMillis": 221813,
-        "isrc": "KRMIM1815150",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/4a/df/114adf21-6bc8-f41b-fd13-918ae4f48e81/8809603549129_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "20041a",
-          "textColor1": "d2a6b8",
-          "textColor2": "e16881",
-          "textColor3": "ae8698",
-          "textColor4": "ba546d"
-        },
-        "composerName": "\ube14\ub799\uc544\uc774\ub4dc\ud544\uc2b9 & \uc804\uad70",
-        "playParams": {
-          "id": "1569281536",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/gotta-go/1569281535?i=1569281536",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Gotta Go",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5f/fd/0c/5ffd0c6e-e65f-6b63-ef27-f6bb1b27ee11/mzaf_2533197290116249031.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "CHUNG HA"
       }
     }
   ]
