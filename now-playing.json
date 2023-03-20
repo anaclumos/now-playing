@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1569744209",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569744209",
+      "attributes": {
+        "albumName": "Produce 48 - Nekkoya (Pick Me) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-05-10",
+        "durationInMillis": 279423,
+        "isrc": "KRA491800375",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/9e/e1/b9/9ee1b954-b9d4-496c-c2d3-4b86d3b25cec/8809603542205_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eee2ee",
+          "textColor1": "16070e",
+          "textColor2": "140a0f",
+          "textColor3": "41333b",
+          "textColor4": "40353c"
+        },
+        "composerName": "Flow Blow, airair, Louise Frick Sveen & PRODUCE 48",
+        "url": "https://music.apple.com/us/album/pick-me/1569744208?i=1569744209",
+        "playParams": {
+          "id": "1569744209",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Pick Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/3a/ac/4d3aac6c-9d26-2ea3-ab2a-d6541c0471dc/mzaf_7408193450836757127.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "PRODUCE 48"
+      }
+    },
+    {
       "id": "1151001410",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1151001410",
@@ -177,8 +220,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.4YBeKzNC2Vvp1BD",
       "attributes": {
-        "albumName": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3 (Type A)",
         "discNumber": 1,
+        "albumName": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3 (Type A)",
         "genreNames": [
           "Pop"
         ],
@@ -190,7 +233,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/78/e8/68/78e86844-411a-fce2-beb5-1a9073f1bc6a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T071220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=5c9d3323d774db4de6df6a6c437491827aca7b9ecfcdbd323bc5cf05975844a4"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/78/e8/68/78e86844-411a-fce2-beb5-1a9073f1bc6a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T072235Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=4f802705585fa9e5ce55dc26cd475b72d82912fabf94cf1e631ecd4e010ea402"
         },
         "playParams": {
           "id": "i.4YBeKzNC2Vvp1BD",
@@ -1187,8 +1230,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.mmpY83EflqZ8EN4",
       "attributes": {
-        "albumName": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
         "discNumber": 1,
+        "albumName": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
         "genreNames": [
           "Dance"
         ],
@@ -1200,7 +1243,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/ec/22/37/ec2237a6-9c7f-1a80-f522-fd3f61e90b5a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T071220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=1a4c5148d9c9ed29aed71dbbc067c59e7f2f0b8fdc9f1b71f8898db4406c0a26"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/ec/22/37/ec2237a6-9c7f-1a80-f522-fd3f61e90b5a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T072235Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=d045f69a5c2d424d10d9f68e280582dba60a5495529d10022d11b4ab4dfa0c47"
         },
         "playParams": {
           "id": "i.mmpY83EflqZ8EN4",
@@ -1208,48 +1251,6 @@
           "isLibrary": true,
           "reporting": false
         }
-      }
-    },
-    {
-      "id": "1541123843",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1541123843",
-      "attributes": {
-        "albumName": "QURIOUS - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2020-11-24",
-        "durationInMillis": 206437,
-        "isrc": "KRA382006445",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/f7/24/df/f724dfb1-758e-4e0d-3ba7-5750845e9c7e/cover_cover_-.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0a0809",
-          "textColor1": "ebebeb",
-          "textColor2": "d8aebc",
-          "textColor3": "bebebe",
-          "textColor4": "af8c98"
-        },
-        "url": "https://music.apple.com/us/album/bad-girl/1541123841?i=1541123843",
-        "playParams": {
-          "id": "1541123843",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Bad Girl",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/29/77/3929775e-9ae4-c8f7-e9a6-4bf44b59f829/mzaf_14245381410436562173.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "woo!ah!"
       }
     }
   ]
