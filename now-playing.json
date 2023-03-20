@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1608512837",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1608512837",
+      "attributes": {
+        "albumName": "TRAVEL: NOAH",
+        "genreNames": [
+          "Hip-Hop",
+          "Music",
+          "Hip-Hop/Rap"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2018-06-28",
+        "durationInMillis": 200480,
+        "isrc": "KRF151800041",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/c7/db/91/c7db91ce-574f-70d5-fc22-7aca1cd2414a/8809603545428_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1c1b20",
+          "textColor1": "f5dcd4",
+          "textColor2": "e9beb8",
+          "textColor3": "c9b6b0",
+          "textColor4": "c09d99"
+        },
+        "composerName": "HAON, Sikk & BOYCOLD",
+        "url": "https://music.apple.com/us/album/love-dance/1608512833?i=1608512837",
+        "playParams": {
+          "id": "1608512837",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "LOVE ! DANCE !",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/05/a3/79/05a379b4-5305-9893-132e-6706d9349055/mzaf_9650933146013693668.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "HAON"
+      }
+    },
+    {
+      "id": "1304067814",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1304067814",
+      "attributes": {
+        "albumName": "Max & Match",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2017-10-31",
+        "durationInMillis": 200988,
+        "isrc": "KRE081700028",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/98/ad/25/98ad25a3-3485-43ce-a05d-ee7bdf2330be/8809550034730.jpg/{w}x{h}bb.jpg",
+          "bgColor": "090a0c",
+          "textColor1": "fafbff",
+          "textColor2": "e1c18e",
+          "textColor3": "c9cace",
+          "textColor4": "b69c74"
+        },
+        "url": "https://music.apple.com/us/album/uncover/1304067811?i=1304067814",
+        "playParams": {
+          "id": "1304067814",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Uncover",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/a4/ef/c5a4ef9a-9bff-228f-9e36-b2543b8fdc66/mzaf_11046447393543746406.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA / ODD EYE CIRCLE"
+      }
+    },
+    {
+      "id": "1212180083",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1212180083",
+      "attributes": {
+        "albumName": "The Awakening - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2017-03-06",
+        "durationInMillis": 215009,
+        "isrc": "KRA381700461",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/8e/ca/4a/8eca4a43-0311-054b-c467-f5fba0f22e7e/cover-.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1d0000",
+          "textColor1": "e7e5d6",
+          "textColor2": "d68b7b",
+          "textColor3": "bfb7ab",
+          "textColor4": "b16f62"
+        },
+        "url": "https://music.apple.com/us/album/hear-the-wind-sing/1212180082?i=1212180083",
+        "playParams": {
+          "id": "1212180083",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Hear the Wind Sing",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/ea/53/feea53ae-3cac-3d9b-a1bb-8c4c6f44283a/mzaf_9129189097250839228.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "GFRIEND"
+      }
+    },
+    {
       "id": "1617750200",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1617750200",
@@ -13,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 211256,
         "releaseDate": "2017-07-13",
+        "durationInMillis": 211256,
         "isrc": "KRA491601241",
         "artwork": {
           "width": 1400,
@@ -56,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 200400,
         "releaseDate": "2021-01-11",
+        "durationInMillis": 200400,
         "isrc": "KRA392000075",
         "artwork": {
           "width": 3000,
@@ -99,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 191696,
         "releaseDate": "2021-09-06",
+        "durationInMillis": 191696,
         "isrc": "KRA382160813",
         "artwork": {
           "width": 3000,
@@ -112,14 +240,14 @@
           "textColor3": "29362b",
           "textColor4": "473938"
         },
+        "url": "https://music.apple.com/us/album/stereotype/1583902626?i=1583902627",
         "playParams": {
           "id": "1583902627",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/stereotype/1583902626?i=1583902627",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STEREOTYPE",
         "previews": [
           {
@@ -141,8 +269,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177613,
         "releaseDate": "2020-08-16",
+        "durationInMillis": 177613,
         "isrc": "KRA382003368",
         "artwork": {
           "width": 3000,
@@ -154,14 +282,14 @@
           "textColor3": "143346",
           "textColor4": "163552"
         },
+        "url": "https://music.apple.com/us/album/supadupa/1528113711?i=1528113712",
         "playParams": {
           "id": "1528113712",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/supadupa/1528113711?i=1528113712",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SUPADUPA",
         "previews": [
           {
@@ -183,8 +311,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 220560,
         "releaseDate": "2021-05-10",
+        "durationInMillis": 220560,
         "isrc": "KRB462100515",
         "artwork": {
           "width": 3000,
@@ -197,14 +325,14 @@
           "textColor4": "554a2b"
         },
         "composerName": "Ryan S. Jhun, Scott Stoddart & Anna Timgren",
+        "url": "https://music.apple.com/us/album/dun-dun-dance/1565769105?i=1565769109",
         "playParams": {
           "id": "1565769109",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dun-dun-dance/1565769105?i=1565769109",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dun Dun Dance",
         "previews": [
           {
@@ -226,8 +354,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 205568,
         "releaseDate": "2019-05-15",
+        "durationInMillis": 205568,
         "isrc": "KRMIM1907984",
         "artwork": {
           "width": 3000,
@@ -239,14 +367,14 @@
           "textColor3": "bfbfbf",
           "textColor4": "cb9100"
         },
+        "url": "https://music.apple.com/us/album/dramatic/1463467110?i=1463467111",
         "playParams": {
           "id": "1463467111",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dramatic/1463467110?i=1463467111",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Dramatic",
         "previews": [
           {
@@ -268,8 +396,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 67719,
         "releaseDate": "2020-02-10",
+        "durationInMillis": 67719,
         "isrc": "KRA382000195",
         "artwork": {
           "width": 3000,
@@ -310,8 +438,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 186893,
         "releaseDate": "2017-12-11",
+        "durationInMillis": 186893,
         "isrc": "US5TA1700125",
         "artwork": {
           "width": 1400,
@@ -353,8 +481,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 207413,
         "releaseDate": "2015-10-08",
+        "durationInMillis": 207413,
         "isrc": "KRA381500299",
         "artwork": {
           "width": 3000,
@@ -367,14 +495,14 @@
           "textColor4": "ac9865"
         },
         "composerName": "Laura Brian & Sean Alexander",
+        "url": "https://music.apple.com/us/album/closer/1478601972?i=1478601977",
         "playParams": {
           "id": "1478601977",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/closer/1478601972?i=1478601977",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Closer",
         "previews": [
           {
@@ -396,8 +524,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 221813,
         "releaseDate": "2019-01-02",
+        "durationInMillis": 221813,
         "isrc": "KRMIM1815150",
         "artwork": {
           "width": 1400,
@@ -439,8 +567,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 228682,
         "releaseDate": "2019-03-18",
+        "durationInMillis": 228682,
         "isrc": "KRMIM1904516",
         "artwork": {
           "width": 1400,
@@ -453,14 +581,14 @@
           "textColor4": "d5937d"
         },
         "composerName": "Melanie Fontana, Michel \"Lindgren\" Schulz, Jurek Reunam\u00e4ki, JQ, TOMBOY, Yunsu & Lee Jiwon",
+        "url": "https://music.apple.com/us/album/bon-bon-chocolat/1569281641?i=1569281643",
         "playParams": {
           "id": "1569281643",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bon-bon-chocolat/1569281641?i=1569281643",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Bon Bon Chocolat",
         "previews": [
           {
@@ -482,8 +610,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "durationInMillis": 200293,
         "releaseDate": "2021-03-25",
+        "durationInMillis": 200293,
         "isrc": "KRA382102085",
         "artwork": {
           "width": 3000,
@@ -525,8 +653,8 @@
           "K-Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 193867,
         "releaseDate": "2020-05-13",
+        "durationInMillis": 193867,
         "isrc": "KRF842000225",
         "artwork": {
           "width": 3000,
@@ -538,14 +666,14 @@
           "textColor3": "ded3e7",
           "textColor4": "cfa4a5"
         },
+        "url": "https://music.apple.com/us/album/paeonia-instrumental/1588115644?i=1588116041",
         "playParams": {
           "id": "1588116041",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/paeonia-instrumental/1588115644?i=1588116041",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Paeonia (Instrumental)",
         "previews": [
           {
@@ -560,20 +688,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.mmpY83EflqZ8EN4",
       "attributes": {
-        "albumName": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
         "discNumber": 1,
+        "albumName": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
         "genreNames": [
           "Dance"
         ],
-        "trackNumber": 1,
         "hasLyrics": false,
+        "trackNumber": 1,
         "durationInMillis": 210755,
         "name": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10 (A-ing) (Feat. \uc2a4\uceec&\ud558\ud558)",
         "artistName": "OH MY GIRL",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/ec/22/37/ec2237a6-9c7f-1a80-f522-fd3f61e90b5a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T062448Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=06e2c823e6b4eb7482a727ee1208a5da70a0c5209e4fea473c6e481e1f43a6d6"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/ec/22/37/ec2237a6-9c7f-1a80-f522-fd3f61e90b5a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T063534Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=b0e73400be801cbd56c4233c76b1e21c2be35ce4a6a2d788cc5c55d9a7af2b6d"
         },
         "playParams": {
           "id": "i.mmpY83EflqZ8EN4",
@@ -595,8 +723,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 206437,
         "releaseDate": "2020-11-24",
+        "durationInMillis": 206437,
         "isrc": "KRA382006445",
         "artwork": {
           "width": 3000,
@@ -608,14 +736,14 @@
           "textColor3": "bebebe",
           "textColor4": "af8c98"
         },
+        "url": "https://music.apple.com/us/album/bad-girl/1541123841?i=1541123843",
         "playParams": {
           "id": "1541123843",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/bad-girl/1541123841?i=1541123843",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Bad Girl",
         "previews": [
           {
@@ -638,8 +766,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 178360,
         "releaseDate": "2022-11-29",
+        "durationInMillis": 178360,
         "isrc": "KSA012214903",
         "artwork": {
           "width": 3000,
@@ -652,14 +780,14 @@
           "textColor4": "5b5b5b"
         },
         "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
+        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "playParams": {
           "id": "1656336322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "WHEN I MOVE",
         "previews": [
           {
@@ -681,8 +809,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 196018,
         "releaseDate": "2018-07-16",
+        "durationInMillis": 196018,
         "isrc": "KRA381800261",
         "artwork": {
           "width": 3000,
@@ -694,14 +822,14 @@
           "textColor3": "e9c1c6",
           "textColor4": "e5b7bc"
         },
+        "url": "https://music.apple.com/us/album/egotistic/1676209531?i=1676209533",
         "playParams": {
           "id": "1676209533",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/egotistic/1676209531?i=1676209533",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Egotistic",
         "previews": [
           {
@@ -723,8 +851,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184803,
         "releaseDate": "2020-05-13",
+        "durationInMillis": 184803,
         "isrc": "KRMIM2010788",
         "artwork": {
           "width": 1400,
@@ -737,14 +865,14 @@
           "textColor4": "bf8166"
         },
         "composerName": "MosPick",
+        "url": "https://music.apple.com/us/album/jungle/1608325937?i=1608325940",
         "playParams": {
           "id": "1608325940",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/jungle/1608325937?i=1608325940",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "JUNGLE",
         "previews": [
           {
@@ -767,8 +895,8 @@
           "Rock"
         ],
         "trackNumber": 1,
-        "durationInMillis": 167573,
         "releaseDate": "2020-05-06",
+        "durationInMillis": 167573,
         "isrc": "KRA382001418",
         "artwork": {
           "width": 3000,
@@ -780,14 +908,14 @@
           "textColor3": "e1d5c6",
           "textColor4": "e0a8a0"
         },
+        "url": "https://music.apple.com/us/album/eight-feat-suga/1511885175?i=1511885178",
         "playParams": {
           "id": "1511885178",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eight-feat-suga/1511885175?i=1511885178",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "eight (feat. SUGA)",
         "previews": [
           {
@@ -802,20 +930,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.JL1YoXKUbmLXpv3",
       "attributes": {
-        "discNumber": 0,
         "albumName": "AYAYAYA",
+        "discNumber": 0,
         "genreNames": [
           "K-Pop"
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 199497,
         "name": "AYAYAYA",
         "artistName": "IZ*ONE",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-035.blobstore.apple.com/sq-mq-us-035-000002/84/fa/90/84fa90c1-e8c1-c4fc-683b-08836d36421c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T062448Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAZJRVM1CLAZIYJ6OU%2F20230320%2Fstore-035%2Fs3%2Faws4_request&X-Amz-Signature=73aecae0088f45caaeaa21c23e6dedde2c489f00dd6384ece71b9751cc316c7d"
+          "url": "https://store-035.blobstore.apple.com/sq-mq-us-035-000002/84/fa/90/84fa90c1-e8c1-c4fc-683b-08836d36421c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T063534Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAZJRVM1CLAZIYJ6OU%2F20230320%2Fstore-035%2Fs3%2Faws4_request&X-Amz-Signature=4b254d414b96a19943acfd77b74c7e83d9c72824a8f632bb6eb7c3d3edc9aa72"
         },
         "playParams": {
           "id": "i.JL1YoXKUbmLXpv3",
@@ -837,8 +965,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 231654,
         "releaseDate": "2018-04-21",
+        "durationInMillis": 231654,
         "isrc": "KRA381705099",
         "artwork": {
           "width": 1400,
@@ -880,8 +1008,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "durationInMillis": 215480,
         "releaseDate": "2017-10-30",
+        "durationInMillis": 215480,
         "isrc": "US5TA1700102",
         "artwork": {
           "width": 1400,
@@ -922,8 +1050,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 190547,
         "releaseDate": "2019-07-29",
+        "durationInMillis": 190547,
         "isrc": "US5TA1900070",
         "artwork": {
           "width": 1400,
@@ -965,8 +1093,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 242600,
         "releaseDate": "2016-04-06",
+        "durationInMillis": 242600,
         "isrc": "KRA341617106",
         "artwork": {
           "width": 2244,
@@ -1007,8 +1135,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 211960,
         "releaseDate": "2020-07-29",
+        "durationInMillis": 211960,
         "isrc": "KRA382003121",
         "artwork": {
           "width": 3000,
@@ -1049,8 +1177,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 197413,
         "releaseDate": "2021-08-06",
+        "durationInMillis": 197413,
         "isrc": "KRMIM2127580",
         "artwork": {
           "width": 3000,
@@ -1091,8 +1219,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "durationInMillis": 200046,
         "releaseDate": "2019-11-29",
+        "durationInMillis": 200046,
         "isrc": "USUG11904206",
         "artwork": {
           "width": 3000,
@@ -1120,99 +1248,6 @@
           }
         ],
         "artistName": "The Weeknd"
-      }
-    },
-    {
-      "id": "i.eoD8A7gckaYRBvJ",
-      "type": "library-songs",
-      "href": "/v1/me/library/songs/i.eoD8A7gckaYRBvJ",
-      "attributes": {
-        "albumName": "PAGE TWO",
-        "discNumber": 0,
-        "genreNames": [
-          ""
-        ],
-        "trackNumber": 7,
-        "hasLyrics": false,
-        "durationInMillis": 200642,
-        "name": "I'm gonna be a star",
-        "artistName": "TWICE",
-        "artwork": {
-          "width": null,
-          "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/f6/31/d6/f631d65a-df98-38b5-89b9-e88e440e4263/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T062448Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=5660b871ca12323c4b64b86aaf7d614df6e9e8a2a58e238fec9e170032b833ef"
-        },
-        "playParams": {
-          "id": "i.eoD8A7gckaYRBvJ",
-          "kind": "song",
-          "isLibrary": true,
-          "reporting": false
-        }
-      }
-    },
-    {
-      "id": "i.DVEX96QTRZBl3Le",
-      "type": "library-songs",
-      "href": "/v1/me/library/songs/i.DVEX96QTRZBl3Le",
-      "attributes": {
-        "discNumber": 0,
-        "albumName": "Feel Special",
-        "genreNames": [
-          ""
-        ],
-        "trackNumber": 0,
-        "hasLyrics": false,
-        "durationInMillis": 154434,
-        "name": "Feel Special",
-        "artistName": "Rocket Punch",
-        "playParams": {
-          "id": "i.DVEX96QTRZBl3Le",
-          "kind": "song",
-          "isLibrary": true,
-          "reporting": false
-        }
-      }
-    },
-    {
-      "id": "1518738615",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1518738615",
-      "attributes": {
-        "albumName": "Pporappippam - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 206617,
-        "releaseDate": "2020-06-29",
-        "isrc": "KRMIM2015483",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/c7/b6/ff/c7b6ff7d-acfb-f983-e3de-764c920251d7/191953082691.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fdd2fd",
-          "textColor1": "182836",
-          "textColor2": "292b1f",
-          "textColor3": "464a5d",
-          "textColor4": "534c4c"
-        },
-        "url": "https://music.apple.com/us/album/pporappippam/1518738614?i=1518738615",
-        "playParams": {
-          "id": "1518738615",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Pporappippam",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/82/49/ea/8249eafc-4eec-aeec-61b4-ff297afd4367/mzaf_15849166442539251940.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "SUNMI"
       }
     }
   ]
