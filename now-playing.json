@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1525520604",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1525520604",
+      "attributes": {
+        "albumName": "APRIL Summer Special Album \u2018Hello Summer\u2019 - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-07-29",
+        "durationInMillis": 211960,
+        "isrc": "KRA382003121",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/53/e8/5f/53e85f73-a688-a1e5-fac6-33ddd22e0f37/cover_-.jpg/{w}x{h}bb.jpg",
+          "bgColor": "78d2f5",
+          "textColor1": "1c1402",
+          "textColor2": "402806",
+          "textColor3": "2f3a32",
+          "textColor4": "4b4a36"
+        },
+        "url": "https://music.apple.com/us/album/now-or-never/1525520603?i=1525520604",
+        "playParams": {
+          "id": "1525520604",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Now or Never",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c2/79/73/c2797339-8d78-2c38-0b39-da0ca794f0af/mzaf_3598934938051037534.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "APRIL"
+      }
+    },
+    {
       "id": "1577333322",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1577333322",
@@ -27,11 +69,11 @@
           "textColor4": "5c494f"
         },
         "composerName": "SUNMI, Melanie Fontana, Michel Schulz, Ross Golan & Lindgren",
+        "url": "https://music.apple.com/us/album/you-cant-sit-with-us/1577333067?i=1577333322",
         "playParams": {
           "id": "1577333322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/you-cant-sit-with-us/1577333067?i=1577333322",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -91,8 +133,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.eoD8A7gckaYRBvJ",
       "attributes": {
-        "albumName": "PAGE TWO",
         "discNumber": 0,
+        "albumName": "PAGE TWO",
         "genreNames": [
           ""
         ],
@@ -104,7 +146,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/f6/31/d6/f631d65a-df98-38b5-89b9-e88e440e4263/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T044628Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=ce40aeb05ea8a3261ba28cd364b9e05ce5161ca7470c5da610d43bc08efa8731"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000002/f6/31/d6/f631d65a-df98-38b5-89b9-e88e440e4263/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T045445Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=00bc35cac03f558e25071e54b85df0d041ad8fa364380dc955f277e4610ab3f2"
         },
         "playParams": {
           "id": "i.eoD8A7gckaYRBvJ",
@@ -119,8 +161,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.DVEX96QTRZBl3Le",
       "attributes": {
-        "albumName": "Feel Special",
         "discNumber": 0,
+        "albumName": "Feel Special",
         "genreNames": [
           ""
         ],
@@ -162,11 +204,11 @@
           "textColor3": "464a5d",
           "textColor4": "534c4c"
         },
+        "url": "https://music.apple.com/us/album/pporappippam/1518738614?i=1518738615",
         "playParams": {
           "id": "1518738615",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pporappippam/1518738614?i=1518738615",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -205,11 +247,11 @@
           "textColor4": "cb505f"
         },
         "composerName": "Mayu Wakisaka & Sean Alexander",
-        "url": "https://music.apple.com/us/album/real-world/1478604547?i=1478604560",
         "playParams": {
           "id": "1478604560",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/real-world/1478604547?i=1478604560",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -248,11 +290,11 @@
           "textColor4": "bb8f72"
         },
         "composerName": "David Anthony, Sophie White & Joe Killington",
-        "url": "https://music.apple.com/us/album/liar-liar-korean-version/1478604005?i=1478604012",
         "playParams": {
           "id": "1478604012",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/liar-liar-korean-version/1478604005?i=1478604012",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -270,8 +312,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.4YBezv3h2Vvp1BD",
       "attributes": {
-        "albumName": "\u30b5\u30e0\u30cd\u30a4\u30eb (Type B)",
         "discNumber": 1,
+        "albumName": "\u30b5\u30e0\u30cd\u30a4\u30eb (Type B)",
         "genreNames": [
           "Pop"
         ],
@@ -283,7 +325,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6c/c5/3f/6cc53f56-37ab-984a-43c9-9d99381df7d8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T044628Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=2e53b8fc38642be297547fcea47e336c0adca4d10e5e0257ed9b1a6a18c94f2f"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/6c/c5/3f/6cc53f56-37ab-984a-43c9-9d99381df7d8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T045445Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230320%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=fd15a9fca1470aa76c6edd41033ca6a8ae9ca27d3ccf87eb400c52865c35265d"
         },
         "playParams": {
           "id": "i.4YBezv3h2Vvp1BD",
@@ -319,11 +361,11 @@
           "textColor3": "3c3b41",
           "textColor4": "583f4b"
         },
+        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "playParams": {
           "id": "1462733791",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -534,11 +576,11 @@
           "textColor4": "d0c294"
         },
         "composerName": "Vincenzo, Any Masingga, Fuxxy & Anna Timgren",
-        "url": "https://music.apple.com/us/album/chica/1569282456?i=1569282461",
         "playParams": {
           "id": "1569282461",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/chica/1569282456?i=1569282461",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -746,11 +788,11 @@
           "textColor4": "c7453b"
         },
         "composerName": "Jiyoung Ahn & Vanilla Man",
+        "url": "https://music.apple.com/us/album/red-lipstick/1606409353?i=1606409354",
         "playParams": {
           "id": "1606409354",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/red-lipstick/1606409353?i=1606409354",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -788,11 +830,11 @@
           "textColor3": "3c3a1e",
           "textColor4": "6c5133"
         },
+        "url": "https://music.apple.com/us/album/asap/1561143398?i=1561143399",
         "playParams": {
           "id": "1561143399",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/asap/1561143398?i=1561143399",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -831,11 +873,11 @@
           "textColor3": "b8a699",
           "textColor4": "b99378"
         },
-        "url": "https://music.apple.com/us/album/like-this/1538734085?i=1538734207",
         "playParams": {
           "id": "1538734207",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/like-this/1538734085?i=1538734207",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -866,7 +908,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/7e/eb/e9/7eebe90a-2f23-08ac-aece-20e8eb22a699/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T044628Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=527381e53b716d52dc256aec82f97c9e5269daee586f4ad602829cedfcac5e5f"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/7e/eb/e9/7eebe90a-2f23-08ac-aece-20e8eb22a699/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230320T045445Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230320%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=a243b93d4ce73a8c56d70178f6398d88e19454634fc3657a93f4bed0f66c0ed8"
         },
         "playParams": {
           "id": "i.4YBeG93h2Vvp1BD",
@@ -988,11 +1030,11 @@
           "textColor3": "2e2e2e",
           "textColor4": "4d4440"
         },
-        "url": "https://music.apple.com/us/album/as-you-wish/1488434221?i=1488434222",
         "playParams": {
           "id": "1488434222",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/as-you-wish/1488434221?i=1488434222",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1031,11 +1073,11 @@
           "textColor3": "17324c",
           "textColor4": "4e423b"
         },
+        "url": "https://music.apple.com/us/album/selfish-feat-seulgi/1388255563?i=1388255578",
         "playParams": {
           "id": "1388255578",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/selfish-feat-seulgi/1388255563?i=1388255578",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1074,11 +1116,11 @@
           "textColor4": "384843"
         },
         "composerName": "Ryan S. Jhun, Martina Ahlmark, Dennis DeKo Kordnejad, Kavin KMan Mansoor & Hanif Hitmanic Sabzevari",
-        "url": "https://music.apple.com/us/album/far/1530216879?i=1530216882",
         "playParams": {
           "id": "1530216882",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/far/1530216879?i=1530216882",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1174,49 +1216,6 @@
           }
         ],
         "artistName": "WJSN"
-      }
-    },
-    {
-      "id": "1579487839",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1579487839",
-      "attributes": {
-        "albumName": "Second (feat. BIBI) - Single",
-        "genreNames": [
-          "Pop",
-          "Music",
-          "K-Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-08-09",
-        "durationInMillis": 218720,
-        "isrc": "KRA302100263",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/b6/7d/7c/b67d7c72-3365-2374-66a0-cdf7be3a3e5c/HYO_Second_digital_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "3f1f19",
-          "textColor2": "48231b",
-          "textColor3": "654c47",
-          "textColor4": "6c4f48"
-        },
-        "composerName": "Melanie Fontana, Gino Barletta, Britten Newbill, Michel Schulz & BIBI",
-        "url": "https://music.apple.com/us/album/second-feat-bibi/1579487838?i=1579487839",
-        "playParams": {
-          "id": "1579487839",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Second (feat. BIBI)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/5a/f8/085af844-8222-ef32-0ac8-f327813d8119/mzaf_17292421364711904980.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "HYO"
       }
     }
   ]
