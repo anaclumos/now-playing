@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1632909003",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1632909003",
+      "attributes": {
+        "albumName": "Bare&Rare, Pt. 1",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-07-10",
+        "durationInMillis": 186907,
+        "isrc": "KRMIM2236621",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/76/fa/29/76fa296c-9a27-9c12-ca49-af45626e6a3f/190296079795.jpg/{w}x{h}bb.jpg",
+          "bgColor": "011e46",
+          "textColor1": "f6e6e6",
+          "textColor2": "f2d0c5",
+          "textColor3": "c5bec6",
+          "textColor4": "c2adab"
+        },
+        "composerName": "BXN & Prime Time",
+        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
+        "playParams": {
+          "id": "1632909003",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Sparkling",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9d/b9/d3/9db9d387-6c64-1393-d344-4a57e327258e/mzaf_2834431313094560105.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "CHUNG HA"
+      }
+    },
+    {
+      "id": "1617057699",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1617057699",
+      "attributes": {
+        "albumName": "Color - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 224837,
+        "releaseDate": "2022-04-04",
+        "isrc": "KRA382204215",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/1a/1a/57/1a1a5761-0687-73e8-8cf6-22b30a429bf0/cover_KM0014983_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d4ccca",
+          "textColor1": "0f2537",
+          "textColor2": "142532",
+          "textColor3": "364654",
+          "textColor4": "3a4751"
+        },
+        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
+        "playParams": {
+          "id": "1617057699",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Glitch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ef/7d/34/ef7d3498-d843-a3db-4c57-e9c7e4f0c83b/mzaf_11169787214549121390.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Kwon Eun Bi"
+      }
+    },
+    {
+      "id": "1621050355",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1621050355",
+      "attributes": {
+        "albumName": "C.I.T.T (Cheese in the Trap) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-04-28",
+        "durationInMillis": 177400,
+        "isrc": "KRA382204683",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f2/cc/6ff2cc48-d5d5-d532-3a55-a9e94b670360/cover_KM0015111_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f2d600",
+          "textColor1": "152023",
+          "textColor2": "002a1a",
+          "textColor3": "41451c",
+          "textColor4": "304d14"
+        },
+        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
+        "playParams": {
+          "id": "1621050355",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "C.I.T.T (Cheese in the Trap)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/aa/76/da/aa76dac7-a11b-cab0-fdb7-8ec58c2fe2f2/mzaf_4047734330659577726.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Moon Byul"
+      }
+    },
+    {
       "id": "1605708141",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1605708141",
@@ -55,8 +182,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-18",
         "durationInMillis": 147853,
+        "releaseDate": "2022-05-18",
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -68,14 +195,14 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ARIA",
         "previews": [
           {
@@ -97,8 +224,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-06-28",
         "durationInMillis": 184709,
+        "releaseDate": "2016-06-28",
         "isrc": "KRA771600009",
         "artwork": {
           "width": 3000,
@@ -110,14 +237,14 @@
           "textColor3": "3c353b",
           "textColor4": "553c3d"
         },
+        "url": "https://music.apple.com/us/album/wonderland/1527029899?i=1527029900",
         "playParams": {
           "id": "1527029900",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/wonderland/1527029899?i=1527029900",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Wonderland",
         "previews": [
           {
@@ -268,8 +395,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-09-02",
         "durationInMillis": 180280,
+        "releaseDate": "2020-09-02",
         "isrc": "KRF402000005",
         "artwork": {
           "width": 3000,
@@ -281,14 +408,14 @@
           "textColor3": "3e3642",
           "textColor4": "305b78"
         },
+        "url": "https://music.apple.com/us/album/oh-ya-ya-ya/1529221633?i=1529221634",
         "playParams": {
           "id": "1529221634",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oh-ya-ya-ya/1529221633?i=1529221634",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OH YA YA YA",
         "previews": [
           {
@@ -323,14 +450,14 @@
           "textColor3": "383838",
           "textColor4": "6a3638"
         },
+        "url": "https://music.apple.com/us/album/lie/1502215361?i=1502215362",
         "playParams": {
           "id": "1502215362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lie/1502215361?i=1502215362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Lie",
         "previews": [
           {
@@ -352,8 +479,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 214253,
         "releaseDate": "2021-03-25",
+        "durationInMillis": 214253,
         "isrc": "KRA382102077",
         "artwork": {
           "width": 3000,
@@ -437,8 +564,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-07-09",
         "durationInMillis": 191139,
+        "releaseDate": "2017-07-09",
         "isrc": "KRA301700278",
         "artwork": {
           "width": 4000,
@@ -450,14 +577,14 @@
           "textColor3": "00222b",
           "textColor4": "00414f"
         },
+        "url": "https://music.apple.com/us/album/red-flavor/1256503505?i=1256504651",
         "playParams": {
           "id": "1256504651",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/red-flavor/1256503505?i=1256504651",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Red Flavor",
         "previews": [
           {
@@ -493,14 +620,14 @@
           "textColor4": "c93528"
         },
         "composerName": "JEON SOYEON & Ahn Ye Eun",
+        "url": "https://music.apple.com/us/album/hann-alone-in-winter/1545320377?i=1545320391",
         "playParams": {
           "id": "1545320391",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hann-alone-in-winter/1545320377?i=1545320391",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HANN (Alone in winter)",
         "previews": [
           {
@@ -565,8 +692,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180956,
         "releaseDate": "2020-06-26",
+        "durationInMillis": 180956,
         "isrc": "KRA402000111",
         "artwork": {
           "width": 4000,
@@ -708,14 +835,14 @@
           "textColor4": "c2a059"
         },
         "composerName": "Val Del Prete, Min Lee collapsedone, Jeonghoon Kang & Chang Kyum Kim",
+        "url": "https://music.apple.com/us/album/chillax/1555401452?i=1555401607",
         "playParams": {
           "id": "1555401607",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/chillax/1555401452?i=1555401607",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "CHILLAX",
         "previews": [
           {
@@ -750,14 +877,14 @@
           "textColor3": "3d131d",
           "textColor4": "571822"
         },
+        "url": "https://music.apple.com/us/album/fantasy-instrumental/1460240102?i=1460240105",
         "playParams": {
           "id": "1460240105",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fantasy-instrumental/1460240102?i=1460240105",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Fantasy (Instrumental)",
         "previews": [
           {
@@ -822,8 +949,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 199640,
         "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -865,8 +992,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 198313,
         "releaseDate": "2018-09-04",
+        "durationInMillis": 198313,
         "isrc": "US5TA1800064",
         "artwork": {
           "width": 3000,
@@ -921,14 +1048,14 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cheshire",
         "previews": [
           {
@@ -968,14 +1095,14 @@
           "textColor4": "40353c"
         },
         "composerName": "Flow Blow, airair, Louise Frick Sveen & PRODUCE 48",
+        "url": "https://music.apple.com/us/album/pick-me/1569744208?i=1569744209",
         "playParams": {
           "id": "1569744209",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pick-me/1569744208?i=1569744209",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pick Me",
         "previews": [
           {
@@ -997,8 +1124,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 211244,
         "releaseDate": "2016-09-07",
+        "durationInMillis": 211244,
         "isrc": "KRA301600315",
         "artwork": {
           "width": 4000,
@@ -1096,14 +1223,14 @@
           "textColor3": "d0cdc8",
           "textColor4": "cfcacc"
         },
+        "url": "https://music.apple.com/us/album/prince-of-the-sea/1546592564?i=1546592580",
         "playParams": {
           "id": "1546592580",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/prince-of-the-sea/1546592564?i=1546592580",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Prince of the sea",
         "previews": [
           {
@@ -1125,8 +1252,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-08-16",
         "durationInMillis": 220587,
+        "releaseDate": "2021-08-16",
         "isrc": "KRA302100270",
         "artwork": {
           "width": 4000,
@@ -1139,14 +1266,14 @@
           "textColor4": "374534"
         },
         "composerName": "MOONSHINE, Moa \u201cCazzi Opeia\u201d Carlebecker & Ellen Berg",
+        "url": "https://music.apple.com/us/album/knock-on-wood/1580685463?i=1580685474",
         "playParams": {
           "id": "1580685474",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/knock-on-wood/1580685463?i=1580685474",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Knock On Wood",
         "previews": [
           {
@@ -1154,134 +1281,6 @@
           }
         ],
         "artistName": "Red Velvet"
-      }
-    },
-    {
-      "id": "1632174629",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1632174629",
-      "attributes": {
-        "albumName": "HOLIDAY - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-07-05",
-        "durationInMillis": 192876,
-        "isrc": "KRA402200006",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9c/78/f2/9c78f2a4-7786-399d-af55-8df58f5eb261/WINNER_HOLIDAY.jpg/{w}x{h}bb.jpg",
-          "bgColor": "03080b",
-          "textColor1": "91ecfc",
-          "textColor2": "66dffa",
-          "textColor3": "75becc",
-          "textColor4": "52b4ca"
-        },
-        "playParams": {
-          "id": "1632174629",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/holiday/1632174622?i=1632174629",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "HOLIDAY",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b8/f4/f2/b8f4f2a1-a324-2282-987e-8495d6fbda9e/mzaf_12793496810438615167.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "WINNER"
-      }
-    },
-    {
-      "id": "1659513445",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659513445",
-      "attributes": {
-        "albumName": "NewJeans 'OMG' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-01-02",
-        "durationInMillis": 212253,
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "playParams": {
-          "id": "1659513445",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "OMG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1449453362",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1449453362",
-      "attributes": {
-        "albumName": "GFRIEND the 2nd Album 'Time for Us'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 216488,
-        "releaseDate": "2019-01-14",
-        "isrc": "KRA381900168",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/89/b7/40/89b7401b-e05f-e6d1-59aa-ad95792aa681/cover-_GFRIEND.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fdca8b",
-          "textColor1": "150c00",
-          "textColor2": "2e3049",
-          "textColor3": "43321b",
-          "textColor4": "574f56"
-        },
-        "url": "https://music.apple.com/us/album/sunrise/1449453361?i=1449453362",
-        "playParams": {
-          "id": "1449453362",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Sunrise",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/03/81/7d0381c0-b7e3-6375-e229-0459942da226/mzaf_18392152221120485124.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "GFRIEND"
       }
     }
   ]
