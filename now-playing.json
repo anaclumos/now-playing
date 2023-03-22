@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1605708141",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1605708141",
+      "attributes": {
+        "albumName": "6equence",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "durationInMillis": 205227,
+        "releaseDate": "2022-01-19",
+        "isrc": "KRA382200138",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/8f/92/59/8f92597f-4b40-eb87-cbc0-dabd3e18efde/cover_KM0014682_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d0e7ef",
+          "textColor1": "2b010d",
+          "textColor2": "39051e",
+          "textColor3": "4c2f3a",
+          "textColor4": "573248"
+        },
+        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
+        "playParams": {
+          "id": "1605708141",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "LUNATIC",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/0c/f9/910cf9be-afe2-5133-b8ce-bdb59e7de646/mzaf_8280159854665259291.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Moon Byul"
+      }
+    },
+    {
+      "id": "1613300650",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1613300650",
+      "attributes": {
+        "albumName": "\u5bb9 : FACE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 167627,
+        "releaseDate": "2022-03-16",
+        "isrc": "KRA382203888",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/8b/46/54/8b4654b5-492f-b3db-a089-02582ab46876/cover_KM0014922_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "030902",
+          "textColor1": "f1ed7c",
+          "textColor2": "f1e861",
+          "textColor3": "c1c064",
+          "textColor4": "c1bb4e"
+        },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
+        "playParams": {
+          "id": "1613300650",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "HONEY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/dd/13/f6dd13a9-c971-2a4c-18d1-c44bef5c7c97/mzaf_14699012896397923692.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Solar"
+      }
+    },
+    {
       "id": "1624007966",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1624007966",
@@ -13,8 +97,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-05-16",
         "durationInMillis": 179120,
+        "releaseDate": "2022-05-16",
         "isrc": "KRA302200089",
         "artwork": {
           "width": 4000,
@@ -27,11 +111,11 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -56,8 +140,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-12",
         "durationInMillis": 170600,
+        "releaseDate": "2022-10-12",
         "isrc": "KRA382207788",
         "artwork": {
           "width": 3000,
@@ -69,14 +153,14 @@
           "textColor3": "39373a",
           "textColor4": "424043"
         },
+        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
         "playParams": {
           "id": "1648611078",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Underwater",
         "previews": [
           {
@@ -91,8 +175,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.mmpeJAZClqZ8EN4",
       "attributes": {
-        "albumName": "Piano Grain",
         "discNumber": 0,
+        "albumName": "Piano Grain",
         "genreNames": [
           "Piano"
         ],
@@ -104,7 +188,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/d6/de/ee/d6deeeb6-d6ac-7396-0007-99f7a06a298a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230322T053734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230322%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=f620d36d3dfba5156c2b5b99e9fc9d1f420c85050a5afcb302ebf07b69b1c3b9"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/d6/de/ee/d6deeeb6-d6ac-7396-0007-99f7a06a298a/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230322T054553Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230322%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=d8d4437924b5ead1591016b078f4f4563b9ce042307eebb37bf7899b60e06ff7"
         },
         "playParams": {
           "id": "i.mmpeJAZClqZ8EN4",
@@ -139,11 +223,11 @@
           "textColor4": "c38ca6"
         },
         "composerName": "Trent Reznor",
+        "url": "https://music.apple.com/us/album/on-a-roll/1468372211?i=1468372221",
         "playParams": {
           "id": "1468372221",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/on-a-roll/1468372211?i=1468372221",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -212,8 +296,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2020-11-20",
         "durationInMillis": 239722,
+        "releaseDate": "2020-11-20",
         "isrc": "QMFME2038761",
         "artwork": {
           "width": 1400,
@@ -226,11 +310,11 @@
           "textColor4": "4d4d4d"
         },
         "composerName": "P-DOGG, RM, Randy Runyon, GHSTLOOP, Ivan Jackson Rosenberg, Jimin, SUGA & j-hope",
+        "url": "https://music.apple.com/us/album/dis-ease/1596532185?i=1596532396",
         "playParams": {
           "id": "1596532396",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dis-ease/1596532185?i=1596532396",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -281,8 +365,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Slipping Through My Fingers",
         "previews": [
           {
@@ -318,11 +402,11 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -347,8 +431,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-02",
         "durationInMillis": 199067,
+        "releaseDate": "2022-06-02",
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -361,11 +445,11 @@
           "textColor4": "494643"
         },
         "composerName": "The Proof, Moa \u201cCazzi Opeia\u201d Carlebecker, Albin Nordqvist, Maria Marcus, Danke & \uc870\uc724\uacbd",
+        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "playParams": {
           "id": "1626233053",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-shhh/1626232826?i=1626233053",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -403,11 +487,11 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -445,14 +529,14 @@
           "textColor4": "ec7a78"
         },
         "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "playParams": {
           "id": "1273710101",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1273709789?i=1273710101",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -474,8 +558,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -487,14 +571,14 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "playParams": {
           "id": "1670622074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -516,8 +600,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189773,
         "releaseDate": "2023-02-14",
+        "durationInMillis": 189773,
         "isrc": "KRA382300511",
         "artwork": {
           "width": 3000,
@@ -558,8 +642,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-16",
         "durationInMillis": 179867,
+        "releaseDate": "2022-11-16",
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -572,14 +656,14 @@
           "textColor4": "414546"
         },
         "composerName": "Rado, Fly-T & Will.B",
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "playParams": {
           "id": "1654124215",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Poppy",
         "previews": [
           {
@@ -587,175 +671,6 @@
           }
         ],
         "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1649467575",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649467575",
-      "attributes": {
-        "albumName": "ELEVEN -Japanese version- - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-10-19",
-        "durationInMillis": 145320,
-        "isrc": "KRMIM2281382",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b7/d7/18/b7d7185f-7b15-65db-9919-5282462f9863/4547366589269.jpg/{w}x{h}bb.jpg",
-          "bgColor": "eab4d6",
-          "textColor1": "0e0b04",
-          "textColor2": "161616",
-          "textColor3": "3a2d2e",
-          "textColor4": "41363d"
-        },
-        "composerName": "Lauren Aquilina, Isaac Sakima & Joe Kearns",
-        "playParams": {
-          "id": "1649467575",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/queen-of-hearts/1649467561?i=1649467575",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Queen of Hearts",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ee/7d/d2/ee7dd20a-824a-5e6a-dbd5-56f3090c83cc/mzaf_7769793116354059079.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1479397583",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1479397583",
-      "attributes": {
-        "albumName": "Traveler",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 299164,
-        "releaseDate": "2019-09-11",
-        "isrc": "JPPC01901536",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/{w}x{h}bb.jpg",
-          "bgColor": "3d635d",
-          "textColor1": "f1f3ed",
-          "textColor2": "f1efe2",
-          "textColor3": "cdd6d0",
-          "textColor4": "cdd3c7"
-        },
-        "composerName": "Satoshi Fujihara",
-        "playParams": {
-          "id": "1479397583",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/yesterday/1479397582?i=1479397583",
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": true,
-        "name": "Yesterday",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0e/33/fd/0e33fd82-765d-3270-6537-e0e58b7a5b00/mzaf_15636288676611555269.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OFFICIAL HIGE DANDISM"
-      }
-    },
-    {
-      "id": "1605708141",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1605708141",
-      "attributes": {
-        "albumName": "6equence",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "durationInMillis": 205227,
-        "releaseDate": "2022-01-19",
-        "isrc": "KRA382200138",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/8f/92/59/8f92597f-4b40-eb87-cbc0-dabd3e18efde/cover_KM0014682_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d0e7ef",
-          "textColor1": "2b010d",
-          "textColor2": "39051e",
-          "textColor3": "4c2f3a",
-          "textColor4": "573248"
-        },
-        "playParams": {
-          "id": "1605708141",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "LUNATIC",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/0c/f9/910cf9be-afe2-5133-b8ce-bdb59e7de646/mzaf_8280159854665259291.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Moon Byul"
-      }
-    },
-    {
-      "id": "1613300650",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1613300650",
-      "attributes": {
-        "albumName": "\u5bb9 : FACE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 167627,
-        "releaseDate": "2022-03-16",
-        "isrc": "KRA382203888",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/8b/46/54/8b4654b5-492f-b3db-a089-02582ab46876/cover_KM0014922_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "030902",
-          "textColor1": "f1ed7c",
-          "textColor2": "f1e861",
-          "textColor3": "c1c064",
-          "textColor4": "c1bb4e"
-        },
-        "playParams": {
-          "id": "1613300650",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "HONEY",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/dd/13/f6dd13a9-c971-2a4c-18d1-c44bef5c7c97/mzaf_14699012896397923692.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Solar"
       }
     },
     {
@@ -783,14 +698,14 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -825,14 +740,14 @@
           "textColor3": "3c353b",
           "textColor4": "553c3d"
         },
+        "url": "https://music.apple.com/us/album/wonderland/1527029899?i=1527029900",
         "playParams": {
           "id": "1527029900",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/wonderland/1527029899?i=1527029900",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Wonderland",
         "previews": [
           {
@@ -874,8 +789,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Highlight",
         "previews": [
           {
@@ -917,8 +832,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Dreams Come True (Instrumental)",
         "previews": [
           {
@@ -960,8 +875,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dance on My Own",
         "previews": [
           {
@@ -1002,8 +917,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OH YA YA YA",
         "previews": [
           {
@@ -1025,8 +940,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-03-11",
         "durationInMillis": 210907,
+        "releaseDate": "2020-03-11",
         "isrc": "KRG152000001",
         "artwork": {
           "width": 3000,
@@ -1038,14 +953,14 @@
           "textColor3": "383838",
           "textColor4": "6a3638"
         },
+        "url": "https://music.apple.com/us/album/lie/1502215361?i=1502215362",
         "playParams": {
           "id": "1502215362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lie/1502215361?i=1502215362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Lie",
         "previews": [
           {
@@ -1067,8 +982,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-03-25",
         "durationInMillis": 214253,
+        "releaseDate": "2021-03-25",
         "isrc": "KRA382102077",
         "artwork": {
           "width": 3000,
@@ -1080,14 +995,14 @@
           "textColor3": "2b2223",
           "textColor4": "3c2e30"
         },
+        "url": "https://music.apple.com/us/album/lilac/1560113132?i=1560113134",
         "playParams": {
           "id": "1560113134",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lilac/1560113132?i=1560113134",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Lilac",
         "previews": [
           {
@@ -1123,14 +1038,14 @@
           "textColor4": "c69880"
         },
         "composerName": "Andreas \u00d6berg, Skylar Mones & Tiaan Williams",
+        "url": "https://music.apple.com/us/album/magic/1478601914?i=1478602226",
         "playParams": {
           "id": "1478602226",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/magic/1478601914?i=1478602226",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Magic",
         "previews": [
           {
@@ -1165,11 +1080,11 @@
           "textColor3": "00222b",
           "textColor4": "00414f"
         },
+        "url": "https://music.apple.com/us/album/red-flavor/1256503505?i=1256504651",
         "playParams": {
           "id": "1256504651",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/red-flavor/1256503505?i=1256504651",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1194,8 +1109,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-01-11",
         "durationInMillis": 175040,
+        "releaseDate": "2021-01-11",
         "isrc": "KRA392000073",
         "artwork": {
           "width": 3000,
@@ -1208,14 +1123,14 @@
           "textColor4": "c93528"
         },
         "composerName": "JEON SOYEON & Ahn Ye Eun",
+        "url": "https://music.apple.com/us/album/hann-alone-in-winter/1545320377?i=1545320391",
         "playParams": {
           "id": "1545320391",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hann-alone-in-winter/1545320377?i=1545320391",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HANN (Alone in winter)",
         "previews": [
           {
@@ -1237,8 +1152,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -1251,14 +1166,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -1266,6 +1181,92 @@
           }
         ],
         "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1533894669",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1533894669",
+      "attributes": {
+        "albumName": "THE ALBUM",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 180956,
+        "releaseDate": "2020-06-26",
+        "isrc": "KRA402000111",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/c3/64/46/c364465f-6271-8aae-93a8-b9979d2befe5/20UMGIM82075.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0e0508",
+          "textColor1": "feb6c8",
+          "textColor2": "f795ac",
+          "textColor3": "ce93a2",
+          "textColor4": "c9788b"
+        },
+        "composerName": "Teddy, 24 & R. Tee",
+        "url": "https://music.apple.com/us/album/how-you-like-that/1533894050?i=1533894669",
+        "playParams": {
+          "id": "1533894669",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "How You Like That",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/25/ec/a9/25eca954-9680-a780-906f-923f8dcd3871/mzaf_11844014312473818635.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BLACKPINK"
+      }
+    },
+    {
+      "id": "1535654244",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1535654244",
+      "attributes": {
+        "albumName": "Eyes wide open",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 205493,
+        "releaseDate": "2020-10-26",
+        "isrc": "US5TA2000134",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/1f/46/44/1f46442a-ed5a-7cc8-c119-c6453b559ef7/192641580802_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "bcb7b3",
+          "textColor1": "14060a",
+          "textColor2": "1d1d1e",
+          "textColor3": "352a2c",
+          "textColor4": "3d3c3b"
+        },
+        "composerName": "Melanie Joy Fontana, Michel \"Lindgren\" Schulz, A. Wright, J.Y. Park \u201cThe Asiansoul\u201d & Sim Eun Jee",
+        "url": "https://music.apple.com/us/album/i-cant-stop-me/1535654236?i=1535654244",
+        "playParams": {
+          "id": "1535654244",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I CAN'T STOP ME",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/10/49/931049bb-8e0d-b987-cbf2-407631880911/mzaf_8393986293664874135.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
       }
     }
   ]
