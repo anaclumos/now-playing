@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1639416903",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639416903",
+      "attributes": {
+        "albumName": "After LIKE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
+        "isrc": "QMBZ92254957",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00ff00",
+          "textColor1": "000000",
+          "textColor2": "002f00",
+          "textColor3": "003300",
+          "textColor4": "005800"
+        },
+        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
+        "playParams": {
+          "id": "1639416903",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "After LIKE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1616804152",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1616804152",
+      "attributes": {
+        "albumName": "LOVE DIVE - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 177187,
+        "releaseDate": "2022-04-05",
+        "isrc": "KRA382204375",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/67/f8/16/67f8164a-bfc2-f29b-e241-800426a968ef/cover_KM0015013_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "006eb8",
+          "textColor1": "f6f8fc",
+          "textColor2": "f6f8fc",
+          "textColor3": "c5dcef",
+          "textColor4": "c5dcef"
+        },
+        "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
+        "playParams": {
+          "id": "1616804152",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "LOVE DIVE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a3/f2/04/a3f20464-c068-fbc5-8f76-42f9947c1b61/mzaf_177491966313232028.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
       "id": "1645995269",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1645995269",
@@ -13,8 +98,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -33,8 +118,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -70,11 +155,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -113,11 +198,11 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & Kako",
+        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "playParams": {
           "id": "1611504819",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/never-stop-me/1611504686?i=1611504819",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -185,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-01-17",
         "durationInMillis": 173413,
+        "releaseDate": "2022-01-17",
         "isrc": "KRMIM2201803",
         "artwork": {
           "width": 1400,
@@ -199,14 +284,14 @@
           "textColor4": "c38230"
         },
         "composerName": "BIBI, twlv, 72, Olof Lindskog, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smiley-feat-bibi/1605083051?i=1605083055",
         "playParams": {
           "id": "1605083055",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smiley-feat-bibi/1605083051?i=1605083055",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMILEY (feat. BIBI)",
         "previews": [
           {
@@ -228,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-18",
         "durationInMillis": 147853,
+        "releaseDate": "2022-05-18",
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -241,14 +326,14 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ARIA",
         "previews": [
           {
@@ -270,8 +355,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-14",
         "durationInMillis": 208747,
+        "releaseDate": "2022-11-14",
         "isrc": "KRB462201355",
         "artwork": {
           "width": 3000,
@@ -284,14 +369,14 @@
           "textColor4": "4a3d4c"
         },
         "composerName": "Dwayne \"Dem Jointz\" Abernathy Jr., RYAN JHUN, Eyelar Mirzazadeh, Macy Maloy & Autumn Rowe",
+        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
         "playParams": {
           "id": "1653523109",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Selfish",
         "previews": [
           {
@@ -356,8 +441,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -375,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -412,11 +497,11 @@
           "textColor4": "c2adab"
         },
         "composerName": "BXN & Prime Time",
+        "url": "https://music.apple.com/us/album/sparkling/1632915288?i=1632915479",
         "playParams": {
           "id": "1632915479",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sparkling/1632915288?i=1632915479",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -441,8 +526,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186907,
         "releaseDate": "2022-07-10",
+        "durationInMillis": 186907,
         "isrc": "KRMIM2236621",
         "artwork": {
           "width": 3000,
@@ -461,8 +546,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -484,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-02-14",
         "durationInMillis": 204973,
+        "releaseDate": "2022-02-14",
         "isrc": "KRA302200026",
         "artwork": {
           "width": 4000,
@@ -498,14 +583,14 @@
           "textColor4": "8a9bb2"
         },
         "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "playParams": {
           "id": "1609049613",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -540,11 +625,11 @@
           "textColor4": "3a3d41"
         },
         "composerName": "HEIZE, george, DOHU & 623",
+        "url": "https://music.apple.com/us/album/sad-ending-feat-george/1631785012?i=1631785026",
         "playParams": {
           "id": "1631785026",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sad-ending-feat-george/1631785012?i=1631785026",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -611,8 +696,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 197413,
         "releaseDate": "2022-01-16",
+        "durationInMillis": 197413,
         "isrc": "KRG132200001",
         "artwork": {
           "width": 3000,
@@ -631,8 +716,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -752,11 +837,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -794,11 +879,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "playParams": {
           "id": "1670622074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -829,8 +914,8 @@
           "Pop/Rock"
         ],
         "trackNumber": 8,
-        "releaseDate": "1981-06-01",
         "durationInMillis": 233720,
+        "releaseDate": "1981-06-01",
         "isrc": "SEAYD8102080",
         "artwork": {
           "width": 3000,
@@ -843,14 +928,14 @@
           "textColor4": "d7bdb5"
         },
         "composerName": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "playParams": {
           "id": "1440715697",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Slipping Through My Fingers",
         "previews": [
           {
@@ -914,8 +999,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 224837,
         "releaseDate": "2022-04-04",
+        "durationInMillis": 224837,
         "isrc": "KRA382204215",
         "artwork": {
           "width": 3000,
@@ -933,8 +1018,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Glitch",
         "previews": [
           {
@@ -969,11 +1054,11 @@
           "textColor3": "41451c",
           "textColor4": "304d14"
         },
+        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "playParams": {
           "id": "1621050355",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1011,11 +1096,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1053,11 +1138,11 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -1196,91 +1281,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1479397583",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1479397583",
-      "attributes": {
-        "albumName": "Traveler",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 299164,
-        "releaseDate": "2019-09-11",
-        "isrc": "JPPC01901536",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/{w}x{h}bb.jpg",
-          "bgColor": "3d635d",
-          "textColor1": "f1f3ed",
-          "textColor2": "f1efe2",
-          "textColor3": "cdd6d0",
-          "textColor4": "cdd3c7"
-        },
-        "composerName": "Satoshi Fujihara",
-        "url": "https://music.apple.com/us/album/yesterday/1479397582?i=1479397583",
-        "playParams": {
-          "id": "1479397583",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": true,
-        "name": "Yesterday",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0e/33/fd/0e33fd82-765d-3270-6537-e0e58b7a5b00/mzaf_15636288676611555269.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OFFICIAL HIGE DANDISM"
-      }
-    },
-    {
-      "id": "1604196457",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1604196457",
-      "attributes": {
-        "albumName": "Yummy Yummy Love - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 199027,
-        "releaseDate": "2022-01-14",
-        "isrc": "KRB462101449",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/c7/5b/63c75be0-f501-18fd-4f11-ac51b90639f2/886449836390.jpg/{w}x{h}bb.jpg",
-          "bgColor": "180313",
-          "textColor1": "feffff",
-          "textColor2": "f7018c",
-          "textColor3": "cfcccf",
-          "textColor4": "ca0174"
-        },
-        "composerName": "Moa \u201cCazzi Opeia\u201d Carlebecker, Ellen Berg, Jonatan Gusmark & Ludvig Evers",
-        "url": "https://music.apple.com/us/album/yummy-yummy-love/1604196215?i=1604196457",
-        "playParams": {
-          "id": "1604196457",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Yummy Yummy Love",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/40/bd/d9/40bdd950-4a47-adf7-5525-67706deaf2e4/mzaf_18181256143799502240.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "MOMOLAND & NATTI NATASHA"
       }
     }
   ]
