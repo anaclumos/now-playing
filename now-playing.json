@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1613300650",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1613300650",
+      "attributes": {
+        "albumName": "\u5bb9 : FACE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-03-16",
+        "durationInMillis": 167627,
+        "isrc": "KRA382203888",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/8b/46/54/8b4654b5-492f-b3db-a089-02582ab46876/cover_KM0014922_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "030902",
+          "textColor1": "f1ed7c",
+          "textColor2": "f1e861",
+          "textColor3": "c1c064",
+          "textColor4": "c1bb4e"
+        },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
+        "playParams": {
+          "id": "1613300650",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "HONEY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/dd/13/f6dd13a9-c971-2a4c-18d1-c44bef5c7c97/mzaf_14699012896397923692.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Solar"
+      }
+    },
+    {
+      "id": "1624007966",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1624007966",
+      "attributes": {
+        "albumName": "DEEP - The 1st Mini Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-05-16",
+        "durationInMillis": 179120,
+        "isrc": "KRA302200089",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/59/8d/12/598d1283-7cbf-f88d-0af4-3f138cf0ff6c/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ff83cc",
+          "textColor1": "120205",
+          "textColor2": "120507",
+          "textColor3": "411c2d",
+          "textColor4": "411e2f"
+        },
+        "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
+        "playParams": {
+          "id": "1624007966",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "DEEP",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/fb/eb/42fbebb5-ba3e-d4ac-30f9-defc38adc197/mzaf_654819522158017305.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "HYO"
+      }
+    },
+    {
+      "id": "1648611078",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1648611078",
+      "attributes": {
+        "albumName": "Lethality - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-10-12",
+        "durationInMillis": 170600,
+        "isrc": "KRA382207788",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/54/e6/23/54e6237a-6c35-fb71-63bf-77052a4d8cf0/cover_KM0016217_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fefefe",
+          "textColor1": "080609",
+          "textColor2": "131015",
+          "textColor3": "39373a",
+          "textColor4": "424043"
+        },
+        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
+        "playParams": {
+          "id": "1648611078",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Underwater",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/4b/de/134bdebb-f491-1de3-2bda-b8d75eff385c/mzaf_16277314826483354655.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Kwon Eun Bi"
+      }
+    },
+    {
       "id": "1603827292",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1603827292",
@@ -32,8 +159,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Play",
         "previews": [
           {
@@ -69,11 +196,11 @@
           "textColor4": "c2adab"
         },
         "composerName": "BXN & Prime Time",
+        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "playParams": {
           "id": "1632909003",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -111,14 +238,14 @@
           "textColor3": "364654",
           "textColor4": "3a4751"
         },
+        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "playParams": {
           "id": "1617057699",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Glitch",
         "previews": [
           {
@@ -195,14 +322,14 @@
           "textColor3": "4c2f3a",
           "textColor4": "573248"
         },
+        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "playParams": {
           "id": "1605708141",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LUNATIC",
         "previews": [
           {
@@ -324,11 +451,11 @@
           "textColor4": "8a9bb2"
         },
         "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "playParams": {
           "id": "1609049613",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -366,14 +493,14 @@
           "textColor4": "3a3d41"
         },
         "composerName": "HEIZE, george, DOHU & 623",
+        "url": "https://music.apple.com/us/album/sad-ending-feat-george/1631785012?i=1631785026",
         "playParams": {
           "id": "1631785026",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sad-ending-feat-george/1631785012?i=1631785026",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Sad ending (feat. george)",
         "previews": [
           {
@@ -381,49 +508,6 @@
           }
         ],
         "artistName": "HEIZE"
-      }
-    },
-    {
-      "id": "1624007966",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1624007966",
-      "attributes": {
-        "albumName": "DEEP - The 1st Mini Album",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-05-16",
-        "durationInMillis": 179120,
-        "isrc": "KRA302200089",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/59/8d/12/598d1283-7cbf-f88d-0af4-3f138cf0ff6c/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ff83cc",
-          "textColor1": "120205",
-          "textColor2": "120507",
-          "textColor3": "411c2d",
-          "textColor4": "411e2f"
-        },
-        "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
-        "playParams": {
-          "id": "1624007966",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "DEEP",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/fb/eb/42fbebb5-ba3e-d4ac-30f9-defc38adc197/mzaf_654819522158017305.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "HYO"
       }
     },
     {
@@ -451,14 +535,14 @@
           "textColor4": "b8846c"
         },
         "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "playParams": {
           "id": "1604196299",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -494,11 +578,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -536,14 +620,14 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -584,8 +668,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Teddy Bear",
         "previews": [
           {
@@ -669,14 +753,14 @@
           "textColor4": "d7bdb5"
         },
         "composerName": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "playParams": {
           "id": "1440715697",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Slipping Through My Fingers",
         "previews": [
           {
@@ -711,14 +795,14 @@
           "textColor4": "222f22"
         },
         "composerName": "\uc774\uc2b9\uc8fc, \ucd5c\uc778\ud658 & Ji Hun",
+        "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "playParams": {
           "id": "1625848547",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "For Love",
         "previews": [
           {
@@ -753,11 +837,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -802,8 +886,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -838,11 +922,11 @@
           "textColor4": "be8e6d"
         },
         "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
+        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "playParams": {
           "id": "1649325667",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -886,8 +970,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -923,11 +1007,11 @@
           "textColor4": "414546"
         },
         "composerName": "Rado, Fly-T & Will.B",
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "playParams": {
           "id": "1654124215",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -972,8 +1056,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -1014,8 +1098,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "Yesterday",
         "previews": [
           {
@@ -1194,91 +1278,6 @@
           }
         ],
         "artistName": "10cm"
-      }
-    },
-    {
-      "id": "1624475848",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1624475848",
-      "attributes": {
-        "albumName": "ARIA - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-05-18",
-        "durationInMillis": 147853,
-        "isrc": "KRA382205088",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/5a/da/09/5ada09e1-49f3-9753-4b76-c7d91d66bdea/cover_KM0015249_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "bfad6d",
-          "textColor1": "0e0e04",
-          "textColor2": "282611",
-          "textColor3": "322e19",
-          "textColor4": "464123"
-        },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
-        "playParams": {
-          "id": "1624475848",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "ARIA",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ad/11/05/ad1105f7-869f-cec4-d48a-cb89f75173b8/mzaf_16847595776005245083.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yerin"
-      }
-    },
-    {
-      "id": "1653523109",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1653523109",
-      "attributes": {
-        "albumName": "SELFISH - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-11-14",
-        "durationInMillis": 208747,
-        "isrc": "KRB462201355",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/37/04/0f/37040f51-af52-ef77-040e-ad6a2402a715/196589644145.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d6beee",
-          "textColor1": "1b1a24",
-          "textColor2": "271d24",
-          "textColor3": "403b4c",
-          "textColor4": "4a3d4c"
-        },
-        "composerName": "Dwayne \"Dem Jointz\" Abernathy Jr., RYAN JHUN, Eyelar Mirzazadeh, Macy Maloy & Autumn Rowe",
-        "playParams": {
-          "id": "1653523109",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Selfish",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f2/95/d1/f295d1a2-7a6b-f977-bfad-99cfe7330366/mzaf_9922399420040112852.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YooA"
       }
     }
   ]
