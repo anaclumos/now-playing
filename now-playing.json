@@ -2,6 +2,132 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1617057699",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1617057699",
+      "attributes": {
+        "albumName": "Color - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-04-04",
+        "durationInMillis": 224837,
+        "isrc": "KRA382204215",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/1a/1a/57/1a1a5761-0687-73e8-8cf6-22b30a429bf0/cover_KM0014983_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d4ccca",
+          "textColor1": "0f2537",
+          "textColor2": "142532",
+          "textColor3": "364654",
+          "textColor4": "3a4751"
+        },
+        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
+        "playParams": {
+          "id": "1617057699",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Glitch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ef/7d/34/ef7d3498-d843-a3db-4c57-e9c7e4f0c83b/mzaf_11169787214549121390.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Kwon Eun Bi"
+      }
+    },
+    {
+      "id": "1621050355",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1621050355",
+      "attributes": {
+        "albumName": "C.I.T.T (Cheese in the Trap) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-04-28",
+        "durationInMillis": 177400,
+        "isrc": "KRA382204683",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f2/cc/6ff2cc48-d5d5-d532-3a55-a9e94b670360/cover_KM0015111_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f2d600",
+          "textColor1": "152023",
+          "textColor2": "002a1a",
+          "textColor3": "41451c",
+          "textColor4": "304d14"
+        },
+        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
+        "playParams": {
+          "id": "1621050355",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "C.I.T.T (Cheese in the Trap)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/aa/76/da/aa76dac7-a11b-cab0-fdb7-8ec58c2fe2f2/mzaf_4047734330659577726.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Moon Byul"
+      }
+    },
+    {
+      "id": "1605708141",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1605708141",
+      "attributes": {
+        "albumName": "6equence",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2022-01-19",
+        "durationInMillis": 205227,
+        "isrc": "KRA382200138",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/8f/92/59/8f92597f-4b40-eb87-cbc0-dabd3e18efde/cover_KM0014682_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d0e7ef",
+          "textColor1": "2b010d",
+          "textColor2": "39051e",
+          "textColor3": "4c2f3a",
+          "textColor4": "573248"
+        },
+        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
+        "playParams": {
+          "id": "1605708141",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "LUNATIC",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/0c/f9/910cf9be-afe2-5133-b8ce-bdb59e7de646/mzaf_8280159854665259291.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Moon Byul"
+      }
+    },
+    {
       "id": "1613300650",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1613300650",
@@ -32,8 +158,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "HONEY",
         "previews": [
           {
@@ -117,8 +243,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Underwater",
         "previews": [
           {
@@ -202,8 +328,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -211,132 +337,6 @@
           }
         ],
         "artistName": "CHUNG HA"
-      }
-    },
-    {
-      "id": "1617057699",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1617057699",
-      "attributes": {
-        "albumName": "Color - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-04-04",
-        "durationInMillis": 224837,
-        "isrc": "KRA382204215",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/1a/1a/57/1a1a5761-0687-73e8-8cf6-22b30a429bf0/cover_KM0014983_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d4ccca",
-          "textColor1": "0f2537",
-          "textColor2": "142532",
-          "textColor3": "364654",
-          "textColor4": "3a4751"
-        },
-        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
-        "playParams": {
-          "id": "1617057699",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Glitch",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ef/7d/34/ef7d3498-d843-a3db-4c57-e9c7e4f0c83b/mzaf_11169787214549121390.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Kwon Eun Bi"
-      }
-    },
-    {
-      "id": "1621050355",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1621050355",
-      "attributes": {
-        "albumName": "C.I.T.T (Cheese in the Trap) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-04-28",
-        "durationInMillis": 177400,
-        "isrc": "KRA382204683",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f2/cc/6ff2cc48-d5d5-d532-3a55-a9e94b670360/cover_KM0015111_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f2d600",
-          "textColor1": "152023",
-          "textColor2": "002a1a",
-          "textColor3": "41451c",
-          "textColor4": "304d14"
-        },
-        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
-        "playParams": {
-          "id": "1621050355",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "C.I.T.T (Cheese in the Trap)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/aa/76/da/aa76dac7-a11b-cab0-fdb7-8ec58c2fe2f2/mzaf_4047734330659577726.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Moon Byul"
-      }
-    },
-    {
-      "id": "1605708141",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1605708141",
-      "attributes": {
-        "albumName": "6equence",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2022-01-19",
-        "durationInMillis": 205227,
-        "isrc": "KRA382200138",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/8f/92/59/8f92597f-4b40-eb87-cbc0-dabd3e18efde/cover_KM0014682_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d0e7ef",
-          "textColor1": "2b010d",
-          "textColor2": "39051e",
-          "textColor3": "4c2f3a",
-          "textColor4": "573248"
-        },
-        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
-        "playParams": {
-          "id": "1605708141",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "LUNATIC",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/0c/f9/910cf9be-afe2-5133-b8ce-bdb59e7de646/mzaf_8280159854665259291.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Moon Byul"
       }
     },
     {
@@ -371,8 +371,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Heart Burn",
         "previews": [
           {
@@ -414,8 +414,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -457,8 +457,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "INVU",
         "previews": [
           {
@@ -584,8 +584,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -710,8 +710,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -843,8 +843,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -928,8 +928,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "I'm Not Here To Make Friends",
         "previews": [
           {
@@ -1013,8 +1013,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Poppy",
         "previews": [
           {
@@ -1141,8 +1141,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Yummy Yummy Love",
         "previews": [
           {
@@ -1184,8 +1184,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Yummy Yummy Love (Instrumental)",
         "previews": [
           {
@@ -1226,8 +1226,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -1269,8 +1269,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Mind",
         "previews": [
           {
