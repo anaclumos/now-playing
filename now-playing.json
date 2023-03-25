@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1670622074",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670622074",
+      "attributes": {
+        "albumName": "Teddy Bear - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
+        "isrc": "KRA382300512",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d458f5",
+          "textColor2": "d522f6",
+          "textColor3": "aa46c4",
+          "textColor4": "ab1bc4"
+        },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
+        "playParams": {
+          "id": "1670622074",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Poppy (Korean Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/df/89/14/df8914f4-b15f-fe49-1ed6-cc09128c7e1a/mzaf_11186161707499779216.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1670622073",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670622073",
+      "attributes": {
+        "albumName": "Teddy Bear - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-14",
+        "durationInMillis": 189773,
+        "isrc": "KRA382300511",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d458f5",
+          "textColor2": "d522f6",
+          "textColor3": "aa46c4",
+          "textColor4": "ab1bc4"
+        },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
+        "playParams": {
+          "id": "1670622073",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Teddy Bear",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/df/90/3ddf9079-cd94-6c73-d437-1a1f2f28de15/mzaf_2025394688294119483.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1654124215",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1654124215",
+      "attributes": {
+        "albumName": "Poppy - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-11-16",
+        "durationInMillis": 179867,
+        "isrc": "JPPO02203955",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/5b/41/0b/5b410b11-0bfd-db80-2413-f2fd99454b5e/22UM1IM26561.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "def5fd",
+          "textColor1": "0c0a0a",
+          "textColor2": "1a1a19",
+          "textColor3": "36393b",
+          "textColor4": "414546"
+        },
+        "composerName": "Rado, Fly-T & Will.B",
+        "url": "https://music.apple.com/us/album/poppy/1654124214?i=1654124215",
+        "playParams": {
+          "id": "1654124215",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Poppy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/07/69/97/076997a3-8cab-d38b-edc7-8a642ef746da/mzaf_13303718278971176677.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "1649467575",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1649467575",
@@ -69,11 +196,11 @@
           "textColor4": "cdd3c7"
         },
         "composerName": "Satoshi Fujihara",
+        "url": "https://music.apple.com/us/album/yesterday/1479397582?i=1479397583",
         "playParams": {
           "id": "1479397583",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yesterday/1479397582?i=1479397583",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": false,
@@ -118,8 +245,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Yummy Yummy Love",
         "previews": [
           {
@@ -203,8 +330,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -240,11 +367,11 @@
           "textColor4": "383331"
         },
         "composerName": "10cm",
+        "url": "https://music.apple.com/us/album/mind/931554353?i=931554403",
         "playParams": {
           "id": "931554403",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/mind/931554353?i=931554403",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -282,14 +409,14 @@
           "textColor4": "222f22"
         },
         "composerName": "\uc774\uc2b9\uc8fc, \ucd5c\uc778\ud658 & Ji Hun",
+        "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "playParams": {
           "id": "1625848547",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "For Love",
         "previews": [
           {
@@ -330,8 +457,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -409,11 +536,11 @@
           "textColor4": "b8846c"
         },
         "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "playParams": {
           "id": "1604196299",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -494,11 +621,11 @@
           "textColor4": "c2adab"
         },
         "composerName": "BXN & Prime Time",
+        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "playParams": {
           "id": "1632909003",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -584,8 +711,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "C.I.T.T (Cheese in the Trap)",
         "previews": [
           {
@@ -620,14 +747,14 @@
           "textColor3": "4c2f3a",
           "textColor4": "573248"
         },
+        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "playParams": {
           "id": "1605708141",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "LUNATIC",
         "previews": [
           {
@@ -668,8 +795,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "HONEY",
         "previews": [
           {
@@ -705,14 +832,14 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DEEP",
         "previews": [
           {
@@ -790,11 +917,11 @@
           "textColor4": "5d3122"
         },
         "composerName": "SUNMI, Kyuwon \"Q\" Kim & CobiCudi",
+        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "playParams": {
           "id": "1630553208",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -839,8 +966,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -876,14 +1003,14 @@
           "textColor4": "8a9bb2"
         },
         "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "playParams": {
           "id": "1609049613",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -918,14 +1045,14 @@
           "textColor4": "3a3d41"
         },
         "composerName": "HEIZE, george, DOHU & 623",
+        "url": "https://music.apple.com/us/album/sad-ending-feat-george/1631785012?i=1631785026",
         "playParams": {
           "id": "1631785026",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sad-ending-feat-george/1631785012?i=1631785026",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Sad ending (feat. george)",
         "previews": [
           {
@@ -961,14 +1088,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -1003,11 +1130,11 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1015,90 +1142,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1670622073",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670622073",
-      "attributes": {
-        "albumName": "Teddy Bear - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-14",
-        "durationInMillis": 189773,
-        "isrc": "KRA382300511",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d458f5",
-          "textColor2": "d522f6",
-          "textColor3": "aa46c4",
-          "textColor4": "ab1bc4"
-        },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
-        "playParams": {
-          "id": "1670622073",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Teddy Bear",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/df/90/3ddf9079-cd94-6c73-d437-1a1f2f28de15/mzaf_2025394688294119483.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
-      }
-    },
-    {
-      "id": "1670622074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670622074",
-      "attributes": {
-        "albumName": "Teddy Bear - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-02-03",
-        "durationInMillis": 178293,
-        "isrc": "KRA382300512",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d458f5",
-          "textColor2": "d522f6",
-          "textColor3": "aa46c4",
-          "textColor4": "ab1bc4"
-        },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1670622072?i=1670622074",
-        "playParams": {
-          "id": "1670622074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Poppy (Korean Ver.)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/df/89/14/df8914f4-b15f-fe49-1ed6-cc09128c7e1a/mzaf_11186161707499779216.plus.aac.p.m4a"
           }
         ],
         "artistName": "STAYC"
@@ -1136,14 +1179,14 @@
           "textColor4": "d7bdb5"
         },
         "composerName": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "playParams": {
           "id": "1440715697",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Slipping Through My Fingers",
         "previews": [
           {
@@ -1227,8 +1270,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -1236,48 +1279,6 @@
           }
         ],
         "artistName": "YENA"
-      }
-    },
-    {
-      "id": "1649325667",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1649325667",
-      "attributes": {
-        "albumName": "Gloria",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2023-01-27",
-        "durationInMillis": 229605,
-        "isrc": "GBUM72205420",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "36311d",
-          "textColor1": "e4c29d",
-          "textColor2": "e0a581",
-          "textColor3": "c1a583",
-          "textColor4": "be8e6d"
-        },
-        "composerName": "Sam Smith, Calvin Harris, Jessie Reyez, Mikkel S. Eriksen, Tor Erik Hermansen, E.Y. \"Yip\" Harburg & Harold Arlen",
-        "playParams": {
-          "id": "1649325667",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/im-not-here-to-make-friends/1649325651?i=1649325667",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "I'm Not Here To Make Friends",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b9/dc/f8b9dcee-26dc-a2b9-ecb9-7f30ed9a543e/mzaf_15443244977650399892.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sam Smith"
       }
     }
   ]
