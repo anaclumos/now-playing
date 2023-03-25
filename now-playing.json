@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1677134765",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1677134765",
+      "attributes": {
+        "albumName": "OMG (Apple Music Edition) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 212253,
+        "releaseDate": "2023-01-02",
+        "isrc": "USA2P2251723",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/d0/78/92/d07892c1-2770-7e7f-68ba-dc6409750f7a/196922401039_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "d7d7d7",
+          "textColor3": "cbcbcb",
+          "textColor4": "acacac"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
+        "playParams": {
+          "id": "1677134765",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "OMG (Apple Music Edition)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f7/c7/e7/f7c7e7e3-a537-ed64-34d8-4a507ce23f2c/mzaf_17039570720114777113.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1624475848",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1624475848",
@@ -13,8 +56,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-18",
         "durationInMillis": 147853,
+        "releaseDate": "2022-05-18",
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -32,8 +75,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -55,8 +98,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177400,
         "releaseDate": "2022-04-28",
+        "durationInMillis": 177400,
         "isrc": "KRA382204683",
         "artwork": {
           "width": 3000,
@@ -74,8 +117,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "C.I.T.T (Cheese in the Trap)",
         "previews": [
           {
@@ -97,8 +140,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 160549,
         "releaseDate": "2022-09-30",
+        "durationInMillis": 160549,
         "isrc": "SE5Q52202527",
         "artwork": {
           "width": 3000,
@@ -117,8 +160,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -139,8 +182,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -159,8 +202,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -225,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199067,
         "releaseDate": "2022-06-02",
+        "durationInMillis": 199067,
         "isrc": "KRA492200507",
         "artwork": {
           "width": 1400,
@@ -245,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -436,8 +479,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179867,
         "releaseDate": "2022-11-16",
+        "durationInMillis": 179867,
         "isrc": "JPPO02203955",
         "artwork": {
           "width": 3000,
@@ -456,8 +499,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Poppy",
         "previews": [
           {
@@ -479,8 +522,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-19",
         "durationInMillis": 145320,
+        "releaseDate": "2022-10-19",
         "isrc": "KRMIM2281382",
         "artwork": {
           "width": 3000,
@@ -499,8 +542,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queen of Hearts",
         "previews": [
           {
@@ -521,8 +564,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-09-11",
         "durationInMillis": 299164,
+        "releaseDate": "2019-09-11",
         "isrc": "JPPC01901536",
         "artwork": {
           "width": 1400,
@@ -541,8 +584,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "Yesterday",
         "previews": [
           {
@@ -649,8 +692,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165606,
         "releaseDate": "2013-09-18",
+        "durationInMillis": 165606,
         "isrc": "ROROT1313101",
         "artwork": {
           "width": 1440,
@@ -669,8 +712,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -777,8 +820,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-14",
         "durationInMillis": 208747,
+        "releaseDate": "2022-11-14",
         "isrc": "KRB462201355",
         "artwork": {
           "width": 3000,
@@ -797,8 +840,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Selfish",
         "previews": [
           {
@@ -904,8 +947,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-07-10",
         "durationInMillis": 186907,
+        "releaseDate": "2022-07-10",
         "isrc": "KRMIM2236621",
         "artwork": {
           "width": 3000,
@@ -924,8 +967,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -1201,8 +1244,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-05",
         "durationInMillis": 202533,
+        "releaseDate": "2022-08-05",
         "isrc": "KRA302200135",
         "artwork": {
           "width": 5000,
@@ -1221,8 +1264,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FOREVER 1",
         "previews": [
           {
@@ -1230,49 +1273,6 @@
           }
         ],
         "artistName": "Girls' Generation"
-      }
-    },
-    {
-      "id": "1639416903",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639416903",
-      "attributes": {
-        "albumName": "After LIKE - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 176973,
-        "releaseDate": "2022-08-22",
-        "isrc": "QMBZ92254957",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/01/f5/0a/01f50af1-89da-cb51-a809-c613600451e9/196925429900.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00ff00",
-          "textColor1": "000000",
-          "textColor2": "002f00",
-          "textColor3": "003300",
-          "textColor4": "005800"
-        },
-        "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
-        "playParams": {
-          "id": "1639416903",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "After LIKE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/6d/89/c16d89c2-2c5a-2af1-c7ab-795a43da6799/mzaf_12151411481091015950.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     }
   ]
