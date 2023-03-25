@@ -2,24 +2,52 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.b1JvkKdSbdrMKBq",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.b1JvkKdSbdrMKBq",
+      "attributes": {
+        "albumName": "NewJeans MINDA",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 220368,
+        "name": "Ditto (UK Garage Remix)",
+        "artistName": "MINDA (\ubbfc\ub2e4)",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/02/08/78/02087867-c407-074c-6a25-d0088c59bd60/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230325T004552Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=383f0b0edca8e6531f8ce162b0ff4e17baa0715f8fe0c78b086e3c462ce91535"
+        },
+        "playParams": {
+          "id": "i.b1JvkKdSbdrMKBq",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "i.WmYQbMqtxo4rAzD",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.WmYQbMqtxo4rAzD",
       "attributes": {
-        "discNumber": 0,
         "albumName": "NewJeans MINDA",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 195735,
         "name": "Cookie (Highschool Band Remix)",
         "artistName": "MINDA (\ubbfc\ub2e4)",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230325T002307Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=686e17e2310cf71daea04cca999fd7cf897f15e30bfd79a1f952757e016ccbf9"
+          "url": "https://store-032.blobstore.apple.com/sq-mq-us-032-000002/aa/2e/a4/aa2ea423-8ce4-f1eb-3384-c0943d384a18/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230325T004552Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAJC19DXS75RV205ZP%2F20230325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7665749c204258bd964d42bc10b6ff9bc384f21d19c2ffbd39bd55ef9ea02790"
         },
         "playParams": {
           "id": "i.WmYQbMqtxo4rAzD",
@@ -126,8 +154,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 198587,
         "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -423,8 +451,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 145320,
         "releaseDate": "2022-10-19",
+        "durationInMillis": 145320,
         "isrc": "KRMIM2281382",
         "artwork": {
           "width": 3000,
@@ -551,8 +579,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199013,
         "releaseDate": "2022-01-14",
+        "durationInMillis": 199013,
         "isrc": "KRB462200033",
         "artwork": {
           "width": 3000,
@@ -678,8 +706,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 213020,
         "releaseDate": "2022-04-23",
+        "durationInMillis": 213020,
         "isrc": "KRMIM2215077",
         "artwork": {
           "width": 1400,
@@ -763,8 +791,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 208747,
         "releaseDate": "2022-11-14",
+        "durationInMillis": 208747,
         "isrc": "KRB462201355",
         "artwork": {
           "width": 3000,
@@ -805,8 +833,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 197413,
         "releaseDate": "2022-01-16",
+        "durationInMillis": 197413,
         "isrc": "KRG132200001",
         "artwork": {
           "width": 3000,
@@ -1215,49 +1243,6 @@
           }
         ],
         "artistName": "SUNMI"
-      }
-    },
-    {
-      "id": "1632915479",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1632915479",
-      "attributes": {
-        "albumName": "Bare&Rare, Pt. 1",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 186907,
-        "releaseDate": "2022-07-10",
-        "isrc": "KRMIM2236621",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/11/02/761102e5-acd2-7df4-c830-b9009856a7dd/5054197207747.jpg/{w}x{h}bb.jpg",
-          "bgColor": "011e46",
-          "textColor1": "f6e6e6",
-          "textColor2": "f2d0c5",
-          "textColor3": "c5bec6",
-          "textColor4": "c2adab"
-        },
-        "composerName": "BXN & Prime Time",
-        "url": "https://music.apple.com/us/album/sparkling/1632915288?i=1632915479",
-        "playParams": {
-          "id": "1632915479",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Sparkling",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bf/86/43/bf86435a-c4d1-335d-a50b-046707130c6e/mzaf_15055015104266574570.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "CHUNG HA"
       }
     }
   ]
