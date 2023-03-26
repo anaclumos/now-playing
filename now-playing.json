@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1669378322",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1669378322",
+      "attributes": {
+        "albumName": "Poppy (Korean Ver.) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
+        "isrc": "KRA382300512",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d357f4",
+          "textColor2": "d933f7",
+          "textColor3": "a946c3",
+          "textColor4": "ad29c6"
+        },
+        "playParams": {
+          "id": "1669378322",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Poppy (Korean Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "1616649362",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1616649362",
@@ -33,8 +75,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -75,8 +117,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -111,14 +153,14 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -160,8 +202,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DEEP",
         "previews": [
           {
@@ -196,14 +238,14 @@
           "textColor3": "c1c064",
           "textColor4": "c1bb4e"
         },
-        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "playParams": {
           "id": "1613300650",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "HONEY",
         "previews": [
           {
@@ -244,8 +286,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Underwater",
         "previews": [
           {
@@ -253,48 +295,6 @@
           }
         ],
         "artistName": "Kwon Eun Bi"
-      }
-    },
-    {
-      "id": "1669378322",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1669378322",
-      "attributes": {
-        "albumName": "Poppy (Korean Ver.) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-03",
-        "durationInMillis": 178293,
-        "isrc": "KRA382300512",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d357f4",
-          "textColor2": "d933f7",
-          "textColor3": "a946c3",
-          "textColor4": "ad29c6"
-        },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
-        "playParams": {
-          "id": "1669378322",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Poppy (Korean Ver.)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
       }
     },
     {
@@ -328,8 +328,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Glitch",
         "previews": [
           {
@@ -364,14 +364,14 @@
           "textColor3": "353c36",
           "textColor4": "4c5e46"
         },
-        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "playParams": {
           "id": "1578842459",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Holiday Party",
         "previews": [
           {
@@ -407,14 +407,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "playParams": {
           "id": "1677134765",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG (Apple Music Edition)",
         "previews": [
           {
@@ -456,8 +456,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -499,8 +499,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -536,14 +536,14 @@
           "textColor4": "c2adab"
         },
         "composerName": "BXN & Prime Time",
-        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "playParams": {
           "id": "1632909003",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -584,8 +584,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -627,8 +627,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -670,8 +670,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -707,14 +707,14 @@
           "textColor4": "4a3d4c"
         },
         "composerName": "Dwayne \"Dem Jointz\" Abernathy Jr., RYAN JHUN, Eyelar Mirzazadeh, Macy Maloy & Autumn Rowe",
-        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
         "playParams": {
           "id": "1653523109",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Selfish",
         "previews": [
           {
@@ -749,14 +749,14 @@
           "textColor3": "4c2f3a",
           "textColor4": "573248"
         },
-        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "playParams": {
           "id": "1605708141",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LUNATIC",
         "previews": [
           {
@@ -792,14 +792,14 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -835,14 +835,14 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -878,14 +878,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -921,14 +921,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "After LIKE",
         "previews": [
           {
@@ -969,8 +969,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheshire",
         "previews": [
           {
@@ -1016,8 +1016,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -1059,8 +1059,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -1095,14 +1095,14 @@
           "textColor3": "41451c",
           "textColor4": "304d14"
         },
-        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "playParams": {
           "id": "1621050355",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "C.I.T.T (Cheese in the Trap)",
         "previews": [
           {
@@ -1137,14 +1137,14 @@
           "textColor4": "222f22"
         },
         "composerName": "\uc774\uc2b9\uc8fc, \ucd5c\uc778\ud658 & Ji Hun",
-        "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "playParams": {
           "id": "1625848547",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "For Love",
         "previews": [
           {
@@ -1186,8 +1186,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Sugar High",
         "previews": [
           {
@@ -1229,8 +1229,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love Shhh!",
         "previews": [
           {
@@ -1271,8 +1271,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "I'm Not Here To Make Friends",
         "previews": [
           {
