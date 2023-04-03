@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1635469851",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469851",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
+        "isrc": "USA2P2230222",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
+        "playParams": {
+          "id": "1635469851",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Hype Boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1603827292",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1603827292",
+      "attributes": {
+        "albumName": "[REC.] - EP",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-01-18",
+        "durationInMillis": 201680,
+        "isrc": "KRA252200027",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/fd/61/b5/fd61b56a-df90-bc7a-dc95-217833d2eb93/190296278792.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b22e21",
+          "textColor1": "e2e7ee",
+          "textColor2": "fae3b0",
+          "textColor3": "d8c2c5",
+          "textColor4": "ebbf93"
+        },
+        "composerName": "Chancellor, MZMC & Yuju",
+        "playParams": {
+          "id": "1603827292",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Play",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/04/df/6b/04df6b7e-c96d-852f-947e-23f7d97baae9/mzaf_151935798095592218.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yuju"
+      }
+    },
+    {
       "id": "1616649362",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1616649362",
@@ -27,14 +112,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -112,14 +197,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -241,14 +326,14 @@
           "textColor4": "c2adab"
         },
         "composerName": "BXN & Prime Time",
-        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "playParams": {
           "id": "1632909003",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -284,14 +369,14 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -369,14 +454,14 @@
           "textColor3": "353c36",
           "textColor4": "4c5e46"
         },
-        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "playParams": {
           "id": "1578842459",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Holiday Party",
         "previews": [
           {
@@ -454,14 +539,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -496,14 +581,14 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -538,14 +623,14 @@
           "textColor3": "c1c064",
           "textColor4": "c1bb4e"
         },
-        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "playParams": {
           "id": "1613300650",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HONEY",
         "previews": [
           {
@@ -580,14 +665,14 @@
           "textColor4": "b8846c"
         },
         "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "playParams": {
           "id": "1604196299",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -708,14 +793,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -751,14 +836,14 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DEEP",
         "previews": [
           {
@@ -900,49 +985,6 @@
       }
     },
     {
-      "id": "1635469851",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469851",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 179027,
-        "isrc": "USA2P2230222",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
-        "playParams": {
-          "id": "1635469851",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Hype Boy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
       "id": "1677260541",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1677260541",
@@ -968,14 +1010,14 @@
           "textColor4": "cd6091"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "playParams": {
           "id": "1677260541",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -1011,14 +1053,14 @@
           "textColor4": "9c9ba6"
         },
         "composerName": "Wooziq & Myo",
-        "url": "https://music.apple.com/us/album/stalker/1560637610?i=1560638109",
         "playParams": {
           "id": "1560638109",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/stalker/1560637610?i=1560638109",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STALKER",
         "previews": [
           {
@@ -1196,8 +1238,8 @@
         "movementCount": 4,
         "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "attribution": "Wolfgang Amadeus Mozart",
         "name": "Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
+        "attribution": "Wolfgang Amadeus Mozart",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e0/a9/d2/e0a9d2f8-5ff3-6ef9-7830-4d0b54a96be5/mzaf_7923067195241511040.plus.aac.p.m4a"
@@ -1242,47 +1284,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/28/31/a428314e-34f2-25d5-3177-f9c1a5b114c5/mzaf_7381286504205018351.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "\u00c9der Quartet & Dmitri Shostakovich"
-      }
-    },
-    {
-      "id": "159235909",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/159235909",
-      "attributes": {
-        "albumName": "The Very Best of Shostakovich",
-        "genreNames": [
-          "Classical",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "1995-08-03",
-        "durationInMillis": 363013,
-        "isrc": "HKI199306801",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/16/26/d9/1626d91e-a9bc-076c-428b-62098b368de4/mzi.ehhewzkr.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f7f7f7",
-          "textColor1": "0a0b0d",
-          "textColor2": "002726",
-          "textColor3": "3a3a3b",
-          "textColor4": "315050"
-        },
-        "url": "https://music.apple.com/us/album/festive-overture/159235907?i=159235909",
-        "playParams": {
-          "id": "159235909",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Festive Overture",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/98/d9/d5/98d9d5ea-bded-55aa-5481-f5bfc8c861d4/mzaf_15737803425743119545.plus.aac.p.m4a"
           }
         ],
         "artistName": "\u00c9der Quartet & Dmitri Shostakovich"
