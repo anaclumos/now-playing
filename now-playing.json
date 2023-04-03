@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1679414587",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679414587",
+      "attributes": {
+        "albumName": "ME - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-03-31",
+        "durationInMillis": 173134,
+        "isrc": "KRA402300002",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/61/13/1f/61131f6c-d12a-19cb-333c-9c34eec0f23e/23UMGIM29712.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "024a0a",
+          "textColor1": "ebd3c4",
+          "textColor2": "dbcccc",
+          "textColor3": "bcb79f",
+          "textColor4": "afb2a5"
+        },
+        "composerName": "Kush, VVN & 24",
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
+        "playParams": {
+          "id": "1679414587",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "FLOWER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b2/18/5e/b2185ef0-49c5-fef2-55da-4711a40fff44/mzaf_3542681793605379112.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JISOO"
+      }
+    },
+    {
       "id": "1671157678",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1671157678",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "durationInMillis": 221040,
         "releaseDate": "2023-02-16",
+        "durationInMillis": 221040,
         "isrc": "KRA252300247",
         "artwork": {
           "width": 3000,
@@ -32,16 +75,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "CHRISTIAN",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/96/a2/54/96a254b4-b48f-8ed6-5ed4-e661e7b30a83/mzaf_2899554868181554838.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Zior Park"
+        "artistName": "Zior Park",
+        "contentRating": "explicit"
       }
     },
     {
@@ -56,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 154194,
         "releaseDate": "2023-04-03",
+        "durationInMillis": 154194,
         "isrc": "USA2P2310671",
         "artwork": {
           "width": 1400,
@@ -70,11 +113,11 @@
           "textColor4": "d31635"
         },
         "composerName": "Ylva Dimberg, Monro & Gigi",
-        "url": "https://music.apple.com/us/album/zero/1678545730?i=1678545886",
         "playParams": {
           "id": "1678545886",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/zero/1678545730?i=1678545886",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -119,8 +162,8 @@
         },
         "url": "https://music.apple.com/us/album/attention-mixed/1672225799?i=1672225809",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention (Mixed)",
         "previews": [
           {
@@ -143,8 +186,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -157,11 +200,11 @@
           "textColor4": "cd6091"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "playParams": {
           "id": "1677260541",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -186,8 +229,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -200,11 +243,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -229,8 +272,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 228000,
         "releaseDate": "2021-04-01",
+        "durationInMillis": 228000,
         "isrc": "KRMIM2113455",
         "artwork": {
           "width": 3000,
@@ -249,8 +292,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "STALKER",
         "previews": [
           {
@@ -272,8 +315,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 221573,
         "releaseDate": "2021-05-17",
+        "durationInMillis": 221573,
         "isrc": "KRA302100169",
         "artwork": {
           "width": 4000,
@@ -286,11 +329,11 @@
           "textColor4": "c48b5c"
         },
         "composerName": "Mario Marchetti, Adam McInnis, YOO YOUNG JIN & Sophie Curtis",
-        "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
         "playParams": {
           "id": "1567326688",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -315,8 +358,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 217229,
         "releaseDate": "2021-02-22",
+        "durationInMillis": 217229,
         "isrc": "KRMIM2105217",
         "artwork": {
           "width": 1400,
@@ -335,8 +378,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Get It Out",
         "previews": [
           {
@@ -372,11 +415,11 @@
           "textColor4": "c1c1cd"
         },
         "composerName": "YOO YOUNG JIN, Omega, Ella Isaacson, Gabriela Geneva, Jordan Reyes, Shaun Lopez & Scott Chesak",
+        "url": "https://music.apple.com/us/album/black-mamba/1540251303?i=1540251305",
         "playParams": {
           "id": "1540251305",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/black-mamba/1540251303?i=1540251305",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -426,10 +469,10 @@
         "url": "https://music.apple.com/us/album/symphony-no-40-in-g-minor-k-550-i-molto-allegro/1535767041?i=1535767048",
         "discNumber": 2,
         "movementCount": 4,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
-        "name": "Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
+        "hasLyrics": false,
         "attribution": "Wolfgang Amadeus Mozart",
+        "name": "Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e0/a9/d2/e0a9d2f8-5ff3-6ef9-7830-4d0b54a96be5/mzaf_7923067195241511040.plus.aac.p.m4a"
@@ -449,8 +492,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 340114,
         "releaseDate": "1997-03-01",
+        "durationInMillis": 340114,
         "isrc": "HKI199306904",
         "artwork": {
           "width": 1400,
@@ -468,8 +511,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Piano Trio No. 2: III. Largo",
         "previews": [
           {
@@ -503,11 +546,11 @@
           "textColor3": "3a3a3b",
           "textColor4": "315050"
         },
+        "url": "https://music.apple.com/us/album/festive-overture/159235907?i=159235909",
         "playParams": {
           "id": "159235909",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/festive-overture/159235907?i=159235909",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -545,11 +588,11 @@
           "textColor4": "4b5055"
         },
         "composerName": "Dmitri Shostakovich",
+        "url": "https://music.apple.com/us/album/jazz-suite-no-1-i-waltz/364204281?i=364204365",
         "playParams": {
           "id": "364204365",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/jazz-suite-no-1-i-waltz/364204281?i=364204365",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
@@ -574,8 +617,8 @@
           "Music"
         ],
         "trackNumber": 19,
-        "durationInMillis": 256640,
         "releaseDate": "2002-04-15",
+        "durationInMillis": 256640,
         "isrc": "HKI190201419",
         "artwork": {
           "width": 1447,
@@ -594,10 +637,10 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "attribution": "Dmitri Shostakovich",
+        "isAppleDigitalMaster": true,
         "name": "Jazz Suite No. 1: III. Foxtrot (Blues)",
+        "attribution": "Dmitri Shostakovich",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ed/dc/08/eddc08fe-43a0-54dd-5f4e-946656f07e4c/mzaf_5461027542689702152.plus.aac.p.m4a"
@@ -631,11 +674,11 @@
           "textColor4": "4b5055"
         },
         "composerName": "Dmitri Shostakovich",
+        "url": "https://music.apple.com/us/album/jazz-suite-no-1-ii-polka/364204281?i=364204368",
         "playParams": {
           "id": "364204368",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/jazz-suite-no-1-ii-polka/364204281?i=364204368",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
@@ -663,8 +706,8 @@
           "Orchestral"
         ],
         "trackNumber": 1,
-        "durationInMillis": 1020907,
         "releaseDate": "2020-04-03",
+        "durationInMillis": 1020907,
         "isrc": "GBDGQ1930201",
         "movementNumber": 1,
         "artwork": {
@@ -679,11 +722,11 @@
         },
         "workName": "Symphony No. 5 in D Minor, Op. 47",
         "composerName": "Dmitri Shostakovich",
-        "url": "https://music.apple.com/us/album/symphony-no-5-in-d-minor-op-47-i-moderato-allegro-non-troppo/1593156889?i=1593156894",
         "playParams": {
           "id": "1593156894",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/symphony-no-5-in-d-minor-op-47-i-moderato-allegro-non-troppo/1593156889?i=1593156894",
         "discNumber": 1,
         "movementCount": 4,
         "isAppleDigitalMaster": true,
@@ -729,10 +772,10 @@
         },
         "url": "https://music.apple.com/us/album/piano-sonata-no-14-in-c-sharp-minor-op-27-no-2-moonlight/1452351488?i=1452351734",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
-        "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+        "hasLyrics": false,
         "attribution": "Ludwig van Beethoven",
+        "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/a2/b5/4ca2b540-7709-1237-52a8-fb33b8a0b9d2/mzaf_14045099871988399799.plus.aac.p.m4a"
@@ -755,10 +798,10 @@
           "Piano"
         ],
         "trackNumber": 5,
-        "durationInMillis": 129227,
         "releaseDate": "2013-02-27",
-        "isrc": "JPN201300056",
+        "durationInMillis": 129227,
         "movementNumber": 2,
+        "isrc": "JPN201300056",
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -778,10 +821,10 @@
         },
         "discNumber": 1,
         "movementCount": 3,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
-        "attribution": "Ludwig van Beethoven",
+        "isAppleDigitalMaster": false,
         "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": II. Allegretto",
+        "attribution": "Ludwig van Beethoven",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/99/06/d2/9906d27a-7b49-891d-9656-7f09362397a7/mzaf_8398726029433567635.plus.aac.p.m4a"
@@ -827,10 +870,10 @@
         "url": "https://music.apple.com/us/album/piano-sonata-no-14-in-c-sharp-minor-op-27-no-2-moonlight/1539095564?i=1539095569",
         "discNumber": 1,
         "movementCount": 3,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
-        "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto (Attacca)",
+        "hasLyrics": false,
         "attribution": "Ludwig van Beethoven",
+        "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto (Attacca)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/d1/2a/a6d12aea-8f33-49fd-9bf0-6367b4a7e419/mzaf_7251284394778950121.plus.aac.p.m4a"
@@ -874,10 +917,10 @@
         "url": "https://music.apple.com/us/album/3-gymnop%C3%A9dies-no-2-lent-et-triste/1539798555?i=1539798879",
         "discNumber": 1,
         "movementCount": 3,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
-        "name": "3 Gymnop\u00e9dies: No. 2, Lent et triste",
+        "hasLyrics": false,
         "attribution": "Erik Satie",
+        "name": "3 Gymnop\u00e9dies: No. 2, Lent et triste",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/02/b3/70/02b3700a-5e76-6737-c90c-ec2e6098b9f3/mzaf_4474519941035992482.plus.aac.p.m4a"
@@ -921,10 +964,10 @@
         "url": "https://music.apple.com/us/album/3-gymnop%C3%A9dies-no-1-lent-et-douloureux/1539798555?i=1539798878",
         "discNumber": 1,
         "movementCount": 3,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
-        "name": "3 Gymnop\u00e9dies: No. 1, Lent et douloureux",
+        "hasLyrics": false,
         "attribution": "Erik Satie",
+        "name": "3 Gymnop\u00e9dies: No. 1, Lent et douloureux",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/61/59/63/615963d9-b306-4811-b212-3d32ea9f6daa/mzaf_16506233215003783176.plus.aac.p.m4a"
@@ -945,10 +988,10 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 235160,
         "releaseDate": "1991-01-01",
-        "isrc": "USSM11003183",
+        "durationInMillis": 235160,
         "movementNumber": 0,
+        "isrc": "USSM11003183",
         "artwork": {
           "width": 1500,
           "height": 1500,
@@ -968,10 +1011,10 @@
         },
         "discNumber": 1,
         "movementCount": 0,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "attribution": "Johannes Brahms",
+        "isAppleDigitalMaster": true,
         "name": "Six Piano Pieces, Op. 118: Romance in F Major, Op. 118, No. 5",
+        "attribution": "Johannes Brahms",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/81/59/7d/81597d39-f516-2979-8184-f76597e6a315/mzaf_15691192595006775365.plus.aac.p.m4a"
@@ -994,8 +1037,8 @@
           "Baroque Era"
         ],
         "trackNumber": 1,
-        "durationInMillis": 112939,
         "releaseDate": "2000-08-13",
+        "durationInMillis": 112939,
         "isrc": "USSM15500114",
         "movementNumber": 1,
         "artwork": {
@@ -1010,11 +1053,11 @@
         },
         "workName": "Goldberg Variations, BWV 988 (1955 Recording)",
         "composerName": "Johann Sebastian Bach",
-        "url": "https://music.apple.com/us/album/goldberg-variations-bwv-988-1955-recording-aria/594521223?i=594521563",
         "playParams": {
           "id": "594521563",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/goldberg-variations-bwv-988-1955-recording-aria/594521223?i=594521563",
         "discNumber": 1,
         "movementCount": 32,
         "isAppleDigitalMaster": true,
@@ -1042,8 +1085,8 @@
           "Piano"
         ],
         "trackNumber": 9,
-        "durationInMillis": 219253,
         "releaseDate": "2019-05-03",
+        "durationInMillis": 219253,
         "isrc": "FRU621942609",
         "artwork": {
           "width": 3000,
@@ -1062,10 +1105,10 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "attribution": "Wolfgang Amadeus Mozart",
+        "isAppleDigitalMaster": true,
         "name": "Piano Sonata No. 11 in A Major, K. 331/300i: III. Alla Turca",
+        "attribution": "Wolfgang Amadeus Mozart",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/4c/7f/974c7fe5-2a45-8bde-5601-9bb0af357ae9/mzaf_5850201653276592791.plus.aac.p.m4a"
@@ -1105,8 +1148,8 @@
         },
         "url": "https://music.apple.com/us/album/door/1581903468?i=1581903470",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Door",
         "previews": [
           {
@@ -1128,8 +1171,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 202533,
         "releaseDate": "2022-08-05",
+        "durationInMillis": 202533,
         "isrc": "KRA302200135",
         "artwork": {
           "width": 5000,
@@ -1148,8 +1191,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FOREVER 1",
         "previews": [
           {
@@ -1185,11 +1228,11 @@
           "textColor4": "3a4059"
         },
         "composerName": "Risto Armas Asikainen, YOO YOUNG JIN & BoA",
+        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "playParams": {
           "id": "1600008461",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dreams-come-true/1600008460?i=1600008461",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1233,8 +1276,8 @@
         },
         "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -1256,8 +1299,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177400,
         "releaseDate": "2022-04-28",
+        "durationInMillis": 177400,
         "isrc": "KRA382204683",
         "artwork": {
           "width": 3000,
@@ -1275,8 +1318,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "C.I.T.T (Cheese in the Trap)",
         "previews": [
           {
@@ -1284,49 +1327,6 @@
           }
         ],
         "artistName": "Moon Byul"
-      }
-    },
-    {
-      "id": "1647830394",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1647830394",
-      "attributes": {
-        "albumName": "ANTIFRAGILE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-10-17",
-        "durationInMillis": 196365,
-        "isrc": "USA2P2230330",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "212121",
-          "textColor3": "333333",
-          "textColor4": "4e4e4e"
-        },
-        "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "playParams": {
-          "id": "1647830394",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Impurities",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9b/63/aa/9b63aaae-cc83-39ec-0a06-a564861f4f11/mzaf_15166524560809953058.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
       }
     }
   ]
