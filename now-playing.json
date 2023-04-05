@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1677260541",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1677260541",
+      "attributes": {
+        "albumName": "Kitsch - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
+        "isrc": "QM4TX2337765",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/64/76/fd/6476fd99-c90f-93a3-3c80-bc8dd3652920/197188357023.jpg/{w}x{h}bb.jpg",
+          "bgColor": "202020",
+          "textColor1": "eeeeee",
+          "textColor2": "f870ae",
+          "textColor3": "c5c5c5",
+          "textColor4": "cd6091"
+        },
+        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
+        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
+        "playParams": {
+          "id": "1677260541",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Kitsch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/55/a7/9f/55a79fdb-7ad0-f193-4637-c64daab6397b/mzaf_8820235924936835426.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1588219798",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1588219798",
+      "attributes": {
+        "albumName": "VENI VIDI VICI",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
+        "isrc": "KRUM72100123",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/10/3f/18/103f1829-12c4-e91c-103c-e1064ce02f70/21UM1IM16483.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e9e6ff",
+          "textColor1": "10262b",
+          "textColor2": "232346",
+          "textColor3": "3b4c55",
+          "textColor4": "4b4a6b"
+        },
+        "composerName": "S.Tiger, Elly & J.mee Kim",
+        "playParams": {
+          "id": "1588219798",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "RUB-A-DUM",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ca/35/ef/ca35efff-ae93-f237-0854-dae8fdd7ae78/mzaf_507588980058338654.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TRI.BE"
+      }
+    },
+    {
+      "id": "1613300650",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1613300650",
+      "attributes": {
+        "albumName": "\u5bb9 : FACE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 167627,
+        "releaseDate": "2022-03-16",
+        "isrc": "KRA382203888",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/8b/46/54/8b4654b5-492f-b3db-a089-02582ab46876/cover_KM0014922_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "030902",
+          "textColor1": "f1ed7c",
+          "textColor2": "f1e861",
+          "textColor3": "c1c064",
+          "textColor4": "c1bb4e"
+        },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
+        "playParams": {
+          "id": "1613300650",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "HONEY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/dd/13/f6dd13a9-c971-2a4c-18d1-c44bef5c7c97/mzaf_14699012896397923692.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Solar"
+      }
+    },
+    {
       "id": "1569293568",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1569293568",
@@ -13,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2019-04-01",
         "durationInMillis": 260958,
+        "releaseDate": "2019-04-01",
         "isrc": "KRA871900009",
         "artwork": {
           "width": 1400,
@@ -69,11 +197,11 @@
           "textColor3": "3d131d",
           "textColor4": "571822"
         },
-        "url": "https://music.apple.com/us/album/fantasy-instrumental/1460240102?i=1460240105",
         "playParams": {
           "id": "1460240105",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fantasy-instrumental/1460240102?i=1460240105",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -98,8 +226,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-02-14",
         "durationInMillis": 192449,
+        "releaseDate": "2021-02-14",
         "isrc": "QZFZ32182416",
         "artwork": {
           "width": 3000,
@@ -155,11 +283,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -198,11 +326,11 @@
           "textColor4": "c9788b"
         },
         "composerName": "Teddy, 24 & R. Tee",
-        "url": "https://music.apple.com/us/album/how-you-like-that/1533894050?i=1533894669",
         "playParams": {
           "id": "1533894669",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/how-you-like-that/1533894050?i=1533894669",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -227,8 +355,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-07-06",
         "durationInMillis": 233413,
+        "releaseDate": "2021-07-06",
         "isrc": "KRA302100230",
         "artwork": {
           "width": 4000,
@@ -269,8 +397,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-30",
         "durationInMillis": 182453,
+        "releaseDate": "2022-11-30",
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -330,11 +458,11 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -373,11 +501,11 @@
           "textColor4": "c9788b"
         },
         "composerName": "Bekuh Boom & 24",
-        "url": "https://music.apple.com/us/album/you-never-know/1533894050?i=1533894686",
         "playParams": {
           "id": "1533894686",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/you-never-know/1533894050?i=1533894686",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -401,8 +529,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-02-01",
         "durationInMillis": 226291,
+        "releaseDate": "2019-02-01",
         "isrc": "IDA141900139",
         "artwork": {
           "width": 1440,
@@ -457,11 +585,11 @@
           "textColor4": "2d3344"
         },
         "composerName": "Michael Fonseca, Mac Montgomery, Jax, Dan Henig & Ellie Suh",
-        "url": "https://music.apple.com/us/album/cherry/1608253081?i=1608253300",
         "playParams": {
           "id": "1608253300",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cherry/1608253081?i=1608253300",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -500,11 +628,11 @@
           "textColor4": "1d3d61"
         },
         "composerName": "Anna Timgren, Any Masingga, Fuxxy & Vincenzo",
-        "url": "https://music.apple.com/us/album/stay-tonight/1545040733?i=1545041124",
         "playParams": {
           "id": "1545041124",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/stay-tonight/1545040733?i=1545041124",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -529,8 +657,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-12",
         "durationInMillis": 170600,
+        "releaseDate": "2022-10-12",
         "isrc": "KRA382207788",
         "artwork": {
           "width": 3000,
@@ -571,8 +699,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -613,8 +741,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-01-18",
         "durationInMillis": 201680,
+        "releaseDate": "2022-01-18",
         "isrc": "KRA252200027",
         "artwork": {
           "width": 3000,
@@ -670,11 +798,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -699,8 +827,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-03",
         "durationInMillis": 154194,
+        "releaseDate": "2023-04-03",
         "isrc": "USA2P2310671",
         "artwork": {
           "width": 1400,
@@ -756,11 +884,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -785,8 +913,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -828,8 +956,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-07-10",
         "durationInMillis": 186907,
+        "releaseDate": "2022-07-10",
         "isrc": "KRMIM2236621",
         "artwork": {
           "width": 3000,
@@ -860,49 +988,6 @@
       }
     },
     {
-      "id": "1588219798",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1588219798",
-      "attributes": {
-        "albumName": "VENI VIDI VICI",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 7,
-        "releaseDate": "2021-05-18",
-        "durationInMillis": 199640,
-        "isrc": "KRUM72100123",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/10/3f/18/103f1829-12c4-e91c-103c-e1064ce02f70/21UM1IM16483.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e9e6ff",
-          "textColor1": "10262b",
-          "textColor2": "232346",
-          "textColor3": "3b4c55",
-          "textColor4": "4b4a6b"
-        },
-        "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
-        "playParams": {
-          "id": "1588219798",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "RUB-A-DUM",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ca/35/ef/ca35efff-ae93-f237-0854-dae8fdd7ae78/mzaf_507588980058338654.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TRI.BE"
-      }
-    },
-    {
       "id": "1647830390",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1647830390",
@@ -928,11 +1013,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -970,11 +1055,11 @@
           "textColor3": "353c36",
           "textColor4": "4c5e46"
         },
-        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "playParams": {
           "id": "1578842459",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -999,8 +1084,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-04-04",
         "durationInMillis": 224837,
+        "releaseDate": "2022-04-04",
         "isrc": "KRA382204215",
         "artwork": {
           "width": 3000,
@@ -1042,8 +1127,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -1084,8 +1169,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-03",
         "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -1115,48 +1200,6 @@
       }
     },
     {
-      "id": "1613300650",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1613300650",
-      "attributes": {
-        "albumName": "\u5bb9 : FACE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-03-16",
-        "durationInMillis": 167627,
-        "isrc": "KRA382203888",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/8b/46/54/8b4654b5-492f-b3db-a089-02582ab46876/cover_KM0014922_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "030902",
-          "textColor1": "f1ed7c",
-          "textColor2": "f1e861",
-          "textColor3": "c1c064",
-          "textColor4": "c1bb4e"
-        },
-        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
-        "playParams": {
-          "id": "1613300650",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "HONEY",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/dd/13/f6dd13a9-c971-2a4c-18d1-c44bef5c7c97/mzaf_14699012896397923692.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Solar"
-      }
-    },
-    {
       "id": "1604196299",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1604196299",
@@ -1181,11 +1224,11 @@
           "textColor4": "b8846c"
         },
         "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "playParams": {
           "id": "1604196299",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1223,11 +1266,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1238,49 +1281,6 @@
           }
         ],
         "artistName": "Meghan Trainor"
-      }
-    },
-    {
-      "id": "1636642074",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1636642074",
-      "attributes": {
-        "albumName": "SMARTPHONE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-03",
-        "durationInMillis": 198587,
-        "isrc": "KRMIM2242962",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/80/22/2e/80222eba-f219-310b-ed2f-8fff1db5492e/888272103687_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0a3b5",
-          "textColor1": "0e0b1d",
-          "textColor2": "310c28",
-          "textColor3": "3b293b",
-          "textColor4": "572a44"
-        },
-        "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
-        "playParams": {
-          "id": "1636642074",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "SMARTPHONE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/b2/ba/bcb2ba3e-39fb-3b82-57a6-d5ea9bbd952c/mzaf_11876975758317856495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YENA"
       }
     }
   ]
