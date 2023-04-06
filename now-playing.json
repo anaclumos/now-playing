@@ -2,6 +2,137 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1605708141",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1605708141",
+      "attributes": {
+        "albumName": "6equence",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "durationInMillis": 205227,
+        "releaseDate": "2022-01-19",
+        "isrc": "KRA382200138",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/8f/92/59/8f92597f-4b40-eb87-cbc0-dabd3e18efde/cover_KM0014682_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d0e7ef",
+          "textColor1": "2b010d",
+          "textColor2": "39051e",
+          "textColor3": "4c2f3a",
+          "textColor4": "573248"
+        },
+        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
+        "playParams": {
+          "id": "1605708141",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "LUNATIC",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/0c/f9/910cf9be-afe2-5133-b8ce-bdb59e7de646/mzaf_8280159854665259291.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Moon Byul"
+      }
+    },
+    {
+      "id": "1654019898",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1654019898",
+      "attributes": {
+        "albumName": "CHESHIRE - EP",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 182453,
+        "releaseDate": "2022-11-30",
+        "isrc": "US5TA2200143",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/e8/aa/52/e8aa52be-338e-0903-fb66-cc8de1f37dcc/738676860368_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "eee7ee",
+          "textColor1": "010d0f",
+          "textColor2": "372f2d",
+          "textColor3": "30393c",
+          "textColor4": "5c5454"
+        },
+        "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
+        "playParams": {
+          "id": "1654019898",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Cheshire",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/10/65/1a/10651a53-f512-ed86-e483-2e08b6960fc0/mzaf_16828220535679436785.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "ITZY",
+        "editorialNotes": {
+          "standard": "K-pop\u2019s fab five pack their dance bops with mystery and mischief.",
+          "short": "K-pop\u2019s fab five pack their dance bops with mystery and mischief."
+        }
+      }
+    },
+    {
+      "id": "1624007966",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1624007966",
+      "attributes": {
+        "albumName": "DEEP - The 1st Mini Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 179120,
+        "releaseDate": "2022-05-16",
+        "isrc": "KRA302200089",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/59/8d/12/598d1283-7cbf-f88d-0af4-3f138cf0ff6c/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ff83cc",
+          "textColor1": "120205",
+          "textColor2": "120507",
+          "textColor3": "411c2d",
+          "textColor4": "411e2f"
+        },
+        "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
+        "playParams": {
+          "id": "1624007966",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "DEEP",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/fb/eb/42fbebb5-ba3e-d4ac-30f9-defc38adc197/mzaf_654819522158017305.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "HYO"
+      }
+    },
+    {
       "id": "1636642074",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1636642074",
@@ -13,8 +144,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-03",
         "durationInMillis": 198587,
+        "releaseDate": "2022-08-03",
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -156,11 +287,11 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -228,8 +359,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -242,11 +373,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -271,8 +402,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-03-16",
         "durationInMillis": 167627,
+        "releaseDate": "2022-03-16",
         "isrc": "KRA382203888",
         "artwork": {
           "width": 3000,
@@ -312,8 +443,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2013-09-18",
         "durationInMillis": 165606,
+        "releaseDate": "2013-09-18",
         "isrc": "ROROT1313101",
         "artwork": {
           "width": 1440,
@@ -369,11 +500,11 @@
           "textColor4": "383331"
         },
         "composerName": "10cm",
+        "url": "https://music.apple.com/us/album/mind/931554353?i=931554403",
         "playParams": {
           "id": "931554403",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/mind/931554353?i=931554403",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -440,8 +571,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-18",
         "durationInMillis": 147853,
+        "releaseDate": "2022-05-18",
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -525,8 +656,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -539,11 +670,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -554,49 +685,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1624007966",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1624007966",
-      "attributes": {
-        "albumName": "DEEP - The 1st Mini Album",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-05-16",
-        "durationInMillis": 179120,
-        "isrc": "KRA302200089",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/59/8d/12/598d1283-7cbf-f88d-0af4-3f138cf0ff6c/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ff83cc",
-          "textColor1": "120205",
-          "textColor2": "120507",
-          "textColor3": "411c2d",
-          "textColor4": "411e2f"
-        },
-        "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
-        "playParams": {
-          "id": "1624007966",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "DEEP",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/fb/eb/42fbebb5-ba3e-d4ac-30f9-defc38adc197/mzaf_654819522158017305.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "HYO"
       }
     },
     {
@@ -625,11 +713,11 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -695,8 +783,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 134256,
+        "releaseDate": "2022-10-21",
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -709,11 +797,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -780,8 +868,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-07-10",
         "durationInMillis": 186907,
+        "releaseDate": "2022-07-10",
         "isrc": "KRMIM2236621",
         "artwork": {
           "width": 3000,
@@ -823,8 +911,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -837,11 +925,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -865,8 +953,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-01-18",
         "durationInMillis": 201680,
+        "releaseDate": "2022-01-18",
         "isrc": "KRA252200027",
         "artwork": {
           "width": 3000,
@@ -922,11 +1010,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -994,8 +1082,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -1007,11 +1095,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1049,11 +1137,11 @@
           "textColor3": "364654",
           "textColor4": "3a4751"
         },
+        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "playParams": {
           "id": "1617057699",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1078,8 +1166,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-04-28",
         "durationInMillis": 177400,
+        "releaseDate": "2022-04-28",
         "isrc": "KRA382204683",
         "artwork": {
           "width": 3000,
@@ -1091,11 +1179,11 @@
           "textColor3": "41451c",
           "textColor4": "304d14"
         },
+        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "playParams": {
           "id": "1621050355",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1134,11 +1222,11 @@
           "textColor4": "d31635"
         },
         "composerName": "Ylva Dimberg, Monro & Gigi",
+        "url": "https://music.apple.com/us/album/zero/1678545730?i=1678545886",
         "playParams": {
           "id": "1678545886",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/zero/1678545730?i=1678545886",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1163,8 +1251,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -1177,11 +1265,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1192,93 +1280,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1672225809",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1672225809",
-      "attributes": {
-        "albumName": "iMullar IWD 008: N2, International Women's Day (DJ Mix)",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Worldwide",
-          "Japan"
-        ],
-        "trackNumber": 9,
-        "releaseDate": "2023-03-08",
-        "durationInMillis": 145299,
-        "isrc": "US23A1999421",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/fc/aa/3c/fcaa3c29-2e06-d473-3fe0-80b5893519f0/dj.kodjoxma.png/{w}x{h}bb.jpg",
-          "bgColor": "0c0703",
-          "textColor1": "ffffff",
-          "textColor2": "bfc1f6",
-          "textColor3": "cecdcc",
-          "textColor4": "9b9bc5"
-        },
-        "url": "https://music.apple.com/us/album/attention-mixed/1672225799?i=1672225809",
-        "playParams": {
-          "id": "1672225809",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Attention (Mixed)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d6/1e/4d/d61e4d6e-de1e-5d3e-8406-55bc6b02e5e4/mzaf_5507797352327189706.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans",
-        "contentRating": "explicit"
-      }
-    },
-    {
-      "id": "1569293568",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569293568",
-      "attributes": {
-        "albumName": "HEART*IZ",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "2019-04-01",
-        "durationInMillis": 260958,
-        "isrc": "KRA871900009",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/bc/f1/6e/bcf16eb1-7fd3-58b6-7f31-4c464efc3c04/8809658311085_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b6e3bc",
-          "textColor1": "182219",
-          "textColor2": "242e26",
-          "textColor3": "37493a",
-          "textColor4": "415244"
-        },
-        "composerName": "\uc640\ud0c0\ub098\ubca0 \ud1a0\uc2dc\ud788\ucf54 & \uc544\ud0a4\ubaa8\ud1a0 \uc57c\uc2a4\uc2dc",
-        "playParams": {
-          "id": "1569293568",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/gokigen-sayonara-korean-version/1569293222?i=1569293568",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "GOKIGEN SAYONARA (Korean Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/e6/bc/4ce6bcf5-560f-18b1-eafc-798b8be57edf/mzaf_15704705402070527778.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
       }
     }
   ]
