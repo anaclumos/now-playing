@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1603827292",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1603827292",
+      "attributes": {
+        "albumName": "[REC.] - EP",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 201680,
+        "releaseDate": "2022-01-18",
+        "isrc": "KRA252200027",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/fd/61/b5/fd61b56a-df90-bc7a-dc95-217833d2eb93/190296278792.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b22e21",
+          "textColor1": "e2e7ee",
+          "textColor2": "fae3b0",
+          "textColor3": "d8c2c5",
+          "textColor4": "ebbf93"
+        },
+        "composerName": "Chancellor, MZMC & Yuju",
+        "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
+        "playParams": {
+          "id": "1603827292",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Play",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/04/df/6b/04df6b7e-c96d-852f-947e-23f7d97baae9/mzaf_151935798095592218.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yuju"
+      }
+    },
+    {
+      "id": "1616649362",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1616649362",
+      "attributes": {
+        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
+        "isrc": "KRA382204244",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "110d01",
+          "textColor2": "442217",
+          "textColor3": "403e34",
+          "textColor4": "694e46"
+        },
+        "playParams": {
+          "id": "1616649362",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Event Horizon",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
+      }
+    },
+    {
       "id": "1653523109",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1653523109",
@@ -56,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -69,14 +154,14 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -184,8 +269,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2016-10-05",
         "durationInMillis": 223352,
+        "releaseDate": "2016-10-05",
         "isrc": "KRA301600405",
         "artwork": {
           "width": 4000,
@@ -197,14 +282,14 @@
           "textColor3": "cbe3db",
           "textColor4": "cbe3db"
         },
+        "url": "https://music.apple.com/us/album/dont-let-me-go/1175882120?i=1175882158",
         "playParams": {
           "id": "1175882158",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dont-let-me-go/1175882120?i=1175882158",
         "discNumber": 2,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Don\u2019t Let Me Go",
         "previews": [
           {
@@ -226,8 +311,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 226009,
         "releaseDate": "2017-02-14",
+        "durationInMillis": 226009,
         "isrc": "KRA381700318",
         "artwork": {
           "width": 2000,
@@ -239,14 +324,14 @@
           "textColor3": "cb683d",
           "textColor4": "c4562b"
         },
-        "url": "https://music.apple.com/us/album/rain/1205766582?i=1205766718",
         "playParams": {
           "id": "1205766718",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rain/1205766582?i=1205766718",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rain",
         "previews": [
           {
@@ -268,8 +353,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-01-02",
         "durationInMillis": 212253,
+        "releaseDate": "2023-01-02",
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -282,14 +367,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "playParams": {
           "id": "1677134765",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG (Apple Music Edition)",
         "previews": [
           {
@@ -311,8 +396,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-08-04",
         "durationInMillis": 189307,
+        "releaseDate": "2021-08-04",
         "isrc": "KRA382159869",
         "artwork": {
           "width": 3000,
@@ -324,14 +409,14 @@
           "textColor3": "353c36",
           "textColor4": "4c5e46"
         },
+        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "playParams": {
           "id": "1578842459",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/holiday-party/1578842456?i=1578842459",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Holiday Party",
         "previews": [
           {
@@ -353,8 +438,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -367,14 +452,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -396,8 +481,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -410,14 +495,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -685,48 +770,6 @@
       }
     },
     {
-      "id": "1603827292",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1603827292",
-      "attributes": {
-        "albumName": "[REC.] - EP",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 201680,
-        "releaseDate": "2022-01-18",
-        "isrc": "KRA252200027",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/fd/61/b5/fd61b56a-df90-bc7a-dc95-217833d2eb93/190296278792.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b22e21",
-          "textColor1": "e2e7ee",
-          "textColor2": "fae3b0",
-          "textColor3": "d8c2c5",
-          "textColor4": "ebbf93"
-        },
-        "composerName": "Chancellor, MZMC & Yuju",
-        "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
-        "playParams": {
-          "id": "1603827292",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Play",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/04/df/6b/04df6b7e-c96d-852f-947e-23f7d97baae9/mzaf_151935798095592218.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yuju"
-      }
-    },
-    {
       "id": "1621050355",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1621050355",
@@ -766,49 +809,6 @@
           }
         ],
         "artistName": "Moon Byul"
-      }
-    },
-    {
-      "id": "1616649362",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616649362",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2022-03-30",
-        "durationInMillis": 300787,
-        "isrc": "KRA382204244",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "110d01",
-          "textColor2": "442217",
-          "textColor3": "403e34",
-          "textColor4": "694e46"
-        },
-        "playParams": {
-          "id": "1616649362",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Event Horizon",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
       }
     },
     {
@@ -908,8 +908,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -922,14 +922,14 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -951,8 +951,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -965,14 +965,14 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -1036,8 +1036,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 147853,
         "releaseDate": "2022-05-18",
+        "durationInMillis": 147853,
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -1049,14 +1049,14 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -1119,8 +1119,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-11-30",
         "durationInMillis": 182453,
+        "releaseDate": "2022-11-30",
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -1133,14 +1133,14 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cheshire",
         "previews": [
           {
@@ -1251,8 +1251,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "durationInMillis": 221040,
         "releaseDate": "2023-02-16",
+        "durationInMillis": 221040,
         "isrc": "KRA252300247",
         "artwork": {
           "width": 3000,
@@ -1265,22 +1265,22 @@
           "textColor4": "de885f"
         },
         "composerName": "Han-bin Kim, Rockitman & Zior Park",
-        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "playParams": {
           "id": "1671157678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "CHRISTIAN",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/96/a2/54/96a254b4-b48f-8ed6-5ed4-e661e7b30a83/mzaf_2899554868181554838.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Zior Park"
+        "artistName": "Zior Park",
+        "contentRating": "explicit"
       }
     }
   ]
