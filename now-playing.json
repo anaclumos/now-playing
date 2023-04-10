@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1680047366",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1680047366",
+      "attributes": {
+        "albumName": "I've IVE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-04-10",
+        "durationInMillis": 183853,
+        "isrc": "QM4TX2337764",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f9f9f9",
+          "textColor1": "131313",
+          "textColor2": "323232",
+          "textColor3": "414141",
+          "textColor4": "5a5a5a"
+        },
+        "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
+        "playParams": {
+          "id": "1680047366",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I AM",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/af/45/c0/af45c08e-9368-8679-9516-3a2238cd0ba3/mzaf_742897824559319104.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
       "id": "1532273014",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1532273014",
@@ -26,16 +69,16 @@
           "textColor4": "48372d"
         },
         "composerName": "Fr\u00e9d\u00e9ric Chopin",
-        "url": "https://music.apple.com/us/album/nocturne-no-2-in-e-flat-op-9-no-2/1532272879?i=1532273014",
         "playParams": {
           "id": "1532273014",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nocturne-no-2-in-e-flat-op-9-no-2/1532272879?i=1532273014",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
-        "attribution": "Fr\u00e9d\u00e9ric Chopin",
+        "isAppleDigitalMaster": false,
         "name": "Nocturne No. 2 in E Flat, Op. 9 No. 2",
+        "attribution": "Fr\u00e9d\u00e9ric Chopin",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/e2/6f/af/e26fafac-3fd7-3648-9286-fe4fa36405d3/mzaf_7050587766013941832.plus.aac.p.m4a"
@@ -99,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -142,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 198587,
         "releaseDate": "2022-08-03",
+        "durationInMillis": 198587,
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -156,14 +199,14 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -184,8 +227,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 197413,
         "releaseDate": "2022-01-16",
+        "durationInMillis": 197413,
         "isrc": "KRG132200001",
         "artwork": {
           "width": 3000,
@@ -198,14 +241,14 @@
           "textColor4": "b8846c"
         },
         "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "playParams": {
           "id": "1604196299",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -227,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179120,
         "releaseDate": "2022-05-16",
+        "durationInMillis": 179120,
         "isrc": "KRA302200089",
         "artwork": {
           "width": 4000,
@@ -241,14 +284,14 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DEEP",
         "previews": [
           {
@@ -283,14 +326,14 @@
           "textColor4": "ebbf93"
         },
         "composerName": "Chancellor, MZMC & Yuju",
-        "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
         "playParams": {
           "id": "1603827292",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Play",
         "previews": [
           {
@@ -313,8 +356,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -369,14 +412,14 @@
           "textColor4": "4a3d4c"
         },
         "composerName": "Dwayne \"Dem Jointz\" Abernathy Jr., RYAN JHUN, Eyelar Mirzazadeh, Macy Maloy & Autumn Rowe",
-        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
         "playParams": {
           "id": "1653523109",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Selfish",
         "previews": [
           {
@@ -440,8 +483,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -454,14 +497,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -568,8 +611,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-02-14",
         "durationInMillis": 226009,
+        "releaseDate": "2017-02-14",
         "isrc": "KRA381700318",
         "artwork": {
           "width": 2000,
@@ -610,8 +653,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -624,14 +667,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "playParams": {
           "id": "1677134765",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG (Apple Music Edition)",
         "previews": [
           {
@@ -709,14 +752,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -738,8 +781,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -780,8 +823,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -794,14 +837,14 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -823,8 +866,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -867,8 +910,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -909,8 +952,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -994,8 +1037,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -1037,8 +1080,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 170600,
         "releaseDate": "2022-10-12",
+        "durationInMillis": 170600,
         "isrc": "KRA382207788",
         "artwork": {
           "width": 3000,
@@ -1050,14 +1093,14 @@
           "textColor3": "39373a",
           "textColor4": "424043"
         },
-        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
         "playParams": {
           "id": "1648611078",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Underwater",
         "previews": [
           {
@@ -1079,8 +1122,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -1178,14 +1221,14 @@
           "textColor3": "364654",
           "textColor4": "3a4751"
         },
-        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "playParams": {
           "id": "1617057699",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Glitch",
         "previews": [
           {
@@ -1207,8 +1250,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 147853,
         "releaseDate": "2022-05-18",
+        "durationInMillis": 147853,
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -1220,14 +1263,14 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ARIA",
         "previews": [
           {
@@ -1235,48 +1278,6 @@
           }
         ],
         "artistName": "Yerin"
-      }
-    },
-    {
-      "id": "1605708141",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1605708141",
-      "attributes": {
-        "albumName": "6equence",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "durationInMillis": 205227,
-        "releaseDate": "2022-01-19",
-        "isrc": "KRA382200138",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/8f/92/59/8f92597f-4b40-eb87-cbc0-dabd3e18efde/cover_KM0014682_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d0e7ef",
-          "textColor1": "2b010d",
-          "textColor2": "39051e",
-          "textColor3": "4c2f3a",
-          "textColor4": "573248"
-        },
-        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
-        "playParams": {
-          "id": "1605708141",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "LUNATIC",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/0c/f9/910cf9be-afe2-5133-b8ce-bdb59e7de646/mzaf_8280159854665259291.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Moon Byul"
       }
     }
   ]
