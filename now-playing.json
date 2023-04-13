@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1679292893",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679292893",
+      "attributes": {
+        "albumName": "The Beginning: Cupid - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
+        "isrc": "KSA012239182",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fde3aa",
+          "textColor1": "000000",
+          "textColor2": "333333",
+          "textColor3": "322d22",
+          "textColor4": "5c564b"
+        },
+        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
+        "playParams": {
+          "id": "1679292893",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Cupid (Instrumental)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e0/01/ca/e001cafa-083f-5fd2-27a4-e7bb4e009fc1/mzaf_5258439940062744519.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "FIFTY FIFTY"
+      }
+    },
+    {
       "id": "1679292892",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1679292892",
@@ -70,14 +113,14 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cupid",
         "previews": [
           {
@@ -131,49 +174,6 @@
       }
     },
     {
-      "id": "1679292893",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679292893",
-      "attributes": {
-        "albumName": "The Beginning: Cupid - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-02-24",
-        "durationInMillis": 174253,
-        "isrc": "KSA012239182",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fde3aa",
-          "textColor1": "000000",
-          "textColor2": "333333",
-          "textColor3": "322d22",
-          "textColor4": "5c564b"
-        },
-        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "playParams": {
-          "id": "1679292893",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Cupid (Instrumental)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e0/01/ca/e001cafa-083f-5fd2-27a4-e7bb4e009fc1/mzaf_5258439940062744519.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "FIFTY FIFTY"
-      }
-    },
-    {
       "id": "1624475848",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1624475848",
@@ -185,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 147853,
         "releaseDate": "2022-05-18",
+        "durationInMillis": 147853,
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -198,11 +198,11 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -227,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -241,11 +241,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -270,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -290,8 +290,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -314,8 +314,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "durationInMillis": 206627,
         "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -327,11 +327,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -413,14 +413,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Seo Ji Eum, Nick Hahn, Sophia Brenan & Elle Campbell",
+        "url": "https://music.apple.com/us/album/blue-blood/1680047093?i=1680047357",
         "playParams": {
           "id": "1680047357",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-blood/1680047093?i=1680047357",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Blood",
         "previews": [
           {
@@ -441,8 +441,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 182453,
         "releaseDate": "2022-11-30",
+        "durationInMillis": 182453,
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -461,8 +461,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheshire",
         "previews": [
           {
@@ -502,14 +502,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -531,8 +531,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 199640,
         "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -545,11 +545,11 @@
           "textColor4": "4b4a6b"
         },
         "composerName": "S.Tiger, Elly & J.mee Kim",
-        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "playParams": {
           "id": "1588219798",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rub-a-dum/1588219789?i=1588219798",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -588,14 +588,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -631,14 +631,14 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -660,8 +660,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 166491,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 166491,
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -680,8 +680,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No Celestial",
         "previews": [
           {
@@ -759,14 +759,14 @@
           "textColor3": "39373a",
           "textColor4": "424043"
         },
+        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
         "playParams": {
           "id": "1648611078",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Underwater",
         "previews": [
           {
@@ -787,8 +787,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 197413,
         "releaseDate": "2022-01-16",
+        "durationInMillis": 197413,
         "isrc": "KRG132200001",
         "artwork": {
           "width": 3000,
@@ -801,11 +801,11 @@
           "textColor4": "b8846c"
         },
         "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "playParams": {
           "id": "1604196299",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -830,8 +830,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 202107,
         "releaseDate": "2023-04-10",
+        "durationInMillis": 202107,
         "isrc": "QM4TX2337770",
         "artwork": {
           "width": 3000,
@@ -850,8 +850,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "NOT YOUR GIRL",
         "previews": [
           {
@@ -873,8 +873,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 146893,
         "releaseDate": "2023-04-10",
+        "durationInMillis": 146893,
         "isrc": "QM4TX2337769",
         "artwork": {
           "width": 3000,
@@ -893,8 +893,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hypnosis",
         "previews": [
           {
@@ -930,14 +930,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Hwang Hyun(MonoTree), RYAN JHUN, Polar & Megan Ashworth",
+        "url": "https://music.apple.com/us/album/next-page/1680047093?i=1680048030",
         "playParams": {
           "id": "1680048030",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/next-page/1680047093?i=1680048030",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Next Page",
         "previews": [
           {
@@ -959,8 +959,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213427,
         "releaseDate": "2022-02-21",
+        "durationInMillis": 213427,
         "isrc": "KRA382203169",
         "artwork": {
           "width": 4000,
@@ -978,8 +978,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "RUN2U",
         "previews": [
           {
@@ -1001,8 +1001,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -1015,11 +1015,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "playParams": {
           "id": "1677134765",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1044,8 +1044,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179120,
         "releaseDate": "2022-05-16",
+        "durationInMillis": 179120,
         "isrc": "KRA302200089",
         "artwork": {
           "width": 4000,
@@ -1058,11 +1058,11 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1101,14 +1101,14 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -1130,8 +1130,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186907,
         "releaseDate": "2022-07-10",
+        "durationInMillis": 186907,
         "isrc": "KRMIM2236621",
         "artwork": {
           "width": 3000,
@@ -1150,8 +1150,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -1173,8 +1173,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 167627,
         "releaseDate": "2022-03-16",
+        "durationInMillis": 167627,
         "isrc": "KRA382203888",
         "artwork": {
           "width": 3000,
@@ -1186,11 +1186,11 @@
           "textColor3": "c1c064",
           "textColor4": "c1bb4e"
         },
-        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "playParams": {
           "id": "1613300650",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1258,8 +1258,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 183853,
         "releaseDate": "2023-04-10",
+        "durationInMillis": 183853,
         "isrc": "QM4TX2337764",
         "artwork": {
           "width": 3000,
@@ -1272,11 +1272,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
