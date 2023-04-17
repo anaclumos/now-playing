@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1679292892",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679292892",
-      "attributes": {
-        "albumName": "The Beginning: Cupid - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 174253,
-        "releaseDate": "2023-02-24",
-        "isrc": "KSA012239181",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fde3aa",
-          "textColor1": "000000",
-          "textColor2": "333333",
-          "textColor3": "322d22",
-          "textColor4": "5c564b"
-        },
-        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
-        "playParams": {
-          "id": "1679292892",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Cupid (Twin Ver.)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/23/81/51/23815167-1d0d-4825-ec4c-5427c89a21e7/mzaf_15738183304575074777.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "FIFTY FIFTY"
-      }
-    },
-    {
       "id": "1680047357",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1680047357",
@@ -85,6 +42,49 @@
           }
         ],
         "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1679292892",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679292892",
+      "attributes": {
+        "albumName": "The Beginning: Cupid - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
+        "isrc": "KSA012239181",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fde3aa",
+          "textColor1": "000000",
+          "textColor2": "333333",
+          "textColor3": "322d22",
+          "textColor4": "5c564b"
+        },
+        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
+        "playParams": {
+          "id": "1679292892",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Cupid (Twin Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/23/81/51/23815167-1d0d-4825-ec4c-5427c89a21e7/mzaf_15738183304575074777.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "FIFTY FIFTY"
       }
     },
     {
@@ -184,8 +184,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-04-14",
         "durationInMillis": 235241,
+        "releaseDate": "2017-04-14",
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 2500,
@@ -227,8 +227,8 @@
           "Instrumental"
         ],
         "trackNumber": 10,
-        "durationInMillis": 247472,
         "releaseDate": "2017-03-03",
+        "durationInMillis": 247472,
         "isrc": "GBSMU3388998",
         "artwork": {
           "width": 1425,
@@ -246,8 +246,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Healing",
         "previews": [
           {
@@ -268,8 +268,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 206474,
         "releaseDate": "2015-07-24",
+        "durationInMillis": 206474,
         "isrc": "KRA381211194",
         "artwork": {
           "width": 1400,
@@ -288,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Don\u2032t Be Shy (feat. Cho A & Iron)",
         "previews": [
           {
@@ -330,8 +330,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -416,8 +416,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -458,8 +458,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Glitch",
         "previews": [
           {
@@ -481,8 +481,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 166491,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230331",
         "artwork": {
           "width": 1400,
@@ -524,8 +524,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -567,8 +567,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -610,8 +610,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -695,8 +695,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -715,8 +715,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG (Apple Music Edition)",
         "previews": [
           {
@@ -738,8 +738,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177400,
         "releaseDate": "2022-04-28",
+        "durationInMillis": 177400,
         "isrc": "KRA382204683",
         "artwork": {
           "width": 3000,
@@ -757,8 +757,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "C.I.T.T (Cheese in the Trap)",
         "previews": [
           {
@@ -800,8 +800,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -885,8 +885,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Holiday Party",
         "previews": [
           {
@@ -1017,8 +1017,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -1102,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -1125,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-05-16",
         "durationInMillis": 179120,
+        "releaseDate": "2022-05-16",
         "isrc": "KRA302200089",
         "artwork": {
           "width": 4000,
@@ -1169,8 +1169,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -1188,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -1211,8 +1211,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 170600,
         "releaseDate": "2022-10-12",
+        "durationInMillis": 170600,
         "isrc": "KRA382207788",
         "artwork": {
           "width": 3000,
@@ -1230,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Underwater",
         "previews": [
           {
@@ -1253,8 +1253,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 178924,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
