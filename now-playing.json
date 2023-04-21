@@ -2,6 +2,62 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.XMD6xg4ivEldPV2",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
+      "attributes": {
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 185448,
+        "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230421T211621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230421%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=4313021ff05a84af7d589c570e0f5cbfe55aa217cf9c822c48e2c33e07723a55"
+        },
+        "playParams": {
+          "id": "i.XMD6xg4ivEldPV2",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "i.WmYQkggixo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "genreNames": [
+          ""
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 194760,
+        "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230421T211621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230421%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=c74906480e13b04e9863524830e55ed8d620dfc616837bea88893a6bc21ee488"
+        },
+        "playParams": {
+          "id": "i.WmYQkggixo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1657231962",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1657231962",
@@ -27,14 +83,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
@@ -69,14 +125,14 @@
           "textColor3": "c1c064",
           "textColor4": "c1bb4e"
         },
-        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "playParams": {
           "id": "1613300650",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HONEY",
         "previews": [
           {
@@ -111,14 +167,14 @@
           "textColor3": "364654",
           "textColor4": "3a4751"
         },
-        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "playParams": {
           "id": "1617057699",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Glitch",
         "previews": [
           {
@@ -153,11 +209,11 @@
           "textColor4": "ebbf93"
         },
         "composerName": "Chancellor, MZMC & Yuju",
-        "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
         "playParams": {
           "id": "1603827292",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -195,11 +251,11 @@
           "textColor4": "5c5454"
         },
         "composerName": "Tim Tan, Ciara Muscat, Josefin Glenmark, Jar, Justin Reinstein, JJean, Hwang Sumin & Jeong Hari",
-        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "playParams": {
           "id": "1654019898",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -242,11 +298,11 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -284,14 +340,14 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ARIA",
         "previews": [
           {
@@ -327,14 +383,14 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -370,11 +426,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -413,14 +469,14 @@
           "textColor4": "424556"
         },
         "composerName": "Amanda Lundstedt, 250 & Gigi",
-        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
         "playParams": {
           "id": "1635470002",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hurt/1635469682?i=1635470002",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hurt",
         "previews": [
           {
@@ -455,14 +511,14 @@
           "textColor3": "a946c3",
           "textColor4": "ad29c6"
         },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "playParams": {
           "id": "1669378322",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -498,14 +554,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -541,14 +597,14 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "FLOWER",
         "previews": [
           {
@@ -583,14 +639,14 @@
           "textColor4": "2e4863"
         },
         "composerName": "DTAP",
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "playParams": {
           "id": "1610405000",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "See T\u00ecnh",
         "previews": [
           {
@@ -625,11 +681,11 @@
           "textColor4": "4d443f"
         },
         "composerName": "DTAP",
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh-speed-up-version/1622404365?i=1622404520",
         "playParams": {
           "id": "1622404520",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh-speed-up-version/1622404365?i=1622404520",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -667,11 +723,11 @@
           "textColor4": "734b55"
         },
         "composerName": "DTAP",
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh-cukak-remix/1621441189?i=1621441192",
         "playParams": {
           "id": "1621441192",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh-cukak-remix/1621441189?i=1621441192",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -709,11 +765,11 @@
           "textColor3": "3e3736",
           "textColor4": "494241"
         },
-        "url": "https://music.apple.com/us/album/run/1113290184?i=1113290626",
         "playParams": {
           "id": "1113290626",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/run/1113290184?i=1113290626",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -752,11 +808,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "playParams": {
           "id": "1679292892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -795,14 +851,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "playParams": {
           "id": "1680047537",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -838,11 +894,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
         "playParams": {
           "id": "1679292893",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -880,11 +936,11 @@
           "textColor4": "424545"
         },
         "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "playParams": {
           "id": "1218860394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -922,11 +978,11 @@
           "textColor3": "41451c",
           "textColor4": "304d14"
         },
-        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "playParams": {
           "id": "1621050355",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -964,14 +1020,14 @@
           "textColor4": "b8846c"
         },
         "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "playParams": {
           "id": "1604196299",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -1006,11 +1062,11 @@
           "textColor4": "222f22"
         },
         "composerName": "\uc774\uc2b9\uc8fc, \ucd5c\uc778\ud658 & Ji Hun",
-        "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "playParams": {
           "id": "1625848547",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1048,14 +1104,14 @@
           "textColor4": "de885f"
         },
         "composerName": "Han-bin Kim, Rockitman & Zior Park",
-        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "playParams": {
           "id": "1671157678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "CHRISTIAN",
         "previews": [
           {
@@ -1092,14 +1148,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Seo Ji Eum, Nick Hahn, Sophia Brenan & Elle Campbell",
-        "url": "https://music.apple.com/us/album/blue-blood/1680047093?i=1680047357",
         "playParams": {
           "id": "1680047357",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blue-blood/1680047093?i=1680047357",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Blood",
         "previews": [
           {
@@ -1135,11 +1191,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Jang Wonyoung, RYAN JHUN, Erik Smaaland, Kristoffer T\u00f8mmerbakke & Alida Garpestad Peck",
-        "url": "https://music.apple.com/us/album/shine-with-me/1680047093?i=1680048343",
         "playParams": {
           "id": "1680048343",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shine-with-me/1680047093?i=1680048343",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1178,14 +1234,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "AN YUJIN, RYAN JHUN, Hilda Stenmalm, Rasmus Budny & SHY Martin",
-        "url": "https://music.apple.com/us/album/heroine/1680047093?i=1680047554",
         "playParams": {
           "id": "1680047554",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/heroine/1680047093?i=1680047554",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heroine",
         "previews": [
           {
@@ -1193,92 +1249,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1680047542",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047542",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2023-04-10",
-        "durationInMillis": 181400,
-        "isrc": "QM4TX2337766",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "EXY, SOHLHEE, RYAN JHUN, Alexander Pavelich, Lauren Keen, Sean Davidson, Andre Davidson, Lars Rosness & Benjamin Pinkus",
-        "url": "https://music.apple.com/us/album/lips/1680047093?i=1680047542",
-        "playParams": {
-          "id": "1680047542",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Lips",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d8/6c/89/d86c8905-903e-b39c-77c1-a98ca54ebe27/mzaf_13238925100526425433.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1679292891",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679292891",
-      "attributes": {
-        "albumName": "The Beginning: Cupid - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-02-24",
-        "durationInMillis": 174253,
-        "isrc": "KSA012239180",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fde3aa",
-          "textColor1": "000000",
-          "textColor2": "333333",
-          "textColor3": "322d22",
-          "textColor4": "5c564b"
-        },
-        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
-        "playParams": {
-          "id": "1679292891",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Cupid",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e6/6e/87/e66e87b3-314d-ee50-718e-a8b7b8e3a11a/mzaf_6952755649518725684.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "FIFTY FIFTY"
       }
     }
   ]
