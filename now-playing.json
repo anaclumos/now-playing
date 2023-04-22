@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1653523109",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1653523109",
+      "attributes": {
+        "albumName": "SELFISH - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 208747,
+        "releaseDate": "2022-11-14",
+        "isrc": "KRB462201355",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/37/04/0f/37040f51-af52-ef77-040e-ad6a2402a715/196589644145.jpg/{w}x{h}bb.jpg",
+          "bgColor": "d6beee",
+          "textColor1": "1b1a24",
+          "textColor2": "271d24",
+          "textColor3": "403b4c",
+          "textColor4": "4a3d4c"
+        },
+        "composerName": "Dwayne \"Dem Jointz\" Abernathy Jr., RYAN JHUN, Eyelar Mirzazadeh, Macy Maloy & Autumn Rowe",
+        "playParams": {
+          "id": "1653523109",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Selfish",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f2/95/d1/f295d1a2-7a6b-f977-bfad-99cfe7330366/mzaf_9922399420040112852.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YooA"
+      }
+    },
+    {
+      "id": "1669378322",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1669378322",
+      "attributes": {
+        "albumName": "Poppy (Korean Ver.) - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
+        "isrc": "KRA382300512",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d357f4",
+          "textColor2": "d933f7",
+          "textColor3": "a946c3",
+          "textColor4": "ad29c6"
+        },
+        "playParams": {
+          "id": "1669378322",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Poppy (Korean Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
+      "id": "1604196299",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1604196299",
+      "attributes": {
+        "albumName": "WHEE - EP",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 197413,
+        "releaseDate": "2022-01-16",
+        "isrc": "KRG132200001",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/5c/59/c2/5c59c259-564d-2f77-fea3-95140a5745bc/190296278365.jpg/{w}x{h}bb.jpg",
+          "bgColor": "120c0c",
+          "textColor1": "edb18f",
+          "textColor2": "e2a284",
+          "textColor3": "c19075",
+          "textColor4": "b8846c"
+        },
+        "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
+        "playParams": {
+          "id": "1604196299",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Make Me Happy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/52/b1/9852b144-b723-c6e9-cfe8-4028ee2baabb/mzaf_10516988874522803677.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Whee In"
+      }
+    },
+    {
       "id": "1677260541",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1677260541",
@@ -33,8 +160,8 @@
         },
         "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -75,8 +202,8 @@
         },
         "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -117,8 +244,8 @@
         },
         "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "See T\u00ecnh",
         "previews": [
           {
@@ -161,8 +288,8 @@
         },
         "url": "https://music.apple.com/us/album/woowa/1505983937?i=1505983938",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Woowa",
         "previews": [
           {
@@ -177,8 +304,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.GEG7VNkcPDMx3R9",
       "attributes": {
-        "discNumber": 0,
         "albumName": "Piano Orange",
+        "discNumber": 0,
         "genreNames": [
           "Piano"
         ],
@@ -200,8 +327,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
       "attributes": {
-        "discNumber": 0,
         "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -213,7 +340,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230422T193945Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230422%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=2701fe746aaceac19b75d1620a5ca22b7d0ed7771021deafddea645e33c9122f"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230422T194804Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230422%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=07398c41587249f5eacda7794588b886507c60a901e755c567efa0e833655802"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -255,8 +382,8 @@
         },
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -297,8 +424,8 @@
         },
         "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "HONEY",
         "previews": [
           {
@@ -339,8 +466,8 @@
         },
         "url": "https://music.apple.com/us/album/glitch/1617057696?i=1617057699",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Glitch",
         "previews": [
           {
@@ -381,8 +508,8 @@
         },
         "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Play",
         "previews": [
           {
@@ -423,8 +550,8 @@
         },
         "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheshire",
         "previews": [
           {
@@ -470,8 +597,8 @@
         },
         "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DEEP",
         "previews": [
           {
@@ -512,8 +639,8 @@
         },
         "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -555,8 +682,8 @@
         },
         "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -598,8 +725,8 @@
         },
         "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -607,48 +734,6 @@
           }
         ],
         "artistName": "Younha"
-      }
-    },
-    {
-      "id": "1669378322",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1669378322",
-      "attributes": {
-        "albumName": "Poppy (Korean Ver.) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 178293,
-        "releaseDate": "2023-02-03",
-        "isrc": "KRA382300512",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/a5/ea/16/a5ea16bd-ef8a-c0a3-87eb-078f77bf691d/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d357f4",
-          "textColor2": "d933f7",
-          "textColor3": "a946c3",
-          "textColor4": "ad29c6"
-        },
-        "playParams": {
-          "id": "1669378322",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/poppy-korean-ver/1669378321?i=1669378322",
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Poppy (Korean Ver.)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/20/11/9720113c-71e4-ea66-f55c-5edd78d591ef/mzaf_9066561202710903810.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
       }
     },
     {
@@ -683,8 +768,8 @@
         },
         "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -726,8 +811,8 @@
         },
         "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "FLOWER",
         "previews": [
           {
@@ -768,8 +853,8 @@
         },
         "url": "https://music.apple.com/us/album/see-t%C3%ACnh-speed-up-version/1622404365?i=1622404520",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "See T\u00ecnh (Speed Up Version)",
         "previews": [
           {
@@ -810,8 +895,8 @@
         },
         "url": "https://music.apple.com/us/album/see-t%C3%ACnh-cukak-remix/1621441189?i=1621441192",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "See T\u00ecnh (Cukak Remix)",
         "previews": [
           {
@@ -852,8 +937,8 @@
         },
         "url": "https://music.apple.com/us/album/run/1113290184?i=1113290626",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Run",
         "previews": [
           {
@@ -895,8 +980,8 @@
         },
         "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cupid (Twin Ver.)",
         "previews": [
           {
@@ -938,8 +1023,8 @@
         },
         "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -981,8 +1066,8 @@
         },
         "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Cupid (Instrumental)",
         "previews": [
           {
@@ -1023,8 +1108,8 @@
         },
         "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -1065,8 +1150,8 @@
         },
         "url": "https://music.apple.com/us/album/c-i-t-t-cheese-in-the-trap/1621050354?i=1621050355",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "C.I.T.T (Cheese in the Trap)",
         "previews": [
           {
@@ -1074,48 +1159,6 @@
           }
         ],
         "artistName": "Moon Byul"
-      }
-    },
-    {
-      "id": "1604196299",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1604196299",
-      "attributes": {
-        "albumName": "WHEE - EP",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 197413,
-        "releaseDate": "2022-01-16",
-        "isrc": "KRG132200001",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/5c/59/c2/5c59c259-564d-2f77-fea3-95140a5745bc/190296278365.jpg/{w}x{h}bb.jpg",
-          "bgColor": "120c0c",
-          "textColor1": "edb18f",
-          "textColor2": "e2a284",
-          "textColor3": "c19075",
-          "textColor4": "b8846c"
-        },
-        "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
-        "playParams": {
-          "id": "1604196299",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Make Me Happy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/52/b1/9852b144-b723-c6e9-cfe8-4028ee2baabb/mzaf_10516988874522803677.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Whee In"
       }
     },
     {
@@ -1149,8 +1192,8 @@
         },
         "url": "https://music.apple.com/us/album/for-love/1625848543?i=1625848547",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "For Love",
         "previews": [
           {
@@ -1191,59 +1234,16 @@
         },
         "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "CHRISTIAN",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/96/a2/54/96a254b4-b48f-8ed6-5ed4-e661e7b30a83/mzaf_2899554868181554838.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Zior Park",
-        "contentRating": "explicit"
-      }
-    },
-    {
-      "id": "1680047357",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047357",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 167547,
-        "releaseDate": "2023-04-10",
-        "isrc": "QM4TX2337763",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "Seo Ji Eum, Nick Hahn, Sophia Brenan & Elle Campbell",
-        "playParams": {
-          "id": "1680047357",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/blue-blood/1680047093?i=1680047357",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Blue Blood",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fb/ed/fd/fbedfda0-a0c8-e999-5f0b-f91795edecba/mzaf_15864215474712961405.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
+        "contentRating": "explicit",
+        "artistName": "Zior Park"
       }
     }
   ]
