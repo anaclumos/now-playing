@@ -2,48 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1604152731",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1604152731",
-      "attributes": {
-        "albumName": "Guardian, Pt. 11 (Original Television Soundtrack) - Single",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 150539,
-        "releaseDate": "2017-01-09",
-        "isrc": "KRA491600942",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/5c/27/605c275e-7ef7-caf4-4b12-6b94a64921fb/8809534461880_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e2cfb1",
-          "textColor1": "090207",
-          "textColor2": "26282b",
-          "textColor3": "352b29",
-          "textColor4": "4c4a46"
-        },
-        "composerName": "Nam Hye Seung & Kim Heejin",
-        "url": "https://music.apple.com/us/album/winter-is-coming/1604152717?i=1604152731",
-        "playParams": {
-          "id": "1604152731",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Winter Is Coming",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/55/5d/ff/555dff94-921d-011f-82de-c9a919736648/mzaf_13698268415209151873.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Han Suji"
-      }
-    },
-    {
       "id": "1108592547",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1108592547",
@@ -98,8 +56,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 208053,
         "releaseDate": "2020-04-13",
+        "durationInMillis": 208053,
         "isrc": "KRA382001084",
         "artwork": {
           "width": 3000,
@@ -126,6 +84,48 @@
           }
         ],
         "artistName": "Apink"
+      }
+    },
+    {
+      "id": "1604152731",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1604152731",
+      "attributes": {
+        "albumName": "Guardian, Pt. 11 (Original Television Soundtrack) - Single",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2017-01-09",
+        "durationInMillis": 150539,
+        "isrc": "KRA491600942",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/5c/27/605c275e-7ef7-caf4-4b12-6b94a64921fb/8809534461880_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e2cfb1",
+          "textColor1": "090207",
+          "textColor2": "26282b",
+          "textColor3": "352b29",
+          "textColor4": "4c4a46"
+        },
+        "composerName": "Nam Hye Seung & Kim Heejin",
+        "url": "https://music.apple.com/us/album/winter-is-coming/1604152717?i=1604152731",
+        "playParams": {
+          "id": "1604152731",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Winter Is Coming",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/55/5d/ff/555dff94-921d-011f-82de-c9a919736648/mzaf_13698268415209151873.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Han Suji"
       }
     },
     {
@@ -159,8 +159,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "\uc61b\uc0ac\ub791 (Live Version)",
         "previews": [
           {
@@ -188,8 +188,8 @@
           "Dance"
         ],
         "trackNumber": 3,
-        "durationInMillis": 233563,
         "releaseDate": "2010-12-09",
+        "durationInMillis": 233563,
         "isrc": "KRA381001057",
         "artwork": {
           "width": 945,
@@ -207,8 +207,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Good Day",
         "previews": [
           {
@@ -230,8 +230,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 208501,
         "releaseDate": "2018-09-01",
+        "durationInMillis": 208501,
         "isrc": "KRA871800023",
         "artwork": {
           "width": 1400,
@@ -316,8 +316,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 128284,
         "releaseDate": "2017-04-24",
+        "durationInMillis": 128284,
         "isrc": "KRC081700001",
         "artwork": {
           "width": 3000,
@@ -419,8 +419,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
+        "isAppleDigitalMaster": true,
         "name": "Into the Spider-Verse",
         "previews": [
           {
@@ -503,8 +503,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Wicked Wonderland",
         "previews": [
           {
@@ -546,8 +546,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid (Twin Ver.)",
         "previews": [
           {
@@ -568,8 +568,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 245506,
         "releaseDate": "2016-07-29",
+        "durationInMillis": 245506,
         "isrc": "USQX91601347",
         "artwork": {
           "width": 1500,
@@ -610,8 +610,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185003,
         "releaseDate": "2022-02-21",
+        "durationInMillis": 185003,
         "isrc": "VNA0R2000510",
         "artwork": {
           "width": 3000,
@@ -673,8 +673,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "midnight love",
         "previews": [
           {
@@ -696,8 +696,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 156355,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 156355,
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -716,8 +716,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Good Parts (when the quality is bad but I am)",
         "previews": [
           {
@@ -739,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -759,8 +759,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -802,8 +802,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -868,8 +868,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 167627,
         "releaseDate": "2022-03-16",
+        "durationInMillis": 167627,
         "isrc": "KRA382203888",
         "artwork": {
           "width": 3000,
@@ -887,8 +887,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "HONEY",
         "previews": [
           {
@@ -910,8 +910,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 178924,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 178924,
         "isrc": "KRA402200023",
         "artwork": {
           "width": 2000,
@@ -953,8 +953,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186907,
         "releaseDate": "2022-07-10",
+        "durationInMillis": 186907,
         "isrc": "KRMIM2236621",
         "artwork": {
           "width": 3000,
@@ -973,8 +973,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -1016,8 +1016,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DEEP",
         "previews": [
           {
@@ -1102,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Selfish",
         "previews": [
           {
@@ -1125,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178293,
         "releaseDate": "2023-02-03",
+        "durationInMillis": 178293,
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -1144,8 +1144,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -1166,8 +1166,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 197413,
         "releaseDate": "2022-01-16",
+        "durationInMillis": 197413,
         "isrc": "KRG132200001",
         "artwork": {
           "width": 3000,
@@ -1186,8 +1186,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -1209,8 +1209,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -1229,8 +1229,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -1251,8 +1251,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
