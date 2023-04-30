@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1604152731",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1604152731",
+      "attributes": {
+        "albumName": "Guardian, Pt. 11 (Original Television Soundtrack) - Single",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2017-01-09",
+        "durationInMillis": 150539,
+        "isrc": "KRA491600942",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/5c/27/605c275e-7ef7-caf4-4b12-6b94a64921fb/8809534461880_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e2cfb1",
+          "textColor1": "090207",
+          "textColor2": "26282b",
+          "textColor3": "352b29",
+          "textColor4": "4c4a46"
+        },
+        "composerName": "Nam Hye Seung & Kim Heejin",
+        "url": "https://music.apple.com/us/album/winter-is-coming/1604152717?i=1604152731",
+        "playParams": {
+          "id": "1604152731",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Winter Is Coming",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/55/5d/ff/555dff94-921d-011f-82de-c9a919736648/mzaf_13698268415209151873.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Han Suji"
+      }
+    },
+    {
+      "id": "1481632807",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1481632807",
+      "attributes": {
+        "albumName": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+        "genreNames": [
+          "Alternative",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 178682,
+        "releaseDate": "2019-11-07",
+        "isrc": "GBARL1901090",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/d1/4b/cf/d14bcff4-6172-e657-7cbb-a1d49618a401/886447933206.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "030505",
+          "textColor2": "302d2d",
+          "textColor3": "353737",
+          "textColor4": "595757"
+        },
+        "composerName": "Alan Walker, Jamie Aura Stenzel, Andrew Frampton, Max Farrar, Marcus Ambekk, Colton Avery & Fredrick Borch Olsen",
+        "url": "https://music.apple.com/us/album/ghost/1481632805?i=1481632807",
+        "playParams": {
+          "id": "1481632807",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Ghost",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/38/53/f9/3853f9f7-3828-69e4-af3a-6b5126b322b5/mzaf_10282350997797834815.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Au/Ra x Alan Walker"
+      }
+    },
+    {
       "id": "1481632812",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1481632812",
@@ -26,11 +110,11 @@
           "textColor4": "595757"
         },
         "composerName": "Iain Cook, Martin Doherty & Lauren Mayberry",
+        "url": "https://music.apple.com/us/album/death-stranding/1481632805?i=1481632812",
         "playParams": {
           "id": "1481632812",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/death-stranding/1481632805?i=1481632812",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -69,11 +153,11 @@
           "textColor4": "4c4244"
         },
         "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "playParams": {
           "id": "1670474138",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -91,8 +175,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
       "attributes": {
-        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "genreNames": [
           ""
         ],
@@ -104,7 +188,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230430T202027Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230430%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=1504a4dd721f74ff136fdbb8efc196b3daf21268c9108fc434af58222f37e7fa"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230430T202844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230430%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=8ff9db1cca5e76017cdba6097edc729d663f52dc8c879fd6a32631c2979cf2c0"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -140,11 +224,11 @@
           "textColor3": "bcb09f",
           "textColor4": "ba936d"
         },
+        "url": "https://music.apple.com/us/album/fever/1470921587?i=1470921588",
         "playParams": {
           "id": "1470921588",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fever/1470921587?i=1470921588",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -183,11 +267,11 @@
           "textColor4": "b1b1b1"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
+        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "playParams": {
           "id": "1621089608",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -225,11 +309,11 @@
           "textColor4": "734b55"
         },
         "composerName": "DTAP",
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh-cukak-remix/1621441189?i=1621441192",
         "playParams": {
           "id": "1621441192",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh-cukak-remix/1621441189?i=1621441192",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -267,14 +351,14 @@
           "textColor4": "2e4863"
         },
         "composerName": "DTAP",
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "playParams": {
           "id": "1610405000",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "See T\u00ecnh",
         "previews": [
           {
@@ -296,8 +380,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 156355,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -310,11 +394,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Nolan Lambroza, SCORE(13), MEGATONE(13), \ud5c8\uc724\uc9c4, Danke, \uc0ac\ucfe0\ub77c, Cha Yubeen, Alex Bilo, Jenna Andrews & salem ilese",
+        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "playParams": {
           "id": "1647830404",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -353,14 +437,14 @@
           "textColor4": "244259"
         },
         "composerName": "\uc6a9\uac10\ud55c \ud615\uc81c, \ucc28\ucfe4 & 2champ",
+        "url": "https://music.apple.com/us/album/rollin/1638035095?i=1638035098",
         "playParams": {
           "id": "1638035098",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rollin/1638035095?i=1638035098",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rollin'",
         "previews": [
           {
@@ -382,8 +466,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2020-06-15",
         "durationInMillis": 193120,
+        "releaseDate": "2020-06-15",
         "isrc": "KRA492000676",
         "artwork": {
           "width": 1400,
@@ -396,11 +480,11 @@
           "textColor4": "763042"
         },
         "composerName": "kz, B.O., Puyo & HONEYSWEAT",
+        "url": "https://music.apple.com/us/album/rococo/1569282878?i=1569282891",
         "playParams": {
           "id": "1569282891",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rococo/1569282878?i=1569282891",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -426,8 +510,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -468,8 +552,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-03",
         "durationInMillis": 178293,
+        "releaseDate": "2023-02-03",
         "isrc": "KRA382300512",
         "artwork": {
           "width": 3000,
@@ -553,8 +637,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-01-19",
         "durationInMillis": 205227,
+        "releaseDate": "2022-01-19",
         "isrc": "KRA382200138",
         "artwork": {
           "width": 3000,
@@ -566,11 +650,11 @@
           "textColor3": "4c2f3a",
           "textColor4": "573248"
         },
+        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "playParams": {
           "id": "1605708141",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -615,8 +699,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG (Apple Music Edition)",
         "previews": [
           {
@@ -638,8 +722,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-04-04",
         "durationInMillis": 224837,
+        "releaseDate": "2022-04-04",
         "isrc": "KRA382204215",
         "artwork": {
           "width": 3000,
@@ -694,14 +778,14 @@
           "textColor4": "c2adab"
         },
         "composerName": "BXN & Prime Time",
+        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "playParams": {
           "id": "1632909003",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/sparkling/1632909000?i=1632909003",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -723,8 +807,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-03",
         "durationInMillis": 198587,
+        "releaseDate": "2022-08-03",
         "isrc": "KRMIM2242962",
         "artwork": {
           "width": 1400,
@@ -737,11 +821,11 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -766,8 +850,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2021-05-18",
         "durationInMillis": 199640,
+        "releaseDate": "2021-05-18",
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -808,8 +892,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 134256,
+        "releaseDate": "2022-10-21",
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -822,11 +906,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -865,14 +949,14 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -894,8 +978,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239182",
         "artwork": {
           "width": 3000,
@@ -979,8 +1063,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239181",
         "artwork": {
           "width": 3000,
@@ -1022,8 +1106,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-18",
         "durationInMillis": 147853,
+        "releaseDate": "2022-05-18",
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -1035,11 +1119,11 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1083,8 +1167,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cheshire",
         "previews": [
           {
@@ -1124,14 +1208,14 @@
           "textColor4": "cd6091"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
+        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "playParams": {
           "id": "1677260541",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -1153,8 +1237,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -1182,92 +1266,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1659513445",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659513445",
-      "attributes": {
-        "albumName": "NewJeans 'OMG' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-01-02",
-        "durationInMillis": 212253,
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "playParams": {
-          "id": "1659513445",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "OMG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1465212911",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1465212911",
-      "attributes": {
-        "albumName": "24\u2103 - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-05-30",
-        "durationInMillis": 194596,
-        "isrc": "KRA401900037",
-        "artwork": {
-          "width": 5000,
-          "height": 5000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/f4/c8/19/f4c81919-1af6-f17c-c089-d163bf9361ef/LEEHI_24C_COVER_5000px.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b12900",
-          "textColor1": "ffdd54",
-          "textColor2": "fccd09",
-          "textColor3": "efb943",
-          "textColor4": "edac07"
-        },
-        "url": "https://music.apple.com/us/album/no-one-feat-b-i/1465212910?i=1465212911",
-        "playParams": {
-          "id": "1465212911",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "NO ONE (feat. B.I)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/c5/37/59c53761-8f88-4955-d4a6-790e12434a01/mzaf_17318511794283173437.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LeeHi"
       }
     }
   ]
