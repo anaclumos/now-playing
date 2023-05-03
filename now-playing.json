@@ -2,48 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30&types=songs%2C+library-songs",
   "data": [
     {
-      "id": "1639023912",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639023912",
-      "attributes": {
-        "albumName": "NIGHT DANCER - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-19",
-        "durationInMillis": 210948,
-        "isrc": "JPPO02202918",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/c2/49/87/c249873f-fa61-9d61-52aa-a7e1d780c8b3/22UMGIM81500.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "fffd00",
-          "textColor3": "cbcbcb",
-          "textColor4": "cbca00"
-        },
-        "composerName": "imase",
-        "playParams": {
-          "id": "1639023912",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "NIGHT DANCER",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/64/a3/9a64a3b4-bb2f-9f05-d67e-7d5ca5dc4d85/mzaf_3042423082720944814.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "imase"
-      }
-    },
-    {
       "id": "1670327199",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1670327199",
@@ -68,14 +26,14 @@
           "textColor3": "cbcbcb",
           "textColor4": "c4afae"
         },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "playParams": {
           "id": "1670327199",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rising",
         "previews": [
           {
@@ -83,6 +41,91 @@
           }
         ],
         "artistName": "tripleS"
+      }
+    },
+    {
+      "id": "1670474138",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670474138",
+      "attributes": {
+        "albumName": "exp\u00e9rgo - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-03-20",
+        "durationInMillis": 188719,
+        "isrc": "US5TA2200195",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/9b/e1/d8/9be1d846-70f3-a312-6a60-e1eb72bc97a4/738676860504.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b5babd",
+          "textColor1": "0c0a08",
+          "textColor2": "322426",
+          "textColor3": "2e2d2c",
+          "textColor4": "4c4244"
+        },
+        "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
+        "playParams": {
+          "id": "1670474138",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Love Me Like This",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ad/8e/06/ad8e068c-9795-93c4-b7f0-f850997884c5/mzaf_13269753282266300424.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NMIXX"
+      }
+    },
+    {
+      "id": "1639023912",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639023912",
+      "attributes": {
+        "albumName": "NIGHT DANCER - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-19",
+        "durationInMillis": 210948,
+        "isrc": "JPPO02202918",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/c2/49/87/c249873f-fa61-9d61-52aa-a7e1d780c8b3/22UMGIM81500.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "fffd00",
+          "textColor3": "cbcbcb",
+          "textColor4": "cbca00"
+        },
+        "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
+        "playParams": {
+          "id": "1639023912",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "NIGHT DANCER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/64/a3/9a64a3b4-bb2f-9f05-d67e-7d5ca5dc4d85/mzaf_3042423082720944814.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "imase"
       }
     },
     {
@@ -97,8 +140,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210253,
         "releaseDate": "2022-03-21",
+        "durationInMillis": 210253,
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -153,14 +196,14 @@
           "textColor4": "b95307"
         },
         "composerName": "Abel Tesfaye, Martin McKinney, Mejdi Rhars, Dylan Wiggins, Magnus H\u00f8iberg, William Walsh & Henry Walter",
+        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "playParams": {
           "id": "1440870395",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Die For You",
         "previews": [
           {
@@ -224,8 +267,8 @@
           "House"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-03-11",
         "durationInMillis": 217933,
+        "releaseDate": "2019-03-11",
         "isrc": "FR10S1932171",
         "artwork": {
           "width": 3000,
@@ -238,14 +281,14 @@
           "textColor4": "f1ccc1"
         },
         "composerName": "Jacob Dil\u00dfner & Dylan Syben",
+        "url": "https://music.apple.com/us/album/here-we-are-main-mix-edit/1587934738?i=1587934739",
         "playParams": {
           "id": "1587934739",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/here-we-are-main-mix-edit/1587934738?i=1587934739",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Here We Are (Main Mix Edit)",
         "previews": [
           {
@@ -267,8 +310,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-05-31",
         "durationInMillis": 204703,
+        "releaseDate": "2016-05-31",
         "isrc": "QM4DW1690694",
         "artwork": {
           "width": 3000,
@@ -281,14 +324,14 @@
           "textColor4": "563b3b"
         },
         "composerName": "Zeph",
+        "url": "https://music.apple.com/us/album/soul-trumpet-feat-patricia-edwards/1119345049?i=1119345247",
         "playParams": {
           "id": "1119345247",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/soul-trumpet-feat-patricia-edwards/1119345049?i=1119345247",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Soul Trumpet (feat. Patricia Edwards)",
         "previews": [
           {
@@ -309,8 +352,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 267122,
         "releaseDate": "2016-11-15",
+        "durationInMillis": 267122,
         "isrc": "IT0311600102",
         "artwork": {
           "width": 3000,
@@ -395,8 +438,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180197,
         "releaseDate": "2018-08-03",
+        "durationInMillis": 180197,
         "isrc": "QMEZE1835483",
         "artwork": {
           "width": 3000,
@@ -437,8 +480,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 201533,
         "releaseDate": "2020-02-17",
+        "durationInMillis": 201533,
         "isrc": "KRA871900042",
         "artwork": {
           "width": 1400,
@@ -521,8 +564,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 176658,
         "releaseDate": "2014-01-01",
+        "durationInMillis": 176658,
         "isrc": "CH3131340464",
         "artwork": {
           "width": 1500,
@@ -607,8 +650,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 168437,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310660",
         "artwork": {
           "width": 1400,
@@ -621,14 +664,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
+        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "playParams": {
           "id": "1682502038",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS (2023 Ver.)",
         "previews": [
           {
@@ -708,14 +751,14 @@
           "textColor4": "c8093f"
         },
         "composerName": "So-yeon, Pop Time & JENCI",
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "playParams": {
           "id": "1611504817",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TOMBOY",
         "previews": [
           {
@@ -836,14 +879,14 @@
           "textColor4": "624760"
         },
         "composerName": "Kenshi Yonezu",
+        "url": "https://music.apple.com/us/album/lemon/1537460610?i=1537460612",
         "playParams": {
           "id": "1537460612",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lemon/1537460610?i=1537460612",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Lemon",
         "previews": [
           {
@@ -995,8 +1038,8 @@
           "Rock"
         ],
         "trackNumber": 6,
-        "releaseDate": "2013-10-08",
         "durationInMillis": 254191,
+        "releaseDate": "2013-10-08",
         "isrc": "KRA381205843",
         "artwork": {
           "width": 1400,
@@ -1008,14 +1051,14 @@
           "textColor3": "af9574",
           "textColor4": "b38761"
         },
+        "url": "https://music.apple.com/us/album/the-red-shoes/786862990?i=786863016",
         "playParams": {
           "id": "786863016",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-red-shoes/786862990?i=786863016",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Red Shoes",
         "previews": [
           {
@@ -1036,8 +1079,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2017-10-06",
         "durationInMillis": 211347,
+        "releaseDate": "2017-10-06",
         "isrc": "USG7D1774702",
         "artwork": {
           "width": 1448,
@@ -1049,14 +1092,14 @@
           "textColor3": "3d3033",
           "textColor4": "483731"
         },
+        "url": "https://music.apple.com/us/album/havana-instrumental/1325802708?i=1325802711",
         "playParams": {
           "id": "1325802711",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/havana-instrumental/1325802708?i=1325802711",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Havana (Instrumental)",
         "previews": [
           {
@@ -1078,8 +1121,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 173134,
         "releaseDate": "2023-03-31",
+        "durationInMillis": 173134,
         "isrc": "KRA402300002",
         "artwork": {
           "width": 4000,
@@ -1135,14 +1178,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Yang Gayoung(PNP), Kim In Hyeong, Danke, KIM CHAEWON, Ronnie Icon, Caroline Gustavsson & HUH YUNJIN",
+        "url": "https://music.apple.com/us/album/blue-flame-2023-ver/1682502020?i=1682502286",
         "playParams": {
           "id": "1682502286",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-flame-2023-ver/1682502020?i=1682502286",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Flame (2023 Ver.)",
         "previews": [
           {
@@ -1179,14 +1222,14 @@
           "textColor4": "7a3959"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
+        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "playParams": {
           "id": "1635656417",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Talk that Talk",
         "previews": [
           {
@@ -1207,8 +1250,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -1221,14 +1264,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -1236,49 +1279,6 @@
           }
         ],
         "artistName": "YOASOBI"
-      }
-    },
-    {
-      "id": "1670474138",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670474138",
-      "attributes": {
-        "albumName": "exp\u00e9rgo - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-03-20",
-        "durationInMillis": 188719,
-        "isrc": "US5TA2200195",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/9b/e1/d8/9be1d846-70f3-a312-6a60-e1eb72bc97a4/738676860504.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b5babd",
-          "textColor1": "0c0a08",
-          "textColor2": "322426",
-          "textColor3": "2e2d2c",
-          "textColor4": "4c4244"
-        },
-        "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
-        "playParams": {
-          "id": "1670474138",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Love Me Like This",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ad/8e/06/ad8e068c-9795-93c4-b7f0-f850997884c5/mzaf_13269753282266300424.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NMIXX"
       }
     }
   ]
