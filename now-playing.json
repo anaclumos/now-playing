@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1670327199",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670327199",
+      "attributes": {
+        "albumName": "ASSEMBLE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-02-13",
+        "durationInMillis": 159933,
+        "isrc": "KRA382300733",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/04/15/d404150a-381f-6f04-aa0a-bb948bf581db/cover_KM0016832_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "f5dbd9",
+          "textColor3": "cbcbcb",
+          "textColor4": "c4afae"
+        },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
+        "playParams": {
+          "id": "1670327199",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Rising",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/5f/b8/4a5fb892-8df9-fb3a-d5d3-0c3657be422d/mzaf_1438772142506115639.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "tripleS"
+      }
+    },
+    {
+      "id": "1635656417",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635656417",
+      "attributes": {
+        "albumName": "BETWEEN 1&2",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-26",
+        "durationInMillis": 177467,
+        "isrc": "US5TA2200073",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/6d/80/45/6d8045ba-5b0e-c88a-0736-87fd14665e69/738676859874_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f7dec8",
+          "textColor1": "1b070d",
+          "textColor2": "5b103d",
+          "textColor3": "473232",
+          "textColor4": "7a3959"
+        },
+        "composerName": "Woo Min Lee \u201ccollapsedone\u201d, MRCH & danke (lalala studio)",
+        "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
+        "playParams": {
+          "id": "1635656417",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Talk that Talk",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/af/42/93/af4293e1-7861-67c8-aecb-e4a1aa0e95b5/mzaf_5076913398594567626.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1639023912",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639023912",
+      "attributes": {
+        "albumName": "NIGHT DANCER - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-19",
+        "durationInMillis": 210948,
+        "isrc": "JPPO02202918",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/c2/49/87/c249873f-fa61-9d61-52aa-a7e1d780c8b3/22UMGIM81500.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "fffd00",
+          "textColor3": "cbcbcb",
+          "textColor4": "cbca00"
+        },
+        "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
+        "playParams": {
+          "id": "1639023912",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "NIGHT DANCER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/64/a3/9a64a3b4-bb2f-9f05-d67e-7d5ca5dc4d85/mzaf_3042423082720944814.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "imase"
+      }
+    },
+    {
       "id": "1679278167",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1679278167",
@@ -32,8 +160,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -69,14 +197,14 @@
           "textColor4": "4c4244"
         },
         "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "playParams": {
           "id": "1670474138",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Me Like This",
         "previews": [
           {
@@ -111,14 +239,14 @@
           "textColor4": "424545"
         },
         "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "playParams": {
           "id": "1218860394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -160,8 +288,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "FLOWER",
         "previews": [
           {
@@ -240,11 +368,11 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -283,14 +411,14 @@
           "textColor3": "cedae5",
           "textColor4": "ced9d8"
         },
+        "url": "https://music.apple.com/us/album/vancouver/1622167330?i=1622167332",
         "playParams": {
           "id": "1622167332",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/vancouver/1622167330?i=1622167332",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Vancouver",
         "previews": [
           {
@@ -332,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Hopeless Romantic (feat. LEE SUHYUN)",
         "previews": [
           {
@@ -369,14 +497,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "playParams": {
           "id": "1677134765",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG (Apple Music Edition)",
         "previews": [
           {
@@ -412,14 +540,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Nolan Lambroza, SCORE(13), MEGATONE(13), \ud5c8\uc724\uc9c4, Danke, \uc0ac\ucfe0\ub77c, Cha Yubeen, Alex Bilo, Jenna Andrews & salem ilese",
+        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "playParams": {
           "id": "1647830404",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Good Parts (when the quality is bad but I am)",
         "previews": [
           {
@@ -461,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "RUB-A-DUM",
         "previews": [
           {
@@ -504,8 +632,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Yeah Yeah Yeah",
         "previews": [
           {
@@ -541,11 +669,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -584,14 +712,14 @@
           "textColor4": "572a44"
         },
         "composerName": "twlv, 72, Ollipop, Gavin Jones, Hayley Aitken & YENA",
+        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "playParams": {
           "id": "1636642074",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/smartphone/1636641846?i=1636642074",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMARTPHONE",
         "previews": [
           {
@@ -632,8 +760,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Holiday Party",
         "previews": [
           {
@@ -669,14 +797,14 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
         "playParams": {
           "id": "1679292893",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Cupid (Instrumental)",
         "previews": [
           {
@@ -717,8 +845,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LUNATIC",
         "previews": [
           {
@@ -759,8 +887,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Play",
         "previews": [
           {
@@ -795,11 +923,11 @@
           "textColor3": "c1c064",
           "textColor4": "c1bb4e"
         },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "playParams": {
           "id": "1613300650",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -844,8 +972,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -881,14 +1009,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -929,8 +1057,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheshire",
         "previews": [
           {
@@ -969,11 +1097,11 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1017,8 +1145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Make Me Happy",
         "previews": [
           {
@@ -1102,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "C.I.T.T (Cheese in the Trap)",
         "previews": [
           {
@@ -1139,14 +1267,14 @@
           "textColor4": "583335"
         },
         "composerName": "RoseInPeace, Saimon, Willemijn Van Der Neut & Marcia 'MISHA' Sondeijker",
+        "url": "https://music.apple.com/us/album/weekend/1574308369?i=1574308371",
         "playParams": {
           "id": "1574308371",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/weekend/1574308369?i=1574308371",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Weekend",
         "previews": [
           {
@@ -1154,135 +1282,6 @@
           }
         ],
         "artistName": "TAEYEON"
-      }
-    },
-    {
-      "id": "1609049613",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1609049613",
-      "attributes": {
-        "albumName": "INVU - The 3rd Album",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-02-14",
-        "durationInMillis": 204973,
-        "isrc": "KRA302200026",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/83/31578320-668c-39ac-9b69-20beba684835/03_INVU.jpg/{w}x{h}bb.jpg",
-          "bgColor": "1a1a1a",
-          "textColor1": "c9be8a",
-          "textColor2": "a7bbd8",
-          "textColor3": "a59d73",
-          "textColor4": "8a9bb2"
-        },
-        "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
-        "playParams": {
-          "id": "1609049613",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "INVU",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/32/f4/32/32f4320b-9c80-1144-4a73-99768659e2bc/mzaf_18432216400216579717.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TAEYEON"
-      }
-    },
-    {
-      "id": "1647830394",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1647830394",
-      "attributes": {
-        "albumName": "ANTIFRAGILE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2022-10-17",
-        "durationInMillis": 196365,
-        "isrc": "USA2P2230330",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "212121",
-          "textColor3": "333333",
-          "textColor4": "4e4e4e"
-        },
-        "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
-        "playParams": {
-          "id": "1647830394",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Impurities",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9b/63/aa/9b63aaae-cc83-39ec-0a06-a564861f4f11/mzaf_15166524560809953058.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1624007966",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1624007966",
-      "attributes": {
-        "albumName": "DEEP - The 1st Mini Album",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-05-16",
-        "durationInMillis": 179120,
-        "isrc": "KRA302200089",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/59/8d/12/598d1283-7cbf-f88d-0af4-3f138cf0ff6c/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ff83cc",
-          "textColor1": "120205",
-          "textColor2": "120507",
-          "textColor3": "411c2d",
-          "textColor4": "411e2f"
-        },
-        "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "playParams": {
-          "id": "1624007966",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "DEEP",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/fb/eb/42fbebb5-ba3e-d4ac-30f9-defc38adc197/mzaf_654819522158017305.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "HYO"
       }
     }
   ]
