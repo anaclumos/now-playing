@@ -2,48 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1670327199",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670327199",
-      "attributes": {
-        "albumName": "ASSEMBLE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-02-13",
-        "durationInMillis": 159933,
-        "isrc": "KRA382300733",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/04/15/d404150a-381f-6f04-aa0a-bb948bf581db/cover_KM0016832_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "f5dbd9",
-          "textColor3": "cbcbcb",
-          "textColor4": "c4afae"
-        },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
-        "playParams": {
-          "id": "1670327199",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Rising",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/5f/b8/4a5fb892-8df9-fb3a-d5d3-0c3657be422d/mzaf_1438772142506115639.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "tripleS"
-      }
-    },
-    {
       "id": "1639023912",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1639023912",
@@ -54,8 +12,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-19",
         "durationInMillis": 210948,
+        "releaseDate": "2022-08-19",
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -74,8 +32,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "NIGHT DANCER",
         "previews": [
           {
@@ -83,6 +41,48 @@
           }
         ],
         "artistName": "imase"
+      }
+    },
+    {
+      "id": "1670327199",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670327199",
+      "attributes": {
+        "albumName": "ASSEMBLE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "durationInMillis": 159933,
+        "releaseDate": "2023-02-13",
+        "isrc": "KRA382300733",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/04/15/d404150a-381f-6f04-aa0a-bb948bf581db/cover_KM0016832_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "f5dbd9",
+          "textColor3": "cbcbcb",
+          "textColor4": "c4afae"
+        },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
+        "playParams": {
+          "id": "1670327199",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Rising",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/5f/b8/4a5fb892-8df9-fb3a-d5d3-0c3657be422d/mzaf_1438772142506115639.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "tripleS"
       }
     },
     {
@@ -97,8 +97,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-21",
         "durationInMillis": 210253,
+        "releaseDate": "2022-03-21",
         "isrc": "KRA302200057",
         "artwork": {
           "width": 4000,
@@ -111,14 +111,14 @@
           "textColor4": "143d30"
         },
         "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "playParams": {
           "id": "1614179710",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -153,11 +153,11 @@
           "textColor4": "b95307"
         },
         "composerName": "Abel Tesfaye, Martin McKinney, Mejdi Rhars, Dylan Wiggins, Magnus H\u00f8iberg, William Walsh & Henry Walter",
-        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "playParams": {
           "id": "1440870395",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -182,8 +182,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-11-01",
         "durationInMillis": 183893,
+        "releaseDate": "2018-11-01",
         "isrc": "KRC081800009",
         "artwork": {
           "width": 3000,
@@ -195,14 +195,14 @@
           "textColor3": "c1b201",
           "textColor4": "c53900"
         },
+        "url": "https://music.apple.com/us/album/thats-just-what-you-think/1592040077?i=1592040079",
         "playParams": {
           "id": "1592040079",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/thats-just-what-you-think/1592040077?i=1592040079",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "That\u2019s Just What You Think",
         "previews": [
           {
@@ -238,11 +238,11 @@
           "textColor4": "f1ccc1"
         },
         "composerName": "Jacob Dil\u00dfner & Dylan Syben",
-        "url": "https://music.apple.com/us/album/here-we-are-main-mix-edit/1587934738?i=1587934739",
         "playParams": {
           "id": "1587934739",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/here-we-are-main-mix-edit/1587934738?i=1587934739",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -323,11 +323,11 @@
           "textColor4": "804134"
         },
         "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "playParams": {
           "id": "1502627615",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -353,8 +353,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-07-05",
         "durationInMillis": 184947,
+        "releaseDate": "2016-07-05",
         "isrc": "KRA381601252",
         "artwork": {
           "width": 3000,
@@ -373,8 +373,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Youth (DAY)",
         "previews": [
           {
@@ -451,11 +451,11 @@
           "textColor4": "67452d"
         },
         "composerName": "\uc784\uc218\ud638, \uc6a9\ubc30 & \uc774\uc2a4\ub780",
-        "url": "https://music.apple.com/us/album/destiny/1569281731?i=1569282066",
         "playParams": {
           "id": "1569282066",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/destiny/1569281731?i=1569282066",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -479,8 +479,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "2003-01-01",
         "durationInMillis": 353920,
+        "releaseDate": "2003-01-01",
         "isrc": "USUMC0300219",
         "artwork": {
           "width": 3000,
@@ -493,14 +493,14 @@
           "textColor4": "75ac39"
         },
         "composerName": "Stephen Schwartz",
+        "url": "https://music.apple.com/us/album/defying-gravity/1449619162?i=1449619747",
         "playParams": {
           "id": "1449619747",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/defying-gravity/1449619162?i=1449619747",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Defying Gravity",
         "previews": [
           {
@@ -521,8 +521,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2014-01-01",
         "durationInMillis": 176658,
+        "releaseDate": "2014-01-01",
         "isrc": "CH3131340464",
         "artwork": {
           "width": 1500,
@@ -541,8 +541,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -564,8 +564,8 @@
           "Pop"
         ],
         "trackNumber": 11,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 206832,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310666",
         "artwork": {
           "width": 1400,
@@ -584,8 +584,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARNOT (Between you, me and the lamppost)",
         "previews": [
           {
@@ -607,8 +607,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 168437,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310660",
         "artwork": {
           "width": 1400,
@@ -627,8 +627,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS (2023 Ver.)",
         "previews": [
           {
@@ -737,8 +737,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-20",
         "durationInMillis": 226840,
+        "releaseDate": "2023-04-20",
         "isrc": "KRA492300300",
         "artwork": {
           "width": 1400,
@@ -751,14 +751,14 @@
           "textColor4": "c69f60"
         },
         "composerName": "Andy Love, Alawn, Rum & DAON",
+        "url": "https://music.apple.com/us/album/hot-summer/1683256500?i=1683256522",
         "playParams": {
           "id": "1683256522",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hot-summer/1683256500?i=1683256522",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hot Summer",
         "previews": [
           {
@@ -794,11 +794,11 @@
           "textColor4": "e79876"
         },
         "composerName": "So-yeon, Pop Time & Kako",
-        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "playParams": {
           "id": "1645995263",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nxde/1645995261?i=1645995263",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -822,8 +822,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-02-12",
         "durationInMillis": 256116,
+        "releaseDate": "2018-02-12",
         "isrc": "JPU901800227",
         "artwork": {
           "width": 4724,
@@ -836,14 +836,14 @@
           "textColor4": "624760"
         },
         "composerName": "Kenshi Yonezu",
+        "url": "https://music.apple.com/us/album/lemon/1537460610?i=1537460612",
         "playParams": {
           "id": "1537460612",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lemon/1537460610?i=1537460612",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Lemon",
         "previews": [
           {
@@ -865,8 +865,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2023-04-24",
         "durationInMillis": 165320,
+        "releaseDate": "2023-04-24",
         "isrc": "USA2P2310678",
         "artwork": {
           "width": 1400,
@@ -885,8 +885,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dust",
         "previews": [
           {
@@ -922,11 +922,11 @@
           "textColor4": "acacae"
         },
         "composerName": "Sevn Dayz, Jeffrey THE KiDD, Greg Bonnick, Hayden Chapman, Young Chance & JAY JAY",
-        "url": "https://music.apple.com/us/album/kiss/1681718925?i=1681719347",
         "playParams": {
           "id": "1681719347",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kiss/1681718925?i=1681719347",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -951,8 +951,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-01-02",
         "durationInMillis": 212253,
+        "releaseDate": "2023-01-02",
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -965,14 +965,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -1078,8 +1078,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 201895,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310661",
         "artwork": {
           "width": 1400,
@@ -1098,8 +1098,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame (2023 Ver.)",
         "previews": [
           {
@@ -1207,8 +1207,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -1227,8 +1227,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -1250,8 +1250,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-03-20",
         "durationInMillis": 188719,
+        "releaseDate": "2023-03-20",
         "isrc": "US5TA2200195",
         "artwork": {
           "width": 3000,
@@ -1270,8 +1270,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love Me Like This",
         "previews": [
           {
