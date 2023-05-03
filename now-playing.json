@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1670327199",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670327199",
+      "attributes": {
+        "albumName": "ASSEMBLE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-02-13",
+        "durationInMillis": 159933,
+        "isrc": "KRA382300733",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/04/15/d404150a-381f-6f04-aa0a-bb948bf581db/cover_KM0016832_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "f5dbd9",
+          "textColor3": "cbcbcb",
+          "textColor4": "c4afae"
+        },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
+        "playParams": {
+          "id": "1670327199",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Rising",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/5f/b8/4a5fb892-8df9-fb3a-d5d3-0c3657be422d/mzaf_1438772142506115639.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "tripleS"
+      }
+    },
+    {
       "id": "1639023912",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1639023912",
@@ -26,14 +68,14 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "NIGHT DANCER",
         "previews": [
           {
@@ -41,48 +83,6 @@
           }
         ],
         "artistName": "imase"
-      }
-    },
-    {
-      "id": "1670327199",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670327199",
-      "attributes": {
-        "albumName": "ASSEMBLE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 159933,
-        "releaseDate": "2023-02-13",
-        "isrc": "KRA382300733",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/04/15/d404150a-381f-6f04-aa0a-bb948bf581db/cover_KM0016832_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "f5dbd9",
-          "textColor3": "cbcbcb",
-          "textColor4": "c4afae"
-        },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
-        "playParams": {
-          "id": "1670327199",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Rising",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/5f/b8/4a5fb892-8df9-fb3a-d5d3-0c3657be422d/mzaf_1438772142506115639.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "tripleS"
       }
     },
     {
@@ -117,8 +117,8 @@
         },
         "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Feel My Rhythm",
         "previews": [
           {
@@ -153,14 +153,14 @@
           "textColor4": "b95307"
         },
         "composerName": "Abel Tesfaye, Martin McKinney, Mejdi Rhars, Dylan Wiggins, Magnus H\u00f8iberg, William Walsh & Henry Walter",
+        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "playParams": {
           "id": "1440870395",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Die For You",
         "previews": [
           {
@@ -182,8 +182,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 183893,
         "releaseDate": "2018-11-01",
+        "durationInMillis": 183893,
         "isrc": "KRC081800009",
         "artwork": {
           "width": 3000,
@@ -195,14 +195,14 @@
           "textColor3": "c1b201",
           "textColor4": "c53900"
         },
-        "url": "https://music.apple.com/us/album/thats-just-what-you-think/1592040077?i=1592040079",
         "playParams": {
           "id": "1592040079",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thats-just-what-you-think/1592040077?i=1592040079",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "That\u2019s Just What You Think",
         "previews": [
           {
@@ -238,14 +238,14 @@
           "textColor4": "f1ccc1"
         },
         "composerName": "Jacob Dil\u00dfner & Dylan Syben",
+        "url": "https://music.apple.com/us/album/here-we-are-main-mix-edit/1587934738?i=1587934739",
         "playParams": {
           "id": "1587934739",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/here-we-are-main-mix-edit/1587934738?i=1587934739",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Here We Are (Main Mix Edit)",
         "previews": [
           {
@@ -267,8 +267,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 204703,
         "releaseDate": "2016-05-31",
+        "durationInMillis": 204703,
         "isrc": "QM4DW1690694",
         "artwork": {
           "width": 3000,
@@ -281,14 +281,14 @@
           "textColor4": "563b3b"
         },
         "composerName": "Zeph",
-        "url": "https://music.apple.com/us/album/soul-trumpet-feat-patricia-edwards/1119345049?i=1119345247",
         "playParams": {
           "id": "1119345247",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/soul-trumpet-feat-patricia-edwards/1119345049?i=1119345247",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Soul Trumpet (feat. Patricia Edwards)",
         "previews": [
           {
@@ -309,8 +309,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 267122,
         "releaseDate": "2016-11-15",
+        "durationInMillis": 267122,
         "isrc": "IT0311600102",
         "artwork": {
           "width": 3000,
@@ -329,8 +329,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -353,8 +353,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 184947,
         "releaseDate": "2016-07-05",
+        "durationInMillis": 184947,
         "isrc": "KRA381601252",
         "artwork": {
           "width": 3000,
@@ -373,8 +373,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Youth (DAY)",
         "previews": [
           {
@@ -414,8 +414,8 @@
         },
         "url": "https://music.apple.com/us/album/hushh/1403418587?i=1403419081",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hushh",
         "previews": [
           {
@@ -451,14 +451,14 @@
           "textColor4": "67452d"
         },
         "composerName": "\uc784\uc218\ud638, \uc6a9\ubc30 & \uc774\uc2a4\ub780",
+        "url": "https://music.apple.com/us/album/destiny/1569281731?i=1569282066",
         "playParams": {
           "id": "1569282066",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/destiny/1569281731?i=1569282066",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DESTINY",
         "previews": [
           {
@@ -499,8 +499,8 @@
         },
         "url": "https://music.apple.com/us/album/defying-gravity/1449619162?i=1449619747",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Defying Gravity",
         "previews": [
           {
@@ -535,14 +535,14 @@
           "textColor4": "aaaaaa"
         },
         "composerName": "Nicholas Furlong, Gabriel Benjamin, Jordan Suecof, John Feldmann, Tim Bergling & Ash Pournouri",
+        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "playParams": {
           "id": "1440829549",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Nights",
         "previews": [
           {
@@ -578,14 +578,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), JUKJAE, HUH YUNJIN, \"Hitman\" Bang, Sakura, KIM CHAEWON, Hong Eun-chae & KazuHa",
+        "url": "https://music.apple.com/us/album/fearnot-between-you-me-and-the-lamppost/1682502020?i=1682502489",
         "playParams": {
           "id": "1682502489",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearnot-between-you-me-and-the-lamppost/1682502020?i=1682502489",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARNOT (Between you, me and the lamppost)",
         "previews": [
           {
@@ -607,8 +607,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 168437,
         "isrc": "USA2P2310660",
         "artwork": {
           "width": 1400,
@@ -627,8 +627,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS (2023 Ver.)",
         "previews": [
           {
@@ -651,8 +651,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 279733,
         "releaseDate": "2023-04-25",
+        "durationInMillis": 279733,
         "isrc": "KRMIM2349783",
         "artwork": {
           "width": 3000,
@@ -665,14 +665,14 @@
           "textColor4": "4c4f54"
         },
         "composerName": "\uc6d0\uc0c1\uc6b0",
-        "url": "https://music.apple.com/us/album/heaven-2023/1684207227?i=1684207229",
         "playParams": {
           "id": "1684207229",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/heaven-2023/1684207227?i=1684207229",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Heaven(2023)",
         "previews": [
           {
@@ -714,8 +714,8 @@
         },
         "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "TOMBOY",
         "previews": [
           {
@@ -737,8 +737,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 226840,
         "releaseDate": "2023-04-20",
+        "durationInMillis": 226840,
         "isrc": "KRA492300300",
         "artwork": {
           "width": 1400,
@@ -751,14 +751,14 @@
           "textColor4": "c69f60"
         },
         "composerName": "Andy Love, Alawn, Rum & DAON",
-        "url": "https://music.apple.com/us/album/hot-summer/1683256500?i=1683256522",
         "playParams": {
           "id": "1683256522",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hot-summer/1683256500?i=1683256522",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hot Summer",
         "previews": [
           {
@@ -780,8 +780,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 178453,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 178453,
         "isrc": "KRA392200038",
         "artwork": {
           "width": 1400,
@@ -800,8 +800,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nxde",
         "previews": [
           {
@@ -822,8 +822,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 256116,
         "releaseDate": "2018-02-12",
+        "durationInMillis": 256116,
         "isrc": "JPU901800227",
         "artwork": {
           "width": 4724,
@@ -836,14 +836,14 @@
           "textColor4": "624760"
         },
         "composerName": "Kenshi Yonezu",
-        "url": "https://music.apple.com/us/album/lemon/1537460610?i=1537460612",
         "playParams": {
           "id": "1537460612",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lemon/1537460610?i=1537460612",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Lemon",
         "previews": [
           {
@@ -879,14 +879,14 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU & Kitae Park",
+        "url": "https://music.apple.com/us/album/dust/1681324004?i=1681324156",
         "playParams": {
           "id": "1681324156",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dust/1681324004?i=1681324156",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dust",
         "previews": [
           {
@@ -908,8 +908,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 180933,
         "releaseDate": "2023-04-17",
+        "durationInMillis": 180933,
         "isrc": "KRA302300107",
         "artwork": {
           "width": 4000,
@@ -928,8 +928,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kiss",
         "previews": [
           {
@@ -951,8 +951,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -965,14 +965,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -1014,8 +1014,8 @@
         },
         "url": "https://music.apple.com/us/album/the-red-shoes/786862990?i=786863016",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Red Shoes",
         "previews": [
           {
@@ -1055,8 +1055,8 @@
         },
         "url": "https://music.apple.com/us/album/havana-instrumental/1325802708?i=1325802711",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Havana (Instrumental)",
         "previews": [
           {
@@ -1078,8 +1078,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 201895,
         "isrc": "USA2P2310661",
         "artwork": {
           "width": 1400,
@@ -1098,8 +1098,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Flame (2023 Ver.)",
         "previews": [
           {
@@ -1121,8 +1121,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 173134,
         "releaseDate": "2023-03-31",
+        "durationInMillis": 173134,
         "isrc": "KRA402300002",
         "artwork": {
           "width": 4000,
@@ -1135,14 +1135,14 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "FLOWER",
         "previews": [
           {
@@ -1185,8 +1185,8 @@
         },
         "url": "https://music.apple.com/us/album/talk-that-talk/1635656322?i=1635656417",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Talk that Talk",
         "previews": [
           {
@@ -1207,8 +1207,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213234,
         "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -1227,8 +1227,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -1250,8 +1250,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 188719,
         "releaseDate": "2023-03-20",
+        "durationInMillis": 188719,
         "isrc": "US5TA2200195",
         "artwork": {
           "width": 3000,
@@ -1270,8 +1270,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Me Like This",
         "previews": [
           {
