@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1603827292",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1603827292",
+      "attributes": {
+        "albumName": "[REC.] - EP",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-01-18",
+        "durationInMillis": 201680,
+        "isrc": "KRA252200027",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/fd/61/b5/fd61b56a-df90-bc7a-dc95-217833d2eb93/190296278792.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b22e21",
+          "textColor1": "e2e7ee",
+          "textColor2": "fae3b0",
+          "textColor3": "d8c2c5",
+          "textColor4": "ebbf93"
+        },
+        "composerName": "Chancellor, MZMC & Yuju",
+        "url": "https://music.apple.com/us/album/play/1603827290?i=1603827292",
+        "playParams": {
+          "id": "1603827292",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Play",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/04/df/6b/04df6b7e-c96d-852f-947e-23f7d97baae9/mzaf_151935798095592218.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yuju"
+      }
+    },
+    {
+      "id": "1613300650",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1613300650",
+      "attributes": {
+        "albumName": "\u5bb9 : FACE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-03-16",
+        "durationInMillis": 167627,
+        "isrc": "KRA382203888",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/8b/46/54/8b4654b5-492f-b3db-a089-02582ab46876/cover_KM0014922_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "030902",
+          "textColor1": "f1ed7c",
+          "textColor2": "f1e861",
+          "textColor3": "c1c064",
+          "textColor4": "c1bb4e"
+        },
+        "url": "https://music.apple.com/us/album/honey/1613300648?i=1613300650",
+        "playParams": {
+          "id": "1613300650",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "HONEY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/dd/13/f6dd13a9-c971-2a4c-18d1-c44bef5c7c97/mzaf_14699012896397923692.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Solar"
+      }
+    },
+    {
+      "id": "1616649362",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1616649362",
+      "attributes": {
+        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
+        "isrc": "KRA382204244",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "110d01",
+          "textColor2": "442217",
+          "textColor3": "403e34",
+          "textColor4": "694e46"
+        },
+        "playParams": {
+          "id": "1616649362",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Event Horizon",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
+      }
+    },
+    {
       "id": "1635469694",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1635469694",
@@ -33,8 +160,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -75,8 +202,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheshire",
         "previews": [
           {
@@ -121,8 +248,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -157,11 +284,11 @@
           "textColor4": "b8846c"
         },
         "composerName": "Asia Whiteacre, Jon Eyden, Puff, RAVI, Sam Klempner & Xydo",
-        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "playParams": {
           "id": "1604196299",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/make-me-happy/1604196298?i=1604196299",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -206,8 +333,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -248,8 +375,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "C.I.T.T (Cheese in the Trap)",
         "previews": [
           {
@@ -291,8 +418,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Weekend",
         "previews": [
           {
@@ -328,11 +455,11 @@
           "textColor4": "8a9bb2"
         },
         "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "playParams": {
           "id": "1609049613",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -371,11 +498,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -414,11 +541,11 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -463,8 +590,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -506,8 +633,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cupid",
         "previews": [
           {
@@ -543,11 +670,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -592,8 +719,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -629,11 +756,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -678,8 +805,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -715,11 +842,11 @@
           "textColor4": "4c4244"
         },
         "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "playParams": {
           "id": "1670474138",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -764,8 +891,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -800,11 +927,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -843,11 +970,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Nolan Lambroza, SCORE(13), MEGATONE(13), \ud5c8\uc724\uc9c4, Danke, \uc0ac\ucfe0\ub77c, Cha Yubeen, Alex Bilo, Jenna Andrews & salem ilese",
-        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "playParams": {
           "id": "1647830404",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -891,8 +1018,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Glitch",
         "previews": [
           {
@@ -933,8 +1060,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Poppy (Korean Ver.)",
         "previews": [
           {
@@ -970,11 +1097,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1013,11 +1140,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "playParams": {
           "id": "1677134765",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1056,11 +1183,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "playParams": {
           "id": "1679292892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1099,11 +1226,11 @@
           "textColor4": "4a3d4c"
         },
         "composerName": "Dwayne \"Dem Jointz\" Abernathy Jr., RYAN JHUN, Eyelar Mirzazadeh, Macy Maloy & Autumn Rowe",
-        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
         "playParams": {
           "id": "1653523109",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/selfish/1653523106?i=1653523109",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1147,8 +1274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Underwater",
         "previews": [
           {
@@ -1156,133 +1283,6 @@
           }
         ],
         "artistName": "Kwon Eun Bi"
-      }
-    },
-    {
-      "id": "1299046099",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1299046099",
-      "attributes": {
-        "albumName": "Emo the Musical: Original Motion Picture Soundtrack",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2017-04-22",
-        "durationInMillis": 149389,
-        "isrc": "AUSEI1600004",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/d4/ad/50/d4ad503d-1102-cec2-ff24-5d662db3cfd5/5054960457997_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fcd828",
-          "textColor1": "020000",
-          "textColor2": "363019",
-          "textColor3": "342b08",
-          "textColor4": "5e511c"
-        },
-        "url": "https://music.apple.com/us/album/stupid-band/1299045414?i=1299046099",
-        "playParams": {
-          "id": "1299046099",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Stupid Band",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/af/78/4caf7874-4350-8b87-dabe-289881363edd/mzaf_1504101510414952295.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Benson Jack Anthony"
-      }
-    },
-    {
-      "id": "1680047537",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047537",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-03-27",
-        "durationInMillis": 195440,
-        "isrc": "QM4TX2337765",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
-        "playParams": {
-          "id": "1680047537",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Kitsch",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1682502472",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682502472",
-      "attributes": {
-        "albumName": "UNFORGIVEN",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "2023-05-01",
-        "durationInMillis": 182149,
-        "isrc": "USA2P2310663",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "440619",
-          "textColor2": "51091c",
-          "textColor3": "6a3847",
-          "textColor4": "733a4a"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
-        "playParams": {
-          "id": "1682502472",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "UNFORGIVEN",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b1/ef/f3/b1eff322-6a89-9937-94e2-1264f3afc208/mzaf_15156871924830711525.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM & Nile Rodgers"
       }
     }
   ]
