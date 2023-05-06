@@ -1,6 +1,92 @@
 {
-  "next": "/v1/me/recent/played/tracks?offset=30&types=songs%2C+library-songs",
+  "next": "/v1/me/recent/played/tracks?offset=30&types=library-songs%2C+songs",
   "data": [
+    {
+      "id": "1679292891",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679292891",
+      "attributes": {
+        "albumName": "The Beginning: Cupid - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
+        "isrc": "KSA012239180",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fde3aa",
+          "textColor1": "000000",
+          "textColor2": "333333",
+          "textColor3": "322d22",
+          "textColor4": "5c564b"
+        },
+        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "playParams": {
+          "id": "1679292891",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Cupid",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e6/6e/87/e66e87b3-314d-ee50-718e-a8b7b8e3a11a/mzaf_6952755649518725684.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "FIFTY FIFTY"
+      }
+    },
+    {
+      "id": "1659513445",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1659513445",
+      "attributes": {
+        "albumName": "NewJeans 'OMG' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
+        "isrc": "USA2P2251723",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "d7d7d7",
+          "textColor3": "cbcbcb",
+          "textColor4": "acacac"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
+        "playParams": {
+          "id": "1659513445",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "OMG",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
     {
       "id": "1681324047",
       "type": "songs",
@@ -56,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -99,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 183853,
         "releaseDate": "2023-04-10",
+        "durationInMillis": 183853,
         "isrc": "QM4TX2337764",
         "artwork": {
           "width": 3000,
@@ -113,14 +199,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I AM",
         "previews": [
           {
@@ -142,8 +228,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 182149,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 182149,
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -156,14 +242,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -185,8 +271,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 159933,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 159933,
         "isrc": "KRA382300733",
         "artwork": {
           "width": 3000,
@@ -226,8 +312,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213234,
         "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -268,8 +354,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 150539,
         "releaseDate": "2017-01-09",
+        "durationInMillis": 150539,
         "isrc": "KRA491600942",
         "artwork": {
           "width": 1400,
@@ -368,14 +454,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Nolan Lambroza, SCORE(13), MEGATONE(13), \ud5c8\uc724\uc9c4, Danke, \uc0ac\ucfe0\ub77c, Cha Yubeen, Alex Bilo, Jenna Andrews & salem ilese",
-        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "playParams": {
           "id": "1647830404",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Good Parts (when the quality is bad but I am)",
         "previews": [
           {
@@ -411,14 +497,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Danke, \"Hitman\" Bang, Huh Yun Jin, Daniel \"Obi\" Klein, Charli Taft, Kim Chae Ah(153/Joombas), Maggie Szabo, Hayes Kramer, BLVS, Jaro, Nikolay Mohr, Park Sang Yoo(PNP), Jo Yun Kyung & Lee Hyung Suk(PNP)",
-        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "playParams": {
           "id": "1682502306",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -439,8 +525,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210948,
         "releaseDate": "2022-08-19",
+        "durationInMillis": 210948,
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -496,14 +582,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "playParams": {
           "id": "1682502027",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The World Is My Oyster (2023 Ver.)",
         "previews": [
           {
@@ -524,8 +610,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 134256,
         "releaseDate": "2022-10-21",
+        "durationInMillis": 134256,
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -538,14 +624,14 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -567,8 +653,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179120,
         "releaseDate": "2022-05-16",
+        "durationInMillis": 179120,
         "isrc": "KRA302200089",
         "artwork": {
           "width": 4000,
@@ -581,14 +667,14 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DEEP",
         "previews": [
           {
@@ -653,8 +739,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 104203,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 104203,
         "isrc": "USA2P2230328",
         "artwork": {
           "width": 1400,
@@ -667,14 +753,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
         "playParams": {
           "id": "1682502291",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Hydra",
         "previews": [
           {
@@ -710,14 +796,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "playParams": {
           "id": "1682502038",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS (2023 Ver.)",
         "previews": [
           {
@@ -753,14 +839,14 @@
           "textColor4": "4c4244"
         },
         "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "playParams": {
           "id": "1670474138",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Me Like This",
         "previews": [
           {
@@ -782,8 +868,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 177973,
         "releaseDate": "2023-02-14",
+        "durationInMillis": 177973,
         "isrc": "KRUM72300034",
         "artwork": {
           "width": 4000,
@@ -796,14 +882,14 @@
           "textColor4": "4e3a59"
         },
         "composerName": "S.Tiger, Elly & BIGBRAD",
-        "url": "https://music.apple.com/us/album/we-are-young/1670598529?i=1670598803",
         "playParams": {
           "id": "1670598803",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/we-are-young/1670598529?i=1670598803",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
+        "isAppleDigitalMaster": true,
         "name": "WE ARE YOUNG",
         "previews": [
           {
@@ -866,8 +952,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185003,
         "releaseDate": "2022-02-21",
+        "durationInMillis": 185003,
         "isrc": "VNA0R2000510",
         "artwork": {
           "width": 3000,
@@ -951,8 +1037,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 167547,
         "releaseDate": "2023-04-10",
+        "durationInMillis": 167547,
         "isrc": "QM4TX2337763",
         "artwork": {
           "width": 3000,
@@ -994,8 +1080,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 174253,
         "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
         "isrc": "KSA012239181",
         "artwork": {
           "width": 3000,
@@ -1037,8 +1123,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 201895,
         "isrc": "USA2P2310661",
         "artwork": {
           "width": 1400,
@@ -1094,14 +1180,14 @@
           "textColor3": "c7c0c8",
           "textColor4": "c3b1ca"
         },
-        "url": "https://music.apple.com/us/album/0415/1543102982?i=1543103563",
         "playParams": {
           "id": "1543103563",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/0415/1543102982?i=1543103563",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "0415",
         "previews": [
           {
@@ -1137,14 +1223,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Daniel \"Obi\" Klein, Charli Taft, Arineh Karimi, Moa \u201cCazzi Opeia\u201d Carlebecker, Young Chance & Shorelle",
-        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "playParams": {
           "id": "1682502478",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No-Return (Into the unknown)",
         "previews": [
           {
@@ -1192,92 +1278,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a6/e8/10/a6e810f6-494d-fa13-5f15-29d4099c6e50/mzaf_719418451447010747.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1682502489",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682502489",
-      "attributes": {
-        "albumName": "UNFORGIVEN",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 11,
-        "durationInMillis": 206832,
-        "releaseDate": "2023-05-01",
-        "isrc": "USA2P2310666",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "440619",
-          "textColor2": "51091c",
-          "textColor3": "6a3847",
-          "textColor4": "733a4a"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), JUKJAE, HUH YUNJIN, \"Hitman\" Bang, Sakura, KIM CHAEWON, Hong Eun-chae & KazuHa",
-        "url": "https://music.apple.com/us/album/fearnot-between-you-me-and-the-lamppost/1682502020?i=1682502489",
-        "playParams": {
-          "id": "1682502489",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "FEARNOT (Between you, me and the lamppost)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/72/bb/44/72bb44ec-eb2d-3149-921e-ae0f08dd6aa0/mzaf_14493328661387404452.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1682502483",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682502483",
-      "attributes": {
-        "albumName": "UNFORGIVEN",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 10,
-        "releaseDate": "2023-05-01",
-        "durationInMillis": 185539,
-        "isrc": "USA2P2310665",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "440619",
-          "textColor2": "51091c",
-          "textColor3": "6a3847",
-          "textColor4": "733a4a"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
-        "playParams": {
-          "id": "1682502483",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/8c/c7/838cc7cc-e9e8-799d-e3db-16d893a08461/mzaf_1148336731883147937.plus.aac.p.m4a"
           }
         ],
         "artistName": "LE SSERAFIM"
