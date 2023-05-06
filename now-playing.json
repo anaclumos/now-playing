@@ -1,5 +1,5 @@
 {
-  "next": "/v1/me/recent/played/tracks?offset=30&types=library-songs%2C+songs",
+  "next": "/v1/me/recent/played/tracks?offset=30&types=songs%2C+library-songs",
   "data": [
     {
       "id": "1679278167",
@@ -26,11 +26,11 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -75,8 +75,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ella Baila Sola",
         "previews": [
           {
@@ -84,6 +84,49 @@
           }
         ],
         "artistName": "Eslabon Armado & Peso Pluma"
+      }
+    },
+    {
+      "id": "1645995269",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1645995269",
+      "attributes": {
+        "albumName": "I Love - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
+        "isrc": "KRA392200040",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b2/20/a2/b220a21f-19ce-fae4-625b-c0a7223d45e2/196922202544_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "980400",
+          "textColor1": "f9cca9",
+          "textColor2": "fbbd94",
+          "textColor3": "e5a487",
+          "textColor4": "e79876"
+        },
+        "composerName": "Minnie, BreadBeat & So-yeon",
+        "playParams": {
+          "id": "1645995269",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/change/1645995261?i=1645995269",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Change",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/13/76/e5/1376e5fa-42f1-8af6-6a20-5ceb01bbd266/mzaf_8125914815218749458.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
       }
     },
     {
@@ -118,8 +161,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Good Parts (when the quality is bad but I am)",
         "previews": [
           {
@@ -161,8 +204,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -197,11 +240,11 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -240,11 +283,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "playParams": {
           "id": "1682502027",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -282,11 +325,11 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -331,8 +374,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DEEP",
         "previews": [
           {
@@ -374,8 +417,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -416,8 +459,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rising",
         "previews": [
           {
@@ -459,8 +502,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The Hydra",
         "previews": [
           {
@@ -496,11 +539,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "playParams": {
           "id": "1682502038",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -539,11 +582,11 @@
           "textColor4": "4c4244"
         },
         "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "playParams": {
           "id": "1670474138",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -582,11 +625,11 @@
           "textColor4": "4e3a59"
         },
         "composerName": "S.Tiger, Elly & BIGBRAD",
-        "url": "https://music.apple.com/us/album/we-are-young/1670598529?i=1670598803",
         "playParams": {
           "id": "1670598803",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/we-are-young/1670598529?i=1670598803",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
@@ -624,11 +667,11 @@
           "textColor4": "595757"
         },
         "composerName": "Iain Cook, Martin Doherty & Lauren Mayberry",
-        "url": "https://music.apple.com/us/album/death-stranding/1481632805?i=1481632812",
         "playParams": {
           "id": "1481632812",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/death-stranding/1481632805?i=1481632812",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -666,11 +709,11 @@
           "textColor4": "2e4863"
         },
         "composerName": "DTAP",
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "playParams": {
           "id": "1610405000",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -714,8 +757,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "See T\u00ecnh (Cukak Remix)",
         "previews": [
           {
@@ -757,8 +800,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Blood",
         "previews": [
           {
@@ -800,8 +843,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cupid (Twin Ver.)",
         "previews": [
           {
@@ -843,8 +886,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame (2023 Ver.)",
         "previews": [
           {
@@ -880,11 +923,11 @@
           "textColor3": "c7c0c8",
           "textColor4": "c3b1ca"
         },
-        "url": "https://music.apple.com/us/album/0415/1543102982?i=1543103563",
         "playParams": {
           "id": "1543103563",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/0415/1543102982?i=1543103563",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -923,11 +966,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Daniel \"Obi\" Klein, Charli Taft, Arineh Karimi, Moa \u201cCazzi Opeia\u201d Carlebecker, Young Chance & Shorelle",
-        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "playParams": {
           "id": "1682502478",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -972,8 +1015,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Flash Forward",
         "previews": [
           {
@@ -1015,8 +1058,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARNOT (Between you, me and the lamppost)",
         "previews": [
           {
@@ -1058,8 +1101,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -1101,8 +1144,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -1138,11 +1181,11 @@
           "textColor4": "143d30"
         },
         "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
-        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "playParams": {
           "id": "1614179710",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1186,8 +1229,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Die For You",
         "previews": [
           {
@@ -1222,11 +1265,11 @@
           "textColor3": "c1b201",
           "textColor4": "c53900"
         },
-        "url": "https://music.apple.com/us/album/thats-just-what-you-think/1592040077?i=1592040079",
         "playParams": {
           "id": "1592040079",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thats-just-what-you-think/1592040077?i=1592040079",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1237,49 +1280,6 @@
           }
         ],
         "artistName": "Kiha & The Faces"
-      }
-    },
-    {
-      "id": "1587934739",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1587934739",
-      "attributes": {
-        "albumName": "Here We Are - EP",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "House"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-03-11",
-        "durationInMillis": 217933,
-        "isrc": "FR10S1932171",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/5e/7a/88/5e7a8867-8a2a-2690-ceda-40e8f4230d09/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ca0000",
-          "textColor1": "fdfffe",
-          "textColor2": "fbfff2",
-          "textColor3": "f2cccb",
-          "textColor4": "f1ccc1"
-        },
-        "composerName": "Jacob Dil\u00dfner & Dylan Syben",
-        "url": "https://music.apple.com/us/album/here-we-are-main-mix-edit/1587934738?i=1587934739",
-        "playParams": {
-          "id": "1587934739",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Here We Are (Main Mix Edit)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/a6/be/78a6bec4-460b-b3e2-c731-4bd229eb9400/mzaf_5723413716676774424.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Wankelmut"
       }
     }
   ]
