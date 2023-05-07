@@ -1,5 +1,5 @@
 {
-  "next": "/v1/me/recent/played/tracks?offset=30&types=songs%2C+library-songs",
+  "next": "/v1/me/recent/played/tracks?offset=30&types=library-songs%2C+songs",
   "data": [
     {
       "id": "1679278167",
@@ -26,11 +26,11 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -41,6 +41,48 @@
           }
         ],
         "artistName": "YOASOBI"
+      }
+    },
+    {
+      "id": "1670327199",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670327199",
+      "attributes": {
+        "albumName": "ASSEMBLE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-02-13",
+        "durationInMillis": 159933,
+        "isrc": "KRA382300733",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/04/15/d404150a-381f-6f04-aa0a-bb948bf581db/cover_KM0016832_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "f5dbd9",
+          "textColor3": "cbcbcb",
+          "textColor4": "c4afae"
+        },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
+        "playParams": {
+          "id": "1670327199",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Rising",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/5f/b8/4a5fb892-8df9-fb3a-d5d3-0c3657be422d/mzaf_1438772142506115639.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "tripleS"
       }
     },
     {
@@ -68,22 +110,22 @@
           "textColor4": "adaba6"
         },
         "composerName": "John Byron, Ashley Gorley, Jacob Kasher Hindlin & Ryan Vojtesak",
+        "url": "https://music.apple.com/us/album/last-night/1667990565?i=1667990774",
         "playParams": {
           "id": "1667990774",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/last-night/1667990565?i=1667990774",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Last Night",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/89/1e/03/891e03c1-98b8-3cbc-a10a-612427bf354a/mzaf_10721724985415388050.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Morgan Wallen",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Morgan Wallen"
       }
     },
     {
@@ -112,14 +154,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
@@ -155,14 +197,14 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "FLOWER",
         "previews": [
           {
@@ -204,8 +246,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid",
         "previews": [
           {
@@ -241,11 +283,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -284,11 +326,11 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -327,11 +369,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "playParams": {
           "id": "1680047537",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -339,49 +381,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1680047366",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047366",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-04-10",
-        "durationInMillis": 183853,
-        "isrc": "QM4TX2337764",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "playParams": {
-          "id": "1680047366",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "I AM",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/af/45/c0/af45c08e-9368-8679-9516-3a2238cd0ba3/mzaf_742897824559319104.plus.aac.p.m4a"
           }
         ],
         "artistName": "IVE"
@@ -413,11 +412,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -428,48 +427,6 @@
           }
         ],
         "artistName": "LE SSERAFIM & Nile Rodgers"
-      }
-    },
-    {
-      "id": "1670327199",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670327199",
-      "attributes": {
-        "albumName": "ASSEMBLE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-02-13",
-        "durationInMillis": 159933,
-        "isrc": "KRA382300733",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/04/15/d404150a-381f-6f04-aa0a-bb948bf581db/cover_KM0016832_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "f5dbd9",
-          "textColor3": "cbcbcb",
-          "textColor4": "c4afae"
-        },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
-        "playParams": {
-          "id": "1670327199",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Rising",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/5f/b8/4a5fb892-8df9-fb3a-d5d3-0c3657be422d/mzaf_1438772142506115639.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "tripleS"
       }
     },
     {
@@ -546,8 +503,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Winter Is Coming",
         "previews": [
           {
@@ -632,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Good Parts (when the quality is bad but I am)",
         "previews": [
           {
@@ -669,14 +626,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Danke, \"Hitman\" Bang, Huh Yun Jin, Daniel \"Obi\" Klein, Charli Taft, Kim Chae Ah(153/Joombas), Maggie Szabo, Hayes Kramer, BLVS, Jaro, Nikolay Mohr, Park Sang Yoo(PNP), Jo Yun Kyung & Lee Hyung Suk(PNP)",
+        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "playParams": {
           "id": "1682502306",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -711,11 +668,11 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -754,11 +711,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "playParams": {
           "id": "1682502027",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -802,8 +759,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Made You Look",
         "previews": [
           {
@@ -839,14 +796,14 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DEEP",
         "previews": [
           {
@@ -882,14 +839,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, \"Hitman\" Bang, Shintaro Yasuda, Supreme Boi, Isabella Lovestory, Kyler Niko, Ronnie Icon, Nathalie Boone & Danke",
+        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "playParams": {
           "id": "1682502298",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -925,14 +882,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
+        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
         "playParams": {
           "id": "1682502291",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Hydra",
         "previews": [
           {
@@ -968,11 +925,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "playParams": {
           "id": "1682502038",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1060,8 +1017,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
+        "isAppleDigitalMaster": true,
         "name": "WE ARE YOUNG",
         "previews": [
           {
@@ -1096,14 +1053,14 @@
           "textColor4": "595757"
         },
         "composerName": "Iain Cook, Martin Doherty & Lauren Mayberry",
+        "url": "https://music.apple.com/us/album/death-stranding/1481632805?i=1481632812",
         "playParams": {
           "id": "1481632812",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/death-stranding/1481632805?i=1481632812",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Death Stranding",
         "previews": [
           {
@@ -1180,11 +1137,11 @@
           "textColor4": "734b55"
         },
         "composerName": "DTAP",
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh-cukak-remix/1621441189?i=1621441192",
         "playParams": {
           "id": "1621441192",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh-cukak-remix/1621441189?i=1621441192",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -1223,14 +1180,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Seo Ji Eum, Nick Hahn, Sophia Brenan & Elle Campbell",
+        "url": "https://music.apple.com/us/album/blue-blood/1680047093?i=1680047357",
         "playParams": {
           "id": "1680047357",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blue-blood/1680047093?i=1680047357",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Blue Blood",
         "previews": [
           {
@@ -1266,11 +1223,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "playParams": {
           "id": "1679292892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1281,6 +1238,49 @@
           }
         ],
         "artistName": "FIFTY FIFTY"
+      }
+    },
+    {
+      "id": "1682502286",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502286",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 201895,
+        "isrc": "USA2P2310661",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Yang Gayoung(PNP), Kim In Hyeong, Danke, KIM CHAEWON, Ronnie Icon, Caroline Gustavsson & HUH YUNJIN",
+        "url": "https://music.apple.com/us/album/blue-flame-2023-ver/1682502020?i=1682502286",
+        "playParams": {
+          "id": "1682502286",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Blue Flame (2023 Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0b/77/06/0b77064b-c731-b3ac-b206-480bb41a1111/mzaf_10494863070722250968.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
       }
     }
   ]
