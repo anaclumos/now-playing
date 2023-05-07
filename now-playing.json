@@ -1,5 +1,5 @@
 {
-  "next": "/v1/me/recent/played/tracks?offset=30&types=songs%2C+library-songs",
+  "next": "/v1/me/recent/played/tracks?offset=30&types=library-songs%2C+songs",
   "data": [
     {
       "id": "1679278167",
@@ -12,8 +12,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -74,8 +74,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rising",
         "previews": [
           {
@@ -116,16 +116,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Last Night",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/89/1e/03/891e03c1-98b8-3cbc-a10a-612427bf354a/mzaf_10721724985415388050.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Morgan Wallen",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Morgan Wallen"
       }
     },
     {
@@ -140,8 +140,8 @@
           "Latin"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-03-17",
         "durationInMillis": 165671,
+        "releaseDate": "2023-03-17",
         "isrc": "USE7D2300007",
         "artwork": {
           "width": 1400,
@@ -182,8 +182,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2017-01-09",
         "durationInMillis": 150539,
+        "releaseDate": "2017-01-09",
         "isrc": "KRA491600942",
         "artwork": {
           "width": 1400,
@@ -225,8 +225,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 204040,
+        "releaseDate": "2022-10-17",
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -268,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 156355,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -311,8 +311,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -353,8 +353,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-19",
         "durationInMillis": 210948,
+        "releaseDate": "2022-08-19",
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -396,8 +396,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 106821,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 106821,
         "isrc": "USA2P2310659",
         "artwork": {
           "width": 1400,
@@ -410,11 +410,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "playParams": {
           "id": "1682502027",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -438,8 +438,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-21",
         "durationInMillis": 134256,
+        "releaseDate": "2022-10-21",
         "isrc": "USSM12204574",
         "artwork": {
           "width": 3000,
@@ -481,8 +481,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179120,
         "releaseDate": "2022-05-16",
+        "durationInMillis": 179120,
         "isrc": "KRA302200089",
         "artwork": {
           "width": 4000,
@@ -495,11 +495,11 @@
           "textColor4": "411e2f"
         },
         "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
-        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "playParams": {
           "id": "1624007966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -538,14 +538,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, \"Hitman\" Bang, Shintaro Yasuda, Supreme Boi, Isabella Lovestory, Kyler Niko, Ronnie Icon, Nathalie Boone & Danke",
-        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "playParams": {
           "id": "1682502298",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -581,14 +581,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
         "playParams": {
           "id": "1682502291",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The Hydra",
         "previews": [
           {
@@ -630,8 +630,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FEARLESS (2023 Ver.)",
         "previews": [
           {
@@ -653,8 +653,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 188719,
         "releaseDate": "2023-03-20",
+        "durationInMillis": 188719,
         "isrc": "US5TA2200195",
         "artwork": {
           "width": 3000,
@@ -667,11 +667,11 @@
           "textColor4": "4c4244"
         },
         "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "playParams": {
           "id": "1670474138",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -716,8 +716,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "WE ARE YOUNG",
         "previews": [
           {
@@ -738,8 +738,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2019-09-30",
         "durationInMillis": 318658,
+        "releaseDate": "2019-09-30",
         "isrc": "GBZN81900001",
         "artwork": {
           "width": 3000,
@@ -780,8 +780,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185003,
         "releaseDate": "2022-02-21",
+        "durationInMillis": 185003,
         "isrc": "VNA0R2000510",
         "artwork": {
           "width": 3000,
@@ -794,11 +794,11 @@
           "textColor4": "2e4863"
         },
         "composerName": "DTAP",
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "playParams": {
           "id": "1610405000",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -842,8 +842,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "See T\u00ecnh (Cukak Remix)",
         "previews": [
           {
@@ -885,8 +885,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Blood",
         "previews": [
           {
@@ -908,8 +908,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 174253,
         "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
         "isrc": "KSA012239181",
         "artwork": {
           "width": 3000,
@@ -922,11 +922,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "playParams": {
           "id": "1679292892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -951,8 +951,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 201895,
         "isrc": "USA2P2310661",
         "artwork": {
           "width": 1400,
@@ -965,11 +965,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Yang Gayoung(PNP), Kim In Hyeong, Danke, KIM CHAEWON, Ronnie Icon, Caroline Gustavsson & HUH YUNJIN",
-        "url": "https://music.apple.com/us/album/blue-flame-2023-ver/1682502020?i=1682502286",
         "playParams": {
           "id": "1682502286",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blue-flame-2023-ver/1682502020?i=1682502286",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -995,8 +995,8 @@
           "K-Pop"
         ],
         "trackNumber": 11,
-        "durationInMillis": 264307,
         "releaseDate": "2020-12-10",
+        "durationInMillis": 264307,
         "isrc": "KRF252000174",
         "artwork": {
           "width": 3000,
@@ -1008,11 +1008,11 @@
           "textColor3": "c7c0c8",
           "textColor4": "c3b1ca"
         },
-        "url": "https://music.apple.com/us/album/0415/1543102982?i=1543103563",
         "playParams": {
           "id": "1543103563",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/0415/1543102982?i=1543103563",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1037,8 +1037,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "durationInMillis": 184824,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 184824,
         "isrc": "USA2P2310664",
         "artwork": {
           "width": 1400,
@@ -1051,11 +1051,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Daniel \"Obi\" Klein, Charli Taft, Arineh Karimi, Moa \u201cCazzi Opeia\u201d Carlebecker, Young Chance & Shorelle",
-        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "playParams": {
           "id": "1682502478",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1080,8 +1080,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "durationInMillis": 195512,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 195512,
         "isrc": "USA2P2310667",
         "artwork": {
           "width": 1400,
@@ -1094,11 +1094,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "Hiss noise, Alex Karlsson, Stian N. Olsen (Blueprint), Elizaveta Vassilieva, \"Hitman\" Bang, Danke & \uc774\uc7ac\ub2c8(PNP)",
-        "url": "https://music.apple.com/us/album/flash-forward/1682502020?i=1682502889",
         "playParams": {
           "id": "1682502889",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flash-forward/1682502020?i=1682502889",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1123,8 +1123,8 @@
           "Pop"
         ],
         "trackNumber": 11,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 206832,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310666",
         "artwork": {
           "width": 1400,
@@ -1180,14 +1180,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -1209,8 +1209,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 182149,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 182149,
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -1223,11 +1223,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1266,14 +1266,14 @@
           "textColor4": "143d30"
         },
         "composerName": "Jake K, Maria Marcus, Andreas \u00d6berg & MCK",
-        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "playParams": {
           "id": "1614179710",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Feel My Rhythm",
         "previews": [
           {
