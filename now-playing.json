@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1600423431",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1600423431",
+      "attributes": {
+        "albumName": "FIRST IMPACT - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-01-03",
+        "durationInMillis": 183693,
+        "isrc": "KRA492101456",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/30/ca/74/30ca745e-574c-2e30-d947-9ef5d80a5178/888272092226_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ee6ab6",
+          "textColor2": "e46ca7",
+          "textColor3": "bf5591",
+          "textColor4": "b75685"
+        },
+        "composerName": "BuildingOwner(PRISMFILTER), Elum(PRISMFILTER), Ronnie Shannon, Danke, Hwang Yu Bin, Odal Park, Lee Seu Ran & Kako",
+        "url": "https://music.apple.com/us/album/wa-da-da/1600423424?i=1600423431",
+        "playParams": {
+          "id": "1600423431",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "WA DA DA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/70/de/f6/70def6a3-a886-c8a9-4a99-cd2d5da45640/mzaf_6361646082623656010.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Kep1er"
+      }
+    },
+    {
       "id": "1669081591",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1669081591",
@@ -1244,48 +1287,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1639023912",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639023912",
-      "attributes": {
-        "albumName": "NIGHT DANCER - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-19",
-        "durationInMillis": 210948,
-        "isrc": "JPPO02202918",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/c2/49/87/c249873f-fa61-9d61-52aa-a7e1d780c8b3/22UMGIM81500.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "fffd00",
-          "textColor3": "cbcbcb",
-          "textColor4": "cbca00"
-        },
-        "composerName": "imase",
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
-        "playParams": {
-          "id": "1639023912",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "NIGHT DANCER",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/64/a3/9a64a3b4-bb2f-9f05-d67e-7d5ca5dc4d85/mzaf_3042423082720944814.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "imase"
       }
     }
   ]
