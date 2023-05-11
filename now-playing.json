@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1647830394",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1647830394",
+      "attributes": {
+        "albumName": "ANTIFRAGILE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
+        "isrc": "USA2P2230330",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "212121",
+          "textColor3": "333333",
+          "textColor4": "4e4e4e"
+        },
+        "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
+        "playParams": {
+          "id": "1647830394",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Impurities",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9b/63/aa/9b63aaae-cc83-39ec-0a06-a564861f4f11/mzaf_15166524560809953058.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1594292084",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1594292084",
+      "attributes": {
+        "albumName": "YOUNHA 6th Album 'END THEORY'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Rock"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2021-11-16",
+        "durationInMillis": 206627,
+        "isrc": "KRA382163578",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/f7/ec/83/f7ec837e-3a7f-6476-1890-be94cbbc887b/YOUNHA_6th_Album_END_THEORY_Digitalcover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fff9d9",
+          "textColor1": "0b0202",
+          "textColor2": "4b1e10",
+          "textColor3": "3c332d",
+          "textColor4": "6f4a38"
+        },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
+        "playParams": {
+          "id": "1594292084",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Oort Cloud",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/19/ce/79/19ce7920-99b9-358a-190d-b7b748d4de02/mzaf_13520814028107338416.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Younha"
+      }
+    },
+    {
       "id": "1682502472",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502472",
@@ -56,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -99,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 206920,
         "releaseDate": "2023-05-02",
+        "durationInMillis": 206920,
         "isrc": "KRA302300144",
         "artwork": {
           "width": 4000,
@@ -185,8 +271,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -228,8 +314,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 197040,
         "releaseDate": "2023-05-08",
+        "durationInMillis": 197040,
         "isrc": "KRA302300145",
         "artwork": {
           "width": 4000,
@@ -300,49 +386,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1594292084",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1594292084",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album 'END THEORY'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 206627,
-        "releaseDate": "2021-11-16",
-        "isrc": "KRA382163578",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/f7/ec/83/f7ec837e-3a7f-6476-1890-be94cbbc887b/YOUNHA_6th_Album_END_THEORY_Digitalcover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fff9d9",
-          "textColor1": "0b0202",
-          "textColor2": "4b1e10",
-          "textColor3": "3c332d",
-          "textColor4": "6f4a38"
-        },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
-        "playParams": {
-          "id": "1594292084",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Oort Cloud",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/19/ce/79/19ce7920-99b9-358a-190d-b7b748d4de02/mzaf_13520814028107338416.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
       }
     },
     {
@@ -485,8 +528,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213234,
         "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -527,8 +570,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 235241,
         "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 2500,
@@ -698,8 +741,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 159933,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 159933,
         "isrc": "KRA382300733",
         "artwork": {
           "width": 3000,
@@ -783,8 +826,8 @@
           "Latin"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165671,
         "releaseDate": "2023-03-17",
+        "durationInMillis": 165671,
         "isrc": "USE7D2300007",
         "artwork": {
           "width": 1400,
@@ -825,8 +868,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 150539,
         "releaseDate": "2017-01-09",
+        "durationInMillis": 150539,
         "isrc": "KRA491600942",
         "artwork": {
           "width": 1400,
@@ -868,8 +911,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -953,8 +996,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210948,
         "releaseDate": "2022-08-19",
+        "durationInMillis": 210948,
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -996,8 +1039,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 106821,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 106821,
         "isrc": "USA2P2310659",
         "artwork": {
           "width": 1400,
@@ -1081,8 +1124,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179120,
         "releaseDate": "2022-05-16",
+        "durationInMillis": 179120,
         "isrc": "KRA302200089",
         "artwork": {
           "width": 4000,
@@ -1124,8 +1167,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -1210,8 +1253,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 168437,
         "isrc": "USA2P2310660",
         "artwork": {
           "width": 1400,
@@ -1239,49 +1282,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1670598803",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670598803",
-      "attributes": {
-        "albumName": "W.A.Y - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-02-14",
-        "durationInMillis": 177973,
-        "isrc": "KRUM72300034",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/6f/33/b7/6f33b704-8e7d-18b8-3849-7343c9fea36b/23UMGIM10798.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "afb3d9",
-          "textColor1": "1f1833",
-          "textColor2": "361b39",
-          "textColor3": "3c3754",
-          "textColor4": "4e3a59"
-        },
-        "composerName": "S.Tiger, Elly & BIGBRAD",
-        "url": "https://music.apple.com/us/album/we-are-young/1670598529?i=1670598803",
-        "playParams": {
-          "id": "1670598803",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": false,
-        "name": "WE ARE YOUNG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ce/af/57/ceaf570b-4578-53c7-0583-a96f2cc3e017/mzaf_182491020673581031.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TRI.BE"
       }
     }
   ]
