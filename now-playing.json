@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1685400184",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1685400184",
+      "attributes": {
+        "albumName": "MY WORLD - The 3rd Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-08",
+        "durationInMillis": 197040,
+        "isrc": "KRA302300145",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00134d",
+          "textColor1": "a2bcdd",
+          "textColor2": "94b9e5",
+          "textColor3": "819ac0",
+          "textColor4": "7798c7"
+        },
+        "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
+        "playParams": {
+          "id": "1685400184",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Spicy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f6/66/98/f6669873-4a72-ed63-77ee-13746938c220/mzaf_16352020300822090516.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
       "id": "1610405000",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1610405000",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185003,
         "releaseDate": "2022-02-21",
+        "durationInMillis": 185003,
         "isrc": "VNA0R2000510",
         "artwork": {
           "width": 3000,
@@ -68,14 +111,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -83,48 +126,6 @@
           }
         ],
         "artistName": "YOASOBI"
-      }
-    },
-    {
-      "id": "1639023912",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639023912",
-      "attributes": {
-        "albumName": "NIGHT DANCER - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-08-19",
-        "durationInMillis": 210948,
-        "isrc": "JPPO02202918",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/c2/49/87/c249873f-fa61-9d61-52aa-a7e1d780c8b3/22UMGIM81500.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "fffd00",
-          "textColor3": "cbcbcb",
-          "textColor4": "cbca00"
-        },
-        "composerName": "imase",
-        "playParams": {
-          "id": "1639023912",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "NIGHT DANCER",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/64/a3/9a64a3b4-bb2f-9f05-d67e-7d5ca5dc4d85/mzaf_3042423082720944814.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "imase"
       }
     },
     {
@@ -153,14 +154,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
+        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "playParams": {
           "id": "1682502027",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The World Is My Oyster (2023 Ver.)",
         "previews": [
           {
@@ -182,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 159933,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 159933,
         "isrc": "KRA382300733",
         "artwork": {
           "width": 3000,
@@ -238,14 +239,14 @@
           "textColor4": "b75685"
         },
         "composerName": "BuildingOwner(PRISMFILTER), Elum(PRISMFILTER), Ronnie Shannon, Danke, Hwang Yu Bin, Odal Park, Lee Seu Ran & Kako",
+        "url": "https://music.apple.com/us/album/wa-da-da/1600423424?i=1600423431",
         "playParams": {
           "id": "1600423431",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/wa-da-da/1600423424?i=1600423431",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "WA DA DA",
         "previews": [
           {
@@ -267,8 +268,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 181680,
         "releaseDate": "2023-03-10",
+        "durationInMillis": 181680,
         "isrc": "US5TA2300005",
         "artwork": {
           "width": 1400,
@@ -299,49 +300,6 @@
       }
     },
     {
-      "id": "1685400184",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1685400184",
-      "attributes": {
-        "albumName": "MY WORLD - The 3rd Mini Album - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-05-08",
-        "durationInMillis": 197040,
-        "isrc": "KRA302300145",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00134d",
-          "textColor1": "a2bcdd",
-          "textColor2": "94b9e5",
-          "textColor3": "819ac0",
-          "textColor4": "7798c7"
-        },
-        "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "playParams": {
-          "id": "1685400184",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Spicy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f6/66/98/f6669873-4a72-ed63-77ee-13746938c220/mzaf_16352020300822090516.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
-      }
-    },
-    {
       "id": "1657231962",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1657231962",
@@ -367,11 +325,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -410,11 +368,11 @@
           "textColor4": "535353"
         },
         "composerName": "VVN, Kush, R. Tee & Ido",
+        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "playParams": {
           "id": "1644440677",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yeah-yeah-yeah/1644440668?i=1644440677",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -453,11 +411,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Julia Bognar Finnseter(Blueprint), Nermin Harambasic(Dsign Music), Poutyface, Ronnie Icon, Young Chance, Shorelle, Danke, Sunshine (Cazzi Opeia & Ellen Berg), \uae40\uc778\ud615, SCORE(13), MEGATONE(13), \ubc15\uc0c1\uc720(PNP) & \ud5c8\uc724\uc9c4",
+        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "playParams": {
           "id": "1647830401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-celestial/1647830231?i=1647830401",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -496,14 +454,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "\uc774\ud615\uc11d(PNP), SCORE(13), Nikolay Mohr, \ubc15\uc0c1\uc720(PNP), \uc870\uc724\uacbd, Hayes Kramer, BLVSH, Jaro, Charli Taft, \uae40\ucc44\uc544(153/Joombas), Maggie Szabo, \"Hitman\" Bang, \ud5c8\uc724\uc9c4, Daniel \"Obi\" Klein, MEGATONE(13), Jonna Hall & Danke",
+        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "playParams": {
           "id": "1647830394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1647830231?i=1647830394",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -539,11 +497,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -568,8 +526,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -588,8 +546,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -611,8 +569,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 176973,
         "releaseDate": "2022-08-22",
+        "durationInMillis": 176973,
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -654,8 +612,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -696,8 +654,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 182453,
         "releaseDate": "2022-11-30",
+        "durationInMillis": 182453,
         "isrc": "US5TA2200143",
         "artwork": {
           "width": 1400,
@@ -743,8 +701,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "durationInMillis": 199640,
         "releaseDate": "2021-05-18",
+        "durationInMillis": 199640,
         "isrc": "KRUM72100123",
         "artwork": {
           "width": 4000,
@@ -800,11 +758,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -829,8 +787,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 206920,
         "releaseDate": "2023-05-02",
+        "durationInMillis": 206920,
         "isrc": "KRA302300144",
         "artwork": {
           "width": 4000,
@@ -849,8 +807,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Welcome To MY World (feat. n\u00e6vis)",
         "previews": [
           {
@@ -886,14 +844,14 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -915,8 +873,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -935,8 +893,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -972,14 +930,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I AM",
         "previews": [
           {
@@ -1001,8 +959,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 156355,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 156355,
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -1021,8 +979,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Good Parts (when the quality is bad but I am)",
         "previews": [
           {
@@ -1043,8 +1001,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 191608,
         "releaseDate": "2019-06-18",
+        "durationInMillis": 191608,
         "isrc": "FR59R1930256",
         "artwork": {
           "width": 1440,
@@ -1063,8 +1021,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "\u0417\u043e\u043b\u043e\u0442\u043e (Rakurs & Ramirez Remix)",
         "previews": [
           {
@@ -1086,8 +1044,8 @@
           "Latin"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165671,
         "releaseDate": "2023-03-17",
+        "durationInMillis": 165671,
         "isrc": "USE7D2300007",
         "artwork": {
           "width": 1400,
@@ -1128,8 +1086,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 150539,
         "releaseDate": "2017-01-09",
+        "durationInMillis": 150539,
         "isrc": "KRA491600942",
         "artwork": {
           "width": 1400,
@@ -1148,8 +1106,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Winter Is Coming",
         "previews": [
           {
@@ -1171,8 +1129,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 204040,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 204040,
         "isrc": "KRA392200040",
         "artwork": {
           "width": 1400,
@@ -1191,8 +1149,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Change",
         "previews": [
           {
@@ -1214,8 +1172,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -1270,14 +1228,14 @@
           "textColor4": "bbb0d2"
         },
         "composerName": "Meghan Trainor, Federico Vindver & Sean Douglas",
+        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "playParams": {
           "id": "1637490926",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/made-you-look/1637490577?i=1637490926",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Made You Look",
         "previews": [
           {
@@ -1285,6 +1243,49 @@
           }
         ],
         "artistName": "Meghan Trainor"
+      }
+    },
+    {
+      "id": "1624007966",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1624007966",
+      "attributes": {
+        "albumName": "DEEP - The 1st Mini Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-05-16",
+        "durationInMillis": 179120,
+        "isrc": "KRA302200089",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/59/8d/12/598d1283-7cbf-f88d-0af4-3f138cf0ff6c/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ff83cc",
+          "textColor1": "120205",
+          "textColor2": "120507",
+          "textColor3": "411c2d",
+          "textColor4": "411e2f"
+        },
+        "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
+        "playParams": {
+          "id": "1624007966",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "DEEP",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/fb/eb/42fbebb5-ba3e-d4ac-30f9-defc38adc197/mzaf_654819522158017305.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "HYO"
       }
     }
   ]
