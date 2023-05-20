@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1684674427",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674427",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 161240,
+        "releaseDate": "2023-05-15",
+        "isrc": "KRA392300001",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "So-yeon, Pop Time, Daily & Likey",
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
+        "playParams": {
+          "id": "1684674427",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Queencard",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/01/a4/8c/01a48c35-a92a-5fde-818c-eac44bc08825/mzaf_9694690388777143301.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
       "id": "1682502472",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502472",
@@ -13,8 +56,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 182149,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 182149,
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -27,14 +70,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -76,8 +119,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Spicy",
         "previews": [
           {
@@ -118,8 +161,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -127,49 +170,6 @@
           }
         ],
         "artistName": "YOASOBI"
-      }
-    },
-    {
-      "id": "1684674427",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1684674427",
-      "attributes": {
-        "albumName": "I feel - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-05-15",
-        "durationInMillis": 161240,
-        "isrc": "KRA392300001",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "faa9c7",
-          "textColor2": "e59eb8",
-          "textColor3": "c8879f",
-          "textColor4": "b77e93"
-        },
-        "composerName": "So-yeon, Pop Time, Daily & Likey",
-        "playParams": {
-          "id": "1684674427",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Queencard",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/01/a4/8c/01a48c35-a92a-5fde-818c-eac44bc08825/mzaf_9694690388777143301.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
       }
     },
     {
@@ -204,8 +204,8 @@
         },
         "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Mai Piu' Cosi' Lontano",
         "previews": [
           {
@@ -247,8 +247,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Allergy",
         "previews": [
           {
@@ -270,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-07-08",
         "durationInMillis": 178133,
+        "releaseDate": "2022-07-08",
         "isrc": "KRA302200099",
         "artwork": {
           "width": 4000,
@@ -284,14 +284,14 @@
           "textColor4": "c39da8"
         },
         "composerName": "Becky Hill, Sam Klempner & Uzoechi Emenike",
+        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "playParams": {
           "id": "1626752995",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Life's Too Short",
         "previews": [
           {
@@ -313,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 173413,
         "releaseDate": "2022-01-17",
+        "durationInMillis": 173413,
         "isrc": "KRMIM2201803",
         "artwork": {
           "width": 1400,
@@ -327,14 +327,14 @@
           "textColor4": "c38230"
         },
         "composerName": "BIBI, twlv, 72, Olof Lindskog, Gavin Jones, Hayley Aitken & YENA",
-        "url": "https://music.apple.com/us/album/smiley-feat-bibi/1605083051?i=1605083055",
         "playParams": {
           "id": "1605083055",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/smiley-feat-bibi/1605083051?i=1605083055",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "SMILEY (feat. BIBI)",
         "previews": [
           {
@@ -376,8 +376,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -419,8 +419,8 @@
         },
         "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -442,8 +442,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -456,14 +456,14 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid",
         "previews": [
           {
@@ -485,8 +485,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -499,14 +499,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -548,8 +548,8 @@
         },
         "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Thirsty",
         "previews": [
           {
@@ -591,8 +591,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super",
         "previews": [
           {
@@ -634,8 +634,8 @@
         },
         "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -657,8 +657,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 106821,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2310659",
         "artwork": {
           "width": 1400,
@@ -671,14 +671,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
+        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "playParams": {
           "id": "1682502027",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-ver/1682502020?i=1682502027",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The World Is My Oyster (2023 Ver.)",
         "previews": [
           {
@@ -720,8 +720,8 @@
         },
         "url": "https://music.apple.com/us/album/fire-in-the-belly/1682502020?i=1682502894",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fire in the belly",
         "previews": [
           {
@@ -763,8 +763,8 @@
         },
         "url": "https://music.apple.com/us/album/flash-forward/1682502020?i=1682502889",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Flash Forward",
         "previews": [
           {
@@ -806,8 +806,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARNOT (Between you, me and the lamppost)",
         "previews": [
           {
@@ -849,8 +849,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -892,8 +892,8 @@
         },
         "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No-Return (Into the unknown)",
         "previews": [
           {
@@ -935,8 +935,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Burn the Bridge",
         "previews": [
           {
@@ -978,8 +978,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -1021,8 +1021,8 @@
         },
         "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -1064,8 +1064,8 @@
         },
         "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FEARLESS (2023 Ver.)",
         "previews": [
           {
@@ -1107,8 +1107,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -1130,8 +1130,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 188719,
         "releaseDate": "2023-03-20",
+        "durationInMillis": 188719,
         "isrc": "US5TA2200195",
         "artwork": {
           "width": 3000,
@@ -1144,14 +1144,14 @@
           "textColor4": "4c4244"
         },
         "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "playParams": {
           "id": "1670474138",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Me Like This",
         "previews": [
           {
@@ -1192,8 +1192,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "See T\u00ecnh",
         "previews": [
           {
@@ -1234,8 +1234,8 @@
         },
         "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rising",
         "previews": [
           {
@@ -1277,8 +1277,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "WA DA DA",
         "previews": [
           {
