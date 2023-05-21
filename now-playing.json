@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1685400184",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1685400184",
+      "attributes": {
+        "albumName": "MY WORLD - The 3rd Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-08",
+        "durationInMillis": 197040,
+        "isrc": "KRA302300145",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00134d",
+          "textColor1": "a2bcdd",
+          "textColor2": "94b9e5",
+          "textColor3": "819ac0",
+          "textColor4": "7798c7"
+        },
+        "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
+        "playParams": {
+          "id": "1685400184",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Spicy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f6/66/98/f6669873-4a72-ed63-77ee-13746938c220/mzaf_16352020300822090516.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
+      "id": "1684674681",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674681",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 189067,
+        "isrc": "KRA392300005",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "Minnie, BreadBeat, B.O. & So-yeon",
+        "url": "https://music.apple.com/us/album/paradise/1684674424?i=1684674681",
+        "playParams": {
+          "id": "1684674681",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Paradise",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b7/77/e2/b777e21b-e82f-8c64-8f73-77ef21fc2182/mzaf_14236678910925259082.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
       "id": "1684674679",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1684674679",
@@ -13,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 146000,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 146000,
         "isrc": "KRA392300004",
         "artwork": {
           "width": 1400,
@@ -33,8 +119,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "All Night",
         "previews": [
           {
@@ -56,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 175827,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 175827,
         "isrc": "KRA392300003",
         "artwork": {
           "width": 1400,
@@ -70,14 +156,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "Minnie, BreadBeat, SHINKUNG & So-yeon",
-        "url": "https://music.apple.com/us/album/lucid/1684674424?i=1684674678",
         "playParams": {
           "id": "1684674678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lucid/1684674424?i=1684674678",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Lucid",
         "previews": [
           {
@@ -99,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 162787,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 162787,
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -119,8 +205,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Allergy",
         "previews": [
           {
@@ -142,8 +228,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 161240,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 161240,
         "isrc": "KRA392300001",
         "artwork": {
           "width": 1400,
@@ -162,8 +248,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Queencard",
         "previews": [
           {
@@ -199,11 +285,11 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -285,11 +371,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "Becky Hill, Sam Klempner & Uzoechi Emenike",
+        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "playParams": {
           "id": "1626752995",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -357,8 +443,8 @@
           "Pop"
         ],
         "trackNumber": 15,
-        "durationInMillis": 222732,
         "releaseDate": "2018-08-24",
+        "durationInMillis": 222732,
         "isrc": "QM6MZ1886144",
         "artwork": {
           "width": 1400,
@@ -371,14 +457,14 @@
           "textColor4": "40343b"
         },
         "composerName": "Ali Tamposi, Bang Si Hyuk, RM, Roman Campolo, Supreme Boi & P-DOGG",
-        "url": "https://music.apple.com/us/album/idol/1598730614?i=1598730980",
         "playParams": {
           "id": "1598730980",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1598730614?i=1598730980",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -399,8 +485,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213234,
         "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -413,14 +499,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -528,8 +614,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -542,14 +628,14 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -571,8 +657,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 193413,
         "releaseDate": "2023-05-08",
+        "durationInMillis": 193413,
         "isrc": "KRA302300147",
         "artwork": {
           "width": 4000,
@@ -591,8 +677,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Thirsty",
         "previews": [
           {
@@ -614,8 +700,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -628,14 +714,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "playParams": {
           "id": "1680047537",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -657,8 +743,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 182149,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 182149,
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -671,14 +757,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -686,49 +772,6 @@
           }
         ],
         "artistName": "LE SSERAFIM & Nile Rodgers"
-      }
-    },
-    {
-      "id": "1685400184",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1685400184",
-      "attributes": {
-        "albumName": "MY WORLD - The 3rd Mini Album - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 197040,
-        "releaseDate": "2023-05-08",
-        "isrc": "KRA302300145",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00134d",
-          "textColor1": "a2bcdd",
-          "textColor2": "94b9e5",
-          "textColor3": "819ac0",
-          "textColor4": "7798c7"
-        },
-        "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
-        "playParams": {
-          "id": "1685400184",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Spicy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f6/66/98/f6669873-4a72-ed63-77ee-13746938c220/mzaf_16352020300822090516.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
       }
     },
     {
@@ -743,8 +786,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 106821,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 106821,
         "isrc": "USA2P2310659",
         "artwork": {
           "width": 1400,
@@ -763,8 +806,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The World Is My Oyster (2023 Ver.)",
         "previews": [
           {
@@ -786,8 +829,8 @@
           "Pop"
         ],
         "trackNumber": 13,
-        "durationInMillis": 198233,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 198233,
         "isrc": "USA2P2310668",
         "artwork": {
           "width": 1400,
@@ -806,8 +849,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fire in the belly",
         "previews": [
           {
@@ -829,8 +872,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "durationInMillis": 195512,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 195512,
         "isrc": "USA2P2310667",
         "artwork": {
           "width": 1400,
@@ -849,8 +892,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Flash Forward",
         "previews": [
           {
@@ -886,11 +929,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), JUKJAE, HUH YUNJIN, \"Hitman\" Bang, Sakura, KIM CHAEWON, Hong Eun-chae & KazuHa",
+        "url": "https://music.apple.com/us/album/fearnot-between-you-me-and-the-lamppost/1682502020?i=1682502489",
         "playParams": {
           "id": "1682502489",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fearnot-between-you-me-and-the-lamppost/1682502020?i=1682502489",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -929,11 +972,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -958,8 +1001,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "durationInMillis": 184824,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 184824,
         "isrc": "USA2P2310664",
         "artwork": {
           "width": 1400,
@@ -972,14 +1015,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Daniel \"Obi\" Klein, Charli Taft, Arineh Karimi, Moa \u201cCazzi Opeia\u201d Carlebecker, Young Chance & Shorelle",
-        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "playParams": {
           "id": "1682502478",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "No-Return (Into the unknown)",
         "previews": [
           {
@@ -1015,11 +1058,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
+        "url": "https://music.apple.com/us/album/burn-the-bridge/1682502020?i=1682502467",
         "playParams": {
           "id": "1682502467",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/burn-the-bridge/1682502020?i=1682502467",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1058,11 +1101,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Danke, \"Hitman\" Bang, Huh Yun Jin, Daniel \"Obi\" Klein, Charli Taft, Kim Chae Ah(153/Joombas), Maggie Szabo, Hayes Kramer, BLVS, Jaro, Nikolay Mohr, Park Sang Yoo(PNP), Jo Yun Kyung & Lee Hyung Suk(PNP)",
+        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "playParams": {
           "id": "1682502306",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1087,8 +1130,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -1107,8 +1150,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -1245,48 +1288,6 @@
           }
         ],
         "artistName": "NMIXX"
-      }
-    },
-    {
-      "id": "1610405000",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1610405000",
-      "attributes": {
-        "albumName": "See T\u00ecnh - Single",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-02-21",
-        "durationInMillis": 185003,
-        "isrc": "VNA0R2000510",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/80/bc/67/80bc6745-2237-0025-d13e-fb1874b2b39a/886449935581.jpg/{w}x{h}bb.jpg",
-          "bgColor": "57d4f4",
-          "textColor1": "030508",
-          "textColor2": "24253f",
-          "textColor3": "142f37",
-          "textColor4": "2e4863"
-        },
-        "composerName": "DTAP",
-        "playParams": {
-          "id": "1610405000",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "See T\u00ecnh",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d0/88/e8/d088e8b6-cc6a-1b6a-bdf7-cab7b52c1149/mzaf_17815246279733392236.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Ho\u00e0ng Th\u00f9y Linh"
       }
     }
   ]
