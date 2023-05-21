@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1684674679",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674679",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 146000,
+        "isrc": "KRA392300004",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "YUQI, Siixk Jun & WOOSEOK",
+        "playParams": {
+          "id": "1684674679",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/all-night/1684674424?i=1684674679",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "All Night",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e2/48/5f/e2485f08-aa03-a7f9-8508-02609479c9ea/mzaf_2646106483686436465.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1684674678",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674678",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 175827,
+        "isrc": "KRA392300003",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "Minnie, BreadBeat, SHINKUNG & So-yeon",
+        "playParams": {
+          "id": "1684674678",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/lucid/1684674424?i=1684674678",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Lucid",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/df/94/ce/df94cef1-d7f3-3932-3b7d-f9dfbd7d23ac/mzaf_13629516316611365075.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1684674429",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674429",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 162787,
+        "isrc": "KRA392300002",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "playParams": {
+          "id": "1684674429",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Allergy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/8b/34/368b347e-8f8d-c32a-7f2e-8f1e95c987e1/mzaf_2445626033044542318.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
       "id": "1684674427",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1684674427",
@@ -70,11 +199,11 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -113,14 +242,14 @@
           "textColor4": "b68853"
         },
         "composerName": "Mauro Malavasi",
-        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "playParams": {
           "id": "1440841769",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Mai Piu' Cosi' Lontano",
         "previews": [
           {
@@ -162,8 +291,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Life's Too Short",
         "previews": [
           {
@@ -242,14 +371,14 @@
           "textColor4": "40343b"
         },
         "composerName": "Ali Tamposi, Bang Si Hyuk, RM, Roman Campolo, Supreme Boi & P-DOGG",
-        "url": "https://music.apple.com/us/album/idol/1598730614?i=1598730980",
         "playParams": {
           "id": "1598730980",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1598730614?i=1598730980",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -290,8 +419,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -327,11 +456,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -376,8 +505,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid",
         "previews": [
           {
@@ -419,8 +548,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -505,8 +634,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -591,8 +720,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Spicy",
         "previews": [
           {
@@ -634,8 +763,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "The World Is My Oyster (2023 Ver.)",
         "previews": [
           {
@@ -714,11 +843,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "Hiss noise, Alex Karlsson, Stian N. Olsen (Blueprint), Elizaveta Vassilieva, \"Hitman\" Bang, Danke & \uc774\uc7ac\ub2c8(PNP)",
-        "url": "https://music.apple.com/us/album/flash-forward/1682502020?i=1682502889",
         "playParams": {
           "id": "1682502889",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flash-forward/1682502020?i=1682502889",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -757,11 +886,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), JUKJAE, HUH YUNJIN, \"Hitman\" Bang, Sakura, KIM CHAEWON, Hong Eun-chae & KazuHa",
-        "url": "https://music.apple.com/us/album/fearnot-between-you-me-and-the-lamppost/1682502020?i=1682502489",
         "playParams": {
           "id": "1682502489",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearnot-between-you-me-and-the-lamppost/1682502020?i=1682502489",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -843,11 +972,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Daniel \"Obi\" Klein, Charli Taft, Arineh Karimi, Moa \u201cCazzi Opeia\u201d Carlebecker, Young Chance & Shorelle",
-        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "playParams": {
           "id": "1682502478",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -886,14 +1015,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/burn-the-bridge/1682502020?i=1682502467",
         "playParams": {
           "id": "1682502467",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/burn-the-bridge/1682502020?i=1682502467",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Burn the Bridge",
         "previews": [
           {
@@ -929,14 +1058,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Danke, \"Hitman\" Bang, Huh Yun Jin, Daniel \"Obi\" Klein, Charli Taft, Kim Chae Ah(153/Joombas), Maggie Szabo, Hayes Kramer, BLVS, Jaro, Nikolay Mohr, Park Sang Yoo(PNP), Jo Yun Kyung & Lee Hyung Suk(PNP)",
-        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "playParams": {
           "id": "1682502306",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Impurities",
         "previews": [
           {
@@ -972,14 +1101,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, \"Hitman\" Bang, Shintaro Yasuda, Supreme Boi, Isabella Lovestory, Kyler Niko, Ronnie Icon, Nathalie Boone & Danke",
-        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "playParams": {
           "id": "1682502298",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -1015,11 +1144,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
-        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "playParams": {
           "id": "1682502038",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fearless-2023-ver/1682502020?i=1682502038",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1119,49 +1248,6 @@
       }
     },
     {
-      "id": "1684674429",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1684674429",
-      "attributes": {
-        "albumName": "I feel - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-05-15",
-        "durationInMillis": 162787,
-        "isrc": "KRA392300002",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "faa9c7",
-          "textColor2": "e59eb8",
-          "textColor3": "c8879f",
-          "textColor4": "b77e93"
-        },
-        "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
-        "playParams": {
-          "id": "1684674429",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Allergy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/8b/34/368b347e-8f8d-c32a-7f2e-8f1e95c987e1/mzaf_2445626033044542318.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
-      }
-    },
-    {
       "id": "1610405000",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1610405000",
@@ -1192,8 +1278,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "See T\u00ecnh",
         "previews": [
           {
@@ -1201,91 +1287,6 @@
           }
         ],
         "artistName": "Ho\u00e0ng Th\u00f9y Linh"
-      }
-    },
-    {
-      "id": "1670327199",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670327199",
-      "attributes": {
-        "albumName": "ASSEMBLE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-02-13",
-        "durationInMillis": 159933,
-        "isrc": "KRA382300733",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/04/15/d404150a-381f-6f04-aa0a-bb948bf581db/cover_KM0016832_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "f5dbd9",
-          "textColor3": "cbcbcb",
-          "textColor4": "c4afae"
-        },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
-        "playParams": {
-          "id": "1670327199",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Rising",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/5f/b8/4a5fb892-8df9-fb3a-d5d3-0c3657be422d/mzaf_1438772142506115639.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "tripleS"
-      }
-    },
-    {
-      "id": "1600423431",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1600423431",
-      "attributes": {
-        "albumName": "FIRST IMPACT - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-01-03",
-        "durationInMillis": 183693,
-        "isrc": "KRA492101456",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/30/ca/74/30ca745e-574c-2e30-d947-9ef5d80a5178/888272092226_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ee6ab6",
-          "textColor2": "e46ca7",
-          "textColor3": "bf5591",
-          "textColor4": "b75685"
-        },
-        "composerName": "BuildingOwner(PRISMFILTER), Elum(PRISMFILTER), Ronnie Shannon, Danke, Hwang Yu Bin, Odal Park, Lee Seu Ran & Kako",
-        "url": "https://music.apple.com/us/album/wa-da-da/1600423424?i=1600423431",
-        "playParams": {
-          "id": "1600423431",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "WA DA DA",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/70/de/f6/70def6a3-a886-c8a9-4a99-cd2d5da45640/mzaf_6361646082623656010.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Kep1er"
       }
     }
   ]
