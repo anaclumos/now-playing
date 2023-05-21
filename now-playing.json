@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1440841769",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1440841769",
+      "attributes": {
+        "albumName": "Sogno",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Classical"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "1999-01-01",
+        "durationInMillis": 256856,
+        "isrc": "ITZ049900376",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/3d/51/393d5174-74a2-8888-160b-22f34c7f6359/00602547185815.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1a1b1d",
+          "textColor1": "f2efc1",
+          "textColor2": "dda361",
+          "textColor3": "c7c4a0",
+          "textColor4": "b68853"
+        },
+        "composerName": "Mauro Malavasi",
+        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
+        "playParams": {
+          "id": "1440841769",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Mai Piu' Cosi' Lontano",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/da/0a/48/da0a482c-0e05-0f4f-83da-cc7957fd4f5b/mzaf_21443225923970635.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Andrea Bocelli"
+      }
+    },
+    {
       "id": "1626752995",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1626752995",
@@ -27,11 +70,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "Becky Hill, Sam Klempner & Uzoechi Emenike",
+        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "playParams": {
           "id": "1626752995",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lifes-too-short/1626752981?i=1626752995",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -99,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 15,
-        "durationInMillis": 222732,
         "releaseDate": "2018-08-24",
+        "durationInMillis": 222732,
         "isrc": "QM6MZ1886144",
         "artwork": {
           "width": 1400,
@@ -185,8 +228,8 @@
           "Rock"
         ],
         "trackNumber": 3,
-        "releaseDate": "2021-11-16",
         "durationInMillis": 206627,
+        "releaseDate": "2021-11-16",
         "isrc": "KRA382163578",
         "artwork": {
           "width": 3000,
@@ -198,11 +241,11 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -227,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174253,
         "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -284,11 +327,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -313,8 +356,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 193413,
         "releaseDate": "2023-05-08",
+        "durationInMillis": 193413,
         "isrc": "KRA302300147",
         "artwork": {
           "width": 4000,
@@ -356,8 +399,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-24",
         "durationInMillis": 200387,
+        "releaseDate": "2023-04-24",
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -370,11 +413,11 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -399,8 +442,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-03-27",
         "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -413,11 +456,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "playParams": {
           "id": "1680047537",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -442,8 +485,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 161240,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 161240,
         "isrc": "KRA392300001",
         "artwork": {
           "width": 1400,
@@ -528,8 +571,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 197040,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300145",
         "artwork": {
           "width": 4000,
@@ -542,11 +585,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -571,8 +614,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 106821,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 106821,
         "isrc": "USA2P2310659",
         "artwork": {
           "width": 1400,
@@ -614,8 +657,8 @@
           "Pop"
         ],
         "trackNumber": 13,
-        "durationInMillis": 198233,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 198233,
         "isrc": "USA2P2310668",
         "artwork": {
           "width": 1400,
@@ -657,8 +700,8 @@
           "Pop"
         ],
         "trackNumber": 12,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 195512,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310667",
         "artwork": {
           "width": 1400,
@@ -671,11 +714,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "Hiss noise, Alex Karlsson, Stian N. Olsen (Blueprint), Elizaveta Vassilieva, \"Hitman\" Bang, Danke & \uc774\uc7ac\ub2c8(PNP)",
+        "url": "https://music.apple.com/us/album/flash-forward/1682502020?i=1682502889",
         "playParams": {
           "id": "1682502889",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/flash-forward/1682502020?i=1682502889",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -700,8 +743,8 @@
           "Pop"
         ],
         "trackNumber": 11,
-        "durationInMillis": 206832,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 206832,
         "isrc": "USA2P2310666",
         "artwork": {
           "width": 1400,
@@ -743,8 +786,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -757,11 +800,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -786,8 +829,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 184824,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310664",
         "artwork": {
           "width": 1400,
@@ -800,11 +843,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Daniel \"Obi\" Klein, Charli Taft, Arineh Karimi, Moa \u201cCazzi Opeia\u201d Carlebecker, Young Chance & Shorelle",
+        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "playParams": {
           "id": "1682502478",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -872,8 +915,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -886,11 +929,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Danke, \"Hitman\" Bang, Huh Yun Jin, Daniel \"Obi\" Klein, Charli Taft, Kim Chae Ah(153/Joombas), Maggie Szabo, Hayes Kramer, BLVS, Jaro, Nikolay Mohr, Park Sang Yoo(PNP), Jo Yun Kyung & Lee Hyung Suk(PNP)",
+        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "playParams": {
           "id": "1682502306",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -915,8 +958,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -929,11 +972,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, \"Hitman\" Bang, Shintaro Yasuda, Supreme Boi, Isabella Lovestory, Kyler Niko, Ronnie Icon, Nathalie Boone & Danke",
+        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "playParams": {
           "id": "1682502298",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -958,8 +1001,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 168437,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 168437,
         "isrc": "USA2P2310660",
         "artwork": {
           "width": 1400,
@@ -1001,8 +1044,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 196365,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -1044,8 +1087,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-03-20",
         "durationInMillis": 188719,
+        "releaseDate": "2023-03-20",
         "isrc": "US5TA2200195",
         "artwork": {
           "width": 3000,
@@ -1058,11 +1101,11 @@
           "textColor4": "4c4244"
         },
         "composerName": "Greg Bonnick, Hayden Chapman, Taet Chesterton & Gavin Jones",
+        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "playParams": {
           "id": "1670474138",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-me-like-this/1670474121?i=1670474138",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1087,8 +1130,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 162787,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -1101,11 +1144,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1129,8 +1172,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-02-21",
         "durationInMillis": 185003,
+        "releaseDate": "2022-02-21",
         "isrc": "VNA0R2000510",
         "artwork": {
           "width": 3000,
@@ -1143,11 +1186,11 @@
           "textColor4": "2e4863"
         },
         "composerName": "DTAP",
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "playParams": {
           "id": "1610405000",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1172,8 +1215,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 159933,
         "releaseDate": "2023-02-13",
+        "durationInMillis": 159933,
         "isrc": "KRA382300733",
         "artwork": {
           "width": 3000,
@@ -1214,8 +1257,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 183693,
         "releaseDate": "2022-01-03",
+        "durationInMillis": 183693,
         "isrc": "KRA492101456",
         "artwork": {
           "width": 1400,
@@ -1243,49 +1286,6 @@
           }
         ],
         "artistName": "Kep1er"
-      }
-    },
-    {
-      "id": "1669081591",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1669081591",
-      "attributes": {
-        "albumName": "READY TO BE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 181680,
-        "releaseDate": "2023-03-10",
-        "isrc": "US5TA2300005",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/8c/cf/96/8ccf96fa-afa3-c039-6e33-d19ae58ae074/738676860610_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0d121f",
-          "textColor1": "f0f2f1",
-          "textColor2": "e7b68f",
-          "textColor3": "c3c6c7",
-          "textColor4": "bb9579"
-        },
-        "composerName": "Melanie Fontana, Lindgren, Marty Maro, \ubcc4\ub4e4\uc758\uc804\uc7c1 * (GALACTIKA *) & Jvde (GALACTIKA *)",
-        "url": "https://music.apple.com/us/album/set-me-free/1669081578?i=1669081591",
-        "playParams": {
-          "id": "1669081591",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "SET ME FREE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/d2/55/62d255c9-9a4d-fb93-2077-4286d6c2db36/mzaf_8045191191691328551.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TWICE"
       }
     }
   ]
