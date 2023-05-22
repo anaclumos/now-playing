@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1679414587",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679414587",
+      "attributes": {
+        "albumName": "ME - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-03-31",
+        "durationInMillis": 173134,
+        "isrc": "KRA402300002",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/61/13/1f/61131f6c-d12a-19cb-333c-9c34eec0f23e/23UMGIM29712.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "024a0a",
+          "textColor1": "ebd3c4",
+          "textColor2": "dbcccc",
+          "textColor3": "bcb79f",
+          "textColor4": "afb2a5"
+        },
+        "composerName": "Kush, VVN & 24",
+        "playParams": {
+          "id": "1679414587",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "FLOWER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b2/18/5e/b2185ef0-49c5-fef2-55da-4711a40fff44/mzaf_3542681793605379112.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JISOO"
+      }
+    },
+    {
       "id": "1671157678",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1671157678",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "releaseDate": "2023-02-16",
         "durationInMillis": 221040,
+        "releaseDate": "2023-02-16",
         "isrc": "KRA252300247",
         "artwork": {
           "width": 3000,
@@ -32,16 +75,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "CHRISTIAN",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/96/a2/54/96a254b4-b48f-8ed6-5ed4-e661e7b30a83/mzaf_2899554868181554838.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Zior Park",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Zior Park"
       }
     },
     {
@@ -56,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-03-27",
         "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -76,8 +119,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -113,14 +156,14 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "Nolan Lambroza, SCORE(13), MEGATONE(13), \ud5c8\uc724\uc9c4, Danke, \uc0ac\ucfe0\ub77c, Cha Yubeen, Alex Bilo, Jenna Andrews & salem ilese",
-        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "playParams": {
           "id": "1647830404",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/good-parts-when-the-quality-is-bad-but-i-am/1647830231?i=1647830404",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Good Parts (when the quality is bad but I am)",
         "previews": [
           {
@@ -142,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 201895,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 201895,
         "isrc": "USA2P2310661",
         "artwork": {
           "width": 1400,
@@ -156,11 +199,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Yang Gayoung(PNP), Kim In Hyeong, Danke, KIM CHAEWON, Ronnie Icon, Caroline Gustavsson & HUH YUNJIN",
-        "url": "https://music.apple.com/us/album/blue-flame-2023-ver/1682502020?i=1682502286",
         "playParams": {
           "id": "1682502286",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blue-flame-2023-ver/1682502020?i=1682502286",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -185,8 +228,8 @@
           "Pop"
         ],
         "trackNumber": 13,
-        "durationInMillis": 198233,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 198233,
         "isrc": "USA2P2310668",
         "artwork": {
           "width": 1400,
@@ -199,11 +242,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Kyler Niko, Paulina \u201cPAU\u201d Cerrilla, Supreme Boi, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music) & \"Hitman\" Bang",
-        "url": "https://music.apple.com/us/album/fire-in-the-belly/1682502020?i=1682502894",
         "playParams": {
           "id": "1682502894",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fire-in-the-belly/1682502020?i=1682502894",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -271,8 +314,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 162787,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -291,8 +334,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -371,14 +414,14 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -400,8 +443,8 @@
           "Classical"
         ],
         "trackNumber": 7,
-        "durationInMillis": 256856,
         "releaseDate": "1999-01-01",
+        "durationInMillis": 256856,
         "isrc": "ITZ049900376",
         "artwork": {
           "width": 1500,
@@ -414,11 +457,11 @@
           "textColor4": "b68853"
         },
         "composerName": "Mauro Malavasi",
-        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "playParams": {
           "id": "1440841769",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -456,14 +499,14 @@
           "textColor4": "e3c1ce"
         },
         "composerName": "Adam Von Mentzer",
-        "url": "https://music.apple.com/us/album/cupid-twin-sped-up-remix/1683365015?i=1683365016",
         "playParams": {
           "id": "1683365016",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-twin-sped-up-remix/1683365015?i=1683365016",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Cupid Twin (Sped up) [Remix]",
         "previews": [
           {
@@ -484,8 +527,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-07-24",
         "durationInMillis": 133707,
+        "releaseDate": "2021-07-24",
         "isrc": "QMUY42100151",
         "artwork": {
           "width": 4000,
@@ -504,16 +547,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "edamame (feat. Rich Brian)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
           }
         ],
-        "artistName": "bbno$",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "bbno$"
       }
     },
     {
@@ -614,8 +657,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 193413,
         "releaseDate": "2023-05-08",
+        "durationInMillis": 193413,
         "isrc": "KRA302300147",
         "artwork": {
           "width": 4000,
@@ -628,11 +671,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Geek Boy Al Swettenham, Kyler Niko & Paulina \u201cPAU\u201d Cerrilla",
-        "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
         "playParams": {
           "id": "1685400191",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -657,8 +700,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174253,
         "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -671,11 +714,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -742,8 +785,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 148364,
         "releaseDate": "2019-10-07",
+        "durationInMillis": 148364,
         "isrc": "NLG3N1900048",
         "artwork": {
           "width": 3000,
@@ -756,11 +799,11 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "playParams": {
           "id": "1483357101",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -798,14 +841,14 @@
           "textColor4": "bf28c0"
         },
         "composerName": "Aleksandr Gorokhov",
-        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "playParams": {
           "id": "1476872517",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "In A Club",
         "previews": [
           {
@@ -826,8 +869,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "releaseDate": "2019-11-29",
         "durationInMillis": 200046,
+        "releaseDate": "2019-11-29",
         "isrc": "USUG11904206",
         "artwork": {
           "width": 3000,
@@ -846,8 +889,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Blinding Lights",
         "previews": [
           {
@@ -870,8 +913,8 @@
           "Electronica"
         ],
         "trackNumber": 3,
-        "releaseDate": "2014-06-02",
         "durationInMillis": 227833,
+        "releaseDate": "2014-06-02",
         "isrc": "GBAHS1300498",
         "artwork": {
           "width": 2400,
@@ -890,8 +933,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rather Be (feat. Jess Glynne)",
         "previews": [
           {
@@ -926,14 +969,14 @@
           "textColor4": "4b4346"
         },
         "composerName": "David Bowden, John Hill & Kehlani",
-        "url": "https://music.apple.com/us/album/at-my-worst-feat-kehlani/1550409669?i=1550409671",
         "playParams": {
           "id": "1550409671",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/at-my-worst-feat-kehlani/1550409669?i=1550409671",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "At My Worst (feat. Kehlani)",
         "previews": [
           {
@@ -955,8 +998,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180843,
         "releaseDate": "2019-07-26",
+        "durationInMillis": 180843,
         "isrc": "NLE801900440",
         "artwork": {
           "width": 3000,
@@ -969,11 +1012,11 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1040,8 +1083,8 @@
           "Rock"
         ],
         "trackNumber": 7,
-        "releaseDate": "2018-09-07",
         "durationInMillis": 141395,
+        "releaseDate": "2018-09-07",
         "isrc": "AEA0D1846146",
         "artwork": {
           "width": 1400,
@@ -1059,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
         "previews": [
           {
@@ -1124,8 +1167,8 @@
           "Music"
         ],
         "trackNumber": 25,
-        "releaseDate": "2019-05-30",
         "durationInMillis": 34587,
+        "releaseDate": "2019-05-30",
         "isrc": "QMEZE1935922",
         "artwork": {
           "width": 3000,
@@ -1143,8 +1186,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "0Doctor",
         "previews": [
           {
@@ -1207,8 +1250,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 145252,
         "releaseDate": "2023-05-17",
+        "durationInMillis": 145252,
         "isrc": "QZK6L2357452",
         "artwork": {
           "width": 3000,
@@ -1221,11 +1264,11 @@
           "textColor4": "28211f"
         },
         "composerName": "AUSTIN MCGOWAN",
-        "url": "https://music.apple.com/us/album/cupid-sped-up/1688460709?i=1688460710",
         "playParams": {
           "id": "1688460710",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-sped-up/1688460709?i=1688460710",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -1236,49 +1279,6 @@
           }
         ],
         "artistName": "RealScriptt"
-      }
-    },
-    {
-      "id": "1687545768",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1687545768",
-      "attributes": {
-        "albumName": "Cupid (Sped up) - Single",
-        "genreNames": [
-          "Pop",
-          "Music",
-          "Alternative"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-05-12",
-        "durationInMillis": 146193,
-        "isrc": "ARIXB2306519",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/fe/d6/ac/fed6ac83-f349-bd69-3df5-650fbbf63525/0642613151146.png/{w}x{h}bb.jpg",
-          "bgColor": "11212a",
-          "textColor1": "f193dc",
-          "textColor2": "e486d4",
-          "textColor3": "c47cb8",
-          "textColor4": "ba72b2"
-        },
-        "composerName": "Saena, Sio, Aran, Keena & FIFTY FIFTY",
-        "url": "https://music.apple.com/us/album/cupid-sped-up-remix/1687545767?i=1687545768",
-        "playParams": {
-          "id": "1687545768",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Cupid (Sped up) [Remix]",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9d/33/ca/9d33ca62-76fc-86c3-bf0f-ec773fd7ccb0/mzaf_16272822788296149325.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ROSE BEAT"
       }
     }
   ]
