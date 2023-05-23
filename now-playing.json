@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1624007966",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1624007966",
+      "attributes": {
+        "albumName": "DEEP - The 1st Mini Album",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 179120,
+        "releaseDate": "2022-05-16",
+        "isrc": "KRA302200089",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/59/8d/12/598d1283-7cbf-f88d-0af4-3f138cf0ff6c/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ff83cc",
+          "textColor1": "120205",
+          "textColor2": "120507",
+          "textColor3": "411c2d",
+          "textColor4": "411e2f"
+        },
+        "composerName": "Sky Adams, Ashton Nicole Casey, Jonatan Gusmark, Ludvig Evers, Cazzi Opeia & Ellen Berg",
+        "url": "https://music.apple.com/us/album/deep/1624007965?i=1624007966",
+        "playParams": {
+          "id": "1624007966",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "DEEP",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/fb/eb/42fbebb5-ba3e-d4ac-30f9-defc38adc197/mzaf_654819522158017305.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "HYO"
+      }
+    },
+    {
+      "id": "1648611078",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1648611078",
+      "attributes": {
+        "albumName": "Lethality - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 170600,
+        "releaseDate": "2022-10-12",
+        "isrc": "KRA382207788",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/54/e6/23/54e6237a-6c35-fb71-63bf-77052a4d8cf0/cover_KM0016217_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fefefe",
+          "textColor1": "080609",
+          "textColor2": "131015",
+          "textColor3": "39373a",
+          "textColor4": "424043"
+        },
+        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
+        "playParams": {
+          "id": "1648611078",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Underwater",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/4b/de/134bdebb-f491-1de3-2bda-b8d75eff385c/mzaf_16277314826483354655.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Kwon Eun Bi"
+      }
+    },
+    {
       "id": "1677134765",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1677134765",
@@ -27,11 +112,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "playParams": {
           "id": "1677134765",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -69,11 +154,11 @@
           "textColor4": "4b5055"
         },
         "composerName": "Dmitri Shostakovich",
-        "url": "https://music.apple.com/us/album/jazz-suite-no-1-i-waltz/364204281?i=364204365",
         "playParams": {
           "id": "364204365",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/jazz-suite-no-1-i-waltz/364204281?i=364204365",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
@@ -99,8 +184,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-03-27",
         "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -119,8 +204,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -141,8 +226,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-07-24",
         "durationInMillis": 393078,
+        "releaseDate": "2020-07-24",
         "isrc": "BRARP2000018",
         "artwork": {
           "width": 3000,
@@ -161,10 +246,10 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
-        "name": "Nocturne No. 2 in E Flat, Op. 9 No. 2",
+        "hasLyrics": false,
         "attribution": "Fr\u00e9d\u00e9ric Chopin",
+        "name": "Nocturne No. 2 in E Flat, Op. 9 No. 2",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/e2/6f/af/e26fafac-3fd7-3648-9286-fe4fa36405d3/mzaf_7050587766013941832.plus.aac.p.m4a"
@@ -199,11 +284,11 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -241,11 +326,11 @@
           "textColor4": "de885f"
         },
         "composerName": "Han-bin Kim, Rockitman & Zior Park",
-        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "playParams": {
           "id": "1671157678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/christian/1671157343?i=1671157678",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -271,8 +356,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-03-27",
         "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -291,8 +376,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -314,8 +399,8 @@
           "Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 156355,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230332",
         "artwork": {
           "width": 1400,
@@ -334,8 +419,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Good Parts (when the quality is bad but I am)",
         "previews": [
           {
@@ -357,8 +442,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 201895,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310661",
         "artwork": {
           "width": 1400,
@@ -377,8 +462,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Blue Flame (2023 Ver.)",
         "previews": [
           {
@@ -414,11 +499,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Kyler Niko, Paulina \u201cPAU\u201d Cerrilla, Supreme Boi, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music) & \"Hitman\" Bang",
-        "url": "https://music.apple.com/us/album/fire-in-the-belly/1682502020?i=1682502894",
         "playParams": {
           "id": "1682502894",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fire-in-the-belly/1682502020?i=1682502894",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -443,8 +528,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 197040,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300145",
         "artwork": {
           "width": 4000,
@@ -463,8 +548,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Spicy",
         "previews": [
           {
@@ -500,11 +585,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -543,11 +628,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -572,8 +657,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-24",
         "durationInMillis": 200387,
+        "releaseDate": "2023-04-24",
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -592,8 +677,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -629,11 +714,11 @@
           "textColor4": "b68853"
         },
         "composerName": "Mauro Malavasi",
-        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "playParams": {
           "id": "1440841769",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -657,8 +742,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-01",
         "durationInMillis": 146370,
+        "releaseDate": "2020-01-01",
         "isrc": "ARIXB2305392",
         "artwork": {
           "width": 3000,
@@ -677,8 +762,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Cupid Twin (Sped up) [Remix]",
         "previews": [
           {
@@ -713,11 +798,11 @@
           "textColor4": "484e51"
         },
         "composerName": "Alex Gumuchian, Brian Imanuel & Christian Dold",
-        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
         "playParams": {
           "id": "1575996416",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -727,8 +812,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "bbno$"
+        "artistName": "bbno$",
+        "contentRating": "explicit"
       }
     },
     {
@@ -757,11 +842,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -800,11 +885,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -829,8 +914,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 193413,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300147",
         "artwork": {
           "width": 4000,
@@ -849,8 +934,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Thirsty",
         "previews": [
           {
@@ -872,8 +957,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -892,8 +977,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cupid",
         "previews": [
           {
@@ -914,8 +999,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-06-21",
         "durationInMillis": 187571,
+        "releaseDate": "2019-06-21",
         "isrc": "GBKPL1954142",
         "artwork": {
           "width": 3000,
@@ -934,8 +1019,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Bad Boy",
         "previews": [
           {
@@ -971,11 +1056,11 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "playParams": {
           "id": "1483357101",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -999,8 +1084,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-08-16",
         "durationInMillis": 180880,
+        "releaseDate": "2019-08-16",
         "isrc": "DEE861903105",
         "artwork": {
           "width": 3000,
@@ -1019,8 +1104,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "In A Club",
         "previews": [
           {
@@ -1055,11 +1140,11 @@
           "textColor4": "c72d03"
         },
         "composerName": "Max Martin, Oscar Holter, The Weeknd, Belly & Daheala",
-        "url": "https://music.apple.com/us/album/blinding-lights/1551901062?i=1551901075",
         "playParams": {
           "id": "1551901075",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blinding-lights/1551901062?i=1551901075",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1085,8 +1170,8 @@
           "Electronica"
         ],
         "trackNumber": 3,
-        "releaseDate": "2014-06-02",
         "durationInMillis": 227833,
+        "releaseDate": "2014-06-02",
         "isrc": "GBAHS1300498",
         "artwork": {
           "width": 2400,
@@ -1105,8 +1190,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rather Be (feat. Jess Glynne)",
         "previews": [
           {
@@ -1141,11 +1226,11 @@
           "textColor4": "4b4346"
         },
         "composerName": "David Bowden, John Hill & Kehlani",
-        "url": "https://music.apple.com/us/album/at-my-worst-feat-kehlani/1550409669?i=1550409671",
         "playParams": {
           "id": "1550409671",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/at-my-worst-feat-kehlani/1550409669?i=1550409671",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1170,8 +1255,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-07-26",
         "durationInMillis": 180843,
+        "releaseDate": "2019-07-26",
         "isrc": "NLE801900440",
         "artwork": {
           "width": 3000,
@@ -1190,8 +1275,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -1199,90 +1284,6 @@
           }
         ],
         "artistName": "Bakermat"
-      }
-    },
-    {
-      "id": "1355042048",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1355042048",
-      "attributes": {
-        "albumName": "Bullit (Radio Edit) - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2014-01-01",
-        "durationInMillis": 194877,
-        "isrc": "NLZ541400395",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/5f/87/0a/5f870a32-27d5-1aef-a188-06d74561ccaa/8712944452105.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "07222f",
-          "textColor2": "51160d",
-          "textColor3": "394e58",
-          "textColor4": "73453d"
-        },
-        "composerName": "Waterm\u00e4t",
-        "url": "https://music.apple.com/us/album/bullit-radio-edit/1355041824?i=1355042048",
-        "playParams": {
-          "id": "1355042048",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Bullit (Radio Edit)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/10/1c/26/101c26b0-2ed2-bed8-a0e2-43b224f684cc/mzaf_12369193553706652207.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Waterm\u00e4t"
-      }
-    },
-    {
-      "id": "1492386463",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1492386463",
-      "attributes": {
-        "albumName": "\u042d\u0442\u0430\u0436\u0438",
-        "genreNames": [
-          "Alternative",
-          "Music",
-          "Rock"
-        ],
-        "trackNumber": 7,
-        "releaseDate": "2018-09-07",
-        "durationInMillis": 141395,
-        "isrc": "AEA0D1846146",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/70/46/b4/7046b4a9-14aa-af8f-e273-07b4d45a0c0a/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "061927",
-          "textColor1": "efe5c2",
-          "textColor2": "dccfaa",
-          "textColor3": "c0bca3",
-          "textColor4": "b1aa8f"
-        },
-        "url": "https://music.apple.com/us/album/%D1%81%D1%83%D0%B4%D0%BD%D0%BE-%D0%B1%D0%BE%D1%80%D0%B8%D1%81-%D1%80%D0%B8%D0%B6%D0%B8%D0%B9/1492386136?i=1492386463",
-        "playParams": {
-          "id": "1492386463",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/96/6e/82966e2b-931d-58c4-59fb-227aaab9a223/mzaf_12641296438264354495.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Molchat Doma"
       }
     }
   ]
