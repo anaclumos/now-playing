@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1684674429",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674429",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 162787,
+        "isrc": "KRA392300002",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
+        "playParams": {
+          "id": "1684674429",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Allergy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/8b/34/368b347e-8f8d-c32a-7f2e-8f1e95c987e1/mzaf_2445626033044542318.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1679292892",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679292892",
+      "attributes": {
+        "albumName": "The Beginning: Cupid - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
+        "isrc": "KSA012239181",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fde3aa",
+          "textColor1": "000000",
+          "textColor2": "333333",
+          "textColor3": "322d22",
+          "textColor4": "5c564b"
+        },
+        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
+        "playParams": {
+          "id": "1679292892",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Cupid (Twin Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/23/81/51/23815167-1d0d-4825-ec4c-5427c89a21e7/mzaf_15738183304575074777.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "FIFTY FIFTY"
+      }
+    },
+    {
       "id": "1635469851",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1635469851",
@@ -56,8 +142,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -99,8 +185,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -184,8 +270,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213234,
         "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -227,8 +313,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 161240,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 161240,
         "isrc": "KRA392300001",
         "artwork": {
           "width": 1400,
@@ -355,8 +441,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 167627,
         "releaseDate": "2022-03-16",
+        "durationInMillis": 167627,
         "isrc": "KRA382203888",
         "artwork": {
           "width": 3000,
@@ -440,8 +526,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 167627,
         "releaseDate": "2023-04-17",
+        "durationInMillis": 167627,
         "isrc": "KRA302300106",
         "artwork": {
           "width": 4000,
@@ -525,8 +611,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210948,
         "releaseDate": "2022-08-19",
+        "durationInMillis": 210948,
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -554,49 +640,6 @@
           }
         ],
         "artistName": "imase"
-      }
-    },
-    {
-      "id": "1679292892",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679292892",
-      "attributes": {
-        "albumName": "The Beginning: Cupid - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-02-24",
-        "durationInMillis": 174253,
-        "isrc": "KSA012239181",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fde3aa",
-          "textColor1": "000000",
-          "textColor2": "333333",
-          "textColor3": "322d22",
-          "textColor4": "5c564b"
-        },
-        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
-        "playParams": {
-          "id": "1679292892",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Cupid (Twin Ver.)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/23/81/51/23815167-1d0d-4825-ec4c-5427c89a21e7/mzaf_15738183304575074777.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "FIFTY FIFTY"
       }
     },
     {
@@ -728,49 +771,6 @@
       }
     },
     {
-      "id": "1684674429",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1684674429",
-      "attributes": {
-        "albumName": "I feel - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-05-15",
-        "durationInMillis": 162787,
-        "isrc": "KRA392300002",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "faa9c7",
-          "textColor2": "e59eb8",
-          "textColor3": "c8879f",
-          "textColor4": "b77e93"
-        },
-        "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
-        "playParams": {
-          "id": "1684674429",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Allergy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/8b/34/368b347e-8f8d-c32a-7f2e-8f1e95c987e1/mzaf_2445626033044542318.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
-      }
-    },
-    {
       "id": "1647830390",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1647830390",
@@ -782,8 +782,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 184444,
         "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -825,8 +825,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 193413,
         "releaseDate": "2023-05-08",
+        "durationInMillis": 193413,
         "isrc": "KRA302300147",
         "artwork": {
           "width": 4000,
@@ -911,8 +911,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 182149,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 182149,
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -954,8 +954,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 200387,
         "releaseDate": "2023-04-24",
+        "durationInMillis": 200387,
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -997,8 +997,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -1040,8 +1040,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193173,
         "releaseDate": "2022-06-29",
+        "durationInMillis": 193173,
         "isrc": "KRMIM2236311",
         "artwork": {
           "width": 3000,
@@ -1132,8 +1132,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 170600,
         "releaseDate": "2022-10-12",
+        "durationInMillis": 170600,
         "isrc": "KRA382207788",
         "artwork": {
           "width": 3000,
@@ -1174,8 +1174,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -1260,8 +1260,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
