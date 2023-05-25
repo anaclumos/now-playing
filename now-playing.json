@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1535146864",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1535146864",
+      "attributes": {
+        "albumName": "ALIEN - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-10-16",
+        "durationInMillis": 181853,
+        "isrc": "KRA402000146",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/6a/a0/da6aa0cd-20a7-7910-974f-6937c3708248/LSH_ALIEN_DS_Cover_3000.jpg/{w}x{h}bb.jpg",
+          "bgColor": "032213",
+          "textColor1": "fceee1",
+          "textColor2": "35e5b5",
+          "textColor3": "cac5b8",
+          "textColor4": "2bbe95"
+        },
+        "url": "https://music.apple.com/us/album/alien/1535146863?i=1535146864",
+        "playParams": {
+          "id": "1535146864",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "ALIEN",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/9f/29/199f2918-4838-08fd-281b-b703fbb2e7e6/mzaf_13411105487904505862.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LEE SUHYUN"
+      }
+    },
+    {
+      "id": "1611504817",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1611504817",
+      "attributes": {
+        "albumName": "I NEVER DIE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-03-14",
+        "durationInMillis": 174387,
+        "isrc": "KRA392100080",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/9c/fe/5e/9cfe5eec-89b5-240f-5229-59244360e89d/8804775250422_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "fc2860",
+          "textColor2": "fa0b4e",
+          "textColor3": "c9204d",
+          "textColor4": "c8093f"
+        },
+        "composerName": "So-yeon, Pop Time & JENCI",
+        "playParams": {
+          "id": "1611504817",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/tomboy/1611504686?i=1611504817",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "TOMBOY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/20/9d/46/209d461d-70d0-f3f7-395d-df44807de894/mzaf_9908538858365336321.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1644440679",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1644440679",
+      "attributes": {
+        "albumName": "BORN PINK",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2022-09-16",
+        "durationInMillis": 162570,
+        "isrc": "KRA402200024",
+        "artwork": {
+          "width": 2000,
+          "height": 2000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e8e8e8",
+          "textColor1": "0f0609",
+          "textColor2": "2d2d2d",
+          "textColor3": "3a3335",
+          "textColor4": "535353"
+        },
+        "composerName": "Bianca Blush Atterberry, Max Wolfgang, Freddy Wexler, Teddy, R. Tee & 24",
+        "playParams": {
+          "id": "1644440679",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/hard-to-love/1644440668?i=1644440679",
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Hard to Love",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/48/73/35487372-b537-8ef3-2299-dc133c9835ea/mzaf_3353712056561033338.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BLACKPINK",
+        "contentRating": "explicit"
+      }
+    },
+    {
       "id": "1628492606",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1628492606",
@@ -27,11 +156,11 @@
           "textColor4": "baaca7"
         },
         "composerName": "Lee Su Bin, Linemaster & Sure Kim",
-        "url": "https://music.apple.com/us/album/flip-that/1628492601?i=1628492606",
         "playParams": {
           "id": "1628492606",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flip-that/1628492601?i=1628492606",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -76,8 +205,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BAZOOKA!",
         "previews": [
           {
@@ -113,11 +242,11 @@
           "textColor4": "452b4a"
         },
         "composerName": "Dounia El Bekri, Yasmin Bokaleff & Aymen Khamlichi",
+        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
         "playParams": {
           "id": "1551287548",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/arcade-love/1551287544?i=1551287548",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -161,8 +290,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -197,11 +326,11 @@
           "textColor4": "515811"
         },
         "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
+        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "playParams": {
           "id": "1031416180",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -240,11 +369,11 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -283,11 +412,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -332,8 +461,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid (Twin Ver.)",
         "previews": [
           {
@@ -375,8 +504,8 @@
         },
         "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -418,8 +547,8 @@
         },
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -455,11 +584,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -498,11 +627,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -547,8 +676,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Queencard",
         "previews": [
           {
@@ -590,8 +719,8 @@
         },
         "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Spicy",
         "previews": [
           {
@@ -626,11 +755,11 @@
           "textColor3": "4c2f3a",
           "textColor4": "573248"
         },
-        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "playParams": {
           "id": "1605708141",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -674,8 +803,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HONEY",
         "previews": [
           {
@@ -717,8 +846,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DEEP",
         "previews": [
           {
@@ -760,8 +889,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Perfume",
         "previews": [
           {
@@ -803,8 +932,8 @@
         },
         "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -839,11 +968,11 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -882,11 +1011,11 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -931,8 +1060,8 @@
         },
         "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -974,8 +1103,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Thirsty",
         "previews": [
           {
@@ -1011,11 +1140,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1054,11 +1183,11 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1103,8 +1232,8 @@
         },
         "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -1140,11 +1269,11 @@
           "textColor4": "5d3122"
         },
         "composerName": "SUNMI, Kyuwon \"Q\" Kim & CobiCudi",
-        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "playParams": {
           "id": "1630553208",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/heart-burn/1630553204?i=1630553208",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1155,140 +1284,6 @@
           }
         ],
         "artistName": "SUNMI"
-      }
-    },
-    {
-      "id": "1440715697",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1440715697",
-      "attributes": {
-        "albumName": "The Visitors (Deluxe Edition)",
-        "genreNames": [
-          "Pop",
-          "Music",
-          "Britpop",
-          "Soft Rock",
-          "Alternative",
-          "New Wave",
-          "Worldwide",
-          "Europe",
-          "Pop/Rock"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "1981-06-01",
-        "durationInMillis": 233720,
-        "isrc": "SEAYD8102080",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/e0/9b/13/e09b134a-0de4-f95d-d751-cf10cea4f343/12UMGIM11986.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "5d271b",
-          "textColor1": "ffe8e7",
-          "textColor2": "f5e3dc",
-          "textColor3": "dec1be",
-          "textColor4": "d7bdb5"
-        },
-        "composerName": "Bj\u00f6rn Ulvaeus & Benny Andersson",
-        "url": "https://music.apple.com/us/album/slipping-through-my-fingers/1440715246?i=1440715697",
-        "playParams": {
-          "id": "1440715697",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Slipping Through My Fingers",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/83/7f/b2837f5b-cd8f-d0b7-8811-ddf830909d8b/mzaf_1014457160493636232.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ABBA"
-      }
-    },
-    {
-      "id": "1648611078",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1648611078",
-      "attributes": {
-        "albumName": "Lethality - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-10-12",
-        "durationInMillis": 170600,
-        "isrc": "KRA382207788",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/54/e6/23/54e6237a-6c35-fb71-63bf-77052a4d8cf0/cover_KM0016217_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fefefe",
-          "textColor1": "080609",
-          "textColor2": "131015",
-          "textColor3": "39373a",
-          "textColor4": "424043"
-        },
-        "playParams": {
-          "id": "1648611078",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/underwater/1648611076?i=1648611078",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Underwater",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/4b/de/134bdebb-f491-1de3-2bda-b8d75eff385c/mzaf_16277314826483354655.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Kwon Eun Bi"
-      }
-    },
-    {
-      "id": "1677134765",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1677134765",
-      "attributes": {
-        "albumName": "OMG (Apple Music Edition) - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-01-02",
-        "durationInMillis": 212253,
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/d0/78/92/d07892c1-2770-7e7f-68ba-dc6409750f7a/196922401039_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg-apple-music-edition/1677134764?i=1677134765",
-        "playParams": {
-          "id": "1677134765",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "OMG (Apple Music Edition)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f7/c7/e7/f7c7e7e3-a537-ed64-34d8-4a507ce23f2c/mzaf_17039570720114777113.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     }
   ]
