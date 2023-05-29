@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1681719346",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1681719346",
+      "attributes": {
+        "albumName": "Perfume - The 1st Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-17",
+        "durationInMillis": 167627,
+        "isrc": "KRA302300106",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/b9/aa/38/b9aa389a-9a03-99ee-1ddf-2b84a4751612/DigitalCover_NCT_DOJAEJUNG_Perfume.jpg/{w}x{h}bb.jpg",
+          "bgColor": "161616",
+          "textColor1": "ebebed",
+          "textColor2": "d2d2d4",
+          "textColor3": "c0c0c2",
+          "textColor4": "acacae"
+        },
+        "composerName": "Brandon Arreaga, Colin Magalong, Landon Sears, Kaelyn Behr & MZMC",
+        "url": "https://music.apple.com/us/album/perfume/1681718925?i=1681719346",
+        "playParams": {
+          "id": "1681719346",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Perfume",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a6/26/1d/a6261d25-4f5f-de62-e326-4d5e2bb5cb39/mzaf_11404441574969577719.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NCT DOJAEJUNG"
+      }
+    },
+    {
+      "id": "1670622073",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1670622073",
+      "attributes": {
+        "albumName": "Teddy Bear - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-14",
+        "durationInMillis": 189773,
+        "isrc": "KRA382300511",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "010101",
+          "textColor1": "d458f5",
+          "textColor2": "d522f6",
+          "textColor3": "aa46c4",
+          "textColor4": "ab1bc4"
+        },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
+        "playParams": {
+          "id": "1670622073",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Teddy Bear",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/df/90/3ddf9079-cd94-6c73-d437-1a1f2f28de15/mzaf_2025394688294119483.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "STAYC"
+      }
+    },
+    {
       "id": "1218860394",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1218860394",
@@ -26,11 +111,11 @@
           "textColor4": "424545"
         },
         "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "playParams": {
           "id": "1218860394",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -55,8 +140,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 162787,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 162787,
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -75,8 +160,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -98,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 180067,
         "releaseDate": "2022-08-01",
+        "durationInMillis": 180067,
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -118,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -154,11 +239,11 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -197,11 +282,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -225,8 +310,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 199146,
         "releaseDate": "2016-01-29",
+        "durationInMillis": 199146,
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -245,8 +330,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Dangerously",
         "previews": [
           {
@@ -268,8 +353,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 173134,
         "releaseDate": "2023-03-31",
+        "durationInMillis": 173134,
         "isrc": "KRA402300002",
         "artwork": {
           "width": 4000,
@@ -288,8 +373,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "FLOWER",
         "previews": [
           {
@@ -325,11 +410,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "playParams": {
           "id": "1679292892",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -368,11 +453,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -411,11 +496,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -454,11 +539,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -483,8 +568,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 212253,
         "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -503,8 +588,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -525,8 +610,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213234,
         "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -545,8 +630,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -568,8 +653,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "durationInMillis": 185539,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 185539,
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -588,8 +673,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -611,8 +696,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 193413,
         "releaseDate": "2023-05-08",
+        "durationInMillis": 193413,
         "isrc": "KRA302300147",
         "artwork": {
           "width": 4000,
@@ -631,8 +716,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Thirsty",
         "previews": [
           {
@@ -668,11 +753,11 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -697,8 +782,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -717,8 +802,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -740,8 +825,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 182149,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 182149,
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -760,8 +845,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -797,11 +882,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -826,8 +911,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186907,
         "releaseDate": "2022-07-10",
+        "durationInMillis": 186907,
         "isrc": "KRMIM2236621",
         "artwork": {
           "width": 3000,
@@ -846,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
@@ -883,11 +968,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -925,11 +1010,11 @@
           "textColor4": "484e51"
         },
         "composerName": "Alex Gumuchian, Brian Imanuel & Christian Dold",
+        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
         "playParams": {
           "id": "1575996416",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -939,8 +1024,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "bbno$"
+        "artistName": "bbno$",
+        "contentRating": "explicit"
       }
     },
     {
@@ -955,8 +1040,8 @@
           "Classical"
         ],
         "trackNumber": 7,
-        "durationInMillis": 256856,
         "releaseDate": "1999-01-01",
+        "durationInMillis": 256856,
         "isrc": "ITZ049900376",
         "artwork": {
           "width": 1500,
@@ -975,8 +1060,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Mai Piu' Cosi' Lontano",
         "previews": [
           {
@@ -1011,11 +1096,11 @@
           "textColor4": "e3c1ce"
         },
         "composerName": "Adam Von Mentzer",
+        "url": "https://music.apple.com/us/album/cupid-twin-sped-up-remix/1683365015?i=1683365016",
         "playParams": {
           "id": "1683365016",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid-twin-sped-up-remix/1683365015?i=1683365016",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -1054,11 +1139,11 @@
           "textColor4": "563d33"
         },
         "composerName": "Yeul(1by1) & Min Young Lee(EastWest)",
+        "url": "https://music.apple.com/us/album/drive/1618451528?i=1618451552",
         "playParams": {
           "id": "1618451552",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/drive/1618451528?i=1618451552",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1083,8 +1168,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 106821,
         "releaseDate": "2022-05-02",
+        "durationInMillis": 106821,
         "isrc": "USA2P2310659",
         "artwork": {
           "width": 1400,
@@ -1103,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The World Is My Oyster (2023 Ver.)",
         "previews": [
           {
@@ -1125,8 +1210,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 194877,
         "releaseDate": "2014-01-01",
+        "durationInMillis": 194877,
         "isrc": "NLZ541400395",
         "artwork": {
           "width": 2000,
@@ -1145,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Bullit (Radio Edit)",
         "previews": [
           {
@@ -1181,11 +1266,11 @@
           "textColor4": "a787c1"
         },
         "composerName": "Patrick Patrikios, Hanni Ibrahim, Phil Plested & A.S. Govere",
+        "url": "https://music.apple.com/us/album/touch/1309173849?i=1309176953",
         "playParams": {
           "id": "1309176953",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/touch/1309173849?i=1309176953",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1196,91 +1281,6 @@
           }
         ],
         "artistName": "Little Mix"
-      }
-    },
-    {
-      "id": "1685400184",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1685400184",
-      "attributes": {
-        "albumName": "MY WORLD - The 3rd Mini Album - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 197040,
-        "releaseDate": "2023-05-08",
-        "isrc": "KRA302300145",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00134d",
-          "textColor1": "a2bcdd",
-          "textColor2": "94b9e5",
-          "textColor3": "819ac0",
-          "textColor4": "7798c7"
-        },
-        "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
-        "playParams": {
-          "id": "1685400184",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Spicy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f6/66/98/f6669873-4a72-ed63-77ee-13746938c220/mzaf_16352020300822090516.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
-      }
-    },
-    {
-      "id": "1670622073",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1670622073",
-      "attributes": {
-        "albumName": "Teddy Bear - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 189773,
-        "releaseDate": "2023-02-14",
-        "isrc": "KRA382300511",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e2/34/d3e23468-4920-f7b9-e955-322eb98af917/cover_KM0016800_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "010101",
-          "textColor1": "d458f5",
-          "textColor2": "d522f6",
-          "textColor3": "aa46c4",
-          "textColor4": "ab1bc4"
-        },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
-        "playParams": {
-          "id": "1670622073",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Teddy Bear",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/df/90/3ddf9079-cd94-6c73-d437-1a1f2f28de15/mzaf_2025394688294119483.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "STAYC"
       }
     }
   ]
