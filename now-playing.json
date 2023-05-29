@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1680047537",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047537",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-03-27",
-        "durationInMillis": 195440,
-        "isrc": "QM4TX2337765",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
-        "playParams": {
-          "id": "1680047537",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Kitsch",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
       "id": "1681324047",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1681324047",
@@ -70,14 +27,14 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -85,6 +42,49 @@
           }
         ],
         "artistName": "SEVENTEEN"
+      }
+    },
+    {
+      "id": "1680047537",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1680047537",
+      "attributes": {
+        "albumName": "I've IVE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
+        "isrc": "QM4TX2337765",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f9f9f9",
+          "textColor1": "131313",
+          "textColor2": "323232",
+          "textColor3": "414141",
+          "textColor4": "5a5a5a"
+        },
+        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
+        "playParams": {
+          "id": "1680047537",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Kitsch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
       }
     },
     {
@@ -156,14 +156,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I AM",
         "previews": [
           {
@@ -171,6 +171,92 @@
           }
         ],
         "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1685400184",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1685400184",
+      "attributes": {
+        "albumName": "MY WORLD - The 3rd Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-08",
+        "durationInMillis": 197040,
+        "isrc": "KRA302300145",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00134d",
+          "textColor1": "a2bcdd",
+          "textColor2": "94b9e5",
+          "textColor3": "819ac0",
+          "textColor4": "7798c7"
+        },
+        "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
+        "playParams": {
+          "id": "1685400184",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Spicy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f6/66/98/f6669873-4a72-ed63-77ee-13746938c220/mzaf_16352020300822090516.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
+      "id": "1682502483",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502483",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 10,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 185539,
+        "isrc": "USA2P2310665",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
+        "playParams": {
+          "id": "1682502483",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/8c/c7/838cc7cc-e9e8-799d-e3db-16d893a08461/mzaf_1148336731883147937.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
       }
     },
     {
@@ -198,14 +284,14 @@
           "textColor4": "484e51"
         },
         "composerName": "Alex Gumuchian, Brian Imanuel & Christian Dold",
-        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
         "playParams": {
           "id": "1575996416",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "edamame (feat. Rich Brian)",
         "previews": [
           {
@@ -242,14 +328,14 @@
           "textColor4": "b68853"
         },
         "composerName": "Mauro Malavasi",
-        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "playParams": {
           "id": "1440841769",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/mai-piu-cosi-lontano/1440841656?i=1440841769",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Mai Piu' Cosi' Lontano",
         "previews": [
           {
@@ -327,14 +413,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queencard",
         "previews": [
           {
@@ -342,49 +428,6 @@
           }
         ],
         "artistName": "(G)I-DLE"
-      }
-    },
-    {
-      "id": "1685400184",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1685400184",
-      "attributes": {
-        "albumName": "MY WORLD - The 3rd Mini Album - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-05-08",
-        "durationInMillis": 197040,
-        "isrc": "KRA302300145",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00134d",
-          "textColor1": "a2bcdd",
-          "textColor2": "94b9e5",
-          "textColor3": "819ac0",
-          "textColor4": "7798c7"
-        },
-        "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
-        "playParams": {
-          "id": "1685400184",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Spicy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f6/66/98/f6669873-4a72-ed63-77ee-13746938c220/mzaf_16352020300822090516.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
       }
     },
     {
@@ -413,14 +456,14 @@
           "textColor4": "acacae"
         },
         "composerName": "Brandon Arreaga, Colin Magalong, Landon Sears, Kaelyn Behr & MZMC",
-        "url": "https://music.apple.com/us/album/perfume/1681718925?i=1681719346",
         "playParams": {
           "id": "1681719346",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/perfume/1681718925?i=1681719346",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Perfume",
         "previews": [
           {
@@ -540,14 +583,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -583,14 +626,14 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -839,14 +882,14 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -882,14 +925,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -925,14 +968,14 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cupid",
         "previews": [
           {
@@ -1010,14 +1053,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -1025,49 +1068,6 @@
           }
         ],
         "artistName": "YOASOBI"
-      }
-    },
-    {
-      "id": "1682502483",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682502483",
-      "attributes": {
-        "albumName": "UNFORGIVEN",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 10,
-        "releaseDate": "2023-05-01",
-        "durationInMillis": 185539,
-        "isrc": "USA2P2310665",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "440619",
-          "textColor2": "51091c",
-          "textColor3": "6a3847",
-          "textColor4": "733a4a"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
-        "playParams": {
-          "id": "1682502483",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/8c/c7/838cc7cc-e9e8-799d-e3db-16d893a08461/mzaf_1148336731883147937.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
       }
     },
     {
@@ -1139,14 +1139,14 @@
           "textColor4": "c2adab"
         },
         "composerName": "BXN & Prime Time",
-        "url": "https://music.apple.com/us/album/sparkling/1632915288?i=1632915479",
         "playParams": {
           "id": "1632915479",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sparkling/1632915288?i=1632915479",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Sparkling",
         "previews": [
           {
