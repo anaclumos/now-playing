@@ -2,6 +2,133 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1639023912",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639023912",
+      "attributes": {
+        "albumName": "NIGHT DANCER - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 210948,
+        "releaseDate": "2022-08-19",
+        "isrc": "JPPO02202918",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/c2/49/87/c249873f-fa61-9d61-52aa-a7e1d780c8b3/22UMGIM81500.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "fffd00",
+          "textColor3": "cbcbcb",
+          "textColor4": "cbca00"
+        },
+        "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
+        "playParams": {
+          "id": "1639023912",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "NIGHT DANCER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/64/a3/9a64a3b4-bb2f-9f05-d67e-7d5ca5dc4d85/mzaf_3042423082720944814.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "imase"
+      }
+    },
+    {
+      "id": "1647830390",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1647830390",
+      "attributes": {
+        "albumName": "ANTIFRAGILE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
+        "isrc": "USA2P2230329",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "212121",
+          "textColor3": "333333",
+          "textColor4": "4e4e4e"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
+        "playParams": {
+          "id": "1647830390",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "ANTIFRAGILE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/df/4e/cddf4e72-5eb3-18e4-2ddb-bec4ef91b8f6/mzaf_2899720442644351065.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1031416180",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1031416180",
+      "attributes": {
+        "albumName": "Nine Track Mind",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2016-01-29",
+        "durationInMillis": 199146,
+        "isrc": "USAT21502916",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f6e514",
+          "textColor1": "0a0200",
+          "textColor2": "283510",
+          "textColor3": "392f04",
+          "textColor4": "515811"
+        },
+        "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
+        "playParams": {
+          "id": "1031416180",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Dangerously",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5d/fe/bd/5dfebd59-b059-5bdb-caa0-03708fa6d29b/mzaf_4426948284131638540.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Charlie Puth"
+      }
+    },
+    {
       "id": "1679414587",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1679414587",
@@ -56,8 +183,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239181",
         "artwork": {
           "width": 3000,
@@ -156,11 +283,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -185,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 174253,
         "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -199,11 +326,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -242,11 +369,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -270,8 +397,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -313,8 +440,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -399,8 +526,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 200387,
         "releaseDate": "2023-04-24",
+        "durationInMillis": 200387,
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -413,11 +540,11 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -456,11 +583,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "playParams": {
           "id": "1680047537",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -499,11 +626,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -571,8 +698,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 186907,
         "releaseDate": "2022-07-10",
+        "durationInMillis": 186907,
         "isrc": "KRMIM2236621",
         "artwork": {
           "width": 3000,
@@ -585,11 +712,11 @@
           "textColor4": "c2adab"
         },
         "composerName": "BXN & Prime Time",
-        "url": "https://music.apple.com/us/album/sparkling/1632915288?i=1632915479",
         "playParams": {
           "id": "1632915479",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/sparkling/1632915288?i=1632915479",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -628,11 +755,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -656,8 +783,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-07-24",
         "durationInMillis": 133707,
+        "releaseDate": "2021-07-24",
         "isrc": "QMUY42100151",
         "artwork": {
           "width": 4000,
@@ -684,8 +811,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
           }
         ],
-        "artistName": "bbno$",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "bbno$"
       }
     },
     {
@@ -700,8 +827,8 @@
           "Classical"
         ],
         "trackNumber": 7,
-        "releaseDate": "1999-01-01",
         "durationInMillis": 256856,
+        "releaseDate": "1999-01-01",
         "isrc": "ITZ049900376",
         "artwork": {
           "width": 1500,
@@ -756,11 +883,11 @@
           "textColor4": "e3c1ce"
         },
         "composerName": "Adam Von Mentzer",
-        "url": "https://music.apple.com/us/album/cupid-twin-sped-up-remix/1683365015?i=1683365016",
         "playParams": {
           "id": "1683365016",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-twin-sped-up-remix/1683365015?i=1683365016",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -785,8 +912,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 201613,
         "releaseDate": "2022-04-27",
+        "durationInMillis": 201613,
         "isrc": "KRA392200020",
         "artwork": {
           "width": 1400,
@@ -799,11 +926,11 @@
           "textColor4": "563d33"
         },
         "composerName": "Yeul(1by1) & Min Young Lee(EastWest)",
-        "url": "https://music.apple.com/us/album/drive/1618451528?i=1618451552",
         "playParams": {
           "id": "1618451552",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/drive/1618451528?i=1618451552",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -828,8 +955,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 106821,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2310659",
         "artwork": {
           "width": 1400,
@@ -926,11 +1053,11 @@
           "textColor4": "a787c1"
         },
         "composerName": "Patrick Patrikios, Hanni Ibrahim, Phil Plested & A.S. Govere",
-        "url": "https://music.apple.com/us/album/touch/1309173849?i=1309176953",
         "playParams": {
           "id": "1309176953",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/touch/1309173849?i=1309176953",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -969,11 +1096,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -998,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189773,
         "releaseDate": "2023-02-14",
+        "durationInMillis": 189773,
         "isrc": "KRA382300511",
         "artwork": {
           "width": 3000,
@@ -1011,11 +1138,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1115,48 +1242,6 @@
       }
     },
     {
-      "id": "1639023912",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1639023912",
-      "attributes": {
-        "albumName": "NIGHT DANCER - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 210948,
-        "releaseDate": "2022-08-19",
-        "isrc": "JPPO02202918",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/c2/49/87/c249873f-fa61-9d61-52aa-a7e1d780c8b3/22UMGIM81500.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "fffd00",
-          "textColor3": "cbcbcb",
-          "textColor4": "cbca00"
-        },
-        "composerName": "imase",
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
-        "playParams": {
-          "id": "1639023912",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "NIGHT DANCER",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/64/a3/9a64a3b4-bb2f-9f05-d67e-7d5ca5dc4d85/mzaf_3042423082720944814.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "imase"
-      }
-    },
-    {
       "id": "1635469694",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1635469694",
@@ -1197,91 +1282,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1647830390",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1647830390",
-      "attributes": {
-        "albumName": "ANTIFRAGILE - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 184444,
-        "releaseDate": "2022-10-17",
-        "isrc": "USA2P2230329",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "212121",
-          "textColor3": "333333",
-          "textColor4": "4e4e4e"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
-        "playParams": {
-          "id": "1647830390",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "ANTIFRAGILE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/df/4e/cddf4e72-5eb3-18e4-2ddb-bec4ef91b8f6/mzaf_2899720442644351065.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1031416180",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1031416180",
-      "attributes": {
-        "albumName": "Nine Track Mind",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 199146,
-        "releaseDate": "2016-01-29",
-        "isrc": "USAT21502916",
-        "artwork": {
-          "width": 1425,
-          "height": 1425,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f6e514",
-          "textColor1": "0a0200",
-          "textColor2": "283510",
-          "textColor3": "392f04",
-          "textColor4": "515811"
-        },
-        "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
-        "playParams": {
-          "id": "1031416180",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Dangerously",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5d/fe/bd/5dfebd59-b059-5bdb-caa0-03708fa6d29b/mzaf_4426948284131638540.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Charlie Puth"
       }
     }
   ]
