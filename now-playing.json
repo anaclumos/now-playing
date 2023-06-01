@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1680047366",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1680047366",
+      "attributes": {
+        "albumName": "I've IVE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 183853,
+        "releaseDate": "2023-04-10",
+        "isrc": "QM4TX2337764",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f9f9f9",
+          "textColor1": "131313",
+          "textColor2": "323232",
+          "textColor3": "414141",
+          "textColor4": "5a5a5a"
+        },
+        "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
+        "playParams": {
+          "id": "1680047366",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "I AM",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/af/45/c0/af45c08e-9368-8679-9516-3a2238cd0ba3/mzaf_742897824559319104.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1679292891",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679292891",
+      "attributes": {
+        "albumName": "The Beginning: Cupid - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
+        "isrc": "KSA012239180",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fde3aa",
+          "textColor1": "000000",
+          "textColor2": "333333",
+          "textColor3": "322d22",
+          "textColor4": "5c564b"
+        },
+        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "playParams": {
+          "id": "1679292891",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Cupid",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/51/58/de/5158de57-307c-8cc0-67e1-f817c1e950b5/mzaf_1159664837573234890.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "FIFTY FIFTY"
+      }
+    },
+    {
       "id": "1659513445",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1659513445",
@@ -13,8 +99,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-01-02",
         "durationInMillis": 212253,
+        "releaseDate": "2023-01-02",
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -33,8 +119,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -55,8 +141,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -69,11 +155,11 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -91,13 +177,13 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.4YBeVeWi2Vvp1BD",
       "attributes": {
-        "discNumber": 0,
         "albumName": "Idol - Single",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 213288,
         "name": "Idol (Inst.)",
         "artistName": "YOASOBI",
@@ -135,11 +221,11 @@
           "textColor4": "773d3e"
         },
         "composerName": "\uc11c\uc6a9\ubc30 & Cosmic Girl",
-        "url": "https://music.apple.com/us/album/knock/1680682243?i=1680682439",
         "playParams": {
           "id": "1680682439",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/knock/1680682243?i=1680682439",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -163,8 +249,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-07-24",
         "durationInMillis": 133707,
+        "releaseDate": "2021-07-24",
         "isrc": "QMUY42100151",
         "artwork": {
           "width": 4000,
@@ -183,16 +269,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "edamame (feat. Rich Brian)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "bbno$"
+        "artistName": "bbno$",
+        "contentRating": "explicit"
       }
     },
     {
@@ -207,8 +293,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -227,8 +313,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -250,8 +336,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 182149,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -264,11 +350,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -293,8 +379,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 197040,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300145",
         "artwork": {
           "width": 4000,
@@ -307,11 +393,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -336,8 +422,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 71187,
+        "releaseDate": "2023-04-12",
         "isrc": "KRMIM2339978",
         "artwork": {
           "width": 1400,
@@ -350,11 +436,11 @@
           "textColor4": "773d3e"
         },
         "composerName": "\uc11c\uc6a9\ubc30",
-        "url": "https://music.apple.com/us/album/line-by-line-intro/1680682243?i=1680682434",
         "playParams": {
           "id": "1680682434",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/line-by-line-intro/1680682243?i=1680682434",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -393,11 +479,11 @@
           "textColor4": "773d3e"
         },
         "composerName": "\uc11c\uc6a9\ubc30 & Kim Mingi",
-        "url": "https://music.apple.com/us/album/i-dont-wanna-know/1680682243?i=1680682448",
         "playParams": {
           "id": "1680682448",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-wanna-know/1680682243?i=1680682448",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -422,8 +508,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 190947,
+        "releaseDate": "2023-04-12",
         "isrc": "KRMIM2339981",
         "artwork": {
           "width": 1400,
@@ -442,8 +528,8 @@
         },
         "url": "https://music.apple.com/us/album/dont-be-a-jerk/1680682243?i=1680682452",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Don\u2019t Be A Jerk",
         "previews": [
           {
@@ -465,8 +551,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -479,11 +565,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -508,8 +594,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-03-20",
         "durationInMillis": 188719,
+        "releaseDate": "2023-03-20",
         "isrc": "US5TA2200195",
         "artwork": {
           "width": 3000,
@@ -528,8 +614,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Me Like This",
         "previews": [
           {
@@ -551,8 +637,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239182",
         "artwork": {
           "width": 3000,
@@ -571,8 +657,8 @@
         },
         "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Cupid (Instrumental)",
         "previews": [
           {
@@ -594,8 +680,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-08-06",
         "durationInMillis": 202040,
+        "releaseDate": "2018-08-06",
         "isrc": "KRA301800289",
         "artwork": {
           "width": 4000,
@@ -607,11 +693,11 @@
           "textColor3": "2d3235",
           "textColor4": "2e4e6f"
         },
-        "url": "https://music.apple.com/us/album/power-up/1421648323?i=1421648511",
         "playParams": {
           "id": "1421648511",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/power-up/1421648323?i=1421648511",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -637,8 +723,8 @@
           "Rock"
         ],
         "trackNumber": 15,
-        "releaseDate": "2019-05-06",
         "durationInMillis": 371160,
+        "releaseDate": "2019-05-06",
         "isrc": "KRA381901852",
         "artwork": {
           "width": 3000,
@@ -650,11 +736,11 @@
           "textColor3": "3c3b41",
           "textColor4": "583f4b"
         },
-        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "playParams": {
           "id": "1462733791",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -680,8 +766,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -693,11 +779,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -736,11 +822,11 @@
           "textColor4": "474548"
         },
         "composerName": "Gavin Jones, Hayden Chapman, Taet Chesterton, Greg Bonnick, Lee Hye Jun(ONCLASSA), Jennifer Eunsoo Kim, Eunji Jang(153/Joombas Publishing), SHIN HYE MI(PNP), Oh Hyunsun(lalala studio) & Wkly",
-        "url": "https://music.apple.com/us/album/love-me-like-this/1689309595?i=1689309607",
         "playParams": {
           "id": "1689309607",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/love-me-like-this/1689309595?i=1689309607",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -764,8 +850,8 @@
           "Music"
         ],
         "trackNumber": 17,
-        "releaseDate": "2016-11-25",
         "durationInMillis": 260256,
+        "releaseDate": "2016-11-25",
         "isrc": "USUG11600995",
         "artwork": {
           "width": 3000,
@@ -778,11 +864,11 @@
           "textColor4": "b95307"
         },
         "composerName": "Abel Tesfaye, Martin McKinney, Mejdi Rhars, Dylan Wiggins, Magnus H\u00f8iberg, William Walsh & Henry Walter",
-        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "playParams": {
           "id": "1440870395",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -807,8 +893,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-09-16",
         "durationInMillis": 175889,
+        "releaseDate": "2022-09-16",
         "isrc": "KRA402200020",
         "artwork": {
           "width": 2000,
@@ -821,11 +907,11 @@
           "textColor4": "535353"
         },
         "composerName": "Teddy & 24",
-        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "playParams": {
           "id": "1644440674",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shut-down/1644440668?i=1644440674",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -836,49 +922,6 @@
           }
         ],
         "artistName": "BLACKPINK"
-      }
-    },
-    {
-      "id": "1680047366",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047366",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-04-10",
-        "durationInMillis": 183853,
-        "isrc": "QM4TX2337764",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
-        "playParams": {
-          "id": "1680047366",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "I AM",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/af/45/c0/af45c08e-9368-8679-9516-3a2238cd0ba3/mzaf_742897824559319104.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     },
     {
@@ -893,8 +936,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-02-13",
         "durationInMillis": 159933,
+        "releaseDate": "2023-02-13",
         "isrc": "KRA382300733",
         "artwork": {
           "width": 3000,
@@ -906,11 +949,11 @@
           "textColor3": "cbcbcb",
           "textColor4": "c4afae"
         },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "playParams": {
           "id": "1670327199",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -935,8 +978,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-01-19",
         "durationInMillis": 205227,
+        "releaseDate": "2022-01-19",
         "isrc": "KRA382200138",
         "artwork": {
           "width": 3000,
@@ -954,8 +997,8 @@
         },
         "url": "https://music.apple.com/us/album/lunatic/1605708135?i=1605708141",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LUNATIC",
         "previews": [
           {
@@ -976,8 +1019,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-01",
         "durationInMillis": 146370,
+        "releaseDate": "2020-01-01",
         "isrc": "ARIXB2305392",
         "artwork": {
           "width": 3000,
@@ -996,8 +1039,8 @@
         },
         "url": "https://music.apple.com/us/album/cupid-twin-sped-up-remix/1683365015?i=1683365016",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Cupid Twin (Sped up) [Remix]",
         "previews": [
           {
@@ -1018,8 +1061,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "1987-04-20",
         "durationInMillis": 231680,
+        "releaseDate": "1987-04-20",
         "isrc": "KRA341440770",
         "artwork": {
           "width": 3000,
@@ -1032,11 +1075,11 @@
           "textColor4": "434647"
         },
         "composerName": "Ho Jun Lee",
-        "url": "https://music.apple.com/us/album/%EC%96%B4%EC%A0%AF%EB%B0%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0/1618867162?i=1618867163",
         "playParams": {
           "id": "1618867163",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%EC%96%B4%EC%A0%AF%EB%B0%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0/1618867162?i=1618867163",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1075,11 +1118,11 @@
           "textColor3": "524845",
           "textColor4": "504a48"
         },
-        "url": "https://music.apple.com/us/album/full-stop/1229073300?i=1229073405",
         "playParams": {
           "id": "1229073405",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/full-stop/1229073300?i=1229073405",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1118,11 +1161,11 @@
           "textColor3": "524845",
           "textColor4": "504a48"
         },
-        "url": "https://music.apple.com/us/album/through-the-night/1229073300?i=1229073406",
         "playParams": {
           "id": "1229073406",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/through-the-night/1229073300?i=1229073406",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1150,8 +1193,8 @@
         "trackNumber": 3,
         "releaseDate": "2017-04-07",
         "durationInMillis": 54867,
-        "movementNumber": 0,
         "isrc": "GBDYG1601571",
+        "movementNumber": 0,
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -1164,17 +1207,17 @@
         },
         "workName": "Pictures at an Exhibition (Orch. by Ravel)",
         "composerName": "Modest Mussorgsky",
-        "url": "https://music.apple.com/us/album/pictures-at-an-exhibition-orch-by-ravel-promenade-ii/1216338009?i=1216338573",
         "playParams": {
           "id": "1216338573",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pictures-at-an-exhibition-orch-by-ravel-promenade-ii/1216338009?i=1216338573",
         "discNumber": 1,
         "movementCount": 0,
         "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade II",
         "attribution": "Modest Mussorgsky",
+        "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade II",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/50/3f/4f/503f4ff5-6da0-e342-4840-2cb4476096c2/mzaf_5172437958378349471.plus.aac.p.m4a"
@@ -1198,8 +1241,8 @@
         "trackNumber": 2,
         "releaseDate": "2017-04-07",
         "durationInMillis": 151600,
-        "movementNumber": 0,
         "isrc": "GBDYG1601570",
+        "movementNumber": 0,
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -1212,68 +1255,20 @@
         },
         "workName": "Pictures at an Exhibition (Orch. by Ravel)",
         "composerName": "Modest Mussorgsky",
-        "url": "https://music.apple.com/us/album/pictures-at-an-exhibition-orch-by-ravel-i-gnomus/1216338009?i=1216338572",
         "playParams": {
           "id": "1216338572",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pictures-at-an-exhibition-orch-by-ravel-i-gnomus/1216338009?i=1216338572",
         "discNumber": 1,
         "movementCount": 0,
         "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "name": "Pictures at an Exhibition (Orch. by Ravel): I. Gnomus",
         "attribution": "Modest Mussorgsky",
+        "name": "Pictures at an Exhibition (Orch. by Ravel): I. Gnomus",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c0/23/a2/c023a281-21d3-5498-d730-382438b0fcfa/mzaf_15323763087629686855.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Philippe Jordan & Paris Opera Orchestra"
-      }
-    },
-    {
-      "id": "1216338570",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1216338570",
-      "attributes": {
-        "albumName": "Mussorgsky: Pictures at an Exhibition - Prokofiev: Symphony No. 1, Op. 25 \"Classical\"",
-        "movementName": "Promenade I",
-        "genreNames": [
-          "Classical",
-          "Music",
-          "Orchestral"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-03-24",
-        "durationInMillis": 101600,
-        "movementNumber": 0,
-        "isrc": "GBDYG1601569",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music111/v4/d6/30/44/d6304498-4e51-de65-43b3-24e9317500b4/190295877897.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d1cdc2",
-          "textColor1": "0d0600",
-          "textColor2": "21313f",
-          "textColor3": "342e27",
-          "textColor4": "445059"
-        },
-        "workName": "Pictures at an Exhibition (Orch. by Ravel)",
-        "composerName": "Modest Mussorgsky",
-        "url": "https://music.apple.com/us/album/pictures-at-an-exhibition-orch-by-ravel-promenade-i/1216338009?i=1216338570",
-        "playParams": {
-          "id": "1216338570",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "movementCount": 0,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": false,
-        "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade I",
-        "attribution": "Modest Mussorgsky",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/80/6b/48/806b48b5-680b-1359-1975-3e990b0d9375/mzaf_447759487454613530.plus.aac.p.m4a"
           }
         ],
         "artistName": "Philippe Jordan & Paris Opera Orchestra"
