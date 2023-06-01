@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "1682502483",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502483",
@@ -13,8 +55,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -99,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 197040,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300145",
         "artwork": {
           "width": 4000,
@@ -228,8 +270,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 180800,
+        "releaseDate": "2023-04-12",
         "isrc": "KRMIM2339980",
         "artwork": {
           "width": 1400,
@@ -346,48 +388,6 @@
       }
     },
     {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-04-12",
-        "durationInMillis": 213234,
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
-      }
-    },
-    {
       "id": "1670474138",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1670474138",
@@ -442,8 +442,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 174253,
         "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
         "isrc": "KSA012239182",
         "artwork": {
           "width": 3000,
@@ -485,8 +485,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 202040,
         "releaseDate": "2018-08-06",
+        "durationInMillis": 202040,
         "isrc": "KRA301800289",
         "artwork": {
           "width": 4000,
@@ -528,8 +528,8 @@
           "Rock"
         ],
         "trackNumber": 15,
-        "durationInMillis": 371160,
         "releaseDate": "2019-05-06",
+        "durationInMillis": 371160,
         "isrc": "KRA381901852",
         "artwork": {
           "width": 3000,
@@ -613,8 +613,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 188719,
         "releaseDate": "2023-03-20",
+        "durationInMillis": 188719,
         "isrc": "US5TA2200195",
         "artwork": {
           "width": 1400,
@@ -655,8 +655,8 @@
           "Music"
         ],
         "trackNumber": 17,
-        "releaseDate": "2016-11-25",
         "durationInMillis": 260256,
+        "releaseDate": "2016-11-25",
         "isrc": "USUG11600995",
         "artwork": {
           "width": 3000,
@@ -741,8 +741,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-10",
         "durationInMillis": 183853,
+        "releaseDate": "2023-04-10",
         "isrc": "QM4TX2337764",
         "artwork": {
           "width": 3000,
@@ -867,8 +867,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-01",
         "durationInMillis": 146370,
+        "releaseDate": "2020-01-01",
         "isrc": "ARIXB2305392",
         "artwork": {
           "width": 3000,
@@ -909,8 +909,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 133707,
         "releaseDate": "2021-07-24",
+        "durationInMillis": 133707,
         "isrc": "QMUY42100151",
         "artwork": {
           "width": 4000,
@@ -937,8 +937,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
           }
         ],
-        "artistName": "bbno$",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "bbno$"
       }
     },
     {
@@ -1039,8 +1039,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 8,
-        "durationInMillis": 253293,
         "releaseDate": "2017-03-24",
+        "durationInMillis": 253293,
         "isrc": "KRA381700868",
         "artwork": {
           "width": 3000,
@@ -1107,8 +1107,8 @@
         "movementCount": 0,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
-        "attribution": "Modest Mussorgsky",
         "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade II",
+        "attribution": "Modest Mussorgsky",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/50/3f/4f/503f4ff5-6da0-e342-4840-2cb4476096c2/mzaf_5172437958378349471.plus.aac.p.m4a"
@@ -1130,10 +1130,10 @@
           "Orchestral"
         ],
         "trackNumber": 2,
-        "releaseDate": "2017-04-07",
         "durationInMillis": 151600,
-        "movementNumber": 0,
+        "releaseDate": "2017-04-07",
         "isrc": "GBDYG1601570",
+        "movementNumber": 0,
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -1155,8 +1155,8 @@
         "movementCount": 0,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
-        "attribution": "Modest Mussorgsky",
         "name": "Pictures at an Exhibition (Orch. by Ravel): I. Gnomus",
+        "attribution": "Modest Mussorgsky",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c0/23/a2/c023a281-21d3-5498-d730-382438b0fcfa/mzaf_15323763087629686855.plus.aac.p.m4a"
@@ -1203,8 +1203,8 @@
         "movementCount": 0,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
-        "attribution": "Modest Mussorgsky",
         "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade I",
+        "attribution": "Modest Mussorgsky",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/80/6b/48/806b48b5-680b-1359-1975-3e990b0d9375/mzaf_447759487454613530.plus.aac.p.m4a"
@@ -1252,8 +1252,8 @@
         "movementCount": 15,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
-        "attribution": "Sir Edward Elgar",
         "name": "Enigma Variations, Op. 36: Variation I. L'istesso tempo \"C.A.E\" (Live)",
+        "attribution": "Sir Edward Elgar",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a7/09/36/a70936c1-aa77-2603-acd1-c1e0b3ec32a4/mzaf_6789835805930742775.plus.aac.p.m4a"
@@ -1276,10 +1276,10 @@
           "Romantic Era"
         ],
         "trackNumber": 16,
-        "durationInMillis": 888876,
         "releaseDate": "2007-06-05",
-        "isrc": "GBDGQ0507501",
+        "durationInMillis": 888876,
         "movementNumber": 0,
+        "isrc": "GBDGQ0507501",
         "artwork": {
           "width": 6000,
           "height": 6000,
