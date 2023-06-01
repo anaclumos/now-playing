@@ -2,6 +2,115 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.4YBeVeWi2Vvp1BD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.4YBeVeWi2Vvp1BD",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "Idol - Single",
+        "genreNames": [
+          ""
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 213288,
+        "name": "Idol (Inst.)",
+        "artistName": "YOASOBI",
+        "playParams": {
+          "id": "i.4YBeVeWi2Vvp1BD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1680682439",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1680682439",
+      "attributes": {
+        "albumName": "Over The Moon - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 173080,
+        "releaseDate": "2023-04-12",
+        "isrc": "KRMIM2339979",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/cb/84/21/cb842180-a926-1650-3d2c-daeedee1067a/888272115437_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f1ebdf",
+          "textColor1": "0b2d4c",
+          "textColor2": "581116",
+          "textColor3": "395369",
+          "textColor4": "773d3e"
+        },
+        "composerName": "\uc11c\uc6a9\ubc30 & Cosmic Girl",
+        "playParams": {
+          "id": "1680682439",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/knock/1680682243?i=1680682439",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "KNOCK",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7c/8e/26/7c8e2612-1df5-d1db-ba3f-fd5c144ae89c/mzaf_13644767227021031872.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LEE CHAE YEON"
+      }
+    },
+    {
+      "id": "1575996416",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1575996416",
+      "attributes": {
+        "albumName": "edamame (feat. Rich Brian) - Single",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-07-24",
+        "durationInMillis": 133707,
+        "isrc": "QMUY42100151",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/ce/59/37/ce593744-86b4-4214-7f2f-c05b3e689987/653738076221.png/{w}x{h}bb.jpg",
+          "bgColor": "b5ccde",
+          "textColor1": "090e0e",
+          "textColor2": "2d2f2e",
+          "textColor3": "2c3438",
+          "textColor4": "484e51"
+        },
+        "composerName": "Alex Gumuchian, Brian Imanuel & Christian Dold",
+        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
+        "playParams": {
+          "id": "1575996416",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "edamame (feat. Rich Brian)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "bbno$"
+      }
+    },
+    {
       "id": "1679278167",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1679278167",
@@ -32,8 +141,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -41,49 +150,6 @@
           }
         ],
         "artistName": "YOASOBI"
-      }
-    },
-    {
-      "id": "1680682439",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680682439",
-      "attributes": {
-        "albumName": "Over The Moon - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 173080,
-        "releaseDate": "2023-04-12",
-        "isrc": "KRMIM2339979",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/cb/84/21/cb842180-a926-1650-3d2c-daeedee1067a/888272115437_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f1ebdf",
-          "textColor1": "0b2d4c",
-          "textColor2": "581116",
-          "textColor3": "395369",
-          "textColor4": "773d3e"
-        },
-        "composerName": "\uc11c\uc6a9\ubc30 & Cosmic Girl",
-        "url": "https://music.apple.com/us/album/knock/1680682243?i=1680682439",
-        "playParams": {
-          "id": "1680682439",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "KNOCK",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7c/8e/26/7c8e2612-1df5-d1db-ba3f-fd5c144ae89c/mzaf_13644767227021031872.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LEE CHAE YEON"
       }
     },
     {
@@ -98,8 +164,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "durationInMillis": 185539,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 185539,
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -118,8 +184,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -161,8 +227,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -198,11 +264,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -227,8 +293,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 71187,
+        "releaseDate": "2023-04-12",
         "isrc": "KRMIM2339978",
         "artwork": {
           "width": 1400,
@@ -241,11 +307,11 @@
           "textColor4": "773d3e"
         },
         "composerName": "\uc11c\uc6a9\ubc30",
+        "url": "https://music.apple.com/us/album/line-by-line-intro/1680682243?i=1680682434",
         "playParams": {
           "id": "1680682434",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/line-by-line-intro/1680682243?i=1680682434",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -284,11 +350,11 @@
           "textColor4": "773d3e"
         },
         "composerName": "\uc11c\uc6a9\ubc30 & Kim Mingi",
-        "url": "https://music.apple.com/us/album/i-dont-wanna-know/1680682243?i=1680682448",
         "playParams": {
           "id": "1680682448",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-wanna-know/1680682243?i=1680682448",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -313,8 +379,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 190947,
+        "releaseDate": "2023-04-12",
         "isrc": "KRMIM2339981",
         "artwork": {
           "width": 1400,
@@ -327,11 +393,11 @@
           "textColor4": "773d3e"
         },
         "composerName": "\uc11c\uc6a9\ubc30, \uc774\ud6c4\uc0c1 & Cosmic Girl",
+        "url": "https://music.apple.com/us/album/dont-be-a-jerk/1680682243?i=1680682452",
         "playParams": {
           "id": "1680682452",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dont-be-a-jerk/1680682243?i=1680682452",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -356,8 +422,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -370,11 +436,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -419,8 +485,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love Me Like This",
         "previews": [
           {
@@ -442,8 +508,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 174253,
         "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
         "isrc": "KSA012239182",
         "artwork": {
           "width": 3000,
@@ -462,8 +528,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Cupid (Instrumental)",
         "previews": [
           {
@@ -498,11 +564,11 @@
           "textColor3": "2d3235",
           "textColor4": "2e4e6f"
         },
+        "url": "https://music.apple.com/us/album/power-up/1421648323?i=1421648511",
         "playParams": {
           "id": "1421648511",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/power-up/1421648323?i=1421648511",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -528,8 +594,8 @@
           "Rock"
         ],
         "trackNumber": 15,
-        "releaseDate": "2019-05-06",
         "durationInMillis": 371160,
+        "releaseDate": "2019-05-06",
         "isrc": "KRA381901852",
         "artwork": {
           "width": 3000,
@@ -541,11 +607,11 @@
           "textColor3": "3c3b41",
           "textColor4": "583f4b"
         },
+        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "playParams": {
           "id": "1462733791",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/to-you/1462733766?i=1462733791",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -584,11 +650,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -613,8 +679,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-03-20",
         "durationInMillis": 188719,
+        "releaseDate": "2023-03-20",
         "isrc": "US5TA2200195",
         "artwork": {
           "width": 1400,
@@ -633,8 +699,8 @@
         },
         "url": "https://music.apple.com/us/album/love-me-like-this/1689309595?i=1689309607",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Me Like This",
         "previews": [
           {
@@ -655,8 +721,8 @@
           "Music"
         ],
         "trackNumber": 17,
-        "releaseDate": "2016-11-25",
         "durationInMillis": 260256,
+        "releaseDate": "2016-11-25",
         "isrc": "USUG11600995",
         "artwork": {
           "width": 3000,
@@ -669,11 +735,11 @@
           "textColor4": "b95307"
         },
         "composerName": "Abel Tesfaye, Martin McKinney, Mejdi Rhars, Dylan Wiggins, Magnus H\u00f8iberg, William Walsh & Henry Walter",
+        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "playParams": {
           "id": "1440870395",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/die-for-you/1440870373?i=1440870395",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -718,8 +784,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Shut Down",
         "previews": [
           {
@@ -755,11 +821,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -784,8 +850,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-02-13",
         "durationInMillis": 159933,
+        "releaseDate": "2023-02-13",
         "isrc": "KRA382300733",
         "artwork": {
           "width": 3000,
@@ -797,11 +863,11 @@
           "textColor3": "cbcbcb",
           "textColor4": "c4afae"
         },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "playParams": {
           "id": "1670327199",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -826,8 +892,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "durationInMillis": 205227,
         "releaseDate": "2022-01-19",
+        "durationInMillis": 205227,
         "isrc": "KRA382200138",
         "artwork": {
           "width": 3000,
@@ -845,8 +911,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "LUNATIC",
         "previews": [
           {
@@ -867,8 +933,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-01",
         "durationInMillis": 146370,
+        "releaseDate": "2020-01-01",
         "isrc": "ARIXB2305392",
         "artwork": {
           "width": 3000,
@@ -887,8 +953,8 @@
         },
         "url": "https://music.apple.com/us/album/cupid-twin-sped-up-remix/1683365015?i=1683365016",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Cupid Twin (Sped up) [Remix]",
         "previews": [
           {
@@ -896,49 +962,6 @@
           }
         ],
         "artistName": "DJ Fronteo"
-      }
-    },
-    {
-      "id": "1575996416",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1575996416",
-      "attributes": {
-        "albumName": "edamame (feat. Rich Brian) - Single",
-        "genreNames": [
-          "Hip-Hop/Rap",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 133707,
-        "releaseDate": "2021-07-24",
-        "isrc": "QMUY42100151",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/ce/59/37/ce593744-86b4-4214-7f2f-c05b3e689987/653738076221.png/{w}x{h}bb.jpg",
-          "bgColor": "b5ccde",
-          "textColor1": "090e0e",
-          "textColor2": "2d2f2e",
-          "textColor3": "2c3438",
-          "textColor4": "484e51"
-        },
-        "composerName": "Alex Gumuchian, Brian Imanuel & Christian Dold",
-        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
-        "playParams": {
-          "id": "1575996416",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "edamame (feat. Rich Brian)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
-          }
-        ],
-        "contentRating": "explicit",
-        "artistName": "bbno$"
       }
     },
     {
@@ -952,8 +975,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "1987-04-20",
         "durationInMillis": 231680,
+        "releaseDate": "1987-04-20",
         "isrc": "KRA341440770",
         "artwork": {
           "width": 3000,
@@ -966,11 +989,11 @@
           "textColor4": "434647"
         },
         "composerName": "Ho Jun Lee",
+        "url": "https://music.apple.com/us/album/%EC%96%B4%EC%A0%AF%EB%B0%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0/1618867162?i=1618867163",
         "playParams": {
           "id": "1618867163",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/%EC%96%B4%EC%A0%AF%EB%B0%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0/1618867162?i=1618867163",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -996,8 +1019,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 7,
-        "releaseDate": "2017-04-21",
         "durationInMillis": 236189,
+        "releaseDate": "2017-04-21",
         "isrc": "KRA381700867",
         "artwork": {
           "width": 3000,
@@ -1009,11 +1032,11 @@
           "textColor3": "524845",
           "textColor4": "504a48"
         },
+        "url": "https://music.apple.com/us/album/full-stop/1229073300?i=1229073405",
         "playParams": {
           "id": "1229073405",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/full-stop/1229073300?i=1229073405",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1058,8 +1081,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Through the Night",
         "previews": [
           {
@@ -1082,8 +1105,8 @@
           "Orchestral"
         ],
         "trackNumber": 3,
-        "durationInMillis": 54867,
         "releaseDate": "2017-04-07",
+        "durationInMillis": 54867,
         "movementNumber": 0,
         "isrc": "GBDYG1601571",
         "artwork": {
@@ -1105,8 +1128,8 @@
         },
         "discNumber": 1,
         "movementCount": 0,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade II",
         "attribution": "Modest Mussorgsky",
         "previews": [
@@ -1132,8 +1155,8 @@
         "trackNumber": 2,
         "durationInMillis": 151600,
         "releaseDate": "2017-04-07",
-        "movementNumber": 0,
         "isrc": "GBDYG1601570",
+        "movementNumber": 0,
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -1146,17 +1169,17 @@
         },
         "workName": "Pictures at an Exhibition (Orch. by Ravel)",
         "composerName": "Modest Mussorgsky",
-        "url": "https://music.apple.com/us/album/pictures-at-an-exhibition-orch-by-ravel-i-gnomus/1216338009?i=1216338572",
         "playParams": {
           "id": "1216338572",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pictures-at-an-exhibition-orch-by-ravel-i-gnomus/1216338009?i=1216338572",
         "discNumber": 1,
         "movementCount": 0,
         "hasLyrics": false,
         "isAppleDigitalMaster": true,
-        "name": "Pictures at an Exhibition (Orch. by Ravel): I. Gnomus",
         "attribution": "Modest Mussorgsky",
+        "name": "Pictures at an Exhibition (Orch. by Ravel): I. Gnomus",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c0/23/a2/c023a281-21d3-5498-d730-382438b0fcfa/mzaf_15323763087629686855.plus.aac.p.m4a"
@@ -1180,8 +1203,8 @@
         "trackNumber": 1,
         "durationInMillis": 101600,
         "releaseDate": "2017-03-24",
-        "movementNumber": 0,
         "isrc": "GBDYG1601569",
+        "movementNumber": 0,
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -1201,10 +1224,10 @@
         },
         "discNumber": 1,
         "movementCount": 0,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
-        "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade I",
+        "hasLyrics": false,
         "attribution": "Modest Mussorgsky",
+        "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade I",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/80/6b/48/806b48b5-680b-1359-1975-3e990b0d9375/mzaf_447759487454613530.plus.aac.p.m4a"
@@ -1227,10 +1250,10 @@
           "Orchestral"
         ],
         "trackNumber": 2,
-        "releaseDate": "2007-06-05",
         "durationInMillis": 114013,
-        "movementNumber": 0,
+        "releaseDate": "2007-06-05",
         "isrc": "GBDGQ0710902",
+        "movementNumber": 0,
         "artwork": {
           "width": 6000,
           "height": 6000,
@@ -1243,11 +1266,11 @@
         },
         "workName": "Enigma Variations, Op. 36",
         "composerName": "Sir Edward Elgar",
+        "url": "https://music.apple.com/us/album/enigma-variations-op-36-variation-i-listesso-tempo-c-a-e-live/1672125070?i=1672125303",
         "playParams": {
           "id": "1672125303",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/enigma-variations-op-36-variation-i-listesso-tempo-c-a-e-live/1672125070?i=1672125303",
         "discNumber": 1,
         "movementCount": 15,
         "isAppleDigitalMaster": true,
@@ -1257,55 +1280,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a7/09/36/a70936c1-aa77-2603-acd1-c1e0b3ec32a4/mzaf_6789835805930742775.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sir Colin Davis & London Symphony Orchestra"
-      }
-    },
-    {
-      "id": "1672125296",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1672125296",
-      "attributes": {
-        "albumName": "Elgar: Enigma Variations, Introduction & Allegro (Live)",
-        "movementName": "Introduction and Allegro for Strings, Op. 47 (Live)",
-        "genreNames": [
-          "Classical",
-          "Music",
-          "Orchestral",
-          "Romantic Era"
-        ],
-        "trackNumber": 16,
-        "releaseDate": "2007-06-05",
-        "durationInMillis": 888876,
-        "movementNumber": 0,
-        "isrc": "GBDGQ0507501",
-        "artwork": {
-          "width": 6000,
-          "height": 6000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/9d/5e/c0/9d5ec087-1f37-cb56-8010-00a7c017e962/0822231110965_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "100500",
-          "textColor1": "f7e4de",
-          "textColor2": "efc3be",
-          "textColor3": "c9b7b2",
-          "textColor4": "c29d98"
-        },
-        "workName": "Introduction and Allegro for Strings, Op. 47",
-        "composerName": "Sir Edward Elgar",
-        "playParams": {
-          "id": "1672125296",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/introduction-and-allegro-for-strings-op-47-live/1672125070?i=1672125296",
-        "discNumber": 1,
-        "movementCount": 0,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": false,
-        "attribution": "Sir Edward Elgar",
-        "name": "Introduction and Allegro for Strings, Op. 47 (Live)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b2/75/85/b2758528-3958-42fa-12f5-b99ad7d4d4ce/mzaf_5190025916925805336.plus.aac.p.m4a"
           }
         ],
         "artistName": "Sir Colin Davis & London Symphony Orchestra"
