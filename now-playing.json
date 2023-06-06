@@ -2,6 +2,148 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1570384995",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1570384995",
+      "attributes": {
+        "albumName": "The Hyena on the Keyboard, Pt. 4 - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2018-04-21",
+        "durationInMillis": 231654,
+        "isrc": "KRA381705099",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/63/40/1f6340b9-9a9f-a277-9d90-924eddaa01b8/8809658313935_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "15100d",
+          "textColor1": "f1f1f3",
+          "textColor2": "d29e84",
+          "textColor3": "c5c4c5",
+          "textColor4": "ac826c"
+        },
+        "composerName": "Loco, Hwa Sa & WOOGIE",
+        "playParams": {
+          "id": "1570384995",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/dont/1570384993?i=1570384995",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Don't",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/70/3c/61/703c6155-eeef-171f-c661-dab95ee86269/mzaf_6041470436962145485.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Loco & Hwa Sa"
+      }
+    },
+    {
+      "id": "1569293225",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1569293225",
+      "attributes": {
+        "albumName": "HEART*IZ",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2019-04-01",
+        "durationInMillis": 208867,
+        "isrc": "KRA871900004",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/bc/f1/6e/bcf16eb1-7fd3-58b6-7f31-4c464efc3c04/8809658311085_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "b6e3bc",
+          "textColor1": "182219",
+          "textColor2": "242e26",
+          "textColor3": "37493a",
+          "textColor4": "415244"
+        },
+        "composerName": "Taehun Lee, Sam Carter, RAMI NU, B.K. & \ucd5c\ubcf4\uce74\ub3c4",
+        "playParams": {
+          "id": "1569293225",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/highlight/1569293222?i=1569293225",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Highlight",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fc/71/e7/fc71e787-03ed-fd21-34df-c440f2db7185/mzaf_10859548693393170009.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IZ*ONE"
+      }
+    },
+    {
+      "id": "i.WmYQ7pBHxo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQ7pBHxo4rAzD",
+      "attributes": {
+        "albumName": "\ube44\ubc00\uc815\uc6d0",
+        "discNumber": 1,
+        "genreNames": [
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "hasLyrics": false,
+        "durationInMillis": 244062,
+        "name": "\ube44\ubc00\uc815\uc6d0",
+        "artistName": "\uc624\ub9c8\uc774\uac78",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/dc/fe/93/dcfe930b-b5a6-e535-fd75-05f313e45938/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230606T221523Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230606%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=9c47040d530818cf0d2cfa2589c909f891d1fb45f5ae3bb4cad61d6c654fa98a"
+        },
+        "playParams": {
+          "id": "i.WmYQ7pBHxo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "i.WmYQELqIxo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQELqIxo4rAzD",
+      "attributes": {
+        "albumName": "IZ*X",
+        "discNumber": 0,
+        "genreNames": [
+          "K-Pop"
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 272323,
+        "name": "\u110b\u1161\u1106\u1169\u1105\u1173 \u1111\u1161\u1110\u1175",
+        "artistName": "\uc544\uc774\uc988\uc6d0",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/7e/eb/e9/7eebe90a-2f23-08ac-aece-20e8eb22a699/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230606T221523Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230606%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=f7d06218c119e43c3049d729bda3ad82b8ab8b38a501f4143c1f69f57bb1cb32"
+        },
+        "playParams": {
+          "id": "i.WmYQELqIxo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1464109997",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1464109997",
@@ -26,11 +168,11 @@
           "textColor3": "082b33",
           "textColor4": "1e3c43"
         },
-        "url": "https://music.apple.com/us/album/here-we-are/1464109995?i=1464109997",
         "playParams": {
           "id": "1464109997",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/here-we-are/1464109995?i=1464109997",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -69,14 +211,14 @@
           "textColor4": "81acb8"
         },
         "composerName": "Teddy & 24",
-        "url": "https://music.apple.com/us/album/solo/1441819348?i=1441819350",
         "playParams": {
           "id": "1441819350",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/solo/1441819348?i=1441819350",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SOLO",
         "previews": [
           {
@@ -112,14 +254,14 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
         "playParams": {
           "id": "1679292893",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-instrumental/1679292890?i=1679292893",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Cupid (Instrumental)",
         "previews": [
           {
@@ -155,14 +297,14 @@
           "textColor4": "415244"
         },
         "composerName": "LEE DAE HWI, Lishbeats, Simpson, \uc870\uc724\uacbd & \uc7a5\uc5ec\uc9c4",
-        "url": "https://music.apple.com/us/album/airplane/1569293222?i=1569293559",
         "playParams": {
           "id": "1569293559",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/airplane/1569293222?i=1569293559",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Airplane",
         "previews": [
           {
@@ -198,14 +340,14 @@
           "textColor4": "3e4453"
         },
         "composerName": "\ud150\uc870, $$AM & Kebee",
-        "url": "https://music.apple.com/us/album/colors/1569280525?i=1569280528",
         "playParams": {
           "id": "1569280528",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/colors/1569280525?i=1569280528",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Colors",
         "previews": [
           {
@@ -240,14 +382,14 @@
           "textColor3": "c1829f",
           "textColor4": "c17e7b"
         },
-        "url": "https://music.apple.com/us/album/d-d-dance/1549862119?i=1549862123",
         "playParams": {
           "id": "1549862123",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/d-d-dance/1549862119?i=1549862123",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "D-D-Dance",
         "previews": [
           {
@@ -283,11 +425,11 @@
           "textColor4": "67452d"
         },
         "composerName": "\uc724\uc885\uc131, Anna Timgren, \uc2e0\ubbfc\uacbd & Inner Child",
-        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
         "playParams": {
           "id": "1569281904",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ayayaya/1569281731?i=1569281904",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -295,49 +437,6 @@
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/76/74/3e767414-10de-4ca3-e2de-bcc2c88bd62f/mzaf_14160970307789987447.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IZ*ONE"
-      }
-    },
-    {
-      "id": "1569293225",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1569293225",
-      "attributes": {
-        "albumName": "HEART*IZ",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2019-04-01",
-        "durationInMillis": 208867,
-        "isrc": "KRA871900004",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/bc/f1/6e/bcf16eb1-7fd3-58b6-7f31-4c464efc3c04/8809658311085_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "b6e3bc",
-          "textColor1": "182219",
-          "textColor2": "242e26",
-          "textColor3": "37493a",
-          "textColor4": "415244"
-        },
-        "composerName": "Taehun Lee, Sam Carter, RAMI NU, B.K. & \ucd5c\ubcf4\uce74\ub3c4",
-        "url": "https://music.apple.com/us/album/highlight/1569293222?i=1569293225",
-        "playParams": {
-          "id": "1569293225",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Highlight",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fc/71/e7/fc71e787-03ed-fd21-34df-c440f2db7185/mzaf_10859548693393170009.plus.aac.p.m4a"
           }
         ],
         "artistName": "IZ*ONE"
@@ -369,11 +468,11 @@
           "textColor4": "763042"
         },
         "composerName": "MosPick",
-        "url": "https://music.apple.com/us/album/secret-story-of-the-swan/1569282878?i=1569282884",
         "playParams": {
           "id": "1569282884",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/secret-story-of-the-swan/1569282878?i=1569282884",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -412,11 +511,11 @@
           "textColor4": "bea4ac"
         },
         "composerName": "kz, B.O., F.A.B., Nthonius, \uc81c\uc778\uc2a4 & \uc9c0\uc608\uc900",
-        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "playParams": {
           "id": "1569286889",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -455,11 +554,11 @@
           "textColor4": "415244"
         },
         "composerName": "Choi Hyun Joon & \uae40\uc2b9\uc218",
-        "url": "https://music.apple.com/us/album/violeta/1569293222?i=1569293224",
         "playParams": {
           "id": "1569293224",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/violeta/1569293222?i=1569293224",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -498,14 +597,14 @@
           "textColor4": "67452d"
         },
         "composerName": "Choi Hyun Joon, \uae40\uc2b9\uc218, \uc11c\uc9c0\uc74c & Ko Hyunjung",
-        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "playParams": {
           "id": "1569281734",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FIESTA",
         "previews": [
           {
@@ -541,14 +640,14 @@
           "textColor4": "3e4453"
         },
         "composerName": "MosPick",
-        "url": "https://music.apple.com/us/album/la-vie-en-rose/1569280525?i=1569280531",
         "playParams": {
           "id": "1569280531",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/la-vie-en-rose/1569280525?i=1569280531",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "La Vie en Rose",
         "previews": [
           {
@@ -584,11 +683,11 @@
           "textColor4": "55212d"
         },
         "composerName": "Hirotaka Hayakawa & Belex",
-        "url": "https://music.apple.com/us/album/suki-ni-nacchaudarou-iz-one-version/1533391521?i=1533391528",
         "playParams": {
           "id": "1533391528",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/suki-ni-nacchaudarou-iz-one-version/1533391521?i=1533391528",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -626,14 +725,14 @@
           "textColor3": "2b2223",
           "textColor4": "3c2e30"
         },
-        "url": "https://music.apple.com/us/album/celebrity/1560113132?i=1560113348",
         "playParams": {
           "id": "1560113348",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/celebrity/1560113132?i=1560113348",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Celebrity",
         "previews": [
           {
@@ -668,14 +767,14 @@
           "textColor3": "cbcbcb",
           "textColor4": "c4afae"
         },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "playParams": {
           "id": "1670327199",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rising",
         "previews": [
           {
@@ -711,14 +810,14 @@
           "textColor3": "3c332d",
           "textColor4": "6f4a38"
         },
-        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "playParams": {
           "id": "1594292084",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/oort-cloud/1594292081?i=1594292084",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Oort Cloud",
         "previews": [
           {
@@ -754,14 +853,14 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Spicy",
         "previews": [
           {
@@ -797,11 +896,11 @@
           "textColor3": "ecaccd",
           "textColor4": "ec8cd8"
         },
-        "url": "https://music.apple.com/us/album/as-if-its-your-last/1251249729?i=1251249891",
         "playParams": {
           "id": "1251249891",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/as-if-its-your-last/1251249729?i=1251249891",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -840,14 +939,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I AM",
         "previews": [
           {
@@ -883,14 +982,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queencard",
         "previews": [
           {
@@ -925,11 +1024,11 @@
           "textColor4": "263a31"
         },
         "composerName": "Dan Smyers, Jason Boyd, Jessie Jo Dillon, Jordan Reynolds, Justin Bieber & Shay Mooney",
-        "url": "https://music.apple.com/us/album/10-000-hours/1481229016?i=1481229017",
         "playParams": {
           "id": "1481229017",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/10-000-hours/1481229016?i=1481229017",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -968,11 +1067,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Geek Boy Al Swettenham, Kyler Niko & Paulina \u201cPAU\u201d Cerrilla",
-        "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
         "playParams": {
           "id": "1685400191",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1011,11 +1110,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1053,11 +1152,11 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1096,14 +1195,14 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -1139,11 +1238,11 @@
           "textColor4": "cd6091"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "playParams": {
           "id": "1677260541",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1154,135 +1253,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1682502472",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682502472",
-      "attributes": {
-        "albumName": "UNFORGIVEN",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "2023-05-01",
-        "durationInMillis": 182149,
-        "isrc": "USA2P2310663",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "440619",
-          "textColor2": "51091c",
-          "textColor3": "6a3847",
-          "textColor4": "733a4a"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
-        "playParams": {
-          "id": "1682502472",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "UNFORGIVEN",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b1/ef/f3/b1eff322-6a89-9937-94e2-1264f3afc208/mzaf_15156871924830711525.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM & Nile Rodgers"
-      }
-    },
-    {
-      "id": "1682502483",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682502483",
-      "attributes": {
-        "albumName": "UNFORGIVEN",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 10,
-        "releaseDate": "2023-05-01",
-        "durationInMillis": 185539,
-        "isrc": "USA2P2310665",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "440619",
-          "textColor2": "51091c",
-          "textColor3": "6a3847",
-          "textColor4": "733a4a"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
-        "playParams": {
-          "id": "1682502483",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/8c/c7/838cc7cc-e9e8-799d-e3db-16d893a08461/mzaf_1148336731883147937.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1516624312",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1516624312",
-      "attributes": {
-        "albumName": "CATNIP - EP",
-        "genreNames": [
-          "Korean Indie",
-          "Music",
-          "Alternative"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-05-17",
-        "durationInMillis": 245280,
-        "isrc": "KRNAR1702870",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/cc/3b/2f/cc3b2fee-73ce-9417-403c-c23d917f0bda/195081744681.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e68e76",
-          "textColor1": "030000",
-          "textColor2": "241f1e",
-          "textColor3": "301d18",
-          "textColor4": "4b352f"
-        },
-        "composerName": "Zee, Jeong Dayong & Oh Juhwan",
-        "url": "https://music.apple.com/us/album/grace/1516624305?i=1516624312",
-        "playParams": {
-          "id": "1516624312",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Grace",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/92/8e/3b/928e3ba1-cbe5-3718-0ae8-13cb7f2a6b00/mzaf_15829799420734401775.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "ADOY"
       }
     }
   ]
