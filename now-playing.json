@@ -2,24 +2,240 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1475748929",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1475748929",
+      "attributes": {
+        "albumName": "Pink Punch - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 60742,
+        "releaseDate": "2019-08-07",
+        "isrc": "KRA381903829",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d1/a7/35/d1a73572-079c-20d5-12c9-1c4bc4f7996f/cover-.jpg/{w}x{h}bb.jpg",
+          "bgColor": "9a4566",
+          "textColor1": "ffffff",
+          "textColor2": "f8e95e",
+          "textColor3": "ead9e0",
+          "textColor4": "e5c85f"
+        },
+        "url": "https://music.apple.com/us/album/pink-punch/1475748926?i=1475748929",
+        "playParams": {
+          "id": "1475748929",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Pink Punch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7d/47/51/7d4751ac-672a-463f-a464-91fa6afe762f/mzaf_2122909637084825780.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Rocket Punch"
+      }
+    },
+    {
+      "id": "1656336322",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1656336322",
+      "attributes": {
+        "albumName": "MOVE AGAIN - EP",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-11-29",
+        "durationInMillis": 178360,
+        "isrc": "KSA012214903",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/1d/81/591d81e5-b69b-11c6-683c-a2b35e4a38f8/8809912843864.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "323232",
+          "textColor3": "333333",
+          "textColor4": "5b5b5b"
+        },
+        "composerName": "Adrienne Ben Haim, Brandon, Anton Goransson, Isabella Sjostrand, JY & Kim Boa",
+        "url": "https://music.apple.com/us/album/when-i-move/1656336318?i=1656336322",
+        "playParams": {
+          "id": "1656336322",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "WHEN I MOVE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/15/20/0a/15200a76-062a-e442-0591-6e3692bb70f5/mzaf_18326074894565672491.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "KARA"
+      }
+    },
+    {
+      "id": "1470921588",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1470921588",
+      "attributes": {
+        "albumName": "Fever Season",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-07-01",
+        "durationInMillis": 214293,
+        "isrc": "KRA381903439",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d1/52/29/d152292a-05cc-556d-d2d8-5ec24fe73dd0/cover-_GFRIEND.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ebdcc7",
+          "textColor2": "e9b888",
+          "textColor3": "bcb09f",
+          "textColor4": "ba936d"
+        },
+        "url": "https://music.apple.com/us/album/fever/1470921587?i=1470921588",
+        "playParams": {
+          "id": "1470921588",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Fever",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/f9/d3/44f9d30a-e83e-0925-3562-71a84856ceba/mzaf_14745183684215200699.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "GFRIEND"
+      }
+    },
+    {
+      "id": "1605587715",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1605587715",
+      "attributes": {
+        "albumName": "NATURE WORLD: CODE M",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-06-17",
+        "durationInMillis": 211373,
+        "isrc": "KRF582000001",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/97/f4/11/97f411cd-1f6f-63c2-bf89-9358fd94d8e3/8809704415712_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "001a28",
+          "textColor1": "5cbedd",
+          "textColor2": "36b4cf",
+          "textColor3": "499db8",
+          "textColor4": "2b95ad"
+        },
+        "composerName": "Kush, \ud654\uc774\ud2b899, \uc774\ub2e8\uc606\ucc28\uae30, VVN & De view",
+        "url": "https://music.apple.com/us/album/girls/1605587710?i=1605587715",
+        "playParams": {
+          "id": "1605587715",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Girls",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e5/af/fe/e5affea9-280a-b401-1d2d-582910276a31/mzaf_1740058977417450506.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NATURE"
+      }
+    },
+    {
+      "id": "1628492606",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1628492606",
+      "attributes": {
+        "albumName": "Summer Special [Flip That] - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 177373,
+        "releaseDate": "2022-06-20",
+        "isrc": "KRA252201148",
+        "artwork": {
+          "width": 2000,
+          "height": 2000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/14/dc/41/14dc4183-1b00-9196-d9c2-8b5841c940ae/5054197200588.jpg/{w}x{h}bb.jpg",
+          "bgColor": "041b07",
+          "textColor1": "efe2fb",
+          "textColor2": "e8d1d0",
+          "textColor3": "c0baca",
+          "textColor4": "baaca7"
+        },
+        "composerName": "Lee Su Bin, Linemaster & Sure Kim",
+        "url": "https://music.apple.com/us/album/flip-that/1628492601?i=1628492606",
+        "playParams": {
+          "id": "1628492606",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Flip That",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5f/9f/7a/5f9f7a3c-ea40-f944-6be6-0ec2845864ec/mzaf_4083453423177043111.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LOONA"
+      }
+    },
+    {
       "id": "i.GEGNBJmTPDMx3R9",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.GEGNBJmTPDMx3R9",
       "attributes": {
-        "discNumber": 1,
         "albumName": "All Mine",
+        "discNumber": 1,
         "genreNames": [
           "Electronica"
         ],
-        "hasLyrics": false,
         "trackNumber": 1,
+        "hasLyrics": false,
         "durationInMillis": 203885,
         "name": "All Mine",
         "artistName": "\uc5d0\ud504\uc5d1\uc2a4",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/58/5e/f5/585ef59c-20d8-17d2-c7f7-7ddfab87fd11/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230607T203444Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230607%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=e70ee1e60abb74f9a31731dd517bdb34c09d9e87201e56bf91bf3be43c6d6c4e"
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/58/5e/f5/585ef59c-20d8-17d2-c7f7-7ddfab87fd11/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230607T204306Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230607%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=0d0375a9c94f83d8ec0c0f0655c4e938b6be0c3201d127010f2316a1f2d70d87"
         },
         "playParams": {
           "id": "i.GEGNBJmTPDMx3R9",
@@ -47,7 +263,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/72/3f/a1/723fa1cf-218e-28de-870b-41efa43ab5c9/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230607T203444Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230607%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=69183460cee193554bab22858c70b964cbf59f6331e4cd6dca2237bcdb67d39c"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/72/3f/a1/723fa1cf-218e-28de-870b-41efa43ab5c9/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230607T204306Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230607%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=b6ca2ebf55d5fcdab92e12ff9f741b4b104320512406a1272962446432ad2059"
         },
         "playParams": {
           "id": "i.XMD63pzFvEldPV2",
@@ -62,8 +278,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.4YBeVeWi2Vvp1BD",
       "attributes": {
-        "albumName": "Idol - Single",
         "discNumber": 0,
+        "albumName": "Idol - Single",
         "genreNames": [
           ""
         ],
@@ -105,14 +321,14 @@
           "textColor4": "d6d4d1"
         },
         "composerName": "Sam Smith & James Napier",
+        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "playParams": {
           "id": "1536993857",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "I'm Not The Only One",
         "previews": [
           {
@@ -133,8 +349,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -147,14 +363,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -196,8 +412,8 @@
         },
         "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super",
         "previews": [
           {
@@ -239,8 +455,8 @@
         },
         "url": "https://music.apple.com/us/album/knock/1680682243?i=1680682439",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "KNOCK",
         "previews": [
           {
@@ -282,8 +498,8 @@
         },
         "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -305,8 +521,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 182149,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -319,14 +535,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -348,8 +564,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -362,14 +578,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -391,8 +607,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-10",
         "durationInMillis": 183853,
+        "releaseDate": "2023-04-10",
         "isrc": "QM4TX2337764",
         "artwork": {
           "width": 3000,
@@ -405,14 +621,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I AM",
         "previews": [
           {
@@ -434,8 +650,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 190947,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300006",
         "artwork": {
           "width": 1400,
@@ -448,14 +664,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Peter Pan",
         "previews": [
           {
@@ -476,8 +692,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213234,
         "releaseDate": "2023-05-26",
+        "durationInMillis": 213234,
         "isrc": "JPP302300335",
         "artwork": {
           "width": 3000,
@@ -496,8 +712,8 @@
         },
         "url": "https://music.apple.com/us/album/idol/1688334284?i=1688334537",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -519,8 +735,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-05-31",
         "durationInMillis": 133385,
+        "releaseDate": "2023-05-31",
         "isrc": "QZNJV2303945",
         "artwork": {
           "width": 4000,
@@ -533,14 +749,14 @@
           "textColor4": "d4d4d4"
         },
         "composerName": "Ethan Low, Nico Tripodi & Alexander Stojanovic",
+        "url": "https://music.apple.com/us/album/nwyk/1686530555?i=1686530556",
         "playParams": {
           "id": "1686530556",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nwyk/1686530555?i=1686530556",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "NWYK",
         "previews": [
           {
@@ -575,14 +791,14 @@
           "textColor4": "3e3e3c"
         },
         "composerName": "Alina Smith, Annalise Morelli & Gisselle Acevedo",
+        "url": "https://music.apple.com/us/album/cry-wolf/1687202240?i=1687202241",
         "playParams": {
           "id": "1687202241",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cry-wolf/1687202240?i=1687202241",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cry Wolf",
         "previews": [
           {
@@ -617,14 +833,14 @@
           "textColor4": "8da57e"
         },
         "composerName": "Emile Ghantous, Leslie Johnson, Megan Elizabeth Donnelly, RYAN S. JHUN & Sofia Quinn",
+        "url": "https://music.apple.com/us/album/lavender/1689369014?i=1689369321",
         "playParams": {
           "id": "1689369321",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/lavender/1689369014?i=1689369321",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Lavender",
         "previews": [
           {
@@ -660,11 +876,11 @@
           "textColor3": "293430",
           "textColor4": "2e3433"
         },
+        "url": "https://music.apple.com/us/album/120bpm/1689554511?i=1689554515",
         "playParams": {
           "id": "1689554515",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/120bpm/1689554511?i=1689554515",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -702,11 +918,11 @@
           "textColor3": "c57a9c",
           "textColor4": "ce6191"
         },
+        "url": "https://music.apple.com/us/album/happiness-index/1678705517?i=1678705518",
         "playParams": {
           "id": "1678705518",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/happiness-index/1678705517?i=1678705518",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -744,11 +960,11 @@
           "textColor4": "d0d2d4"
         },
         "composerName": "Maude Latour & Michael Adubato",
+        "url": "https://music.apple.com/us/album/i-am-not-the-sun/1682889019?i=1682889031",
         "playParams": {
           "id": "1682889031",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-am-not-the-sun/1682889019?i=1682889031",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -786,11 +1002,11 @@
           "textColor4": "3b4853"
         },
         "composerName": "GAYLE, JP Saxe & Ryan Marrone",
+        "url": "https://music.apple.com/us/album/dont-call-me-pretty/1690273657?i=1690274313",
         "playParams": {
           "id": "1690274313",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dont-call-me-pretty/1690273657?i=1690274313",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -800,8 +1016,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/7f/a3/247fa3c0-b104-78cc-9d06-bf90fe8bc944/mzaf_9599237326953336411.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "GAYLE"
+        "artistName": "GAYLE",
+        "contentRating": "explicit"
       }
     },
     {
@@ -835,8 +1051,8 @@
         },
         "url": "https://music.apple.com/us/album/dizzy/1682441296?i=1682441297",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "DIZZY",
         "previews": [
           {
@@ -858,8 +1074,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-23",
         "durationInMillis": 157462,
+        "releaseDate": "2023-04-23",
         "isrc": "KRA382301960",
         "artwork": {
           "width": 3000,
@@ -871,14 +1087,14 @@
           "textColor3": "3f3f5b",
           "textColor4": "494744"
         },
+        "url": "https://music.apple.com/us/album/nolza/1683092667?i=1683092669",
         "playParams": {
           "id": "1683092669",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nolza/1683092667?i=1683092669",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nolza",
         "previews": [
           {
@@ -899,8 +1115,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2023-04-17",
         "durationInMillis": 212477,
+        "releaseDate": "2023-04-17",
         "isrc": "KRC712300037",
         "artwork": {
           "width": 1400,
@@ -913,14 +1129,14 @@
           "textColor4": "cb5614"
         },
         "composerName": "Spray & Hoody",
+        "url": "https://music.apple.com/us/album/saturday-with-hoody/1682825798?i=1682826055",
         "playParams": {
           "id": "1682826055",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/saturday-with-hoody/1682825798?i=1682826055",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Saturday (with Hoody)",
         "previews": [
           {
@@ -941,8 +1157,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-05-07",
         "durationInMillis": 169000,
+        "releaseDate": "2023-05-07",
         "isrc": "JPPO02301278",
         "artwork": {
           "width": 3000,
@@ -955,14 +1171,14 @@
           "textColor4": "9c82bd"
         },
         "composerName": "NOA & Sunny Boy",
+        "url": "https://music.apple.com/us/album/burn/1684646904?i=1684647121",
         "playParams": {
           "id": "1684647121",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/burn/1684646904?i=1684647121",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "BURN",
         "previews": [
           {
@@ -1003,8 +1219,8 @@
         },
         "url": "https://music.apple.com/us/album/clione-feat-sion/1683455940?i=1683455941",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "CLIONE (feat. Sion)",
         "previews": [
           {
@@ -1012,220 +1228,6 @@
           }
         ],
         "artistName": "MILLIC"
-      }
-    },
-    {
-      "id": "1682430730",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682430730",
-      "attributes": {
-        "albumName": "Macarena - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-04-24",
-        "durationInMillis": 189480,
-        "isrc": "KRMIM2345740",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/df/47/cb/df47cb0d-7c92-830b-cfd0-b4fff5dea614/191953279527.jpg/{w}x{h}bb.jpg",
-          "bgColor": "231f20",
-          "textColor1": "f0f3fc",
-          "textColor2": "f65026",
-          "textColor3": "c7c8d0",
-          "textColor4": "cc4625"
-        },
-        "composerName": "Roydo, JUNG1, QM & Konquest",
-        "playParams": {
-          "id": "1682430730",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/macarena/1682430727?i=1682430730",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Macarena",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3c/9d/ed/3c9dedb4-9231-38b8-3abb-cc32be7bf3ee/mzaf_6695625772728205251.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BLITZERS"
-      }
-    },
-    {
-      "id": "1682582674",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682582674",
-      "attributes": {
-        "albumName": "Down to Earth - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 6,
-        "durationInMillis": 225630,
-        "releaseDate": "2023-04-25",
-        "isrc": "KSA002300726",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/72/22/a6/7222a6eb-49bd-48bf-6432-3a16cadfb006/23UMGIM41862.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "1b1600",
-          "textColor1": "efd5b8",
-          "textColor2": "8ac8d5",
-          "textColor3": "c4ae93",
-          "textColor4": "74a4aa"
-        },
-        "composerName": "TAEYANG, Bryan Chase, Kush, Vince, NOS, R. Tee & VVN",
-        "playParams": {
-          "id": "1682582674",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/nightfall-feat-bryan-chase/1682582664?i=1682582674",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Nightfall (feat. Bryan Chase)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/46/cc/12/46cc1216-7d27-6b83-fe67-c4cb87299620/mzaf_10657028859393606740.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TAEYANG"
-      }
-    },
-    {
-      "id": "1679270115",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679270115",
-      "attributes": {
-        "albumName": "LOVESTRUCK! - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 5,
-        "durationInMillis": 178173,
-        "releaseDate": "2023-04-10",
-        "isrc": "KRA492300258",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/65/b2/ff/65b2ff78-b9cc-c6ff-fee3-e2fcc1653a9a/888272114973_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "c8e2f9",
-          "textColor1": "430c13",
-          "textColor2": "4e1b1f",
-          "textColor3": "5e3741",
-          "textColor4": "67434b"
-        },
-        "composerName": "Logos & Livy",
-        "playParams": {
-          "id": "1679270115",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/happy-ending/1679270091?i=1679270115",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Happy Ending",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/12/81/76/128176d9-07d2-4b3b-6f64-a3b4d4b62496/mzaf_16693329741434563070.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Kep1er"
-      }
-    },
-    {
-      "id": "1678498909",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1678498909",
-      "attributes": {
-        "albumName": "the Billage of perception: chapter three - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-03-28",
-        "durationInMillis": 203108,
-        "isrc": "KRA382301434",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/1a/67/18/1a67182d-bfcd-b8b0-c163-bb0828c218fb/cover_KM0017021_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "06001e",
-          "textColor1": "60c0e0",
-          "textColor2": "38acda",
-          "textColor3": "4d99b9",
-          "textColor4": "2e89b4"
-        },
-        "playParams": {
-          "id": "1678498909",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/eunoia/1678498906?i=1678498909",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "EUNOIA",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5e/90/16/5e9016b4-3a6a-ab4c-33ab-4b855dbc1412/mzaf_10673993930063651630.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Billlie"
-      }
-    },
-    {
-      "id": "1684906958",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1684906958",
-      "attributes": {
-        "albumName": "Welcome To My Paradise - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 195443,
-        "releaseDate": "2023-05-06",
-        "isrc": "JPB602302152",
-        "artwork": {
-          "width": 2400,
-          "height": 2400,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/e5/4a/bd/e54abd47-42bf-0f5d-22a0-1ba7a14bf4dd/ANTCD-A0000010104.jpg/{w}x{h}bb.jpg",
-          "bgColor": "286864",
-          "textColor1": "fefefc",
-          "textColor2": "3dffff",
-          "textColor3": "d3e0de",
-          "textColor4": "38e0e0"
-        },
-        "composerName": "TOYO, Avenue 52, SQVARE & H.Toyosaki",
-        "playParams": {
-          "id": "1684906958",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/welcome-to-my-paradise/1684906956?i=1684906958",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Welcome To My Paradise",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0e/c5/85/0ec585ac-ad97-04d7-3b73-6403c9f017ca/mzaf_13355185874224185333.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "WayV"
       }
     }
   ]
