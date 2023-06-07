@@ -2,6 +2,85 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.GEGNBJmTPDMx3R9",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.GEGNBJmTPDMx3R9",
+      "attributes": {
+        "discNumber": 1,
+        "albumName": "All Mine",
+        "genreNames": [
+          "Electronica"
+        ],
+        "hasLyrics": false,
+        "trackNumber": 1,
+        "durationInMillis": 203885,
+        "name": "All Mine",
+        "artistName": "\uc5d0\ud504\uc5d1\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/apple-sg-us-std-000007/58/5e/f5/585ef59c-20d8-17d2-c7f7-7ddfab87fd11/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230607T203444Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230607%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=e70ee1e60abb74f9a31731dd517bdb34c09d9e87201e56bf91bf3be43c6d6c4e"
+        },
+        "playParams": {
+          "id": "i.GEGNBJmTPDMx3R9",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "i.XMD63pzFvEldPV2",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.XMD63pzFvEldPV2",
+      "attributes": {
+        "albumName": "PINK OCEAN",
+        "discNumber": 1,
+        "genreNames": [
+          "Dance"
+        ],
+        "hasLyrics": false,
+        "trackNumber": 5,
+        "durationInMillis": 223608,
+        "name": "\ud55c \ubc1c\uc9dd \ub450 \ubc1c\uc9dd",
+        "artistName": "\uc624\ub9c8\uc774\uac78",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/72/3f/a1/723fa1cf-218e-28de-870b-41efa43ab5c9/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230607T203444Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230607%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=69183460cee193554bab22858c70b964cbf59f6331e4cd6dca2237bcdb67d39c"
+        },
+        "playParams": {
+          "id": "i.XMD63pzFvEldPV2",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "i.4YBeVeWi2Vvp1BD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.4YBeVeWi2Vvp1BD",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 213288,
+        "name": "Idol (Inst.)",
+        "artistName": "YOASOBI",
+        "playParams": {
+          "id": "i.4YBeVeWi2Vvp1BD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1536993857",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1536993857",
@@ -12,8 +91,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2014-05-26",
         "durationInMillis": 239317,
+        "releaseDate": "2014-05-26",
         "isrc": "GBUM71308836",
         "artwork": {
           "width": 3000,
@@ -32,8 +111,8 @@
         },
         "url": "https://music.apple.com/us/album/im-not-the-only-one/1536993568?i=1536993857",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "I'm Not The Only One",
         "previews": [
           {
@@ -54,8 +133,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 213234,
         "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -68,14 +147,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -97,8 +176,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 200387,
         "releaseDate": "2023-04-24",
+        "durationInMillis": 200387,
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -111,14 +190,14 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -140,8 +219,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 173080,
         "releaseDate": "2023-04-12",
+        "durationInMillis": 173080,
         "isrc": "KRMIM2339979",
         "artwork": {
           "width": 1400,
@@ -154,14 +233,14 @@
           "textColor4": "773d3e"
         },
         "composerName": "\uc11c\uc6a9\ubc30 & Cosmic Girl",
-        "url": "https://music.apple.com/us/album/knock/1680682243?i=1680682439",
         "playParams": {
           "id": "1680682439",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/knock/1680682243?i=1680682439",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "KNOCK",
         "previews": [
           {
@@ -203,8 +282,8 @@
         },
         "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -246,8 +325,8 @@
         },
         "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -269,8 +348,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "durationInMillis": 185539,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 185539,
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -283,14 +362,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -332,8 +411,8 @@
         },
         "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I AM",
         "previews": [
           {
@@ -375,8 +454,8 @@
         },
         "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Peter Pan",
         "previews": [
           {
@@ -397,8 +476,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-05-26",
         "durationInMillis": 213234,
+        "releaseDate": "2023-05-26",
         "isrc": "JPP302300335",
         "artwork": {
           "width": 3000,
@@ -417,8 +496,8 @@
         },
         "url": "https://music.apple.com/us/album/idol/1688334284?i=1688334537",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -460,8 +539,8 @@
         },
         "url": "https://music.apple.com/us/album/nwyk/1686530555?i=1686530556",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "NWYK",
         "previews": [
           {
@@ -496,14 +575,14 @@
           "textColor4": "3e3e3c"
         },
         "composerName": "Alina Smith, Annalise Morelli & Gisselle Acevedo",
-        "url": "https://music.apple.com/us/album/cry-wolf/1687202240?i=1687202241",
         "playParams": {
           "id": "1687202241",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cry-wolf/1687202240?i=1687202241",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cry Wolf",
         "previews": [
           {
@@ -538,14 +617,14 @@
           "textColor4": "8da57e"
         },
         "composerName": "Emile Ghantous, Leslie Johnson, Megan Elizabeth Donnelly, RYAN S. JHUN & Sofia Quinn",
-        "url": "https://music.apple.com/us/album/lavender/1689369014?i=1689369321",
         "playParams": {
           "id": "1689369321",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/lavender/1689369014?i=1689369321",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Lavender",
         "previews": [
           {
@@ -568,8 +647,8 @@
           "Rock"
         ],
         "trackNumber": 2,
-        "durationInMillis": 198987,
         "releaseDate": "2023-05-26",
+        "durationInMillis": 198987,
         "isrc": "KRA382302554",
         "artwork": {
           "width": 3000,
@@ -581,14 +660,14 @@
           "textColor3": "293430",
           "textColor4": "2e3433"
         },
-        "url": "https://music.apple.com/us/album/120bpm/1689554511?i=1689554515",
         "playParams": {
           "id": "1689554515",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/120bpm/1689554511?i=1689554515",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "120BPM",
         "previews": [
           {
@@ -629,8 +708,8 @@
         },
         "url": "https://music.apple.com/us/album/happiness-index/1678705517?i=1678705518",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Happiness index",
         "previews": [
           {
@@ -671,8 +750,8 @@
         },
         "url": "https://music.apple.com/us/album/i-am-not-the-sun/1682889019?i=1682889031",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "I am not the sun",
         "previews": [
           {
@@ -713,16 +792,16 @@
         },
         "url": "https://music.apple.com/us/album/dont-call-me-pretty/1690273657?i=1690274313",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "don\u2019t call me pretty",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/7f/a3/247fa3c0-b104-78cc-9d06-bf90fe8bc944/mzaf_9599237326953336411.plus.aac.p.m4a"
           }
         ],
-        "artistName": "GAYLE",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "GAYLE"
       }
     },
     {
@@ -756,8 +835,8 @@
         },
         "url": "https://music.apple.com/us/album/dizzy/1682441296?i=1682441297",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "DIZZY",
         "previews": [
           {
@@ -779,8 +858,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 157462,
         "releaseDate": "2023-04-23",
+        "durationInMillis": 157462,
         "isrc": "KRA382301960",
         "artwork": {
           "width": 3000,
@@ -792,14 +871,14 @@
           "textColor3": "3f3f5b",
           "textColor4": "494744"
         },
-        "url": "https://music.apple.com/us/album/nolza/1683092667?i=1683092669",
         "playParams": {
           "id": "1683092669",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nolza/1683092667?i=1683092669",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Nolza",
         "previews": [
           {
@@ -820,8 +899,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 212477,
         "releaseDate": "2023-04-17",
+        "durationInMillis": 212477,
         "isrc": "KRC712300037",
         "artwork": {
           "width": 1400,
@@ -834,14 +913,14 @@
           "textColor4": "cb5614"
         },
         "composerName": "Spray & Hoody",
-        "url": "https://music.apple.com/us/album/saturday-with-hoody/1682825798?i=1682826055",
         "playParams": {
           "id": "1682826055",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/saturday-with-hoody/1682825798?i=1682826055",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Saturday (with Hoody)",
         "previews": [
           {
@@ -862,8 +941,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 169000,
         "releaseDate": "2023-05-07",
+        "durationInMillis": 169000,
         "isrc": "JPPO02301278",
         "artwork": {
           "width": 3000,
@@ -876,14 +955,14 @@
           "textColor4": "9c82bd"
         },
         "composerName": "NOA & Sunny Boy",
-        "url": "https://music.apple.com/us/album/burn/1684646904?i=1684647121",
         "playParams": {
           "id": "1684647121",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/burn/1684646904?i=1684647121",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "BURN",
         "previews": [
           {
@@ -904,8 +983,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 188718,
         "releaseDate": "2023-04-24",
+        "durationInMillis": 188718,
         "isrc": "KRA252300829",
         "artwork": {
           "width": 3000,
@@ -918,14 +997,14 @@
           "textColor4": "e981ab"
         },
         "composerName": "MILLIC & Sion",
-        "url": "https://music.apple.com/us/album/clione-feat-sion/1683455940?i=1683455941",
         "playParams": {
           "id": "1683455941",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/clione-feat-sion/1683455940?i=1683455941",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "CLIONE (feat. Sion)",
         "previews": [
           {
@@ -947,8 +1026,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 189480,
         "releaseDate": "2023-04-24",
+        "durationInMillis": 189480,
         "isrc": "KRMIM2345740",
         "artwork": {
           "width": 3000,
@@ -961,14 +1040,14 @@
           "textColor4": "cc4625"
         },
         "composerName": "Roydo, JUNG1, QM & Konquest",
-        "url": "https://music.apple.com/us/album/macarena/1682430727?i=1682430730",
         "playParams": {
           "id": "1682430730",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/macarena/1682430727?i=1682430730",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Macarena",
         "previews": [
           {
@@ -1004,14 +1083,14 @@
           "textColor4": "74a4aa"
         },
         "composerName": "TAEYANG, Bryan Chase, Kush, Vince, NOS, R. Tee & VVN",
-        "url": "https://music.apple.com/us/album/nightfall-feat-bryan-chase/1682582664?i=1682582674",
         "playParams": {
           "id": "1682582674",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nightfall-feat-bryan-chase/1682582664?i=1682582674",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Nightfall (feat. Bryan Chase)",
         "previews": [
           {
@@ -1047,14 +1126,14 @@
           "textColor4": "67434b"
         },
         "composerName": "Logos & Livy",
-        "url": "https://music.apple.com/us/album/happy-ending/1679270091?i=1679270115",
         "playParams": {
           "id": "1679270115",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/happy-ending/1679270091?i=1679270115",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Happy Ending",
         "previews": [
           {
@@ -1095,8 +1174,8 @@
         },
         "url": "https://music.apple.com/us/album/eunoia/1678498906?i=1678498909",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "EUNOIA",
         "previews": [
           {
@@ -1118,8 +1197,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-05-06",
         "durationInMillis": 195443,
+        "releaseDate": "2023-05-06",
         "isrc": "JPB602302152",
         "artwork": {
           "width": 2400,
@@ -1138,8 +1217,8 @@
         },
         "url": "https://music.apple.com/us/album/welcome-to-my-paradise/1684906956?i=1684906958",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Welcome To My Paradise",
         "previews": [
           {
@@ -1147,133 +1226,6 @@
           }
         ],
         "artistName": "WayV"
-      }
-    },
-    {
-      "id": "1681517764",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1681517764",
-      "attributes": {
-        "albumName": "Love.zip - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 163733,
-        "releaseDate": "2023-04-16",
-        "isrc": "KRA922300005",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/1b/72/9d/1b729db0-a35d-f024-182f-c3ee3e12b27c/191953275475.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e5e2ed",
-          "textColor1": "100105",
-          "textColor2": "382d2d",
-          "textColor3": "3b2e34",
-          "textColor4": "5b5154"
-        },
-        "composerName": "Jiyoung Ahn & Vanilla Man",
-        "url": "https://music.apple.com/us/album/rome/1681517761?i=1681517764",
-        "playParams": {
-          "id": "1681517764",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Rome",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/66/ad/bb/66adbbdd-b86c-0157-1b4e-52be2c62410b/mzaf_13883523168755720898.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "BOL4"
-      }
-    },
-    {
-      "id": "1685522869",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1685522869",
-      "attributes": {
-        "albumName": "+(KR)ystal Eyes <AESTHETIC> - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-05-04",
-        "durationInMillis": 171840,
-        "isrc": "KRA382302091",
-        "artwork": {
-          "width": 3544,
-          "height": 3544,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/c5/1c/90/c51c90d6-c0cd-074f-4cc0-53c2e0688ac1/8804775330384.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f7f7f7",
-          "textColor1": "0c0403",
-          "textColor2": "36261a",
-          "textColor3": "3b3534",
-          "textColor4": "5c5046"
-        },
-        "playParams": {
-          "id": "1685522869",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/cherry-talk/1685522867?i=1685522869",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Cherry Talk",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1e/69/4d/1e694dc5-5c6c-8e35-65d9-e52d9416bc00/mzaf_11239583561232144973.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "tripleS"
-      }
-    },
-    {
-      "id": "1687588567",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1687588567",
-      "attributes": {
-        "albumName": "Nagisa - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 226489,
-        "releaseDate": "2023-05-26",
-        "isrc": "JPPO02301237",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/d8/87/21/d887215f-545f-0515-2c4c-2d15675e44d5/23UMGIM40603.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "7bc2c8",
-          "textColor1": "231628",
-          "textColor2": "43180c",
-          "textColor3": "353948",
-          "textColor4": "4e3a31"
-        },
-        "composerName": "imase",
-        "url": "https://music.apple.com/us/album/nagisa/1687588550?i=1687588567",
-        "playParams": {
-          "id": "1687588567",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Nagisa",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/48/4f/67/484f6706-b205-b3de-cae1-d539ab83f8e0/mzaf_15610701190308370897.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "imase"
       }
     }
   ]
