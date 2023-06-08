@@ -2,6 +2,76 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.WmYQkggixo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 194760,
+        "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T233646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230608%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=06d032bd55b687ca3d52b25d9379f3426eca67de72a7cc5159bde32a7aa3647f"
+        },
+        "playParams": {
+          "id": "i.WmYQkggixo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1502627615",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1502627615",
+      "attributes": {
+        "albumName": "Earth Groove - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2016-11-15",
+        "durationInMillis": 267122,
+        "isrc": "IT0311600102",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "360900",
+          "textColor2": "601202",
+          "textColor3": "5e3a33",
+          "textColor4": "804134"
+        },
+        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
+        "playParams": {
+          "id": "1502627615",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Earth Groove (Extended Mix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vijay & Sofia & Notte"
+      }
+    },
+    {
       "id": "1679278167",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1679278167",
@@ -95,15 +165,15 @@
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 185448,
         "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
         "artistName": "\ub274\uc9c4\uc2a4",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T232808Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230608%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=c23cb0cdd8a1608efbdf9aec0bc025e757c462a70a9cdaaa220c051ac95d0538"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T233646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230608%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=6126aa6f782766537c3ab89f80275752d41f23d2eb2e647e5d88fb9e33c9de8b"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -197,76 +267,6 @@
           }
         ],
         "artistName": "Sembari +"
-      }
-    },
-    {
-      "id": "1502627615",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1502627615",
-      "attributes": {
-        "albumName": "Earth Groove - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2016-11-15",
-        "durationInMillis": 267122,
-        "isrc": "IT0311600102",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "360900",
-          "textColor2": "601202",
-          "textColor3": "5e3a33",
-          "textColor4": "804134"
-        },
-        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
-        "playParams": {
-          "id": "1502627615",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Earth Groove (Extended Mix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vijay & Sofia & Notte"
-      }
-    },
-    {
-      "id": "i.WmYQkggixo4rAzD",
-      "type": "library-songs",
-      "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
-      "attributes": {
-        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
-        "discNumber": 0,
-        "genreNames": [
-          ""
-        ],
-        "trackNumber": 0,
-        "hasLyrics": false,
-        "durationInMillis": 194760,
-        "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
-        "artistName": "\ub274\uc9c4\uc2a4",
-        "artwork": {
-          "width": null,
-          "height": null,
-          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T232808Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230608%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=cb965211e282fdd77ef12b5b4b9b5c6bc7a32398a46cf7f2ce8c3844fe7d1c30"
-        },
-        "playParams": {
-          "id": "i.WmYQkggixo4rAzD",
-          "kind": "song",
-          "isLibrary": true,
-          "reporting": false
-        }
       }
     },
     {
