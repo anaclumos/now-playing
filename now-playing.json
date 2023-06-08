@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1538159807",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1538159807",
+      "attributes": {
+        "albumName": "Among Us - Single",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Children's Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 90508,
+        "releaseDate": "2020-11-01",
+        "isrc": "QZNWQ2008975",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/63/89/f063894e-6842-c464-40da-e013d05fc42b/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "9d95fe",
+          "textColor1": "080610",
+          "textColor2": "2d1423",
+          "textColor3": "26223f",
+          "textColor4": "432e4e"
+        },
+        "composerName": "Dylan Maddison",
+        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
+        "playParams": {
+          "id": "1538159807",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Among Us",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/d9/59/45d959e6-f9ab-d7c5-1e33-7489ee1d3a88/mzaf_2952255833839043671.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sembari +"
+      }
+    },
+    {
       "id": "i.WmYQkggixo4rAzD",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
@@ -19,7 +62,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T233646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230608%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=06d032bd55b687ca3d52b25d9379f3426eca67de72a7cc5159bde32a7aa3647f"
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T234452Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230608%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=54a19292220af31fb5081d69a3b081c452ecb34a3bab5b53f55652fe1746044d"
         },
         "playParams": {
           "id": "i.WmYQkggixo4rAzD",
@@ -40,8 +83,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-11-15",
         "durationInMillis": 267122,
+        "releaseDate": "2016-11-15",
         "isrc": "IT0311600102",
         "artwork": {
           "width": 3000,
@@ -60,8 +103,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -82,8 +125,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -102,8 +145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -124,8 +167,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2013-09-18",
         "durationInMillis": 165606,
+        "releaseDate": "2013-09-18",
         "isrc": "ROROT1313101",
         "artwork": {
           "width": 1440,
@@ -144,8 +187,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -160,8 +203,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
       "attributes": {
-        "discNumber": 0,
         "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -173,7 +216,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T233646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230608%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=6126aa6f782766537c3ab89f80275752d41f23d2eb2e647e5d88fb9e33c9de8b"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T234452Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230608%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=eeb3a0732c7c68a2269cb5b5881ee78765c3aca25bd5b6d665ae59d096b21ac3"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -195,8 +238,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-07-26",
         "durationInMillis": 180843,
+        "releaseDate": "2019-07-26",
         "isrc": "NLE801900440",
         "artwork": {
           "width": 3000,
@@ -215,8 +258,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -224,49 +267,6 @@
           }
         ],
         "artistName": "Bakermat"
-      }
-    },
-    {
-      "id": "1538159807",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1538159807",
-      "attributes": {
-        "albumName": "Among Us - Single",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Children's Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-11-01",
-        "durationInMillis": 90508,
-        "isrc": "QZNWQ2008975",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/63/89/f063894e-6842-c464-40da-e013d05fc42b/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "9d95fe",
-          "textColor1": "080610",
-          "textColor2": "2d1423",
-          "textColor3": "26223f",
-          "textColor4": "432e4e"
-        },
-        "composerName": "Dylan Maddison",
-        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
-        "playParams": {
-          "id": "1538159807",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Among Us",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/d9/59/45d959e6-f9ab-d7c5-1e33-7489ee1d3a88/mzaf_2952255833839043671.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sembari +"
       }
     },
     {
@@ -280,8 +280,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-06-25",
         "durationInMillis": 230747,
+        "releaseDate": "2021-06-25",
         "isrc": "GBAHS2100318",
         "artwork": {
           "width": 4000,
@@ -300,8 +300,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Bad Habits",
         "previews": [
           {
@@ -323,8 +323,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 193413,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300147",
         "artwork": {
           "width": 4000,
@@ -343,8 +343,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Thirsty",
         "previews": [
           {
@@ -366,8 +366,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 190947,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300006",
         "artwork": {
           "width": 1400,
@@ -386,8 +386,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Peter Pan",
         "previews": [
           {
@@ -408,8 +408,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-04-14",
         "durationInMillis": 235241,
+        "releaseDate": "2017-04-14",
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 2500,
@@ -428,8 +428,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -451,8 +451,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-05-18",
         "durationInMillis": 147853,
+        "releaseDate": "2022-05-18",
         "isrc": "KRA382205088",
         "artwork": {
           "width": 3000,
@@ -470,8 +470,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -492,8 +492,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-02-21",
         "durationInMillis": 185003,
+        "releaseDate": "2022-02-21",
         "isrc": "VNA0R2000510",
         "artwork": {
           "width": 3000,
@@ -512,8 +512,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "See T\u00ecnh",
         "previews": [
           {
@@ -534,8 +534,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-05-05",
         "durationInMillis": 170159,
+        "releaseDate": "2022-05-05",
         "isrc": "VNA0R2000552",
         "artwork": {
           "width": 3000,
@@ -554,8 +554,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "See T\u00ecnh (Cukak Remix)",
         "previews": [
           {
@@ -576,8 +576,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-19",
         "durationInMillis": 210948,
+        "releaseDate": "2022-08-19",
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -596,8 +596,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "NIGHT DANCER",
         "previews": [
           {
@@ -619,8 +619,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-03-21",
         "durationInMillis": 291318,
+        "releaseDate": "2019-03-21",
         "isrc": "QZES51978188",
         "artwork": {
           "width": 3000,
@@ -639,8 +639,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baby Hotline",
         "previews": [
           {
@@ -661,8 +661,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2008-09-19",
         "durationInMillis": 238240,
+        "releaseDate": "2008-09-19",
         "isrc": "ATE610800080",
         "artwork": {
           "width": 1440,
@@ -681,8 +681,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Catgroove",
         "previews": [
           {
@@ -703,8 +703,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2010-07-23",
         "durationInMillis": 197507,
+        "releaseDate": "2010-07-23",
         "isrc": "ATE611000013",
         "artwork": {
           "width": 1440,
@@ -723,8 +723,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Booty Swing",
         "previews": [
           {
@@ -745,8 +745,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2010-07-23",
         "durationInMillis": 196507,
+        "releaseDate": "2010-07-23",
         "isrc": "ATE611000013",
         "artwork": {
           "width": 1440,
@@ -765,8 +765,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Booty Swing",
         "previews": [
           {
@@ -787,8 +787,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "releaseDate": "2009-03-20",
         "durationInMillis": 314867,
+        "releaseDate": "2009-03-20",
         "isrc": "ATE610800081",
         "artwork": {
           "width": 1440,
@@ -807,8 +807,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Monster",
         "previews": [
           {
@@ -829,8 +829,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-02-10",
         "durationInMillis": 224813,
+        "releaseDate": "2016-02-10",
         "isrc": "USRC11600201",
         "artwork": {
           "width": 1500,
@@ -849,8 +849,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheap Thrills (feat. Sean Paul)",
         "previews": [
           {
@@ -873,8 +873,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 7,
-        "releaseDate": "2017-04-21",
         "durationInMillis": 236189,
+        "releaseDate": "2017-04-21",
         "isrc": "KRA381700867",
         "artwork": {
           "width": 3000,
@@ -892,8 +892,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Full Stop",
         "previews": [
           {
@@ -914,8 +914,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-10-13",
         "durationInMillis": 177293,
+        "releaseDate": "2017-10-13",
         "isrc": "NLS3R1700019",
         "artwork": {
           "width": 3000,
@@ -934,8 +934,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Vertigo (feat. Caroline Pennell)",
         "previews": [
           {
@@ -956,8 +956,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2005-11-25",
         "durationInMillis": 245040,
+        "releaseDate": "2005-11-25",
         "isrc": "GB28K1100036",
         "artwork": {
           "width": 1500,
@@ -976,8 +976,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Titanium (feat. Sia)",
         "previews": [
           {
@@ -998,8 +998,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-08-04",
         "durationInMillis": 193225,
+        "releaseDate": "2017-08-04",
         "isrc": "IT0311700128",
         "artwork": {
           "width": 3000,
@@ -1018,8 +1018,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "World of Colors (feat. Notte)",
         "previews": [
           {
@@ -1041,8 +1041,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-05-06",
         "durationInMillis": 208329,
+        "releaseDate": "2020-05-06",
         "isrc": "CH6542053163",
         "artwork": {
           "width": 3000,
@@ -1061,8 +1061,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Hold Me Back",
         "previews": [
           {
@@ -1083,8 +1083,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2017-05-12",
         "durationInMillis": 258508,
+        "releaseDate": "2017-05-12",
         "isrc": "IT0311700053",
         "artwork": {
           "width": 3000,
@@ -1103,8 +1103,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Falling Down (feat. Hannah Young) [Extended Mix]",
         "previews": [
           {
@@ -1125,8 +1125,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-11-15",
         "durationInMillis": 202966,
+        "releaseDate": "2016-11-15",
         "isrc": "IT0311600101",
         "artwork": {
           "width": 3000,
@@ -1145,8 +1145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove",
         "previews": [
           {
@@ -1168,8 +1168,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-09-16",
         "durationInMillis": 180600,
+        "releaseDate": "2020-09-16",
         "isrc": "KRA872000013",
         "artwork": {
           "width": 1400,
@@ -1188,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Starry Night",
         "previews": [
           {
@@ -1210,8 +1210,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2014-01-01",
         "durationInMillis": 176658,
+        "releaseDate": "2014-01-01",
         "isrc": "CH3131340464",
         "artwork": {
           "width": 1500,
@@ -1230,8 +1230,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
