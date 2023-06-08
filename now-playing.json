@@ -2,6 +2,62 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.WmYQkggixo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "genreNames": [
+          ""
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 194760,
+        "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T205327Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230608%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=f7014c8482a631ce9054b82c53d2833c2e1697d3cb7a9ec0dfd40ae2b6f673c6"
+        },
+        "playParams": {
+          "id": "i.WmYQkggixo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "i.XMD6xg4ivEldPV2",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
+      "attributes": {
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 185448,
+        "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T205327Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230608%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=ac843fb0c9965d736e639f05b2c4e824fdc13392275d6068504d411d666c08c8"
+        },
+        "playParams": {
+          "id": "i.XMD6xg4ivEldPV2",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1502627615",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1502627615",
@@ -12,8 +68,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-11-15",
         "durationInMillis": 267122,
+        "releaseDate": "2016-11-15",
         "isrc": "IT0311600102",
         "artwork": {
           "width": 3000,
@@ -26,14 +82,14 @@
           "textColor4": "804134"
         },
         "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "playParams": {
           "id": "1502627615",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -55,8 +111,8 @@
           "Children's Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-11-01",
         "durationInMillis": 90508,
+        "releaseDate": "2020-11-01",
         "isrc": "QZNWQ2008975",
         "artwork": {
           "width": 3000,
@@ -69,14 +125,14 @@
           "textColor4": "432e4e"
         },
         "composerName": "Dylan Maddison",
+        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
         "playParams": {
           "id": "1538159807",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Among Us",
         "previews": [
           {
@@ -97,8 +153,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -111,14 +167,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -159,8 +215,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -182,8 +238,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-07-26",
         "durationInMillis": 180843,
+        "releaseDate": "2019-07-26",
         "isrc": "NLE801900440",
         "artwork": {
           "width": 3000,
@@ -196,14 +252,14 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -244,8 +300,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -286,8 +342,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ARIA",
         "previews": [
           {
@@ -308,8 +364,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-02-21",
         "durationInMillis": 185003,
+        "releaseDate": "2022-02-21",
         "isrc": "VNA0R2000510",
         "artwork": {
           "width": 3000,
@@ -322,14 +378,14 @@
           "textColor4": "2e4863"
         },
         "composerName": "DTAP",
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "playParams": {
           "id": "1610405000",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "See T\u00ecnh",
         "previews": [
           {
@@ -370,8 +426,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "See T\u00ecnh (Cukak Remix)",
         "previews": [
           {
@@ -392,8 +448,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-19",
         "durationInMillis": 210948,
+        "releaseDate": "2022-08-19",
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -406,14 +462,14 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "NIGHT DANCER",
         "previews": [
           {
@@ -455,8 +511,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Baby Hotline",
         "previews": [
           {
@@ -497,8 +553,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Catgroove",
         "previews": [
           {
@@ -539,8 +595,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Booty Swing",
         "previews": [
           {
@@ -561,8 +617,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2010-07-23",
         "durationInMillis": 196507,
+        "releaseDate": "2010-07-23",
         "isrc": "ATE611000013",
         "artwork": {
           "width": 1440,
@@ -575,14 +631,14 @@
           "textColor4": "433630"
         },
         "composerName": "Parov Stelar",
+        "url": "https://music.apple.com/us/album/booty-swing/1067852103?i=1067852484",
         "playParams": {
           "id": "1067852484",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/booty-swing/1067852103?i=1067852484",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Booty Swing",
         "previews": [
           {
@@ -623,8 +679,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Monster",
         "previews": [
           {
@@ -645,8 +701,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-02-10",
         "durationInMillis": 224813,
+        "releaseDate": "2016-02-10",
         "isrc": "USRC11600201",
         "artwork": {
           "width": 1500,
@@ -659,14 +715,14 @@
           "textColor4": "d4beca"
         },
         "composerName": "Sia, Greg Kurstin & Sean Paul",
+        "url": "https://music.apple.com/us/album/cheap-thrills-feat-sean-paul/1082505789?i=1082506273",
         "playParams": {
           "id": "1082506273",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cheap-thrills-feat-sean-paul/1082505789?i=1082506273",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cheap Thrills (feat. Sean Paul)",
         "previews": [
           {
@@ -708,8 +764,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Full Stop",
         "previews": [
           {
@@ -750,8 +806,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Vertigo (feat. Caroline Pennell)",
         "previews": [
           {
@@ -792,8 +848,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Titanium (feat. Sia)",
         "previews": [
           {
@@ -834,8 +890,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "World of Colors (feat. Notte)",
         "previews": [
           {
@@ -857,8 +913,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-05-06",
         "durationInMillis": 208329,
+        "releaseDate": "2020-05-06",
         "isrc": "CH6542053163",
         "artwork": {
           "width": 3000,
@@ -871,14 +927,14 @@
           "textColor4": "624433"
         },
         "composerName": "PIERLOT Olivier",
+        "url": "https://music.apple.com/us/album/hold-me-back/1511045777?i=1511045779",
         "playParams": {
           "id": "1511045779",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hold-me-back/1511045777?i=1511045779",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Hold Me Back",
         "previews": [
           {
@@ -899,8 +955,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2017-05-12",
         "durationInMillis": 258508,
+        "releaseDate": "2017-05-12",
         "isrc": "IT0311700053",
         "artwork": {
           "width": 3000,
@@ -913,14 +969,14 @@
           "textColor4": "26433b"
         },
         "composerName": "Pierlot Oliver & Hannah De Jong",
+        "url": "https://music.apple.com/us/album/falling-down-feat-hannah-young-extended-mix/1502656761?i=1502656775",
         "playParams": {
           "id": "1502656775",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/falling-down-feat-hannah-young-extended-mix/1502656761?i=1502656775",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Falling Down (feat. Hannah Young) [Extended Mix]",
         "previews": [
           {
@@ -961,8 +1017,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Earth Groove",
         "previews": [
           {
@@ -984,8 +1040,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-09-16",
         "durationInMillis": 180600,
+        "releaseDate": "2020-09-16",
         "isrc": "KRA872000013",
         "artwork": {
           "width": 1400,
@@ -998,14 +1054,14 @@
           "textColor4": "afc7db"
         },
         "composerName": "Seoyeon Lee, BuildingOwner & Youngkyoung Choi",
+        "url": "https://music.apple.com/us/album/starry-night/1606892941?i=1606893229",
         "playParams": {
           "id": "1606893229",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/starry-night/1606892941?i=1606893229",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Starry Night",
         "previews": [
           {
@@ -1026,8 +1082,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2014-01-01",
         "durationInMillis": 176658,
+        "releaseDate": "2014-01-01",
         "isrc": "CH3131340464",
         "artwork": {
           "width": 1500,
@@ -1040,14 +1096,14 @@
           "textColor4": "aaaaaa"
         },
         "composerName": "Nicholas Furlong, Gabriel Benjamin, Jordan Suecof, John Feldmann, Tim Bergling & Ash Pournouri",
+        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "playParams": {
           "id": "1440829549",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Nights",
         "previews": [
           {
@@ -1069,8 +1125,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-30",
         "durationInMillis": 231627,
+        "releaseDate": "2020-01-30",
         "isrc": "QZEKE1927872",
         "artwork": {
           "width": 3000,
@@ -1083,14 +1139,14 @@
           "textColor4": "c898cb"
         },
         "composerName": "CODE 9 & +1",
+        "url": "https://music.apple.com/us/album/my-gravity/1660101822?i=1660101823",
         "playParams": {
           "id": "1660101823",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/my-gravity/1660101822?i=1660101823",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "My Gravity",
         "previews": [
           {
@@ -1132,8 +1188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "April Fools (0401)",
         "previews": [
           {
@@ -1175,8 +1231,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Echo",
         "previews": [
           {
@@ -1184,92 +1240,6 @@
           }
         ],
         "artistName": "OH MY GIRL"
-      }
-    },
-    {
-      "id": "1573080022",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1573080022",
-      "attributes": {
-        "albumName": "Coming Back - Single",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-06-22",
-        "durationInMillis": 188533,
-        "isrc": "KRMIM2124202",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/f8/45/05/f845053a-bb86-335c-5d7a-ce0de6b37438/888272082302_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fed8ee",
-          "textColor1": "110201",
-          "textColor2": "202464",
-          "textColor3": "402d31",
-          "textColor4": "4c4880"
-        },
-        "composerName": "Melanie Fontana, A\u2019Dee & Jinooya",
-        "playParams": {
-          "id": "1573080022",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/coming-back/1573080020?i=1573080022",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Coming Back",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/28/a1/eb28a17a-715b-a58d-947b-f5ea3449b6fb/mzaf_7190039820386455157.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "APOKI"
-      }
-    },
-    {
-      "id": "461736081",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/461736081",
-      "attributes": {
-        "albumName": "The Things We Do for Love",
-        "genreNames": [
-          "Mandopop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 184253,
-        "releaseDate": "2011-09-06",
-        "isrc": "TWA471109001",
-        "artwork": {
-          "width": 654,
-          "height": 600,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/de/a7/fc/dea7fcbf-3fb2-93d8-afdc-5e9bd996d6c3/mzi.hxcqbexz.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d3bdaf",
-          "textColor1": "201c36",
-          "textColor2": "282438",
-          "textColor3": "443c4e",
-          "textColor4": "4a4350"
-        },
-        "composerName": "Burt Bacharach & Hal David",
-        "url": "https://music.apple.com/us/album/raindrops-keep-falling-on-my-head/461736079?i=461736081",
-        "playParams": {
-          "id": "461736081",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Raindrops Keep Falling On My Head",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/d0/72/72d07290-4362-9539-8edb-76e9d496b070/mzaf_17141074214608180087.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Joanna Wang"
       }
     }
   ]
