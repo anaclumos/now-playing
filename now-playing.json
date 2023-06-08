@@ -2,12 +2,54 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1218860394",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1218860394",
+      "attributes": {
+        "albumName": "Ai wo Tsutaetaidatoka - EP",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 2500,
+          "height": 2500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/bb/26/33bb26ea-d33e-10da-448d-e592d540b1d2/190295821067.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "0c1011",
+          "textColor2": "131616",
+          "textColor3": "3d3f40",
+          "textColor4": "424545"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
+        "playParams": {
+          "id": "1218860394",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/10/45/3e1045e0-cf38-4aa5-0b20-a9cb24341428/mzaf_12195324010710170462.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
       "id": "i.WmYQkggixo4rAzD",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
       "attributes": {
-        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "genreNames": [
           ""
         ],
@@ -19,7 +61,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T035724Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230608%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=475ecee9725ef3ef4fa10eb595e924bbba0467120ac6c7e7e804397380cd14c2"
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T040755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230608%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=06cfc8384cf39d39fb840b2b90436f01bc35cc27121e2b0162fc387760d00ea4"
         },
         "playParams": {
           "id": "i.WmYQkggixo4rAzD",
@@ -47,7 +89,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T035724Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230608%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=75ac46679ac76c5a21fde36e51b685b723f17bb0e3786292c995814c0042ba65"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230608T040755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230608%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=b9c55a2f86fe709b739b13eb806c6bdc738086106cff0b009cc2763e744865ba"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -88,8 +130,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ARIA",
         "previews": [
           {
@@ -130,8 +172,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -172,8 +214,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "See T\u00ecnh",
         "previews": [
           {
@@ -214,8 +256,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "See T\u00ecnh (Cukak Remix)",
         "previews": [
           {
@@ -256,8 +298,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -298,8 +340,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "NIGHT DANCER",
         "previews": [
           {
@@ -341,8 +383,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baby Hotline",
         "previews": [
           {
@@ -383,8 +425,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Catgroove",
         "previews": [
           {
@@ -425,8 +467,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Booty Swing",
         "previews": [
           {
@@ -467,8 +509,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Booty Swing",
         "previews": [
           {
@@ -509,8 +551,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Monster",
         "previews": [
           {
@@ -551,8 +593,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheap Thrills (feat. Sean Paul)",
         "previews": [
           {
@@ -594,8 +636,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Full Stop",
         "previews": [
           {
@@ -636,8 +678,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Vertigo (feat. Caroline Pennell)",
         "previews": [
           {
@@ -678,8 +720,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Titanium (feat. Sia)",
         "previews": [
           {
@@ -720,8 +762,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "World of Colors (feat. Notte)",
         "previews": [
           {
@@ -763,8 +805,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Hold Me Back",
         "previews": [
           {
@@ -805,8 +847,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Falling Down (feat. Hannah Young) [Extended Mix]",
         "previews": [
           {
@@ -847,8 +889,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -889,8 +931,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove",
         "previews": [
           {
@@ -932,8 +974,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Starry Night",
         "previews": [
           {
@@ -974,8 +1016,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -1017,8 +1059,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "My Gravity",
         "previews": [
           {
@@ -1060,8 +1102,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "April Fools (0401)",
         "previews": [
           {
@@ -1103,8 +1145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Echo",
         "previews": [
           {
@@ -1145,8 +1187,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Coming Back",
         "previews": [
           {
@@ -1189,8 +1231,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Raindrops Keep Falling On My Head",
         "previews": [
           {
@@ -1198,49 +1240,6 @@
           }
         ],
         "artistName": "Joanna Wang"
-      }
-    },
-    {
-      "id": "1680047542",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047542",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2023-04-10",
-        "durationInMillis": 181400,
-        "isrc": "QM4TX2337766",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "EXY, SOHLHEE, RYAN JHUN, Alexander Pavelich, Lauren Keen, Sean Davidson, Andre Davidson, Lars Rosness & Benjamin Pinkus",
-        "url": "https://music.apple.com/us/album/lips/1680047093?i=1680047542",
-        "playParams": {
-          "id": "1680047542",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Lips",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d8/6c/89/d86c8905-903e-b39c-77c1-a98ca54ebe27/mzaf_13238925100526425433.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     }
   ]
