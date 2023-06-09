@@ -2,87 +2,130 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1218860394",
+      "id": "1538159807",
       "type": "songs",
-      "href": "/v1/catalog/us/songs/1218860394",
+      "href": "/v1/catalog/us/songs/1538159807",
       "attributes": {
-        "albumName": "Ai wo Tsutaetaidatoka - EP",
+        "albumName": "Among Us - Single",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Children's Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-11-01",
+        "durationInMillis": 90508,
+        "isrc": "QZNWQ2008975",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/63/89/f063894e-6842-c464-40da-e013d05fc42b/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "9d95fe",
+          "textColor1": "080610",
+          "textColor2": "2d1423",
+          "textColor3": "26223f",
+          "textColor4": "432e4e"
+        },
+        "composerName": "Dylan Maddison",
+        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
+        "playParams": {
+          "id": "1538159807",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Among Us",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/d9/59/45d959e6-f9ab-d7c5-1e33-7489ee1d3a88/mzaf_2952255833839043671.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sembari +"
+      }
+    },
+    {
+      "id": "1502627615",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1502627615",
+      "attributes": {
+        "albumName": "Earth Groove - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2016-11-15",
+        "durationInMillis": 267122,
+        "isrc": "IT0311600102",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "360900",
+          "textColor2": "601202",
+          "textColor3": "5e3a33",
+          "textColor4": "804134"
+        },
+        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
+        "playParams": {
+          "id": "1502627615",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Earth Groove (Extended Mix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vijay & Sofia & Notte"
+      }
+    },
+    {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
         "genreNames": [
           "J-Pop",
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-04-14",
-        "durationInMillis": 235241,
-        "isrc": "JPWP01770243",
-        "artwork": {
-          "width": 2500,
-          "height": 2500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/bb/26/33bb26ea-d33e-10da-448d-e592d540b1d2/190295821067.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "0c1011",
-          "textColor2": "131616",
-          "textColor3": "3d3f40",
-          "textColor4": "424545"
-        },
-        "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
-        "playParams": {
-          "id": "1218860394",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Ai Wo Tsutaetaidatoka",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/10/45/3e1045e0-cf38-4aa5-0b20-a9cb24341428/mzaf_12195324010710170462.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Aimyon"
-      }
-    },
-    {
-      "id": "1624475848",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1624475848",
-      "attributes": {
-        "albumName": "ARIA - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 147853,
-        "releaseDate": "2022-05-18",
-        "isrc": "KRA382205088",
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/5a/da/09/5ada09e1-49f3-9753-4b76-c7d91d66bdea/cover_KM0015249_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "bfad6d",
-          "textColor1": "0e0e04",
-          "textColor2": "282611",
-          "textColor3": "322e19",
-          "textColor4": "464123"
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
-          "id": "1624475848",
+          "id": "1679278167",
           "kind": "song"
         },
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
-        "name": "ARIA",
+        "name": "Idol",
         "previews": [
           {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ad/11/05/ad1105f7-869f-cec4-d48a-cb89f75173b8/mzaf_16847595776005245083.plus.aac.p.m4a"
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Yerin"
+        "artistName": "YOASOBI"
       }
     },
     {
@@ -116,8 +159,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -125,6 +168,261 @@
           }
         ],
         "artistName": "Fly Project"
+      }
+    },
+    {
+      "id": "1485814678",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1485814678",
+      "attributes": {
+        "albumName": "Baian\u00e1 - Single",
+        "genreNames": [
+          "House",
+          "Music",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-07-26",
+        "durationInMillis": 180843,
+        "isrc": "NLE801900440",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
+          "bgColor": "74c5bf",
+          "textColor1": "0b0416",
+          "textColor2": "212528",
+          "textColor3": "202a38",
+          "textColor4": "314546"
+        },
+        "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
+        "playParams": {
+          "id": "1485814678",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Baian\u00e1",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/6a/52/7e6a5226-7c7a-d023-3afe-3a73c4a86204/mzaf_4036404580000631993.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Bakermat"
+      }
+    },
+    {
+      "id": "1571330212",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1571330212",
+      "attributes": {
+        "albumName": "Bad Habits - Single",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2021-06-25",
+        "durationInMillis": 230747,
+        "isrc": "GBAHS2100318",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/63/45/cc/6345cc98-aa83-ad6e-e3c9-1a36ff9838a4/190296614316.jpg/{w}x{h}bb.jpg",
+          "bgColor": "bf0f00",
+          "textColor1": "fdcbde",
+          "textColor2": "fdc3b6",
+          "textColor3": "f1a5b2",
+          "textColor4": "f09f91"
+        },
+        "composerName": "Ed Sheeran, Fred Gibson & Johnny McDaid",
+        "url": "https://music.apple.com/us/album/bad-habits/1571330207?i=1571330212",
+        "playParams": {
+          "id": "1571330212",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Bad Habits",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/85/39/87/853987ac-e434-51fe-1413-2cf172e851dd/mzaf_7373563199881129757.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Ed Sheeran"
+      }
+    },
+    {
+      "id": "1685400191",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1685400191",
+      "attributes": {
+        "albumName": "MY WORLD - The 3rd Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2023-05-08",
+        "durationInMillis": 193413,
+        "isrc": "KRA302300147",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00134d",
+          "textColor1": "a2bcdd",
+          "textColor2": "94b9e5",
+          "textColor3": "819ac0",
+          "textColor4": "7798c7"
+        },
+        "composerName": "Geek Boy Al Swettenham, Kyler Niko & Paulina \u201cPAU\u201d Cerrilla",
+        "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
+        "playParams": {
+          "id": "1685400191",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Thirsty",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/55/37/8f/55378f55-9e75-11dc-98a5-170840e459ed/mzaf_13378792965402415520.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
+      "id": "1684674682",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674682",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 190947,
+        "isrc": "KRA392300006",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
+        "playParams": {
+          "id": "1684674682",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Peter Pan",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/40/94/b6/4094b6ed-428e-8c7e-d29a-a99c58616134/mzaf_2673819179159095395.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1218860394",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1218860394",
+      "attributes": {
+        "albumName": "Ai wo Tsutaetaidatoka - EP",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 2500,
+          "height": 2500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/bb/26/33bb26ea-d33e-10da-448d-e592d540b1d2/190295821067.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "0c1011",
+          "textColor2": "131616",
+          "textColor3": "3d3f40",
+          "textColor4": "424545"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
+        "playParams": {
+          "id": "1218860394",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/10/45/3e1045e0-cf38-4aa5-0b20-a9cb24341428/mzaf_12195324010710170462.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
+      "id": "1624475848",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1624475848",
+      "attributes": {
+        "albumName": "ARIA - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-05-18",
+        "durationInMillis": 147853,
+        "isrc": "KRA382205088",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/5a/da/09/5ada09e1-49f3-9753-4b76-c7d91d66bdea/cover_KM0015249_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "bfad6d",
+          "textColor1": "0e0e04",
+          "textColor2": "282611",
+          "textColor3": "322e19",
+          "textColor4": "464123"
+        },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
+        "playParams": {
+          "id": "1624475848",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "ARIA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ad/11/05/ad1105f7-869f-cec4-d48a-cb89f75173b8/mzaf_16847595776005245083.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yerin"
       }
     },
     {
@@ -138,8 +436,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185003,
         "releaseDate": "2022-02-21",
+        "durationInMillis": 185003,
         "isrc": "VNA0R2000510",
         "artwork": {
           "width": 3000,
@@ -200,8 +498,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "See T\u00ecnh (Cukak Remix)",
         "previews": [
           {
@@ -209,48 +507,6 @@
           }
         ],
         "artistName": "Ho\u00e0ng Th\u00f9y Linh"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 213234,
-        "releaseDate": "2023-04-12",
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -264,8 +520,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210948,
         "releaseDate": "2022-08-19",
+        "durationInMillis": 210948,
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -307,8 +563,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "durationInMillis": 291318,
         "releaseDate": "2019-03-21",
+        "durationInMillis": 291318,
         "isrc": "QZES51978188",
         "artwork": {
           "width": 3000,
@@ -349,8 +605,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 238240,
         "releaseDate": "2008-09-19",
+        "durationInMillis": 238240,
         "isrc": "ATE610800080",
         "artwork": {
           "width": 1440,
@@ -411,8 +667,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Booty Swing",
         "previews": [
           {
@@ -433,8 +689,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 196507,
         "releaseDate": "2010-07-23",
+        "durationInMillis": 196507,
         "isrc": "ATE611000013",
         "artwork": {
           "width": 1440,
@@ -495,8 +751,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Monster",
         "previews": [
           {
@@ -537,8 +793,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cheap Thrills (feat. Sean Paul)",
         "previews": [
           {
@@ -561,8 +817,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 7,
-        "durationInMillis": 236189,
         "releaseDate": "2017-04-21",
+        "durationInMillis": 236189,
         "isrc": "KRA381700867",
         "artwork": {
           "width": 3000,
@@ -602,8 +858,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 177293,
         "releaseDate": "2017-10-13",
+        "durationInMillis": 177293,
         "isrc": "NLS3R1700019",
         "artwork": {
           "width": 3000,
@@ -644,8 +900,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 245040,
         "releaseDate": "2005-11-25",
+        "durationInMillis": 245040,
         "isrc": "GB28K1100036",
         "artwork": {
           "width": 1500,
@@ -686,8 +942,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 193225,
         "releaseDate": "2017-08-04",
+        "durationInMillis": 193225,
         "isrc": "IT0311700128",
         "artwork": {
           "width": 3000,
@@ -749,8 +1005,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Hold Me Back",
         "previews": [
           {
@@ -771,8 +1027,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 258508,
         "releaseDate": "2017-05-12",
+        "durationInMillis": 258508,
         "isrc": "IT0311700053",
         "artwork": {
           "width": 3000,
@@ -800,48 +1056,6 @@
           }
         ],
         "artistName": "Vijay & Sofia"
-      }
-    },
-    {
-      "id": "1502627615",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1502627615",
-      "attributes": {
-        "albumName": "Earth Groove - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2016-11-15",
-        "durationInMillis": 267122,
-        "isrc": "IT0311600102",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "360900",
-          "textColor2": "601202",
-          "textColor3": "5e3a33",
-          "textColor4": "804134"
-        },
-        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
-        "playParams": {
-          "id": "1502627615",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Earth Groove (Extended Mix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vijay & Sofia & Notte"
       }
     },
     {
@@ -875,8 +1089,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove",
         "previews": [
           {
@@ -918,8 +1132,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Starry Night",
         "previews": [
           {
@@ -940,8 +1154,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 176658,
         "releaseDate": "2014-01-01",
+        "durationInMillis": 176658,
         "isrc": "CH3131340464",
         "artwork": {
           "width": 1500,
@@ -1003,8 +1217,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "My Gravity",
         "previews": [
           {
@@ -1026,8 +1240,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 198313,
         "releaseDate": "2018-09-04",
+        "durationInMillis": 198313,
         "isrc": "US5TA1800064",
         "artwork": {
           "width": 3000,
@@ -1055,220 +1269,6 @@
           }
         ],
         "artistName": "JAMIE"
-      }
-    },
-    {
-      "id": "1551935725",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1551935725",
-      "attributes": {
-        "albumName": "REMEMBER ME - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 212740,
-        "releaseDate": "2018-09-10",
-        "isrc": "KRA381801070",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/45/33/33/4533339f-9730-faf3-5507-f1f7685c8608/886449029433.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d790b2",
-          "textColor1": "0c0b09",
-          "textColor2": "162114",
-          "textColor3": "35252a",
-          "textColor4": "3d3733"
-        },
-        "composerName": "Hyuk Shin, MRey & Courtney Woolsey",
-        "url": "https://music.apple.com/us/album/echo/1551935723?i=1551935725",
-        "playParams": {
-          "id": "1551935725",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Echo",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ce/50/59/ce505969-3ef8-cdca-3500-14d9fba16798/mzaf_12182212612942876628.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "OH MY GIRL"
-      }
-    },
-    {
-      "id": "1573080022",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1573080022",
-      "attributes": {
-        "albumName": "Coming Back - Single",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2021-06-22",
-        "durationInMillis": 188533,
-        "isrc": "KRMIM2124202",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/f8/45/05/f845053a-bb86-335c-5d7a-ce0de6b37438/888272082302_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fed8ee",
-          "textColor1": "110201",
-          "textColor2": "202464",
-          "textColor3": "402d31",
-          "textColor4": "4c4880"
-        },
-        "composerName": "Melanie Fontana, A\u2019Dee & Jinooya",
-        "url": "https://music.apple.com/us/album/coming-back/1573080020?i=1573080022",
-        "playParams": {
-          "id": "1573080022",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Coming Back",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/28/a1/eb28a17a-715b-a58d-947b-f5ea3449b6fb/mzaf_7190039820386455157.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "APOKI"
-      }
-    },
-    {
-      "id": "461736081",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/461736081",
-      "attributes": {
-        "albumName": "The Things We Do for Love",
-        "genreNames": [
-          "Mandopop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 184253,
-        "releaseDate": "2011-09-06",
-        "isrc": "TWA471109001",
-        "artwork": {
-          "width": 654,
-          "height": 600,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/de/a7/fc/dea7fcbf-3fb2-93d8-afdc-5e9bd996d6c3/mzi.hxcqbexz.jpg/{w}x{h}bb.jpg",
-          "bgColor": "d3bdaf",
-          "textColor1": "201c36",
-          "textColor2": "282438",
-          "textColor3": "443c4e",
-          "textColor4": "4a4350"
-        },
-        "composerName": "Burt Bacharach & Hal David",
-        "url": "https://music.apple.com/us/album/raindrops-keep-falling-on-my-head/461736079?i=461736081",
-        "playParams": {
-          "id": "461736081",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Raindrops Keep Falling On My Head",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/d0/72/72d07290-4362-9539-8edb-76e9d496b070/mzaf_17141074214608180087.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Joanna Wang"
-      }
-    },
-    {
-      "id": "1680047542",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047542",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 4,
-        "releaseDate": "2023-04-10",
-        "durationInMillis": 181400,
-        "isrc": "QM4TX2337766",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "EXY, SOHLHEE, RYAN JHUN, Alexander Pavelich, Lauren Keen, Sean Davidson, Andre Davidson, Lars Rosness & Benjamin Pinkus",
-        "url": "https://music.apple.com/us/album/lips/1680047093?i=1680047542",
-        "playParams": {
-          "id": "1680047542",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Lips",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d8/6c/89/d86c8905-903e-b39c-77c1-a98ca54ebe27/mzaf_13238925100526425433.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1665494215",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1665494215",
-      "attributes": {
-        "albumName": "High Tension - EP",
-        "genreNames": [
-          "Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-02-01",
-        "durationInMillis": 226291,
-        "isrc": "IDA141900139",
-        "artwork": {
-          "width": 1440,
-          "height": 1440,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/94/e4/91/94e4915e-b310-6c27-1546-40974c4cbfc5/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c0419",
-          "textColor1": "faf7ff",
-          "textColor2": "efedd6",
-          "textColor3": "cac6d0",
-          "textColor4": "c2beb0"
-        },
-        "composerName": "Shiraishi Satori & Yasushi Akimoto",
-        "url": "https://music.apple.com/us/album/high-tension/1665494212?i=1665494215",
-        "playParams": {
-          "id": "1665494215",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "High Tension",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/1a/fa/d0/1afad01d-be03-d629-07e5-a3a6a74c9751/mzaf_13675269674112884974.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "JKT48"
       }
     }
   ]
