@@ -2,6 +2,76 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
+      "id": "i.XMD6xg4ivEldPV2",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
+      "attributes": {
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 185448,
+        "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230610T210251Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230610%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=b69b26d943087aec6e5b2d682d33992dddc9e9a8070b7a66d30500460782c2a7"
+        },
+        "playParams": {
+          "id": "i.XMD6xg4ivEldPV2",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1538159807",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1538159807",
@@ -69,14 +139,14 @@
           "textColor4": "804134"
         },
         "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "playParams": {
           "id": "1502627615",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -97,8 +167,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2013-09-18",
         "durationInMillis": 165606,
+        "releaseDate": "2013-09-18",
         "isrc": "ROROT1313101",
         "artwork": {
           "width": 1440,
@@ -126,48 +196,6 @@
           }
         ],
         "artistName": "Fly Project"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-04-12",
-        "durationInMillis": 213234,
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -224,8 +252,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-06-25",
         "durationInMillis": 230747,
+        "releaseDate": "2021-06-25",
         "isrc": "GBAHS2100318",
         "artwork": {
           "width": 4000,
@@ -238,11 +266,11 @@
           "textColor4": "f09f91"
         },
         "composerName": "Ed Sheeran, Fred Gibson & Johnny McDaid",
-        "url": "https://music.apple.com/us/album/bad-habits/1571330207?i=1571330212",
         "playParams": {
           "id": "1571330212",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/bad-habits/1571330207?i=1571330212",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -324,14 +352,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Peter Pan",
         "previews": [
           {
@@ -366,14 +394,14 @@
           "textColor4": "424545"
         },
         "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "playParams": {
           "id": "1218860394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -408,14 +436,14 @@
           "textColor3": "322e19",
           "textColor4": "464123"
         },
-        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "playParams": {
           "id": "1624475848",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/aria/1624475844?i=1624475848",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ARIA",
         "previews": [
           {
@@ -450,11 +478,11 @@
           "textColor4": "2e4863"
         },
         "composerName": "DTAP",
-        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "playParams": {
           "id": "1610405000",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/see-t%C3%ACnh/1610404989?i=1610405000",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -478,8 +506,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-05-05",
         "durationInMillis": 170159,
+        "releaseDate": "2022-05-05",
         "isrc": "VNA0R2000552",
         "artwork": {
           "width": 3000,
@@ -520,8 +548,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-19",
         "durationInMillis": 210948,
+        "releaseDate": "2022-08-19",
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -563,8 +591,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-03-21",
         "durationInMillis": 291318,
+        "releaseDate": "2019-03-21",
         "isrc": "QZES51978188",
         "artwork": {
           "width": 3000,
@@ -577,11 +605,11 @@
           "textColor4": "b8b595"
         },
         "composerName": "Jack Stauber",
+        "url": "https://music.apple.com/us/album/baby-hotline/1456559865?i=1456559866",
         "playParams": {
           "id": "1456559866",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/baby-hotline/1456559865?i=1456559866",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -605,8 +633,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2008-09-19",
         "durationInMillis": 238240,
+        "releaseDate": "2008-09-19",
         "isrc": "ATE610800080",
         "artwork": {
           "width": 1440,
@@ -647,8 +675,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2010-07-23",
         "durationInMillis": 197507,
+        "releaseDate": "2010-07-23",
         "isrc": "ATE611000013",
         "artwork": {
           "width": 1440,
@@ -689,8 +717,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2010-07-23",
         "durationInMillis": 196507,
+        "releaseDate": "2010-07-23",
         "isrc": "ATE611000013",
         "artwork": {
           "width": 1440,
@@ -731,8 +759,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "releaseDate": "2009-03-20",
         "durationInMillis": 314867,
+        "releaseDate": "2009-03-20",
         "isrc": "ATE610800081",
         "artwork": {
           "width": 1440,
@@ -745,11 +773,11 @@
           "textColor4": "323124"
         },
         "composerName": "Marcus Fuereder",
-        "url": "https://music.apple.com/us/album/monster/1067866029?i=1067866499",
         "playParams": {
           "id": "1067866499",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/monster/1067866029?i=1067866499",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -773,8 +801,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-02-10",
         "durationInMillis": 224813,
+        "releaseDate": "2016-02-10",
         "isrc": "USRC11600201",
         "artwork": {
           "width": 1500,
@@ -858,8 +886,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-10-13",
         "durationInMillis": 177293,
+        "releaseDate": "2017-10-13",
         "isrc": "NLS3R1700019",
         "artwork": {
           "width": 3000,
@@ -920,8 +948,8 @@
         },
         "url": "https://music.apple.com/us/album/titanium-feat-sia/693290088?i=693290734",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Titanium (feat. Sia)",
         "previews": [
           {
@@ -942,8 +970,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-08-04",
         "durationInMillis": 193225,
+        "releaseDate": "2017-08-04",
         "isrc": "IT0311700128",
         "artwork": {
           "width": 3000,
@@ -956,11 +984,11 @@
           "textColor4": "3f2418"
         },
         "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
+        "url": "https://music.apple.com/us/album/world-of-colors-feat-notte/1502623801?i=1502624260",
         "playParams": {
           "id": "1502624260",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/world-of-colors-feat-notte/1502623801?i=1502624260",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -985,8 +1013,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-05-06",
         "durationInMillis": 208329,
+        "releaseDate": "2020-05-06",
         "isrc": "CH6542053163",
         "artwork": {
           "width": 3000,
@@ -1083,14 +1111,14 @@
           "textColor4": "804134"
         },
         "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove/1502627612?i=1502627613",
         "playParams": {
           "id": "1502627613",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/earth-groove/1502627612?i=1502627613",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Earth Groove",
         "previews": [
           {
@@ -1126,14 +1154,14 @@
           "textColor4": "afc7db"
         },
         "composerName": "Seoyeon Lee, BuildingOwner & Youngkyoung Choi",
-        "url": "https://music.apple.com/us/album/starry-night/1606892941?i=1606893229",
         "playParams": {
           "id": "1606893229",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/starry-night/1606892941?i=1606893229",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Starry Night",
         "previews": [
           {
@@ -1168,14 +1196,14 @@
           "textColor4": "aaaaaa"
         },
         "composerName": "Nicholas Furlong, Gabriel Benjamin, Jordan Suecof, John Feldmann, Tim Bergling & Ash Pournouri",
-        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "playParams": {
           "id": "1440829549",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Nights",
         "previews": [
           {
@@ -1197,8 +1225,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-01-30",
         "durationInMillis": 231627,
+        "releaseDate": "2020-01-30",
         "isrc": "QZEKE1927872",
         "artwork": {
           "width": 3000,
@@ -1226,49 +1254,6 @@
           }
         ],
         "artistName": "Yezi"
-      }
-    },
-    {
-      "id": "1642468018",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1642468018",
-      "attributes": {
-        "albumName": "jiminxjamie - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2018-09-04",
-        "durationInMillis": 198313,
-        "isrc": "US5TA1800064",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/9d/47/1d/9d471d1b-9655-c4ed-287b-04d068ef4598/738676857078.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ddb87a",
-          "textColor2": "d29065",
-          "textColor3": "b09362",
-          "textColor4": "a87350"
-        },
-        "composerName": "\uae40\uc5f0\uc11c, \ubc0d\uc9c0\uc158 & JAMIE",
-        "url": "https://music.apple.com/us/album/april-fools-0401/1642468015?i=1642468018",
-        "playParams": {
-          "id": "1642468018",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "April Fools (0401)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d2/c4/2f/d2c42fbe-c314-ef3b-6025-710b5e090520/mzaf_1978690592350960513.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "JAMIE"
       }
     }
   ]
