@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
+      "id": "1502627615",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1502627615",
+      "attributes": {
+        "albumName": "Earth Groove - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2016-11-15",
+        "durationInMillis": 267122,
+        "isrc": "IT0311600102",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "360900",
+          "textColor2": "601202",
+          "textColor3": "5e3a33",
+          "textColor4": "804134"
+        },
+        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
+        "playParams": {
+          "id": "1502627615",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Earth Groove (Extended Mix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vijay & Sofia & Notte"
+      }
+    },
+    {
       "id": "1485814678",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1485814678",
@@ -33,8 +117,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -42,48 +126,6 @@
           }
         ],
         "artistName": "Bakermat"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-04-12",
-        "durationInMillis": 213234,
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -161,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -375,8 +417,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cupid",
         "previews": [
           {
@@ -461,8 +503,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -504,8 +546,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Thirsty",
         "previews": [
           {
@@ -547,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -590,8 +632,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -717,8 +759,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "As It Was",
         "previews": [
           {
@@ -843,8 +885,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Way Less Sad",
         "previews": [
           {
@@ -886,8 +928,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Mai Piu' Cosi' Lontano",
         "previews": [
           {
@@ -928,8 +970,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Cupid Twin (Sped up) [Remix]",
         "previews": [
           {
@@ -978,8 +1020,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
           }
         ],
-        "artistName": "bbno$",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "bbno$"
       }
     },
     {
@@ -1014,8 +1056,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "KNOCK",
         "previews": [
           {
@@ -1056,8 +1098,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Love In Space",
         "previews": [
           {
@@ -1226,8 +1268,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Grace",
         "previews": [
           {
@@ -1235,49 +1277,6 @@
           }
         ],
         "artistName": "ADOY"
-      }
-    },
-    {
-      "id": "1538159807",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1538159807",
-      "attributes": {
-        "albumName": "Among Us - Single",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Children's Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-11-01",
-        "durationInMillis": 90508,
-        "isrc": "QZNWQ2008975",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/63/89/f063894e-6842-c464-40da-e013d05fc42b/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "9d95fe",
-          "textColor1": "080610",
-          "textColor2": "2d1423",
-          "textColor3": "26223f",
-          "textColor4": "432e4e"
-        },
-        "composerName": "Dylan Maddison",
-        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
-        "playParams": {
-          "id": "1538159807",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Among Us",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/d9/59/45d959e6-f9ab-d7c5-1e33-7489ee1d3a88/mzaf_2952255833839043671.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sembari +"
       }
     }
   ]
