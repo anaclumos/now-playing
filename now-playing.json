@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "1680047537",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1680047537",
@@ -33,8 +75,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -42,91 +84,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1616649362",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616649362",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "2022-03-30",
-        "durationInMillis": 300787,
-        "isrc": "KRA382204244",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "110d01",
-          "textColor2": "442217",
-          "textColor3": "403e34",
-          "textColor4": "694e46"
-        },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
-        "playParams": {
-          "id": "1616649362",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Event Horizon",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-04-12",
-        "durationInMillis": 213234,
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -198,11 +155,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -247,8 +204,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -284,14 +241,14 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Spicy",
         "previews": [
           {
@@ -327,14 +284,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queencard",
         "previews": [
           {
@@ -370,11 +327,11 @@
           "textColor4": "b2b0b1"
         },
         "composerName": "Benji Lewis & Maxwell Byrne",
-        "url": "https://music.apple.com/us/album/drift/1655280243?i=1655280253",
         "playParams": {
           "id": "1655280253",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/drift/1655280243?i=1655280253",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -412,14 +369,14 @@
           "textColor3": "cbcbcb",
           "textColor4": "c4afae"
         },
+        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "playParams": {
           "id": "1670327199",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rising/1670327195?i=1670327199",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rising",
         "previews": [
           {
@@ -457,11 +414,11 @@
           "textColor4": "c9c5cc"
         },
         "composerName": "Yiruma",
-        "url": "https://music.apple.com/us/album/destiny-of-love/485353575?i=485353771",
         "playParams": {
           "id": "485353771",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/destiny-of-love/485353575?i=485353771",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -500,14 +457,14 @@
           "textColor4": "77473f"
         },
         "composerName": "Woo Min Lee \u201ccollapsedone\u201d, Justin Reinstein, Anna Timgren & Boy Matthews",
+        "url": "https://music.apple.com/us/album/the-feels/1584128932?i=1584128934",
         "playParams": {
           "id": "1584128934",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/the-feels/1584128932?i=1584128934",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The Feels",
         "previews": [
           {
@@ -542,11 +499,11 @@
           "textColor4": "bba9ad"
         },
         "composerName": "Hwang Hyun",
-        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "playParams": {
           "id": "1478604421",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/timing/1478604417?i=1478604421",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -584,14 +541,14 @@
           "textColor4": "c93140"
         },
         "composerName": "Adam Met, Jack Met, Paul Simon & Ryan Met",
+        "url": "https://music.apple.com/us/album/way-less-sad/1544797363?i=1544797376",
         "playParams": {
           "id": "1544797376",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/way-less-sad/1544797363?i=1544797376",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Way Less Sad",
         "previews": [
           {
@@ -632,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "3 O'Clock Things",
         "previews": [
           {
@@ -668,14 +625,14 @@
           "textColor3": "3c3c41",
           "textColor4": "4e4e4e"
         },
+        "url": "https://music.apple.com/us/album/winter-sleep/1602185213?i=1602185217",
         "playParams": {
           "id": "1602185217",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/winter-sleep/1602185213?i=1602185217",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Winter Sleep",
         "previews": [
           {
@@ -717,8 +674,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dreams Come True",
         "previews": [
           {
@@ -795,11 +752,11 @@
           "textColor3": "3b322e",
           "textColor4": "46393e"
         },
-        "url": "https://music.apple.com/us/album/i-know-its-not-easy-but-youre-not-alone-anymore/1206416305?i=1206416377",
         "playParams": {
           "id": "1206416377",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-know-its-not-easy-but-youre-not-alone-anymore/1206416305?i=1206416377",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -837,14 +794,14 @@
           "textColor3": "bfbfbf",
           "textColor4": "a3a3a3"
         },
+        "url": "https://music.apple.com/us/album/battle-royale-feat-panther-vip/841875462?i=841875518",
         "playParams": {
           "id": "841875518",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/battle-royale-feat-panther-vip/841875462?i=841875518",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Battle Royale (Feat. Panther) [VIP]",
         "previews": [
           {
@@ -880,14 +837,14 @@
           "textColor3": "373124",
           "textColor4": "623e28"
         },
+        "url": "https://music.apple.com/us/album/weird-you/1363064909?i=1363064911",
         "playParams": {
           "id": "1363064911",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/weird-you/1363064909?i=1363064911",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Weird You",
         "previews": [
           {
@@ -927,11 +884,11 @@
           "textColor4": "301819"
         },
         "composerName": "Michael Angelakos",
-        "url": "https://music.apple.com/us/album/take-a-walk/534798874?i=534798882",
         "playParams": {
           "id": "534798882",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/take-a-walk/534798874?i=534798882",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -970,11 +927,11 @@
           "textColor3": "bba279",
           "textColor4": "bb8692"
         },
-        "url": "https://music.apple.com/us/album/hooka/1450779931?i=1450779936",
         "playParams": {
           "id": "1450779936",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hooka/1450779931?i=1450779936",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1067,8 +1024,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Among Us",
         "previews": [
           {
@@ -1145,11 +1102,11 @@
           "textColor4": "804134"
         },
         "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "playParams": {
           "id": "1502627615",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1230,11 +1187,11 @@
           "textColor4": "434030"
         },
         "composerName": "Daniel O'Donoghue, Mark Sheehan, William Adams & James Barry",
-        "url": "https://music.apple.com/us/album/hall-of-fame-feat-will-i-am/1691525753?i=1691526652",
         "playParams": {
           "id": "1691526652",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/hall-of-fame-feat-will-i-am/1691525753?i=1691526652",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1273,14 +1230,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Peter Pan",
         "previews": [
           {
@@ -1288,6 +1245,49 @@
           }
         ],
         "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1679292891",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679292891",
+      "attributes": {
+        "albumName": "The Beginning: Cupid - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
+        "isrc": "KSA012239180",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fde3aa",
+          "textColor1": "000000",
+          "textColor2": "333333",
+          "textColor3": "322d22",
+          "textColor4": "5c564b"
+        },
+        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
+        "playParams": {
+          "id": "1679292891",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Cupid",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/51/58/de/5158de57-307c-8cc0-67e1-f817c1e950b5/mzaf_1159664837573234890.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "FIFTY FIFTY"
       }
     }
   ]
