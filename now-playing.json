@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1680047537",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1680047537",
+      "attributes": {
+        "albumName": "I've IVE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
+        "isrc": "QM4TX2337765",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f9f9f9",
+          "textColor1": "131313",
+          "textColor2": "323232",
+          "textColor3": "414141",
+          "textColor4": "5a5a5a"
+        },
+        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
+        "playParams": {
+          "id": "1680047537",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Kitsch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1681324047",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1681324047",
+      "attributes": {
+        "albumName": "SEVENTEEN 10th Mini Album 'FML' - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-04-24",
+        "durationInMillis": 200387,
+        "isrc": "USA2P2310675",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dedede",
+          "textColor1": "090909",
+          "textColor2": "0c0c0c",
+          "textColor3": "343434",
+          "textColor4": "363636"
+        },
+        "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "playParams": {
+          "id": "1681324047",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Super",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/bd/81/87bd81ee-6097-2378-9cb0-4112a67c57cc/mzaf_10176775218568565545.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "SEVENTEEN"
+      }
+    },
+    {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "1656636785",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1656636785",
@@ -13,8 +141,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-11-17",
         "durationInMillis": 191995,
+        "releaseDate": "2017-11-17",
         "isrc": "KRNAR1709235",
         "artwork": {
           "width": 3000,
@@ -70,11 +198,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -99,8 +227,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 229953,
         "releaseDate": "2023-06-09",
+        "durationInMillis": 229953,
         "isrc": "USA2P2323050",
         "artwork": {
           "width": 1400,
@@ -113,11 +241,11 @@
           "textColor4": "cda1e3"
         },
         "composerName": "SUGA, EL CAPITXN, RM, Gabriel Brandes, Matt Thomson, Max Lynedoch Graham, j-hope & Nois upGrader",
-        "url": "https://music.apple.com/us/album/take-two/1690421569?i=1690421575",
         "playParams": {
           "id": "1690421575",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/take-two/1690421569?i=1690421575",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -141,8 +269,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 210948,
         "releaseDate": "2022-08-19",
+        "durationInMillis": 210948,
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -155,11 +283,11 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -170,48 +298,6 @@
           }
         ],
         "artistName": "imase"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 213234,
-        "releaseDate": "2023-04-12",
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -226,8 +312,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239181",
         "artwork": {
           "width": 3000,
@@ -269,8 +355,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-06-02",
         "durationInMillis": 195689,
+        "releaseDate": "2023-06-02",
         "isrc": "US5TA2300034",
         "artwork": {
           "width": 1400,
@@ -312,8 +398,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -398,8 +484,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -441,8 +527,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 193413,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300147",
         "artwork": {
           "width": 4000,
@@ -541,11 +627,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -556,92 +642,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1680047537",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047537",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "releaseDate": "2023-03-27",
-        "durationInMillis": 195440,
-        "isrc": "QM4TX2337765",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
-        "playParams": {
-          "id": "1680047537",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Kitsch",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1681324047",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1681324047",
-      "attributes": {
-        "albumName": "SEVENTEEN 10th Mini Album 'FML' - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 200387,
-        "releaseDate": "2023-04-24",
-        "isrc": "USA2P2310675",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "dedede",
-          "textColor1": "090909",
-          "textColor2": "0c0c0c",
-          "textColor3": "343434",
-          "textColor4": "363636"
-        },
-        "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
-        "playParams": {
-          "id": "1681324047",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Super",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/bd/81/87bd81ee-6097-2378-9cb0-4112a67c57cc/mzaf_10176775218568565545.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "SEVENTEEN"
       }
     },
     {
@@ -699,8 +699,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 183853,
         "releaseDate": "2023-04-10",
+        "durationInMillis": 183853,
         "isrc": "QM4TX2337764",
         "artwork": {
           "width": 3000,
@@ -713,11 +713,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -828,8 +828,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -872,8 +872,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "durationInMillis": 300787,
         "releaseDate": "2022-03-30",
+        "durationInMillis": 300787,
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -885,11 +885,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -927,11 +927,11 @@
           "textColor3": "aa46c4",
           "textColor4": "ab1bc4"
         },
-        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "playParams": {
           "id": "1670622073",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1001,8 +1001,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-22",
         "durationInMillis": 176973,
+        "releaseDate": "2022-08-22",
         "isrc": "QMBZ92254957",
         "artwork": {
           "width": 3000,
@@ -1044,8 +1044,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 167627,
         "releaseDate": "2023-04-17",
+        "durationInMillis": 167627,
         "isrc": "KRA302300106",
         "artwork": {
           "width": 4000,
@@ -1058,11 +1058,11 @@
           "textColor4": "acacae"
         },
         "composerName": "Brandon Arreaga, Colin Magalong, Landon Sears, Kaelyn Behr & MZMC",
-        "url": "https://music.apple.com/us/album/perfume/1681718925?i=1681719346",
         "playParams": {
           "id": "1681719346",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/perfume/1681718925?i=1681719346",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1101,11 +1101,11 @@
           "textColor3": "cedae5",
           "textColor4": "ced9d8"
         },
-        "url": "https://music.apple.com/us/album/vancouver/1622167330?i=1622167332",
         "playParams": {
           "id": "1622167332",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/vancouver/1622167330?i=1622167332",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1186,11 +1186,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1214,8 +1214,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 235241,
         "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 2500,
@@ -1228,11 +1228,11 @@
           "textColor4": "424545"
         },
         "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "playParams": {
           "id": "1218860394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1257,8 +1257,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 173134,
         "releaseDate": "2023-03-31",
+        "durationInMillis": 173134,
         "isrc": "KRA402300002",
         "artwork": {
           "width": 4000,
@@ -1271,11 +1271,11 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
