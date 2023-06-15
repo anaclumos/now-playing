@@ -2,6 +2,94 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1657231962",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1657231962",
+      "attributes": {
+        "albumName": "Ditto - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
+        "isrc": "USA2P2254487",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fdfcff",
+          "textColor1": "36080e",
+          "textColor2": "440a11",
+          "textColor3": "5e393e",
+          "textColor4": "693b41"
+        },
+        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
+        "playParams": {
+          "id": "1657231962",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ditto",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1659513445",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1659513445",
+      "attributes": {
+        "albumName": "NewJeans 'OMG' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
+        "isrc": "USA2P2251723",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "d7d7d7",
+          "textColor3": "cbcbcb",
+          "textColor4": "acacac"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
+        "playParams": {
+          "id": "1659513445",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "OMG",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1680047537",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1680047537",
@@ -13,8 +101,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-03-27",
         "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -34,8 +122,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -57,8 +145,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-24",
         "durationInMillis": 200387,
+        "releaseDate": "2023-04-24",
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -78,8 +166,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -100,8 +188,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -121,8 +209,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -221,94 +309,6 @@
       }
     },
     {
-      "id": "1657231962",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1657231962",
-      "attributes": {
-        "albumName": "Ditto - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2022-12-19",
-        "durationInMillis": 185507,
-        "isrc": "USA2P2254487",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fdfcff",
-          "textColor1": "36080e",
-          "textColor2": "440a11",
-          "textColor3": "5e393e",
-          "textColor4": "693b41"
-        },
-        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "playParams": {
-          "id": "1657231962",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Ditto",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1659513445",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1659513445",
-      "attributes": {
-        "albumName": "NewJeans 'OMG' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-01-02",
-        "durationInMillis": 212253,
-        "isrc": "USA2P2251723",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "ffffff",
-          "textColor2": "d7d7d7",
-          "textColor3": "cbcbcb",
-          "textColor4": "acacac"
-        },
-        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
-        "playParams": {
-          "id": "1659513445",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "OMG",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
       "id": "1682502472",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502472",
@@ -320,8 +320,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 182149,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -341,8 +341,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -364,8 +364,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-10",
         "durationInMillis": 183853,
+        "releaseDate": "2023-04-10",
         "isrc": "QM4TX2337764",
         "artwork": {
           "width": 3000,
@@ -385,8 +385,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I AM",
         "previews": [
           {
@@ -422,11 +422,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -451,8 +451,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "releaseDate": "2019-11-29",
         "durationInMillis": 200046,
+        "releaseDate": "2019-11-29",
         "isrc": "USUG11904206",
         "artwork": {
           "width": 3000,
@@ -465,15 +465,15 @@
           "textColor4": "90b19d"
         },
         "composerName": "Max Martin, Oscar Holter, The Weeknd, Belly & Daheala",
+        "url": "https://music.apple.com/us/album/blinding-lights/1499378108?i=1499378607",
         "playParams": {
           "id": "1499378607",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blinding-lights/1499378108?i=1499378607",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Blinding Lights",
         "previews": [
           {
@@ -494,8 +494,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "2020-03-20",
         "durationInMillis": 215627,
+        "releaseDate": "2020-03-20",
         "isrc": "USUG12000658",
         "artwork": {
           "width": 3000,
@@ -515,16 +515,16 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Save Your Tears",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/76/f0/42/76f042a2-ec4a-03df-c3c4-bfd2e1971b3f/mzaf_3250400076320409439.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "The Weeknd"
+        "artistName": "The Weeknd",
+        "contentRating": "explicit"
       }
     },
     {
@@ -553,11 +553,11 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -597,11 +597,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "playParams": {
           "id": "1679292892",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -671,8 +671,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -685,15 +685,15 @@
           "textColor4": "424556"
         },
         "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "playParams": {
           "id": "1635469694",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -715,8 +715,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -736,8 +736,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cupid",
         "previews": [
           {
@@ -758,8 +758,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-04-14",
         "durationInMillis": 235241,
+        "releaseDate": "2017-04-14",
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 2500,
@@ -779,8 +779,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -801,8 +801,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-01-29",
         "durationInMillis": 199146,
+        "releaseDate": "2016-01-29",
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -822,8 +822,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Dangerously",
         "previews": [
           {
@@ -845,8 +845,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-11-17",
         "durationInMillis": 191995,
+        "releaseDate": "2017-11-17",
         "isrc": "KRNAR1709235",
         "artwork": {
           "width": 3000,
@@ -859,15 +859,15 @@
           "textColor4": "8a8ab1"
         },
         "composerName": "george & Deepshower",
+        "url": "https://music.apple.com/us/album/boat/1656636779?i=1656636785",
         "playParams": {
           "id": "1656636785",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/boat/1656636779?i=1656636785",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Boat",
         "previews": [
           {
@@ -889,8 +889,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 184444,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230329",
         "artwork": {
           "width": 1400,
@@ -910,8 +910,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -947,11 +947,11 @@
           "textColor4": "cda1e3"
         },
         "composerName": "SUGA, EL CAPITXN, RM, Gabriel Brandes, Matt Thomson, Max Lynedoch Graham, j-hope & Nois upGrader",
+        "url": "https://music.apple.com/us/album/take-two/1690421569?i=1690421575",
         "playParams": {
           "id": "1690421575",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/take-two/1690421569?i=1690421575",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -990,11 +990,11 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1020,8 +1020,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 161240,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300001",
         "artwork": {
           "width": 1400,
@@ -1034,15 +1034,15 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queencard",
         "previews": [
           {
@@ -1122,11 +1122,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1195,8 +1195,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 162787,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -1209,15 +1209,15 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -1239,8 +1239,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-03-31",
         "durationInMillis": 173134,
+        "releaseDate": "2023-03-31",
         "isrc": "KRA402300002",
         "artwork": {
           "width": 4000,
@@ -1253,15 +1253,15 @@
           "textColor4": "afb2a5"
         },
         "composerName": "Kush, VVN & 24",
+        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "playParams": {
           "id": "1679414587",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/flower/1679414586?i=1679414587",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "FLOWER",
         "previews": [
           {
@@ -1299,11 +1299,11 @@
           "textColor4": "cba368"
         },
         "composerName": "B.I, \uac15\uc6b1\uc9c4, Diggy & BIG Naughty",
+        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "playParams": {
           "id": "1690289238",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
