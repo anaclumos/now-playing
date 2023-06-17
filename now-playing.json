@@ -1,11 +1,1290 @@
 {
-  "errors": [
+  "next": "/v1/me/recent/played/tracks?offset=30",
+  "data": [
     {
-      "id": "SF7OJ4VLZYNGRFO6G6FMYQI5NM",
-      "title": "Upstream Service Error",
-      "detail": "Error occurred fetching recently played results",
-      "status": "500",
-      "code": "50001"
+      "id": "1682502483",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502483",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 10,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 185539,
+        "isrc": "USA2P2310665",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
+        "playParams": {
+          "id": "1682502483",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/8c/c7/838cc7cc-e9e8-799d-e3db-16d893a08461/mzaf_1148336731883147937.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502472",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502472",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 182149,
+        "isrc": "USA2P2310663",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
+        "playParams": {
+          "id": "1682502472",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "UNFORGIVEN",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b1/ef/f3/b1eff322-6a89-9937-94e2-1264f3afc208/mzaf_15156871924830711525.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM & Nile Rodgers"
+      }
+    },
+    {
+      "id": "1647830390",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1647830390",
+      "attributes": {
+        "albumName": "ANTIFRAGILE - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
+        "isrc": "USA2P2230329",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/51/43/f4/5143f45c-bf3c-b880-8564-bc9bac7e535c/192641874413_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "212121",
+          "textColor3": "333333",
+          "textColor4": "4e4e4e"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
+        "playParams": {
+          "id": "1647830390",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "ANTIFRAGILE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/df/4e/cddf4e72-5eb3-18e4-2ddb-bec4ef91b8f6/mzaf_2899720442644351065.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502889",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502889",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 12,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 195512,
+        "isrc": "USA2P2310667",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "Hiss noise, Alex Karlsson, Stian N. Olsen (Blueprint), Elizaveta Vassilieva, \"Hitman\" Bang, Danke & \uc774\uc7ac\ub2c8(PNP)",
+        "url": "https://music.apple.com/us/album/flash-forward/1682502020?i=1682502889",
+        "playParams": {
+          "id": "1682502889",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Flash Forward",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a6/e8/10/a6e810f6-494d-fa13-5f15-29d4099c6e50/mzaf_719418451447010747.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502489",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502489",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 206832,
+        "isrc": "USA2P2310666",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), JUKJAE, HUH YUNJIN, \"Hitman\" Bang, Sakura, KIM CHAEWON, Hong Eun-chae & KazuHa",
+        "url": "https://music.apple.com/us/album/fearnot-between-you-me-and-the-lamppost/1682502020?i=1682502489",
+        "playParams": {
+          "id": "1682502489",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "FEARNOT (Between you, me and the lamppost)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/72/bb/44/72bb44ec-eb2d-3149-921e-ae0f08dd6aa0/mzaf_14493328661387404452.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502478",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502478",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 9,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 184824,
+        "isrc": "USA2P2310664",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Daniel \"Obi\" Klein, Charli Taft, Arineh Karimi, Moa \u201cCazzi Opeia\u201d Carlebecker, Young Chance & Shorelle",
+        "url": "https://music.apple.com/us/album/no-return-into-the-unknown/1682502020?i=1682502478",
+        "playParams": {
+          "id": "1682502478",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "No-Return (Into the unknown)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f5/55/e2/f555e223-e314-3a42-d22a-8883410f8a60/mzaf_16766952371822636952.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502467",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502467",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 154650,
+        "isrc": "USA2P2310662",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13) & HYBE",
+        "url": "https://music.apple.com/us/album/burn-the-bridge/1682502020?i=1682502467",
+        "playParams": {
+          "id": "1682502467",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Burn the Bridge",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3f/56/13/3f5613ab-d1a9-31b9-4d0c-7e65444addca/mzaf_2557572037712517029.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502306",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502306",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 196365,
+        "isrc": "USA2P2230330",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Danke, \"Hitman\" Bang, Huh Yun Jin, Daniel \"Obi\" Klein, Charli Taft, Kim Chae Ah(153/Joombas), Maggie Szabo, Hayes Kramer, BLVS, Jaro, Nikolay Mohr, Park Sang Yoo(PNP), Jo Yun Kyung & Lee Hyung Suk(PNP)",
+        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
+        "playParams": {
+          "id": "1682502306",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Impurities",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c0/77/49/c0774968-e5b8-e665-75f8-5091a30c69aa/mzaf_17596796693029487716.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502298",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502298",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 184444,
+        "isrc": "USA2P2230329",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, \"Hitman\" Bang, Shintaro Yasuda, Supreme Boi, Isabella Lovestory, Kyler Niko, Ronnie Icon, Nathalie Boone & Danke",
+        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
+        "playParams": {
+          "id": "1682502298",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "ANTIFRAGILE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d1/fd/28/d1fd28db-6de7-c967-37fd-f14c67afd2c3/mzaf_9337358247358930012.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502291",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502291",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2022-10-17",
+        "durationInMillis": 104203,
+        "isrc": "USA2P2230328",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13) & HYBE",
+        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
+        "playParams": {
+          "id": "1682502291",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "The Hydra",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/04/33/fc/0433fca4-ffea-9195-6444-044f4db2ddd9/mzaf_11878883357063978811.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502038",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502038",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 168437,
+        "isrc": "USA2P2310660",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, BLVSH, Jaro, Nikolay Mohr, \"Hitman\" Bang, Oneye, Josefin Glenmark, EMMY KASAI, Kyler Niko, PAU & Destiny Rogers",
+        "url": "https://music.apple.com/us/album/fearless-2023-version/1682502020?i=1682502038",
+        "playParams": {
+          "id": "1682502038",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "FEARLESS (2023 Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/03/a6/5a/03a65a9b-e288-371a-3f4e-e72d8b4a047d/mzaf_11820318610954922409.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1682502027",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502027",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-05-02",
+        "durationInMillis": 106821,
+        "isrc": "USA2P2310659",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13) & HYBE",
+        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-version/1682502020?i=1682502027",
+        "playParams": {
+          "id": "1682502027",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "The World Is My Oyster (2023 Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/35/df/73/35df73a5-8c61-2973-b30c-1a60a54baf6b/mzaf_762154768579985152.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
+      "id": "1639023912",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1639023912",
+      "attributes": {
+        "albumName": "NIGHT DANCER - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-19",
+        "durationInMillis": 210948,
+        "isrc": "JPPO02202918",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/c2/49/87/c249873f-fa61-9d61-52aa-a7e1d780c8b3/22UMGIM81500.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "fffd00",
+          "textColor3": "cbcbcb",
+          "textColor4": "cbca00"
+        },
+        "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
+        "playParams": {
+          "id": "1639023912",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "NIGHT DANCER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/64/a3/9a64a3b4-bb2f-9f05-d67e-7d5ca5dc4d85/mzaf_3042423082720944814.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "imase"
+      }
+    },
+    {
+      "id": "1685400184",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1685400184",
+      "attributes": {
+        "albumName": "MY WORLD - The 3rd Mini Album - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-08",
+        "durationInMillis": 197040,
+        "isrc": "KRA302300145",
+        "artwork": {
+          "width": 4000,
+          "height": 4000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00134d",
+          "textColor1": "a2bcdd",
+          "textColor2": "94b9e5",
+          "textColor3": "819ac0",
+          "textColor4": "7798c7"
+        },
+        "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
+        "playParams": {
+          "id": "1685400184",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Spicy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f6/66/98/f6669873-4a72-ed63-77ee-13746938c220/mzaf_16352020300822090516.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "aespa"
+      }
+    },
+    {
+      "id": "1669081591",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1669081591",
+      "attributes": {
+        "albumName": "READY TO BE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-03-10",
+        "durationInMillis": 181680,
+        "isrc": "US5TA2300005",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/8c/cf/96/8ccf96fa-afa3-c039-6e33-d19ae58ae074/738676860610_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0d121f",
+          "textColor1": "f0f2f1",
+          "textColor2": "e7b68f",
+          "textColor3": "c3c6c7",
+          "textColor4": "bb9579"
+        },
+        "composerName": "Melanie Fontana, Lindgren, Marty Maro, \ubcc4\ub4e4\uc758\uc804\uc7c1 * (GALACTIKA *) & Jvde (GALACTIKA *)",
+        "url": "https://music.apple.com/us/album/set-me-free/1669081578?i=1669081591",
+        "playParams": {
+          "id": "1669081591",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "SET ME FREE",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/d2/55/62d255c9-9a4d-fb93-2077-4286d6c2db36/mzaf_8045191191691328551.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TWICE"
+      }
+    },
+    {
+      "id": "1647112151",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1647112151",
+      "attributes": {
+        "albumName": "Suzume (feat. Toaka) - Single",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "J-Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-10-30",
+        "durationInMillis": 236391,
+        "isrc": "JPV972200075",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/eb/0c/e3/eb0ce3d8-b9b9-ce8d-47f9-38d147128dee/0602448618207_cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "130a02",
+          "textColor2": "122230",
+          "textColor3": "423b35",
+          "textColor4": "414e59"
+        },
+        "composerName": "Nodayouzirou",
+        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
+        "playParams": {
+          "id": "1647112151",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Suzume (feat. Toaka)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c6/b8/2d/c6b82d20-f13d-a2fa-e337-19ccfc4a21dd/mzaf_705625446222665190.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "RADWIMPS"
+      }
+    },
+    {
+      "id": "1656020186",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1656020186",
+      "attributes": {
+        "albumName": "Goodbye 2022",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 10,
+        "releaseDate": "2022-06-12",
+        "durationInMillis": 181813,
+        "isrc": "KRMIM2222354",
+        "artwork": {
+          "width": 3000,
+          "height": 3001,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/a2/51/4a/a2514a8d-439a-3876-b34d-d1c752fd152c/5054197469565.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffccb7",
+          "textColor1": "110c09",
+          "textColor2": "211713",
+          "textColor3": "40322c",
+          "textColor4": "4e3b34"
+        },
+        "composerName": "Ashley Alisha, Dept, jazzer & Sonny Zero",
+        "url": "https://music.apple.com/us/album/summertime-feat-ashley-alisha/1656020011?i=1656020186",
+        "playParams": {
+          "id": "1656020186",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Summertime (feat. Ashley Alisha)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fb/7e/82/fb7e820b-7acf-72ca-4afd-21a1a8242429/mzaf_1876257944398881071.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Dept"
+      }
+    },
+    {
+      "id": "1684674429",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674429",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 162787,
+        "isrc": "KRA392300002",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
+        "playParams": {
+          "id": "1684674429",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Allergy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/8b/34/368b347e-8f8d-c32a-7f2e-8f1e95c987e1/mzaf_2445626033044542318.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1499378607",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1499378607",
+      "attributes": {
+        "albumName": "After Hours",
+        "genreNames": [
+          "R&B/Soul",
+          "Music"
+        ],
+        "trackNumber": 9,
+        "releaseDate": "2019-11-29",
+        "durationInMillis": 200046,
+        "isrc": "USUG11904206",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "090a0e",
+          "textColor1": "d9e4db",
+          "textColor2": "b2dbc1",
+          "textColor3": "afb9b2",
+          "textColor4": "90b19d"
+        },
+        "composerName": "Max Martin, Oscar Holter, The Weeknd, Belly & Daheala",
+        "url": "https://music.apple.com/us/album/blinding-lights/1499378108?i=1499378607",
+        "playParams": {
+          "id": "1499378607",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Blinding Lights",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/7a/66/bc7a66fc-2f00-f768-b4c3-6ae5b642d6e9/mzaf_14187956227119409179.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "The Weeknd"
+      }
+    },
+    {
+      "id": "1657231962",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1657231962",
+      "attributes": {
+        "albumName": "Ditto - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
+        "isrc": "USA2P2254487",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fdfcff",
+          "textColor1": "36080e",
+          "textColor2": "440a11",
+          "textColor3": "5e393e",
+          "textColor4": "693b41"
+        },
+        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
+        "playParams": {
+          "id": "1657231962",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ditto",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1659513445",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1659513445",
+      "attributes": {
+        "albumName": "NewJeans 'OMG' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-01-02",
+        "durationInMillis": 212253,
+        "isrc": "USA2P2251723",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "d7d7d7",
+          "textColor3": "cbcbcb",
+          "textColor4": "acacac"
+        },
+        "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
+        "playParams": {
+          "id": "1659513445",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "OMG",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/3c/83/bb3c836c-dc38-f24d-7305-de24d9241943/mzaf_9385892341590501525.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1680047537",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1680047537",
+      "attributes": {
+        "albumName": "I've IVE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
+        "isrc": "QM4TX2337765",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f9f9f9",
+          "textColor1": "131313",
+          "textColor2": "323232",
+          "textColor3": "414141",
+          "textColor4": "5a5a5a"
+        },
+        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
+        "playParams": {
+          "id": "1680047537",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Kitsch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1681324047",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1681324047",
+      "attributes": {
+        "albumName": "SEVENTEEN 10th Mini Album 'FML' - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-04-24",
+        "durationInMillis": 200387,
+        "isrc": "USA2P2310675",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dedede",
+          "textColor1": "090909",
+          "textColor2": "0c0c0c",
+          "textColor3": "343434",
+          "textColor4": "363636"
+        },
+        "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
+        "playParams": {
+          "id": "1681324047",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Super",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/bd/81/87bd81ee-6097-2378-9cb0-4112a67c57cc/mzaf_10176775218568565545.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "SEVENTEEN"
+      }
+    },
+    {
+      "id": "1218860394",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1218860394",
+      "attributes": {
+        "albumName": "Ai wo Tsutaetaidatoka - EP",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 235241,
+        "isrc": "JPWP01770243",
+        "artwork": {
+          "width": 2500,
+          "height": 2500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/bb/26/33bb26ea-d33e-10da-448d-e592d540b1d2/190295821067.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "0c1011",
+          "textColor2": "131616",
+          "textColor3": "3d3f40",
+          "textColor4": "424545"
+        },
+        "composerName": "Aimyon",
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
+        "playParams": {
+          "id": "1218860394",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Ai Wo Tsutaetaidatoka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/10/45/3e1045e0-cf38-4aa5-0b20-a9cb24341428/mzaf_12195324010710170462.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Aimyon"
+      }
+    },
+    {
+      "id": "1633318780",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1633318780",
+      "attributes": {
+        "albumName": "CHARLIE",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "2022-09-16",
+        "durationInMillis": 188508,
+        "isrc": "USAT22208889",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dadad8",
+          "textColor1": "040404",
+          "textColor2": "2c2c2b",
+          "textColor3": "2e2e2e",
+          "textColor4": "4e4e4d"
+        },
+        "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
+        "playParams": {
+          "id": "1633318780",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I Don\u2019t Think That I Like Her",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e0/e6/75/e0e675a3-b528-475f-949a-b696595a24ab/mzaf_14467144304382032423.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Charlie Puth"
+      }
+    },
+    {
+      "id": "1690421575",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1690421575",
+      "attributes": {
+        "albumName": "Take Two - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-06-09",
+        "durationInMillis": 229953,
+        "isrc": "USA2P2323050",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/4b/87/06/4b870698-31fd-8d96-c03b-ceb512776335/196922462139_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "4f30b6",
+          "textColor1": "fbe986",
+          "textColor2": "edbeef",
+          "textColor3": "d9c48f",
+          "textColor4": "cda1e3"
+        },
+        "composerName": "SUGA, EL CAPITXN, RM, Gabriel Brandes, Matt Thomson, Max Lynedoch Graham, j-hope & Nois upGrader",
+        "url": "https://music.apple.com/us/album/take-two/1690421569?i=1690421575",
+        "playParams": {
+          "id": "1690421575",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Take Two",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/80/da/9c/80da9cb3-7204-c660-20e6-9c5fbd67afee/mzaf_4919233356878206137.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BTS"
+      }
+    },
+    {
+      "id": "1031416180",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1031416180",
+      "attributes": {
+        "albumName": "Nine Track Mind",
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2016-01-29",
+        "durationInMillis": 199146,
+        "isrc": "USAT21502916",
+        "artwork": {
+          "width": 1425,
+          "height": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f6e514",
+          "textColor1": "0a0200",
+          "textColor2": "283510",
+          "textColor3": "392f04",
+          "textColor4": "515811"
+        },
+        "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
+        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
+        "playParams": {
+          "id": "1031416180",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "Dangerously",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5d/fe/bd/5dfebd59-b059-5bdb-caa0-03708fa6d29b/mzaf_4426948284131638540.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Charlie Puth"
+      }
+    },
+    {
+      "id": "1690289238",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1690289238",
+      "attributes": {
+        "albumName": "TO DIE FOR",
+        "genreNames": [
+          "Korean Hip-Hop",
+          "Music",
+          "Hip-Hop/Rap",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2023-06-01",
+        "durationInMillis": 175716,
+        "isrc": "KSA012250135",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/04/da/a8/04daa85a-50b0-3fba-fd29-317aefdaef4f/8809933233712.jpg/{w}x{h}bb.jpg",
+          "bgColor": "3b3b3b",
+          "textColor1": "f9da7e",
+          "textColor2": "f0bd73",
+          "textColor3": "d3ba70",
+          "textColor4": "cba368"
+        },
+        "composerName": "B.I, \uac15\uc6b1\uc9c4, Diggy & BIG Naughty",
+        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
+        "playParams": {
+          "id": "1690289238",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Dare to Love (feat. BIG Naughty)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/85/79/8a/85798a14-73e2-fce8-c1a3-18458be8cebb/mzaf_10665810321979571122.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "B.I"
+      }
+    },
+    {
+      "id": "1679292892",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679292892",
+      "attributes": {
+        "albumName": "The Beginning: Cupid - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-02-24",
+        "durationInMillis": 174253,
+        "isrc": "KSA012239181",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fde3aa",
+          "textColor1": "000000",
+          "textColor2": "333333",
+          "textColor3": "322d22",
+          "textColor4": "5c564b"
+        },
+        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
+        "playParams": {
+          "id": "1679292892",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Cupid (Twin Ver.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e8/bf/db/e8bfdb6b-337b-ae39-3eed-1939c65d7595/mzaf_933964797514790691.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "FIFTY FIFTY"
+      }
     }
   ]
 }
