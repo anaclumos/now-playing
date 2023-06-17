@@ -2,6 +2,71 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
+      "id": "i.4YBeVeWi2Vvp1BD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.4YBeVeWi2Vvp1BD",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 213288,
+        "name": "Idol (Inst.)",
+        "artistName": "YOASOBI",
+        "playParams": {
+          "id": "i.4YBeVeWi2Vvp1BD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
       "id": "1682502483",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502483",
@@ -13,8 +78,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -33,8 +98,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -56,8 +121,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 182149,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -70,14 +135,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -113,11 +178,11 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -185,8 +250,8 @@
           "Pop"
         ],
         "trackNumber": 11,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 206832,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310666",
         "artwork": {
           "width": 1400,
@@ -228,8 +293,8 @@
           "Pop"
         ],
         "trackNumber": 9,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 184824,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310664",
         "artwork": {
           "width": 1400,
@@ -248,8 +313,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "No-Return (Into the unknown)",
         "previews": [
           {
@@ -271,8 +336,8 @@
           "Pop"
         ],
         "trackNumber": 7,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 154650,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310662",
         "artwork": {
           "width": 1400,
@@ -285,11 +350,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
+        "url": "https://music.apple.com/us/album/burn-the-bridge/1682502020?i=1682502467",
         "playParams": {
           "id": "1682502467",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/burn-the-bridge/1682502020?i=1682502467",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -314,8 +379,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 196365,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230330",
         "artwork": {
           "width": 1400,
@@ -328,14 +393,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Jonna Hall, Danke, \"Hitman\" Bang, Huh Yun Jin, Daniel \"Obi\" Klein, Charli Taft, Kim Chae Ah(153/Joombas), Maggie Szabo, Hayes Kramer, BLVS, Jaro, Nikolay Mohr, Park Sang Yoo(PNP), Jo Yun Kyung & Lee Hyung Suk(PNP)",
+        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "playParams": {
           "id": "1682502306",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/impurities/1682502020?i=1682502306",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Impurities",
         "previews": [
           {
@@ -371,11 +436,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, \"Hitman\" Bang, Shintaro Yasuda, Supreme Boi, Isabella Lovestory, Kyler Niko, Ronnie Icon, Nathalie Boone & Danke",
+        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "playParams": {
           "id": "1682502298",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1682502020?i=1682502298",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -400,8 +465,8 @@
           "Pop"
         ],
         "trackNumber": 4,
-        "releaseDate": "2022-10-17",
         "durationInMillis": 104203,
+        "releaseDate": "2022-10-17",
         "isrc": "USA2P2230328",
         "artwork": {
           "width": 1400,
@@ -414,14 +479,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
         "playParams": {
           "id": "1682502291",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-hydra/1682502020?i=1682502291",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The Hydra",
         "previews": [
           {
@@ -443,8 +508,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 168437,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310660",
         "artwork": {
           "width": 1400,
@@ -486,8 +551,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-05-02",
         "durationInMillis": 106821,
+        "releaseDate": "2022-05-02",
         "isrc": "USA2P2310659",
         "artwork": {
           "width": 1400,
@@ -500,14 +565,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13) & HYBE",
-        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-version/1682502020?i=1682502027",
         "playParams": {
           "id": "1682502027",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-world-is-my-oyster-2023-version/1682502020?i=1682502027",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The World Is My Oyster (2023 Version)",
         "previews": [
           {
@@ -515,48 +580,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-04-12",
-        "durationInMillis": 213234,
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -570,8 +593,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-19",
         "durationInMillis": 210948,
+        "releaseDate": "2022-08-19",
         "isrc": "JPPO02202918",
         "artwork": {
           "width": 3000,
@@ -584,11 +607,11 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -613,8 +636,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 197040,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300145",
         "artwork": {
           "width": 4000,
@@ -633,8 +656,8 @@
         },
         "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Spicy",
         "previews": [
           {
@@ -656,8 +679,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-03-10",
         "durationInMillis": 181680,
+        "releaseDate": "2023-03-10",
         "isrc": "US5TA2300005",
         "artwork": {
           "width": 1400,
@@ -670,14 +693,14 @@
           "textColor4": "bb9579"
         },
         "composerName": "Melanie Fontana, Lindgren, Marty Maro, \ubcc4\ub4e4\uc758\uc804\uc7c1 * (GALACTIKA *) & Jvde (GALACTIKA *)",
+        "url": "https://music.apple.com/us/album/set-me-free/1669081578?i=1669081591",
         "playParams": {
           "id": "1669081591",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/set-me-free/1669081578?i=1669081591",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "SET ME FREE",
         "previews": [
           {
@@ -699,8 +722,8 @@
           "J-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-10-30",
         "durationInMillis": 236391,
+        "releaseDate": "2022-10-30",
         "isrc": "JPV972200075",
         "artwork": {
           "width": 3000,
@@ -713,11 +736,11 @@
           "textColor4": "414e59"
         },
         "composerName": "Nodayouzirou",
+        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "playParams": {
           "id": "1647112151",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -741,8 +764,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "releaseDate": "2022-06-12",
         "durationInMillis": 181813,
+        "releaseDate": "2022-06-12",
         "isrc": "KRMIM2222354",
         "artwork": {
           "width": 3000,
@@ -755,14 +778,14 @@
           "textColor4": "4e3b34"
         },
         "composerName": "Ashley Alisha, Dept, jazzer & Sonny Zero",
-        "url": "https://music.apple.com/us/album/summertime-feat-ashley-alisha/1656020011?i=1656020186",
         "playParams": {
           "id": "1656020186",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/summertime-feat-ashley-alisha/1656020011?i=1656020186",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Summertime (feat. Ashley Alisha)",
         "previews": [
           {
@@ -784,8 +807,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 162787,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -804,8 +827,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -840,11 +863,11 @@
           "textColor4": "90b19d"
         },
         "composerName": "Max Martin, Oscar Holter, The Weeknd, Belly & Daheala",
+        "url": "https://music.apple.com/us/album/blinding-lights/1499378108?i=1499378607",
         "playParams": {
           "id": "1499378607",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/blinding-lights/1499378108?i=1499378607",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -869,8 +892,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -883,14 +906,14 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -926,11 +949,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -955,8 +978,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-03-27",
         "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -998,8 +1021,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-24",
         "durationInMillis": 200387,
+        "releaseDate": "2023-04-24",
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -1018,8 +1041,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -1040,8 +1063,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-04-14",
         "durationInMillis": 235241,
+        "releaseDate": "2017-04-14",
         "isrc": "JPWP01770243",
         "artwork": {
           "width": 2500,
@@ -1125,8 +1148,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-06-09",
         "durationInMillis": 229953,
+        "releaseDate": "2023-06-09",
         "isrc": "USA2P2323050",
         "artwork": {
           "width": 1400,
@@ -1139,14 +1162,14 @@
           "textColor4": "cda1e3"
         },
         "composerName": "SUGA, EL CAPITXN, RM, Gabriel Brandes, Matt Thomson, Max Lynedoch Graham, j-hope & Nois upGrader",
-        "url": "https://music.apple.com/us/album/take-two/1690421569?i=1690421575",
         "playParams": {
           "id": "1690421575",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/take-two/1690421569?i=1690421575",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Take Two",
         "previews": [
           {
@@ -1167,8 +1190,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-01-29",
         "durationInMillis": 199146,
+        "releaseDate": "2016-01-29",
         "isrc": "USAT21502916",
         "artwork": {
           "width": 1425,
@@ -1187,8 +1210,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Dangerously",
         "previews": [
           {
@@ -1226,11 +1249,11 @@
           "textColor4": "cba368"
         },
         "composerName": "B.I, \uac15\uc6b1\uc9c4, Diggy & BIG Naughty",
+        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "playParams": {
           "id": "1690289238",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1241,49 +1264,6 @@
           }
         ],
         "artistName": "B.I"
-      }
-    },
-    {
-      "id": "1679292892",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679292892",
-      "attributes": {
-        "albumName": "The Beginning: Cupid - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-02-24",
-        "durationInMillis": 174253,
-        "isrc": "KSA012239181",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fde3aa",
-          "textColor1": "000000",
-          "textColor2": "333333",
-          "textColor3": "322d22",
-          "textColor4": "5c564b"
-        },
-        "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "playParams": {
-          "id": "1679292892",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Cupid (Twin Ver.)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e8/bf/db/e8bfdb6b-337b-ae39-3eed-1939c65d7595/mzaf_933964797514790691.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "FIFTY FIFTY"
       }
     }
   ]
