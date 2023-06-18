@@ -2,6 +2,118 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1502627615",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1502627615",
+      "attributes": {
+        "albumName": "Earth Groove - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 267122,
+        "releaseDate": "2016-11-15",
+        "isrc": "IT0311600102",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "360900",
+          "textColor2": "601202",
+          "textColor3": "5e3a33",
+          "textColor4": "804134"
+        },
+        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
+        "playParams": {
+          "id": "1502627615",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Earth Groove (Extended Mix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vijay & Sofia & Notte"
+      }
+    },
+    {
+      "id": "i.WmYQkggixo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
+      "attributes": {
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "trackNumber": 0,
+        "hasLyrics": false,
+        "durationInMillis": 194760,
+        "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230618T194628Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230618%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=56738c330e8cc35e155030b8ec81cdc4c8f238f8af9c623e3fc92c10436b26a3"
+        },
+        "playParams": {
+          "id": "i.WmYQkggixo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "i.XMD6xg4ivEldPV2",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
@@ -11,15 +123,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 185448,
         "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
         "artistName": "\ub274\uc9c4\uc2a4",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230618T193813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230618%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=47fd31e90fc8a3feadbe5482ecb4fc4aad94215cf90b61f05d70f1796ed5638f"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230618T194628Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230618%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=9ee744c66fd431a916e7ab0cc984b5e3b6e4b0c592be50f52acbb1e0c2dd15c0"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -55,11 +167,11 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -126,8 +238,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2013-09-18",
         "durationInMillis": 165606,
+        "releaseDate": "2013-09-18",
         "isrc": "ROROT1313101",
         "artwork": {
           "width": 1440,
@@ -158,90 +270,6 @@
       }
     },
     {
-      "id": "1502627615",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1502627615",
-      "attributes": {
-        "albumName": "Earth Groove - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 267122,
-        "releaseDate": "2016-11-15",
-        "isrc": "IT0311600102",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "360900",
-          "textColor2": "601202",
-          "textColor3": "5e3a33",
-          "textColor4": "804134"
-        },
-        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "playParams": {
-          "id": "1502627615",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Earth Groove (Extended Mix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vijay & Sofia & Notte"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 213234,
-        "releaseDate": "2023-04-12",
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
-      }
-    },
-    {
       "id": "1684674682",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1684674682",
@@ -267,11 +295,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -338,8 +366,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-20",
         "durationInMillis": 227333,
+        "releaseDate": "2023-04-20",
         "isrc": "JPU902301574",
         "artwork": {
           "width": 3000,
@@ -380,8 +408,8 @@
           "Music"
         ],
         "trackNumber": 9,
-        "releaseDate": "2019-11-29",
         "durationInMillis": 200046,
+        "releaseDate": "2019-11-29",
         "isrc": "USUG11904206",
         "artwork": {
           "width": 3000,
@@ -436,11 +464,11 @@
           "textColor4": "90b19d"
         },
         "composerName": "The Weeknd, Belly, Daheala, Max Martin & Oscar Holter",
-        "url": "https://music.apple.com/us/album/save-your-tears/1499378108?i=1499378613",
         "playParams": {
           "id": "1499378613",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/save-your-tears/1499378108?i=1499378613",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -465,8 +493,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "releaseDate": "2020-01-28",
         "durationInMillis": 241080,
+        "releaseDate": "2020-01-28",
         "isrc": "CZL102000099",
         "artwork": {
           "width": 3000,
@@ -649,11 +677,11 @@
           "textColor4": "424545"
         },
         "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "playParams": {
           "id": "1218860394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -776,11 +804,11 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -936,8 +964,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-11-17",
         "durationInMillis": 191995,
+        "releaseDate": "2017-11-17",
         "isrc": "KRNAR1709235",
         "artwork": {
           "width": 3000,
@@ -1079,11 +1107,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Geek Boy Al Swettenham, Kyler Niko & Paulina \u201cPAU\u201d Cerrilla",
-        "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
         "playParams": {
           "id": "1685400191",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1108,8 +1136,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -1151,8 +1179,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -1208,11 +1236,11 @@
           "textColor4": "acacac"
         },
         "composerName": "Ylva Dimberg, Jinsu Park, David Dawood, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "playParams": {
           "id": "1659513445",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1223,49 +1251,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1680047537",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047537",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 3,
-        "durationInMillis": 195440,
-        "releaseDate": "2023-03-27",
-        "isrc": "QM4TX2337765",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
-        "playParams": {
-          "id": "1680047537",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Kitsch",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     }
   ]
