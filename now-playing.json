@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1684674682",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674682",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 6,
+        "durationInMillis": 190947,
+        "releaseDate": "2023-05-15",
+        "isrc": "KRA392300006",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
+        "playParams": {
+          "id": "1684674682",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Peter Pan",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/40/94/b6/4094b6ed-428e-8c7e-d29a-a99c58616134/mzaf_2673819179159095395.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
       "id": "1684674429",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1684674429",
@@ -27,11 +70,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -69,11 +112,11 @@
           "textColor3": "d8d9da",
           "textColor4": "b4bcc6"
         },
-        "url": "https://music.apple.com/us/album/%EB%8C%80%EC%84%B1%EB%8B%B9%EB%93%A4%EC%9D%98-%EC%8B%9C%EB%8C%80/1598740747?i=1598740748",
         "playParams": {
           "id": "1598740748",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%EB%8C%80%EC%84%B1%EB%8B%B9%EB%93%A4%EC%9D%98-%EC%8B%9C%EB%8C%80/1598740747?i=1598740748",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -99,8 +142,8 @@
           "Rock"
         ],
         "trackNumber": 9,
-        "releaseDate": "2013-10-08",
         "durationInMillis": 190173,
+        "releaseDate": "2013-10-08",
         "isrc": "KRA381205846",
         "artwork": {
           "width": 1400,
@@ -162,8 +205,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "FAME (feat. Song Ga In & Chancellor)",
         "previews": [
           {
@@ -187,8 +230,8 @@
           "Soul"
         ],
         "trackNumber": 4,
-        "durationInMillis": 196840,
         "releaseDate": "2016-04-01",
+        "durationInMillis": 196840,
         "isrc": "GBCFB1600015",
         "artwork": {
           "width": 3000,
@@ -200,14 +243,14 @@
           "textColor3": "24c808",
           "textColor4": "22bc08"
         },
-        "url": "https://music.apple.com/us/album/the-apology/1074001432?i=1074001448",
         "playParams": {
           "id": "1074001448",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-apology/1074001432?i=1074001448",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Apology",
         "previews": [
           {
@@ -230,8 +273,8 @@
           "Dance"
         ],
         "trackNumber": 4,
-        "durationInMillis": 196893,
         "releaseDate": "2019-07-01",
+        "durationInMillis": 196893,
         "isrc": "KRA381903442",
         "artwork": {
           "width": 3000,
@@ -243,14 +286,14 @@
           "textColor3": "bcb09f",
           "textColor4": "ba936d"
         },
-        "url": "https://music.apple.com/us/album/wish/1470921587?i=1470921591",
         "playParams": {
           "id": "1470921591",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/wish/1470921587?i=1470921591",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Wish",
         "previews": [
           {
@@ -272,8 +315,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 198187,
         "releaseDate": "2020-10-19",
+        "durationInMillis": 198187,
         "isrc": "KRA382005817",
         "artwork": {
           "width": 3000,
@@ -286,14 +329,14 @@
           "textColor4": "b36f2f"
         },
         "composerName": "Diederik van Elsas, Georgia Ku, JQ, Jesse Saint John, Parrish Warrington & Hyesu",
-        "url": "https://music.apple.com/us/album/voice/1534800428?i=1534800435",
         "playParams": {
           "id": "1534800435",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/voice/1534800428?i=1534800435",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Voice",
         "previews": [
           {
@@ -335,8 +378,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Coin",
         "previews": [
           {
@@ -378,8 +421,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Juicy Wiggle",
         "previews": [
           {
@@ -401,8 +444,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 185213,
         "releaseDate": "2021-10-07",
+        "durationInMillis": 185213,
         "isrc": "KRA492101034",
         "artwork": {
           "width": 1400,
@@ -415,14 +458,14 @@
           "textColor4": "312020"
         },
         "composerName": "\ubc15\uc6b0\uc0c1, Hyezoo, Kyum LYK & Honest",
-        "url": "https://music.apple.com/us/album/express-moon/1588860459?i=1588860481",
         "playParams": {
           "id": "1588860481",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/express-moon/1588860459?i=1588860481",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Express moon",
         "previews": [
           {
@@ -443,8 +486,8 @@
           "Music"
         ],
         "trackNumber": 12,
-        "releaseDate": "2019-05-22",
         "durationInMillis": 208801,
+        "releaseDate": "2019-05-22",
         "isrc": "USWD11993077",
         "artwork": {
           "width": 3000,
@@ -485,8 +528,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 184398,
         "releaseDate": "2020-01-10",
+        "durationInMillis": 184398,
         "isrc": "GBSMU7271017",
         "artwork": {
           "width": 3000,
@@ -498,14 +541,14 @@
           "textColor3": "333333",
           "textColor4": "484a49"
         },
-        "url": "https://music.apple.com/us/album/take-me-with-you/1577749634?i=1577749636",
         "playParams": {
           "id": "1577749636",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/take-me-with-you/1577749634?i=1577749636",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Take Me With You",
         "previews": [
           {
@@ -546,8 +589,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Window to a World",
         "previews": [
           {
@@ -583,11 +626,11 @@
           "textColor4": "e1c59f"
         },
         "composerName": "Magnus Skylstad & Aurora Aksnes",
-        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "playParams": {
           "id": "1640353346",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cure-for-me/1640352685?i=1640353346",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -611,8 +654,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "durationInMillis": 230056,
         "releaseDate": "2010-05-10",
+        "durationInMillis": 230056,
         "isrc": "USQE91000035",
         "artwork": {
           "width": 4462,
@@ -624,14 +667,14 @@
           "textColor3": "d5dfe6",
           "textColor4": "a6d3de"
         },
-        "url": "https://music.apple.com/us/album/rill-rill/1435614964?i=1435615306",
         "playParams": {
           "id": "1435615306",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/rill-rill/1435614964?i=1435615306",
         "discNumber": 3,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rill Rill",
         "previews": [
           {
@@ -667,11 +710,11 @@
           "textColor4": "384843"
         },
         "composerName": "Afshin Salmani, Josh Cumbee, Ryan S. Jhun, Shari Short & Josephina Carr",
-        "url": "https://music.apple.com/us/album/bon-voyage/1530216879?i=1530216880",
         "playParams": {
           "id": "1530216880",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/bon-voyage/1530216879?i=1530216880",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -696,8 +739,8 @@
           "Fitness & Workout"
         ],
         "trackNumber": 6,
-        "durationInMillis": 189585,
         "releaseDate": "2018-12-28",
+        "durationInMillis": 189585,
         "isrc": "GBSMU6422393",
         "artwork": {
           "width": 3000,
@@ -709,14 +752,14 @@
           "textColor3": "333333",
           "textColor4": "655b44"
         },
-        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "playParams": {
           "id": "1464893090",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Breathe",
         "previews": [
           {
@@ -738,8 +781,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-07-26",
         "durationInMillis": 180843,
+        "releaseDate": "2019-07-26",
         "isrc": "NLE801900440",
         "artwork": {
           "width": 3000,
@@ -800,8 +843,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -823,8 +866,8 @@
           "Children's Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-11-01",
         "durationInMillis": 90508,
+        "releaseDate": "2020-11-01",
         "isrc": "QZNWQ2008975",
         "artwork": {
           "width": 3000,
@@ -865,8 +908,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 267122,
         "releaseDate": "2016-11-15",
+        "durationInMillis": 267122,
         "isrc": "IT0311600102",
         "artwork": {
           "width": 3000,
@@ -879,14 +922,14 @@
           "textColor4": "804134"
         },
         "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "playParams": {
           "id": "1502627615",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -907,8 +950,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -936,49 +979,6 @@
           }
         ],
         "artistName": "YOASOBI"
-      }
-    },
-    {
-      "id": "1684674682",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1684674682",
-      "attributes": {
-        "albumName": "I feel - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 6,
-        "releaseDate": "2023-05-15",
-        "durationInMillis": 190947,
-        "isrc": "KRA392300006",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "faa9c7",
-          "textColor2": "e59eb8",
-          "textColor3": "c8879f",
-          "textColor4": "b77e93"
-        },
-        "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
-        "playParams": {
-          "id": "1684674682",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Peter Pan",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/40/94/b6/4094b6ed-428e-8c7e-d29a-a99c58616134/mzaf_2673819179159095395.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
       }
     },
     {
@@ -1012,8 +1012,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Mephisto",
         "previews": [
           {
@@ -1048,11 +1048,11 @@
           "textColor4": "90b19d"
         },
         "composerName": "Max Martin, Oscar Holter, The Weeknd, Belly & Daheala",
-        "url": "https://music.apple.com/us/album/blinding-lights/1499378108?i=1499378607",
         "playParams": {
           "id": "1499378607",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/blinding-lights/1499378108?i=1499378607",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -1076,8 +1076,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "2020-03-20",
         "durationInMillis": 215627,
+        "releaseDate": "2020-03-20",
         "isrc": "USUG12000658",
         "artwork": {
           "width": 3000,
@@ -1104,8 +1104,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/76/f0/42/76f042a2-ec4a-03df-c3c4-bfd2e1971b3f/mzaf_3250400076320409439.plus.aac.p.m4a"
           }
         ],
-        "artistName": "The Weeknd",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "The Weeknd"
       }
     },
     {
@@ -1119,8 +1119,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "releaseDate": "2020-01-28",
         "durationInMillis": 241080,
+        "releaseDate": "2020-01-28",
         "isrc": "CZL102000099",
         "artwork": {
           "width": 3000,
@@ -1182,8 +1182,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -1205,8 +1205,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-03-31",
         "durationInMillis": 173134,
+        "releaseDate": "2023-03-31",
         "isrc": "KRA402300002",
         "artwork": {
           "width": 4000,
@@ -1247,8 +1247,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 188508,
         "releaseDate": "2022-09-16",
+        "durationInMillis": 188508,
         "isrc": "USAT22208889",
         "artwork": {
           "width": 1425,
@@ -1261,14 +1261,14 @@
           "textColor4": "4e4e4d"
         },
         "composerName": "Blake Slatkin, Charlie Puth, Jacob Kasher Hindlin & Jake Torrey",
-        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "playParams": {
           "id": "1633318780",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-dont-think-that-i-like-her/1633318292?i=1633318780",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I Don\u2019t Think That I Like Her",
         "previews": [
           {
