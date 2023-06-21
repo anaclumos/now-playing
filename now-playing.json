@@ -2,6 +2,119 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1485814678",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1485814678",
+      "attributes": {
+        "albumName": "Baian\u00e1 - Single",
+        "genreNames": [
+          "House",
+          "Music",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-07-26",
+        "durationInMillis": 180843,
+        "isrc": "NLE801900440",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
+          "bgColor": "74c5bf",
+          "textColor1": "0b0416",
+          "textColor2": "212528",
+          "textColor3": "202a38",
+          "textColor4": "314546"
+        },
+        "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
+        "playParams": {
+          "id": "1485814678",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Baian\u00e1",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/6a/52/7e6a5226-7c7a-d023-3afe-3a73c4a86204/mzaf_4036404580000631993.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Bakermat"
+      }
+    },
+    {
+      "id": "i.XMD6xg4ivEldPV2",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
+      "attributes": {
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 185448,
+        "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T213607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=f788b445cf9387cd7d0fd65850dd299792ca6931f9b14d9cd18d0ada7f6425ec"
+        },
+        "playParams": {
+          "id": "i.XMD6xg4ivEldPV2",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1445054805",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1445054805",
+      "attributes": {
+        "albumName": "Fly Away (feat. Anjulie) - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2017-06-02",
+        "durationInMillis": 194268,
+        "isrc": "SEUM71700411",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/cc/c8/80/ccc880b1-f353-2483-131a-2dc12a4fbb2d/00602557718584.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0c0d11",
+          "textColor1": "c2d2e2",
+          "textColor2": "aebfd2",
+          "textColor3": "9dabb8",
+          "textColor4": "8e9bab"
+        },
+        "composerName": "Christian F.J. B\u00fcttner & John Dang",
+        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
+        "playParams": {
+          "id": "1445054805",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Fly Away (feat. Anjulie)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/7e/ff/8c7effbc-234b-261a-3c55-abe0bb98d8a9/mzaf_7876143572502840434.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TheFatRat"
+      }
+    },
+    {
       "id": "1502627615",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1502627615",
@@ -32,8 +145,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -75,8 +188,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Gloria Filio (Mom's Heart)",
         "previews": [
           {
@@ -84,49 +197,6 @@
           }
         ],
         "artistName": "Mudeth"
-      }
-    },
-    {
-      "id": "1485814678",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1485814678",
-      "attributes": {
-        "albumName": "Baian\u00e1 - Single",
-        "genreNames": [
-          "House",
-          "Music",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-07-26",
-        "durationInMillis": 180843,
-        "isrc": "NLE801900440",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
-          "bgColor": "74c5bf",
-          "textColor1": "0b0416",
-          "textColor2": "212528",
-          "textColor3": "202a38",
-          "textColor4": "314546"
-        },
-        "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
-        "playParams": {
-          "id": "1485814678",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Baian\u00e1",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/6a/52/7e6a5226-7c7a-d023-3afe-3a73c4a86204/mzaf_4036404580000631993.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Bakermat"
       }
     },
     {
@@ -161,8 +231,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Spicy",
         "previews": [
           {
@@ -204,8 +274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -225,46 +295,18 @@
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 194760,
         "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
         "artistName": "\ub274\uc9c4\uc2a4",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T212751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230621%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=f094d5c3438079e666f779641b3b907371fe4db1b91813dad192578d55485257"
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T213607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230621%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=2ff7ff6812997f8c59c9801c2b8219435b0cfccbdc84ef17e2c91be1e142efaa"
         },
         "playParams": {
           "id": "i.WmYQkggixo4rAzD",
-          "kind": "song",
-          "isLibrary": true,
-          "reporting": false
-        }
-      }
-    },
-    {
-      "id": "i.XMD6xg4ivEldPV2",
-      "type": "library-songs",
-      "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
-      "attributes": {
-        "discNumber": 0,
-        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
-        "genreNames": [
-          ""
-        ],
-        "trackNumber": 0,
-        "hasLyrics": false,
-        "durationInMillis": 185448,
-        "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
-        "artistName": "\ub274\uc9c4\uc2a4",
-        "artwork": {
-          "width": null,
-          "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T212751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=4f7b52b06345a358beb07633990b7664ab8236d8bb08ab884fffa387204c33d0"
-        },
-        "playParams": {
-          "id": "i.XMD6xg4ivEldPV2",
           "kind": "song",
           "isLibrary": true,
           "reporting": false
@@ -302,8 +344,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not The One",
         "previews": [
           {
@@ -344,8 +386,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -386,8 +428,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -428,8 +470,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In A Club",
         "previews": [
           {
@@ -471,8 +513,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pyro",
         "previews": [
           {
@@ -515,8 +557,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Parachute",
         "previews": [
           {
@@ -524,48 +566,6 @@
           }
         ],
         "artistName": "JUUNO"
-      }
-    },
-    {
-      "id": "1445054805",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1445054805",
-      "attributes": {
-        "albumName": "Fly Away (feat. Anjulie) - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-06-02",
-        "durationInMillis": 194268,
-        "isrc": "SEUM71700411",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/cc/c8/80/ccc880b1-f353-2483-131a-2dc12a4fbb2d/00602557718584.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c0d11",
-          "textColor1": "c2d2e2",
-          "textColor2": "aebfd2",
-          "textColor3": "9dabb8",
-          "textColor4": "8e9bab"
-        },
-        "composerName": "Christian F.J. B\u00fcttner & John Dang",
-        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
-        "playParams": {
-          "id": "1445054805",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Fly Away (feat. Anjulie)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/7e/ff/8c7effbc-234b-261a-3c55-abe0bb98d8a9/mzaf_7876143572502840434.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TheFatRat"
       }
     },
     {
@@ -599,8 +599,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Nights",
         "previews": [
           {
@@ -641,8 +641,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -683,8 +683,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nevada (feat. Cozi Zuehlsdorff)",
         "previews": [
           {
@@ -726,8 +726,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Don\u2019t Stop",
         "previews": [
           {
@@ -768,8 +768,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Be In Love",
         "previews": [
           {
@@ -810,8 +810,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -851,8 +851,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Highlife",
         "previews": [
           {
@@ -893,8 +893,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Unity",
         "previews": [
           {
@@ -935,16 +935,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Uber Everywhere",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/93/ab/7c93abb6-5856-064b-0e28-92ee6a220cbf/mzaf_1704612818297087300.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "MadeinTYO"
+        "artistName": "MadeinTYO",
+        "contentRating": "explicit"
       }
     },
     {
@@ -979,8 +979,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pyro",
         "previews": [
           {
@@ -1021,8 +1021,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "2 Ph\u00fat H\u01a1n (KAIZ Remix)",
         "previews": [
           {
@@ -1063,16 +1063,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "On My Way",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/63/f4/2163f4b2-8e9c-6f1b-e6da-1dd838f0941f/mzaf_952717904460349711.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Alan Walker, Sabrina Carpenter & Farruko"
+        "artistName": "Alan Walker, Sabrina Carpenter & Farruko",
+        "contentRating": "explicit"
       }
     },
     {
@@ -1106,8 +1106,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Astronomia",
         "previews": [
           {
@@ -1148,8 +1148,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Die For You",
         "previews": [
           {
@@ -1190,8 +1190,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Kill Bill",
         "previews": [
           {
@@ -1233,8 +1233,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Allergy",
         "previews": [
           {
