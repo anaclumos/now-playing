@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1682502483",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1682502483",
+      "attributes": {
+        "albumName": "UNFORGIVEN",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 10,
+        "releaseDate": "2023-05-01",
+        "durationInMillis": 185539,
+        "isrc": "USA2P2310665",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "440619",
+          "textColor2": "51091c",
+          "textColor3": "6a3847",
+          "textColor4": "733a4a"
+        },
+        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
+        "playParams": {
+          "id": "1682502483",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/8c/c7/838cc7cc-e9e8-799d-e3db-16d893a08461/mzaf_1148336731883147937.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "LE SSERAFIM"
+      }
+    },
+    {
       "id": "1438719770",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1438719770",
@@ -26,11 +69,11 @@
           "textColor4": "b59633"
         },
         "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "playParams": {
           "id": "1438719770",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -196,11 +239,11 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "playParams": {
           "id": "1483357101",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -218,20 +261,20 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
       "attributes": {
-        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 185448,
         "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
         "artistName": "\ub274\uc9c4\uc2a4",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T151047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=5277e99b6b758f5460d673affeb8400892eec31edc9b64c761861873ddfac3e8"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T152113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=3cb7d67b4abc42b1f3ac35bca2fd76b3cab630181a2cf65cb032ca3739c489c0"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -252,8 +295,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-08-23",
         "durationInMillis": 191411,
+        "releaseDate": "2021-08-23",
         "isrc": "AUBEC2009349",
         "artwork": {
           "width": 2000,
@@ -266,14 +309,14 @@
           "textColor4": "afd01a"
         },
         "composerName": "Tuan Nguyen Manh",
-        "url": "https://music.apple.com/us/album/not-the-one/1582461676?i=1582461679",
         "playParams": {
           "id": "1582461679",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/not-the-one/1582461676?i=1582461679",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not The One",
         "previews": [
           {
@@ -310,14 +353,14 @@
           "textColor3": "d3d2d2",
           "textColor4": "bbbbbb"
         },
-        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "playParams": {
           "id": "1449088263",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Parachute",
         "previews": [
           {
@@ -339,8 +382,8 @@
           "Easy Listening"
         ],
         "trackNumber": 5,
-        "durationInMillis": 191466,
         "releaseDate": "2020-03-16",
+        "durationInMillis": 191466,
         "isrc": "GX3HH2179630",
         "artwork": {
           "width": 3000,
@@ -352,11 +395,11 @@
           "textColor3": "cad0d1",
           "textColor4": "719ea6"
         },
+        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "playParams": {
           "id": "1573916009",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -380,8 +423,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2007-07-11",
         "durationInMillis": 188360,
+        "releaseDate": "2007-07-11",
         "isrc": "GBLNL0700282",
         "artwork": {
           "width": 1500,
@@ -421,8 +464,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-19",
         "durationInMillis": 323107,
+        "releaseDate": "2022-03-19",
         "isrc": "HKK972207257",
         "artwork": {
           "width": 1500,
@@ -435,14 +478,14 @@
           "textColor4": "6ea7be"
         },
         "composerName": "Qu\u00e1ch Tr\u1ecdng",
-        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "playParams": {
           "id": "1615205534",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -505,8 +548,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-02-26",
         "durationInMillis": 153429,
+        "releaseDate": "2016-02-26",
         "isrc": "QM4HH1610001",
         "artwork": {
           "width": 1500,
@@ -519,14 +562,14 @@
           "textColor4": "d2bf95"
         },
         "composerName": "MadeinTYO",
-        "url": "https://music.apple.com/us/album/uber-everywhere/1087400055?i=1087400750",
         "playParams": {
           "id": "1087400750",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/uber-everywhere/1087400055?i=1087400750",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Uber Everywhere",
         "previews": [
           {
@@ -562,11 +605,11 @@
           "textColor3": "c9af96",
           "textColor4": "6ca6b4"
         },
+        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "playParams": {
           "id": "1123774055",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -647,14 +690,14 @@
           "textColor4": "aaaaaa"
         },
         "composerName": "Nicholas Furlong, Gabriel Benjamin, Jordan Suecof, John Feldmann, Tim Bergling & Ash Pournouri",
-        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "playParams": {
           "id": "1440829549",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -689,11 +732,11 @@
           "textColor4": "432f44"
         },
         "composerName": "Nguy\u1ec5n Di\u1ec7u Huy\u1ec1n",
+        "url": "https://music.apple.com/us/album/2-ph%C3%BAt-h%C6%A1n-kaiz-remix/1545181209?i=1545181211",
         "playParams": {
           "id": "1545181211",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/2-ph%C3%BAt-h%C6%A1n-kaiz-remix/1545181209?i=1545181211",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -745,8 +788,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/63/f4/2163f4b2-8e9c-6f1b-e6da-1dd838f0941f/mzaf_952717904460349711.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Alan Walker, Sabrina Carpenter & Farruko"
+        "artistName": "Alan Walker, Sabrina Carpenter & Farruko",
+        "contentRating": "explicit"
       }
     },
     {
@@ -760,8 +803,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-09-16",
         "durationInMillis": 198095,
+        "releaseDate": "2016-09-16",
         "isrc": "DK4YA1609401",
         "artwork": {
           "width": 1500,
@@ -792,49 +835,6 @@
       }
     },
     {
-      "id": "1682502483",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1682502483",
-      "attributes": {
-        "albumName": "UNFORGIVEN",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 10,
-        "durationInMillis": 185539,
-        "releaseDate": "2023-05-01",
-        "isrc": "USA2P2310665",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/ff/ba/17ffba08-f99d-4e23-d8fe-af42ff9e67b2/196922444470_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "440619",
-          "textColor2": "51091c",
-          "textColor3": "6a3847",
-          "textColor4": "733a4a"
-        },
-        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "playParams": {
-          "id": "1682502483",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/8c/c7/838cc7cc-e9e8-799d-e3db-16d893a08461/mzaf_1148336731883147937.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "LE SSERAFIM"
-      }
-    },
-    {
       "id": "1440872304",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1440872304",
@@ -845,8 +845,8 @@
           "Music"
         ],
         "trackNumber": 17,
-        "releaseDate": "2016-11-25",
         "durationInMillis": 260256,
+        "releaseDate": "2016-11-25",
         "isrc": "USUG11601011",
         "artwork": {
           "width": 3000,
@@ -887,8 +887,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-12-09",
         "durationInMillis": 153947,
+        "releaseDate": "2022-12-09",
         "isrc": "USRC12204584",
         "artwork": {
           "width": 3000,
@@ -930,8 +930,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 162787,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -973,8 +973,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "durationInMillis": 190947,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 190947,
         "isrc": "KRA392300006",
         "artwork": {
           "width": 1400,
@@ -987,11 +987,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1072,14 +1072,14 @@
           "textColor3": "af9574",
           "textColor4": "b38761"
         },
-        "url": "https://music.apple.com/us/album/obliviate/786862990?i=786863019",
         "playParams": {
           "id": "786863019",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/obliviate/786862990?i=786863019",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Obliviate",
         "previews": [
           {
@@ -1103,8 +1103,8 @@
           "K-Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2019-10-25",
         "durationInMillis": 241920,
+        "releaseDate": "2019-10-25",
         "isrc": "KRA301900513",
         "artwork": {
           "width": 3000,
@@ -1116,14 +1116,14 @@
           "textColor3": "323232",
           "textColor4": "3e3e3e"
         },
-        "url": "https://music.apple.com/us/album/fame-feat-song-ga-in-chancellor/1588085586?i=1588085591",
         "playParams": {
           "id": "1588085591",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fame-feat-song-ga-in-chancellor/1588085586?i=1588085591",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "FAME (feat. Song Ga In & Chancellor)",
         "previews": [
           {
@@ -1147,8 +1147,8 @@
           "Soul"
         ],
         "trackNumber": 4,
-        "releaseDate": "2016-04-01",
         "durationInMillis": 196840,
+        "releaseDate": "2016-04-01",
         "isrc": "GBCFB1600015",
         "artwork": {
           "width": 3000,
@@ -1232,8 +1232,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2020-10-19",
         "durationInMillis": 198187,
+        "releaseDate": "2020-10-19",
         "isrc": "KRA382005817",
         "artwork": {
           "width": 3000,
