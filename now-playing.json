@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1680047537",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1680047537",
+      "attributes": {
+        "albumName": "I've IVE",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
+        "isrc": "QM4TX2337765",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
+          "bgColor": "f9f9f9",
+          "textColor1": "131313",
+          "textColor2": "323232",
+          "textColor3": "414141",
+          "textColor4": "5a5a5a"
+        },
+        "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
+        "playParams": {
+          "id": "1680047537",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Kitsch",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/3d/ba/673dba1b-b6b4-7ce5-3e08-eddb3a6f696a/mzaf_2864103806642779120.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1681324047",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1681324047",
+      "attributes": {
+        "albumName": "SEVENTEEN 10th Mini Album 'FML' - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-04-24",
+        "durationInMillis": 200387,
+        "isrc": "USA2P2310675",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dedede",
+          "textColor1": "090909",
+          "textColor2": "0c0c0c",
+          "textColor3": "343434",
+          "textColor4": "363636"
+        },
+        "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
+        "playParams": {
+          "id": "1681324047",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Super",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/bd/81/87bd81ee-6097-2378-9cb0-4112a67c57cc/mzaf_10176775218568565545.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "SEVENTEEN"
+      }
+    },
+    {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "1682502472",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502472",
@@ -171,48 +299,6 @@
           }
         ],
         "artistName": "aespa"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-04-12",
-        "durationInMillis": 213234,
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -685,8 +771,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
       "attributes": {
-        "discNumber": 0,
         "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -698,7 +784,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T223919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230621%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=fffe715dd524064dc0e65e7096e4b4a204ed928faa2248993a6e2539fa75e8e2"
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T224735Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230621%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=307b96b1939e5c78f471d327f34deef49b5450f07d43d78f9f1a00c439f7527c"
         },
         "playParams": {
           "id": "i.WmYQkggixo4rAzD",
@@ -925,8 +1011,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
       "attributes": {
-        "discNumber": 0,
         "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -938,7 +1024,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T223919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=4e3971ce9617fd044c8ac3d2ef677400e6e452782808a19043b9ba1fa2cbc9bd"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T224735Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=08715aa6f4b8802d9a7435f352375ef7ab6385dd11d28f8f3c8c6a091ae794ae"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -1158,92 +1244,6 @@
           }
         ],
         "artistName": "ITZY"
-      }
-    },
-    {
-      "id": "1087400750",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1087400750",
-      "attributes": {
-        "albumName": "Uber Everywhere - Single",
-        "genreNames": [
-          "Hip-Hop/Rap",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2016-02-26",
-        "durationInMillis": 153429,
-        "isrc": "QM4HH1610001",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/13/87/19/138719b1-a9fa-11b5-1f38-fbfb619205c4/075597946307.jpg/{w}x{h}bb.jpg",
-          "bgColor": "555555",
-          "textColor1": "f8f8f8",
-          "textColor2": "f1daa5",
-          "textColor3": "d7d7d7",
-          "textColor4": "d2bf95"
-        },
-        "composerName": "MadeinTYO",
-        "url": "https://music.apple.com/us/album/uber-everywhere/1087400055?i=1087400750",
-        "playParams": {
-          "id": "1087400750",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Uber Everywhere",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/93/ab/7c93abb6-5856-064b-0e28-92ee6a220cbf/mzaf_1704612818297087300.plus.aac.p.m4a"
-          }
-        ],
-        "contentRating": "explicit",
-        "artistName": "MadeinTYO"
-      }
-    },
-    {
-      "id": "1479729563",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1479729563",
-      "attributes": {
-        "albumName": "Pyro - Single",
-        "genreNames": [
-          "House",
-          "Music",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-10-07",
-        "durationInMillis": 148364,
-        "isrc": "NLG3N1900048",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/eb/d4/9e/ebd49e09-efbf-b64b-63a0-b2cae1aee8cb/8718522271229.png/{w}x{h}bb.jpg",
-          "bgColor": "9d4600",
-          "textColor1": "f3eaeb",
-          "textColor2": "fdba3e",
-          "textColor3": "e2c9bc",
-          "textColor4": "e9a332"
-        },
-        "composerName": "Demchenko Dmitriy & Antonio Castrillo",
-        "url": "https://music.apple.com/us/album/pyro/1479729562?i=1479729563",
-        "playParams": {
-          "id": "1479729563",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Pyro",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/77/54/dc/7754dc6f-62eb-c4cb-3c55-e418d69a4a54/mzaf_13227744621815491885.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Chester Young & Castion"
       }
     }
   ]
