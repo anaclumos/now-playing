@@ -2,6 +2,104 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.WmYQkggixo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
+      "attributes": {
+        "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 194760,
+        "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T174935Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230621%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=968a9735465091a7598f5e5e270a9d811e933a7250a5c75b8ad41e231399e9a3"
+        },
+        "playParams": {
+          "id": "i.WmYQkggixo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "i.XMD6xg4ivEldPV2",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
+      "attributes": {
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 185448,
+        "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T174935Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=5a6a5937bee521f5fa4fdeb25008be65b3ad5f7a1cd672a85c981e6a221c94ff"
+        },
+        "playParams": {
+          "id": "i.XMD6xg4ivEldPV2",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1582461679",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1582461679",
+      "attributes": {
+        "albumName": "Not The One - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 191411,
+        "releaseDate": "2021-08-23",
+        "isrc": "AUBEC2009349",
+        "artwork": {
+          "width": 2000,
+          "height": 2000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/01/43/3e/01433eb1-c6f8-3591-7149-da14ba1a4f70/190296479311.jpg/{w}x{h}bb.jpg",
+          "bgColor": "181818",
+          "textColor1": "f5f5f5",
+          "textColor2": "d6ff1a",
+          "textColor3": "c8c8c8",
+          "textColor4": "afd01a"
+        },
+        "composerName": "Tuan Nguyen Manh",
+        "playParams": {
+          "id": "1582461679",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/not-the-one/1582461676?i=1582461679",
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Not The One",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/52/34/63/52346397-8916-f048-2acb-bcf7fddb1860/mzaf_16339819633305972864.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "DJ HAI CENA"
+      }
+    },
+    {
       "id": "1682502483",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502483",
@@ -13,8 +111,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -69,14 +167,14 @@
           "textColor4": "b59633"
         },
         "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "playParams": {
           "id": "1438719770",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -111,14 +209,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -153,14 +251,14 @@
           "textColor4": "bf28c0"
         },
         "composerName": "Aleksandr Gorokhov",
-        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "playParams": {
           "id": "1476872517",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In A Club",
         "previews": [
           {
@@ -182,8 +280,8 @@
           "Alternative"
         ],
         "trackNumber": 8,
-        "releaseDate": "2016-12-24",
         "durationInMillis": 202051,
+        "releaseDate": "2016-12-24",
         "isrc": "QZ4JJ1683939",
         "artwork": {
           "width": 3000,
@@ -225,8 +323,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-10-07",
         "durationInMillis": 148364,
+        "releaseDate": "2019-10-07",
         "isrc": "NLG3N1900048",
         "artwork": {
           "width": 3000,
@@ -257,48 +355,6 @@
       }
     },
     {
-      "id": "1582461679",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1582461679",
-      "attributes": {
-        "albumName": "Not The One - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 191411,
-        "releaseDate": "2021-08-23",
-        "isrc": "AUBEC2009349",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/01/43/3e/01433eb1-c6f8-3591-7149-da14ba1a4f70/190296479311.jpg/{w}x{h}bb.jpg",
-          "bgColor": "181818",
-          "textColor1": "f5f5f5",
-          "textColor2": "d6ff1a",
-          "textColor3": "c8c8c8",
-          "textColor4": "afd01a"
-        },
-        "composerName": "Tuan Nguyen Manh",
-        "url": "https://music.apple.com/us/album/not-the-one/1582461676?i=1582461679",
-        "playParams": {
-          "id": "1582461679",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Not The One",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/52/34/63/52346397-8916-f048-2acb-bcf7fddb1860/mzaf_16339819633305972864.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "DJ HAI CENA"
-      }
-    },
-    {
       "id": "1449088263",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1449088263",
@@ -325,14 +381,14 @@
           "textColor3": "d3d2d2",
           "textColor4": "bbbbbb"
         },
-        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "playParams": {
           "id": "1449088263",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Parachute",
         "previews": [
           {
@@ -368,14 +424,14 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -410,14 +466,14 @@
           "textColor4": "8e9bab"
         },
         "composerName": "Christian F.J. B\u00fcttner & John Dang",
-        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
         "playParams": {
           "id": "1445054805",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fly Away (feat. Anjulie)",
         "previews": [
           {
@@ -438,8 +494,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2014-01-01",
         "durationInMillis": 176658,
+        "releaseDate": "2014-01-01",
         "isrc": "CH3131340464",
         "artwork": {
           "width": 1500,
@@ -494,14 +550,14 @@
           "textColor3": "cad0d1",
           "textColor4": "719ea6"
         },
-        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "playParams": {
           "id": "1573916009",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -523,8 +579,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-06-24",
         "durationInMillis": 208562,
+        "releaseDate": "2016-06-24",
         "isrc": "CA6D21600175",
         "artwork": {
           "width": 2000,
@@ -565,8 +621,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-05-29",
         "durationInMillis": 362034,
+        "releaseDate": "2018-05-29",
         "isrc": "USDY41897733",
         "artwork": {
           "width": 1400,
@@ -607,8 +663,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "releaseDate": "2020-08-17",
         "durationInMillis": 200033,
+        "releaseDate": "2020-08-17",
         "isrc": "US5TA2000079",
         "artwork": {
           "width": 1400,
@@ -649,8 +705,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-19",
         "durationInMillis": 323107,
+        "releaseDate": "2022-03-19",
         "isrc": "HKK972207257",
         "artwork": {
           "width": 1500,
@@ -691,8 +747,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2007-07-11",
         "durationInMillis": 188360,
+        "releaseDate": "2007-07-11",
         "isrc": "GBLNL0700282",
         "artwork": {
           "width": 1500,
@@ -746,14 +802,14 @@
           "textColor3": "c3ced6",
           "textColor4": "937fbf"
         },
-        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "playParams": {
           "id": "973530281",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Unity",
         "previews": [
           {
@@ -774,8 +830,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-02-26",
         "durationInMillis": 153429,
+        "releaseDate": "2016-02-26",
         "isrc": "QM4HH1610001",
         "artwork": {
           "width": 1500,
@@ -802,8 +858,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/93/ab/7c93abb6-5856-064b-0e28-92ee6a220cbf/mzaf_1704612818297087300.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "MadeinTYO"
+        "artistName": "MadeinTYO",
+        "contentRating": "explicit"
       }
     },
     {
@@ -832,14 +888,14 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
-        "url": "https://music.apple.com/us/album/pyro/1479729562?i=1479729563",
         "playParams": {
           "id": "1479729563",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pyro/1479729562?i=1479729563",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pyro",
         "previews": [
           {
@@ -860,8 +916,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-12-18",
         "durationInMillis": 183832,
+        "releaseDate": "2020-12-18",
         "isrc": "NLZ542002234",
         "artwork": {
           "width": 2000,
@@ -916,22 +972,22 @@
           "textColor4": "5c91b1"
         },
         "composerName": "Alan Walker, Sabrina Carpenter, Julia Karlsson, Anton Rundberg, Jesper Borgen, Anders Froen, Gunnar Greve, Fredrik Borch Olsen, \u00d8yvind Sauvik, Farruko, Franklin Jovani Mart\u00ednez & Marcos G. P\u00e9rez",
-        "url": "https://music.apple.com/us/album/on-my-way/1455648995?i=1455648996",
         "playParams": {
           "id": "1455648996",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/on-my-way/1455648995?i=1455648996",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "On My Way",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/63/f4/2163f4b2-8e9c-6f1b-e6da-1dd838f0941f/mzaf_952717904460349711.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Alan Walker, Sabrina Carpenter & Farruko"
+        "artistName": "Alan Walker, Sabrina Carpenter & Farruko",
+        "contentRating": "explicit"
       }
     },
     {
@@ -945,8 +1001,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-09-16",
         "durationInMillis": 198095,
+        "releaseDate": "2016-09-16",
         "isrc": "DK4YA1609401",
         "artwork": {
           "width": 1500,
@@ -987,8 +1043,8 @@
           "Music"
         ],
         "trackNumber": 17,
-        "releaseDate": "2016-11-25",
         "durationInMillis": 260256,
+        "releaseDate": "2016-11-25",
         "isrc": "USUG11601011",
         "artwork": {
           "width": 3000,
@@ -1043,14 +1099,14 @@
           "textColor4": "638ab2"
         },
         "composerName": "SZA, Rob Bisel & Carter Lang",
-        "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
         "playParams": {
           "id": "1657869393",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Kill Bill",
         "previews": [
           {
@@ -1072,8 +1128,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 162787,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -1129,14 +1185,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Peter Pan",
         "previews": [
           {
@@ -1171,14 +1227,14 @@
           "textColor3": "d8d9da",
           "textColor4": "b4bcc6"
         },
-        "url": "https://music.apple.com/us/album/%EB%8C%80%EC%84%B1%EB%8B%B9%EB%93%A4%EC%9D%98-%EC%8B%9C%EB%8C%80/1598740747?i=1598740748",
         "playParams": {
           "id": "1598740748",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%EB%8C%80%EC%84%B1%EB%8B%B9%EB%93%A4%EC%9D%98-%EC%8B%9C%EB%8C%80/1598740747?i=1598740748",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "\ub300\uc131\ub2f9\ub4e4\uc758 \uc2dc\ub300",
         "previews": [
           {
@@ -1186,93 +1242,6 @@
           }
         ],
         "artistName": "4ONE"
-      }
-    },
-    {
-      "id": "786863019",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/786863019",
-      "attributes": {
-        "albumName": "Modern Times \u2013 Epilogue",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 9,
-        "durationInMillis": 190173,
-        "releaseDate": "2013-10-08",
-        "isrc": "KRA381205846",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/7e/c4/63/7ec46341-e1c2-0e22-00a9-b2a11d4b559a/KM0002460-_3_-1220.jpg/{w}x{h}bb.jpg",
-          "bgColor": "100d04",
-          "textColor1": "d7b790",
-          "textColor2": "dca678",
-          "textColor3": "af9574",
-          "textColor4": "b38761"
-        },
-        "url": "https://music.apple.com/us/album/obliviate/786862990?i=786863019",
-        "playParams": {
-          "id": "786863019",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Obliviate",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1e/65/9d/1e659d39-2f73-013d-a936-264577f8ddd7/mzaf_6291001278756282463.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IU"
-      }
-    },
-    {
-      "id": "1588085591",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1588085591",
-      "attributes": {
-        "albumName": "CHANNEL 8",
-        "genreNames": [
-          "Korean Hip-Hop",
-          "Music",
-          "Hip-Hop/Rap",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 241920,
-        "releaseDate": "2019-10-25",
-        "isrc": "KRA301900513",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/67/e7/7067e7cc-547e-d85b-7afd-5486a56b3db1/191953093925.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f0f0f0",
-          "textColor1": "030303",
-          "textColor2": "121212",
-          "textColor3": "323232",
-          "textColor4": "3e3e3e"
-        },
-        "url": "https://music.apple.com/us/album/fame-feat-song-ga-in-chancellor/1588085586?i=1588085591",
-        "playParams": {
-          "id": "1588085591",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "FAME (feat. Song Ga In & Chancellor)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/6a/86/c36a867a-6e53-3a55-a300-93997f47d6c9/mzaf_11755468662849869354.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "MC MONG"
       }
     }
   ]
