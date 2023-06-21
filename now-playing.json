@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1483357101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1483357101",
+      "attributes": {
+        "albumName": "Pyro - Single",
+        "genreNames": [
+          "House",
+          "Music",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-10-07",
+        "durationInMillis": 148364,
+        "isrc": "NLG3N1900048",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4f/e6/0e4fe600-7ffc-51e2-da47-fbe65d7988a4/8718522271236.png/{w}x{h}bb.jpg",
+          "bgColor": "9d4600",
+          "textColor1": "f3eaeb",
+          "textColor2": "fdba3e",
+          "textColor3": "e2c9bc",
+          "textColor4": "e9a332"
+        },
+        "composerName": "Demchenko Dmitriy & Antonio Castrillo",
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
+        "playParams": {
+          "id": "1483357101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Pyro",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/d7/ce/bfd7ce92-506b-dd64-ce4d-afd533ae7c54/mzaf_10673402147275129198.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Chester Young & Castion"
+      }
+    },
+    {
+      "id": "564404213",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/564404213",
+      "attributes": {
+        "albumName": "Organic Electronica",
+        "genreNames": [
+          "Electronic",
+          "Music"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2012-08-14",
+        "durationInMillis": 299402,
+        "isrc": "USAML1222206",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/de/c1/b7/dec1b731-3206-21c0-1503-d3f06d338dc5/887396479494.tif/{w}x{h}bb.jpg",
+          "bgColor": "010006",
+          "textColor1": "d6d8da",
+          "textColor2": "bec4c8",
+          "textColor3": "acacb0",
+          "textColor4": "989ca1"
+        },
+        "composerName": "Sandbank",
+        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
+        "playParams": {
+          "id": "564404213",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "In the Middle",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/01/86/a9/mzi.xdqkxlmj.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sandbank"
+      }
+    },
+    {
       "id": "1582461679",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1582461679",
@@ -349,15 +434,15 @@
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 194760,
         "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
         "artistName": "\ub274\uc9c4\uc2a4",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T221136Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230621%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=b826e4eaef297912ec4492fb43ee7e8a0735bc1b4ce81aa3da3c23753d04e0f0"
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T222250Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230621%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=ce456ca2145c226d02b97a42a869cd2027d3eccd81b42543f6aeba3449df7ef7"
         },
         "playParams": {
           "id": "i.WmYQkggixo4rAzD",
@@ -589,15 +674,15 @@
         "genreNames": [
           ""
         ],
-        "trackNumber": 0,
         "hasLyrics": false,
+        "trackNumber": 0,
         "durationInMillis": 185448,
         "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
         "artistName": "\ub274\uc9c4\uc2a4",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T221136Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=3dbae2a4eb41f2a25d3a17b71b308651211ab40318de81789d7346f62575baec"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230621T222250Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230621%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=d32fc78ff5c3e3f32f9e1e6781f8a1c2537c53d36660eadeaa4facd432177d0a"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -820,49 +905,6 @@
       }
     },
     {
-      "id": "1483357101",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1483357101",
-      "attributes": {
-        "albumName": "Pyro - Single",
-        "genreNames": [
-          "House",
-          "Music",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-10-07",
-        "durationInMillis": 148364,
-        "isrc": "NLG3N1900048",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4f/e6/0e4fe600-7ffc-51e2-da47-fbe65d7988a4/8718522271236.png/{w}x{h}bb.jpg",
-          "bgColor": "9d4600",
-          "textColor1": "f3eaeb",
-          "textColor2": "fdba3e",
-          "textColor3": "e2c9bc",
-          "textColor4": "e9a332"
-        },
-        "composerName": "Demchenko Dmitriy & Antonio Castrillo",
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
-        "playParams": {
-          "id": "1483357101",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Pyro",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/d7/ce/bfd7ce92-506b-dd64-ce4d-afd533ae7c54/mzaf_10673402147275129198.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Chester Young & Castion"
-      }
-    },
-    {
       "id": "1395762305",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1395762305",
@@ -986,8 +1028,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/93/ab/7c93abb6-5856-064b-0e28-92ee6a220cbf/mzaf_1704612818297087300.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "MadeinTYO"
+        "artistName": "MadeinTYO",
+        "contentRating": "explicit"
       }
     },
     {
@@ -1114,8 +1156,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/63/f4/2163f4b2-8e9c-6f1b-e6da-1dd838f0941f/mzaf_952717904460349711.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Alan Walker, Sabrina Carpenter & Farruko"
+        "artistName": "Alan Walker, Sabrina Carpenter & Farruko",
+        "contentRating": "explicit"
       }
     },
     {
@@ -1200,48 +1242,6 @@
           }
         ],
         "artistName": "The Weeknd"
-      }
-    },
-    {
-      "id": "1657869393",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1657869393",
-      "attributes": {
-        "albumName": "SOS",
-        "genreNames": [
-          "R&B/Soul",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-12-09",
-        "durationInMillis": 153947,
-        "isrc": "USRC12204584",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/{w}x{h}bb.jpg",
-          "bgColor": "021433",
-          "textColor1": "97bad9",
-          "textColor2": "7ba8d2",
-          "textColor3": "7999b7",
-          "textColor4": "638ab2"
-        },
-        "composerName": "SZA, Rob Bisel & Carter Lang",
-        "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
-        "playParams": {
-          "id": "1657869393",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "Kill Bill",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b7/bf/f5/b7bff559-e243-b139-c4eb-ec6952b4f62a/mzaf_16462401295257841838.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "SZA"
       }
     }
   ]
