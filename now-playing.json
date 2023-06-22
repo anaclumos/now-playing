@@ -2,6 +2,91 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1483357101",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1483357101",
+      "attributes": {
+        "albumName": "Pyro - Single",
+        "genreNames": [
+          "House",
+          "Music",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-10-07",
+        "durationInMillis": 148364,
+        "isrc": "NLG3N1900048",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4f/e6/0e4fe600-7ffc-51e2-da47-fbe65d7988a4/8718522271236.png/{w}x{h}bb.jpg",
+          "bgColor": "9d4600",
+          "textColor1": "f3eaeb",
+          "textColor2": "fdba3e",
+          "textColor3": "e2c9bc",
+          "textColor4": "e9a332"
+        },
+        "composerName": "Demchenko Dmitriy & Antonio Castrillo",
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
+        "playParams": {
+          "id": "1483357101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Pyro",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/d7/ce/bfd7ce92-506b-dd64-ce4d-afd533ae7c54/mzaf_10673402147275129198.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Chester Young & Castion"
+      }
+    },
+    {
+      "id": "973530281",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/973530281",
+      "attributes": {
+        "albumName": "Unity - Single",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Electronic"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2015-03-06",
+        "durationInMillis": 249286,
+        "isrc": "TCACE1531588",
+        "artwork": {
+          "width": 1600,
+          "height": 1600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/56/d3/df56d3dc-96b0-da54-7b9a-00054f949cd5/859714354288_cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0c1b3c",
+          "textColor1": "f1fbfd",
+          "textColor2": "b598e0",
+          "textColor3": "c3ced6",
+          "textColor4": "937fbf"
+        },
+        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
+        "playParams": {
+          "id": "973530281",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Unity",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/5b/07/5a5b0732-f93c-fdcd-be9d-001d71d63bff/mzaf_11122794277897498307.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TheFatRat"
+      }
+    },
+    {
       "id": "1502627615",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1502627615",
@@ -314,7 +399,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T054407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230622%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=e982bae50a2bbec96e72d776bd335216f1372e12e7dd2987c004f22ebb8275df"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T055233Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230622%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=e6c8be6a3da941714c1cbe6c0db1158c4b23a459123b51b48ffb1f12df6702af"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -409,49 +494,6 @@
       }
     },
     {
-      "id": "1483357101",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1483357101",
-      "attributes": {
-        "albumName": "Pyro - Single",
-        "genreNames": [
-          "House",
-          "Music",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-10-07",
-        "durationInMillis": 148364,
-        "isrc": "NLG3N1900048",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4f/e6/0e4fe600-7ffc-51e2-da47-fbe65d7988a4/8718522271236.png/{w}x{h}bb.jpg",
-          "bgColor": "9d4600",
-          "textColor1": "f3eaeb",
-          "textColor2": "fdba3e",
-          "textColor3": "e2c9bc",
-          "textColor4": "e9a332"
-        },
-        "composerName": "Demchenko Dmitriy & Antonio Castrillo",
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
-        "playParams": {
-          "id": "1483357101",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Pyro",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/d7/ce/bfd7ce92-506b-dd64-ce4d-afd533ae7c54/mzaf_10673402147275129198.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Chester Young & Castion"
-      }
-    },
-    {
       "id": "1573916009",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1573916009",
@@ -511,7 +553,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T054407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230622%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=70da75b3c8130072ebf33d0efd65f69166144d0604fc3eeae3115ac8f856aedf"
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T055233Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230622%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=c5b96897159fb21ce3ad72d25b1f855c27d35ef7f1a2eeb8db8c0af381fc7d61"
         },
         "playParams": {
           "id": "i.WmYQkggixo4rAzD",
@@ -819,48 +861,6 @@
       }
     },
     {
-      "id": "973530281",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/973530281",
-      "attributes": {
-        "albumName": "Unity - Single",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Electronic"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2015-03-06",
-        "durationInMillis": 249286,
-        "isrc": "TCACE1531588",
-        "artwork": {
-          "width": 1600,
-          "height": 1600,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/56/d3/df56d3dc-96b0-da54-7b9a-00054f949cd5/859714354288_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c1b3c",
-          "textColor1": "f1fbfd",
-          "textColor2": "b598e0",
-          "textColor3": "c3ced6",
-          "textColor4": "937fbf"
-        },
-        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
-        "playParams": {
-          "id": "973530281",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Unity",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/5b/07/5a5b0732-f93c-fdcd-be9d-001d71d63bff/mzaf_11122794277897498307.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TheFatRat"
-      }
-    },
-    {
       "id": "1689329128",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1689329128",
@@ -942,8 +942,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/78/ac/8378ac90-8aa7-fd0e-e5e9-b0713454f39c/mzaf_16193074131465976322.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Charlie Puth",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Charlie Puth"
       }
     },
     {
