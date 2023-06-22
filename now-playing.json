@@ -2,6 +2,119 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "i.WmYQkggixo4rAzD",
+      "type": "library-songs",
+      "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
+      "attributes": {
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
+        "genreNames": [
+          ""
+        ],
+        "hasLyrics": false,
+        "trackNumber": 0,
+        "durationInMillis": 194760,
+        "name": "\ub274\uc9c4\uc2a4 \uc5ed\ub300 \ubc1c\ub9e4\uace1 \uc288\ud37c\ub9ac\ubbf9\uc2a4",
+        "artistName": "\ub274\uc9c4\uc2a4",
+        "artwork": {
+          "width": null,
+          "height": null,
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T044807Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230622%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=e800f04da87105703d8188369784dbe70d172699486bbf3d8908bfc11adaa8eb"
+        },
+        "playParams": {
+          "id": "i.WmYQkggixo4rAzD",
+          "kind": "song",
+          "isLibrary": true,
+          "reporting": false
+        }
+      }
+    },
+    {
+      "id": "1123774055",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1123774055",
+      "attributes": {
+        "albumName": "Nevada (feat. Cozi Zuehlsdorff) - Single",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Electronic"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2016-06-24",
+        "durationInMillis": 208562,
+        "isrc": "CA6D21600175",
+        "artwork": {
+          "width": 2000,
+          "height": 2000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/90/e7/9d/90e79d72-1a14-9027-de23-b2a8c1a57977/859717382349_cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "161b2f",
+          "textColor1": "f6d4b0",
+          "textColor2": "82c8d6",
+          "textColor3": "c9af96",
+          "textColor4": "6ca6b4"
+        },
+        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
+        "playParams": {
+          "id": "1123774055",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Nevada (feat. Cozi Zuehlsdorff)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/70/c1/0a/70c10a12-8396-664a-1e26-9d90abc3f8c6/mzaf_17415194040220380688.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vicetone"
+      }
+    },
+    {
+      "id": "1189772224",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1189772224",
+      "attributes": {
+        "albumName": "Antibirth",
+        "genreNames": [
+          "Soundtrack",
+          "Music",
+          "Alternative"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "2016-12-24",
+        "durationInMillis": 202051,
+        "isrc": "QZ4JJ1683939",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/d6/89/45/d68945f4-a69c-2e47-1834-ee4037a9d796/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "f2e8e3",
+          "textColor2": "d6cdc3",
+          "textColor3": "c1bab5",
+          "textColor4": "aba49c"
+        },
+        "composerName": "Mudeth",
+        "playParams": {
+          "id": "1189772224",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/gloria-filio-moms-heart/1189772211?i=1189772224",
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Gloria Filio (Mom's Heart)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/ca/90/6bca9066-2ce8-9551-ca13-83021d5652de/mzaf_14397066307316801676.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Mudeth"
+      }
+    },
+    {
       "id": "1615205534",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1615205534",
@@ -26,11 +139,11 @@
           "textColor4": "6ea7be"
         },
         "composerName": "Qu\u00e1ch Tr\u1ecdng",
-        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "playParams": {
           "id": "1615205534",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -74,8 +187,8 @@
         },
         "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -103,7 +216,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
           "bgColor": "74c5bf",
           "textColor1": "0b0416",
           "textColor2": "212528",
@@ -148,7 +261,7 @@
         "artwork": {
           "width": 2400,
           "height": 2400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/58/58/b058580b-ad78-f5e7-a8bc-74e1b20a3ee5/r4r4.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b0/58/58/b058580b-ad78-f5e7-a8bc-74e1b20a3ee5/r4r4.jpg/{w}x{h}bb.jpg",
           "bgColor": "272727",
           "textColor1": "fffdfe",
           "textColor2": "e0e0e0",
@@ -189,7 +302,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
           "bgColor": "130a3e",
           "textColor1": "ffffff",
           "textColor2": "ff00fe",
@@ -231,7 +344,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
           "bgColor": "ffffff",
           "textColor1": "360900",
           "textColor2": "601202",
@@ -245,8 +358,8 @@
         },
         "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -254,49 +367,6 @@
           }
         ],
         "artistName": "Vijay & Sofia & Notte"
-      }
-    },
-    {
-      "id": "1189772224",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1189772224",
-      "attributes": {
-        "albumName": "Antibirth",
-        "genreNames": [
-          "Soundtrack",
-          "Music",
-          "Alternative"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "2016-12-24",
-        "durationInMillis": 202051,
-        "isrc": "QZ4JJ1683939",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/89/45/d68945f4-a69c-2e47-1834-ee4037a9d796/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "f2e8e3",
-          "textColor2": "d6cdc3",
-          "textColor3": "c1bab5",
-          "textColor4": "aba49c"
-        },
-        "composerName": "Mudeth",
-        "url": "https://music.apple.com/us/album/gloria-filio-moms-heart/1189772211?i=1189772224",
-        "playParams": {
-          "id": "1189772224",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Gloria Filio (Mom's Heart)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/ca/90/6bca9066-2ce8-9551-ca13-83021d5652de/mzaf_14397066307316801676.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Mudeth"
       }
     },
     {
@@ -316,7 +386,7 @@
         "artwork": {
           "width": 1440,
           "height": 1440,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "000000",
           "textColor1": "e5e1e2",
           "textColor2": "e3bc40",
@@ -324,14 +394,14 @@
           "textColor4": "b59633"
         },
         "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "playParams": {
           "id": "1438719770",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -358,7 +428,7 @@
         "artwork": {
           "width": 2000,
           "height": 2000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/43/3e/01433eb1-c6f8-3591-7149-da14ba1a4f70/190296479311.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/01/43/3e/01433eb1-c6f8-3591-7149-da14ba1a4f70/190296479311.jpg/{w}x{h}bb.jpg",
           "bgColor": "181818",
           "textColor1": "f5f5f5",
           "textColor2": "d6ff1a",
@@ -372,8 +442,8 @@
         },
         "url": "https://music.apple.com/us/album/not-the-one/1582461676?i=1582461679",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not The One",
         "previews": [
           {
@@ -401,7 +471,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6e/6c/a8/6e6ca824-faee-73c5-c510-825a453c37aa/5059137773412_cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/6e/6c/a8/6e6ca824-faee-73c5-c510-825a453c37aa/5059137773412_cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "ffffff",
           "textColor1": "000000",
           "textColor2": "3f3216",
@@ -450,11 +520,11 @@
           "textColor3": "c3ced6",
           "textColor4": "937fbf"
         },
-        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "playParams": {
           "id": "973530281",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -484,7 +554,7 @@
         "artwork": {
           "width": 1500,
           "height": 1500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/2f/6e/8a/2f6e8ae8-6c7a-d9bb-2c40-02641494b928/191018258429.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/2f/6e/8a/2f6e8ae8-6c7a-d9bb-2c40-02641494b928/191018258429.jpg/{w}x{h}bb.jpg",
           "bgColor": "0d0b0c",
           "textColor1": "81e151",
           "textColor2": "fa0391",
@@ -526,7 +596,7 @@
         "artwork": {
           "width": 1400,
           "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/56/7c/bc567cda-5ed2-635a-56a4-f088c773624b/738676856729_Cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/bc/56/7c/bc567cda-5ed2-635a-56a4-f088c773624b/738676856729_Cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "2b6080",
           "textColor1": "f4ffff",
           "textColor2": "cbe3b6",
@@ -540,8 +610,8 @@
         },
         "url": "https://music.apple.com/us/album/you-were-beautiful/1689328375?i=1689329128",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "You Were Beautiful",
         "previews": [
           {
@@ -568,7 +638,7 @@
         "artwork": {
           "width": 1425,
           "height": 1425,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
           "bgColor": "dadad8",
           "textColor1": "040404",
           "textColor2": "2c2c2b",
@@ -582,16 +652,16 @@
         },
         "url": "https://music.apple.com/us/album/thats-hilarious/1633318292?i=1633318546",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "That's Hilarious",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/78/ac/8378ac90-8aa7-fd0e-e5e9-b0713454f39c/mzaf_16193074131465976322.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Charlie Puth",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Charlie Puth"
       }
     },
     {
@@ -612,7 +682,7 @@
         "artwork": {
           "width": 1400,
           "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "dedede",
           "textColor1": "090909",
           "textColor2": "0c0c0c",
@@ -655,7 +725,7 @@
         "artwork": {
           "width": 1400,
           "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "dedede",
           "textColor1": "090909",
           "textColor2": "0c0c0c",
@@ -663,14 +733,14 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI & BUMZU",
+        "url": "https://music.apple.com/us/album/f-ck-my-life/1681324004?i=1681324043",
         "playParams": {
           "id": "1681324043",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/f-ck-my-life/1681324004?i=1681324043",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "F*ck My Life",
         "previews": [
           {
@@ -698,7 +768,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/64/c3/de/64c3de97-2049-06e5-9411-e0723a1d25b1/196589704559.jpg/{w}x{h}bb.jpg",
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/64/c3/de/64c3de97-2049-06e5-9411-e0723a1d25b1/196589704559.jpg/{w}x{h}bb.jpg",
           "bgColor": "981329",
           "textColor1": "f8c4cf",
           "textColor2": "f195b0",
@@ -712,8 +782,8 @@
         },
         "url": "https://music.apple.com/us/album/rose-blossom/1661207539?i=1661207542",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -741,7 +811,7 @@
         "artwork": {
           "width": 4000,
           "height": 4000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/83/31578320-668c-39ac-9b69-20beba684835/03_INVU.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/83/31578320-668c-39ac-9b69-20beba684835/03_INVU.jpg/{w}x{h}bb.jpg",
           "bgColor": "1a1a1a",
           "textColor1": "c9be8a",
           "textColor2": "a7bbd8",
@@ -749,14 +819,14 @@
           "textColor4": "8a9bb2"
         },
         "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "playParams": {
           "id": "1609049613",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -784,7 +854,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
           "bgColor": "fde3aa",
           "textColor1": "000000",
           "textColor2": "333333",
@@ -792,11 +862,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "playParams": {
           "id": "1679292892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -828,21 +898,21 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c0/f6/ed/c0f6ed15-120e-c8f7-3142-17d5e65e922b/cover_KM0015466_1.jpg/{w}x{h}bb.jpg",
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/c0/f6/ed/c0f6ed15-120e-c8f7-3142-17d5e65e922b/cover_KM0015466_1.jpg/{w}x{h}bb.jpg",
           "bgColor": "3b5eaf",
           "textColor1": "fdf4ed",
           "textColor2": "f5f2fa",
           "textColor3": "d6d6e1",
           "textColor4": "d0d5eb"
         },
-        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "playParams": {
           "id": "1628243993",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Romance Symphony (feat. CHANGMO & Jay Park)",
         "previews": [
           {
@@ -870,7 +940,7 @@
         "artwork": {
           "width": 2000,
           "height": 2000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
           "bgColor": "e8e8e8",
           "textColor1": "0f0609",
           "textColor2": "2d2d2d",
@@ -912,7 +982,7 @@
         "artwork": {
           "width": 1425,
           "height": 1425,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/d3/b4/a2d3b416-ebf1-b038-9678-32eea16e758b/075679698292.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/a2/d3/b4/a2d3b416-ebf1-b038-9678-32eea16e758b/075679698292.jpg/{w}x{h}bb.jpg",
           "bgColor": "000f27",
           "textColor1": "edf2ee",
           "textColor2": "e8775d",
@@ -920,11 +990,11 @@
           "textColor4": "ba6352"
         },
         "composerName": "Charlie Puth, Dan Smyers & Jordan Reynolds",
-        "url": "https://music.apple.com/us/album/thats-not-how-this-works-feat-dan-shay/1677668946?i=1677669196",
         "playParams": {
           "id": "1677669196",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thats-not-how-this-works-feat-dan-shay/1677668946?i=1677669196",
         "discNumber": 1,
         "isAppleDigitalMaster": true,
         "hasLyrics": true,
@@ -963,11 +1033,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -999,18 +1069,18 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/58/af/da/58afdace-2164-0453-07ac-c51d3d235d26/cover_KM0015085_1.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/58/af/da/58afdace-2164-0453-07ac-c51d3d235d26/cover_KM0015085_1.jpg/{w}x{h}bb.jpg",
           "bgColor": "bfbcb7",
           "textColor1": "010101",
           "textColor2": "1a1a1a",
           "textColor3": "272726",
           "textColor4": "3b3a39"
         },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "playParams": {
           "id": "1619757892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1084,7 +1154,7 @@
         "artwork": {
           "width": 1400,
           "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "fdfcff",
           "textColor1": "36080e",
           "textColor2": "440a11",
@@ -1098,8 +1168,8 @@
         },
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Ditto",
         "previews": [
           {
@@ -1127,7 +1197,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c0/13/22/c01322df-40be-a2c8-56e8-f5be1d3471fa/Yerin_Baek.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c0/13/22/c01322df-40be-a2c8-56e8-f5be1d3471fa/Yerin_Baek.jpg/{w}x{h}bb.jpg",
           "bgColor": "cbdce6",
           "textColor1": "080f0b",
           "textColor2": "0d1a13",
@@ -1140,8 +1210,8 @@
         },
         "url": "https://music.apple.com/us/album/antifreeze/1584809293?i=1584809295",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Antifreeze",
         "previews": [
           {
@@ -1176,11 +1246,11 @@
           "textColor4": "424545"
         },
         "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "playParams": {
           "id": "1218860394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -1191,94 +1261,6 @@
           }
         ],
         "artistName": "Aimyon"
-      }
-    },
-    {
-      "id": "1690289238",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1690289238",
-      "attributes": {
-        "albumName": "TO DIE FOR",
-        "genreNames": [
-          "Korean Hip-Hop",
-          "Music",
-          "Hip-Hop/Rap",
-          "Pop",
-          "K-Pop"
-        ],
-        "trackNumber": 5,
-        "releaseDate": "2023-06-01",
-        "durationInMillis": 175716,
-        "isrc": "KSA012250135",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/da/a8/04daa85a-50b0-3fba-fd29-317aefdaef4f/8809933233712.jpg/{w}x{h}bb.jpg",
-          "bgColor": "3b3b3b",
-          "textColor1": "f9da7e",
-          "textColor2": "f0bd73",
-          "textColor3": "d3ba70",
-          "textColor4": "cba368"
-        },
-        "composerName": "B.I, \uac15\uc6b1\uc9c4, Diggy & BIG Naughty",
-        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
-        "playParams": {
-          "id": "1690289238",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Dare to Love (feat. BIG Naughty)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/85/79/8a/85798a14-73e2-fce8-c1a3-18458be8cebb/mzaf_10665810321979571122.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "B.I"
-      }
-    },
-    {
-      "id": "1656636785",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1656636785",
-      "attributes": {
-        "albumName": "Boat - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-11-17",
-        "durationInMillis": 191995,
-        "isrc": "KRNAR1709235",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/b7/35/3bb735c4-4062-dec4-b8a5-c9f412b7e889/8809691066829.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0a083b",
-          "textColor1": "ffffff",
-          "textColor2": "aaaace",
-          "textColor3": "cecdd7",
-          "textColor4": "8a8ab1"
-        },
-        "composerName": "george & Deepshower",
-        "url": "https://music.apple.com/us/album/boat/1656636779?i=1656636785",
-        "playParams": {
-          "id": "1656636785",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Boat",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ed/e5/8f/ede58fbd-306f-6e9b-56e2-f62758f426a1/mzaf_14726036096550385123.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "george"
       }
     }
   ]
