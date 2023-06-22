@@ -2,90 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1464893090",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1464893090",
-      "attributes": {
-        "albumName": "Best Shuffle Dance Music 2019, Best Electro House & Bass Boosted Mix",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Fitness & Workout"
-        ],
-        "trackNumber": 6,
-        "releaseDate": "2018-12-28",
-        "durationInMillis": 189585,
-        "isrc": "GBSMU6422393",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6e/6c/a8/6e6ca824-faee-73c5-c510-825a453c37aa/5059137773412_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "3f3216",
-          "textColor3": "333333",
-          "textColor4": "655b44"
-        },
-        "playParams": {
-          "id": "1464893090",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Breathe",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/ba/83/ffba83cf-331a-69b0-990d-93728b3c9248/mzaf_5366204411550802161.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vijay & Sofia"
-      }
-    },
-    {
-      "id": "1445054805",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1445054805",
-      "attributes": {
-        "albumName": "Fly Away (feat. Anjulie) - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-06-02",
-        "durationInMillis": 194268,
-        "isrc": "SEUM71700411",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/c8/80/ccc880b1-f353-2483-131a-2dc12a4fbb2d/00602557718584.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0c0d11",
-          "textColor1": "c2d2e2",
-          "textColor2": "aebfd2",
-          "textColor3": "9dabb8",
-          "textColor4": "8e9bab"
-        },
-        "composerName": "Christian F.J. B\u00fcttner & John Dang",
-        "playParams": {
-          "id": "1445054805",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Fly Away (feat. Anjulie)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/7e/ff/8c7effbc-234b-261a-3c55-abe0bb98d8a9/mzaf_7876143572502840434.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "TheFatRat"
-      }
-    },
-    {
       "id": "1189772224",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1189772224",
@@ -111,11 +27,11 @@
           "textColor4": "aba49c"
         },
         "composerName": "Mudeth",
-        "url": "https://music.apple.com/us/album/gloria-filio-moms-heart/1189772211?i=1189772224",
         "playParams": {
           "id": "1189772224",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/gloria-filio-moms-heart/1189772211?i=1189772224",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -126,6 +42,90 @@
           }
         ],
         "artistName": "Mudeth"
+      }
+    },
+    {
+      "id": "1464893090",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1464893090",
+      "attributes": {
+        "albumName": "Best Shuffle Dance Music 2019, Best Electro House & Bass Boosted Mix",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Fitness & Workout"
+        ],
+        "trackNumber": 6,
+        "durationInMillis": 189585,
+        "releaseDate": "2018-12-28",
+        "isrc": "GBSMU6422393",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6e/6c/a8/6e6ca824-faee-73c5-c510-825a453c37aa/5059137773412_cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "3f3216",
+          "textColor3": "333333",
+          "textColor4": "655b44"
+        },
+        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
+        "playParams": {
+          "id": "1464893090",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Breathe",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/ba/83/ffba83cf-331a-69b0-990d-93728b3c9248/mzaf_5366204411550802161.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vijay & Sofia"
+      }
+    },
+    {
+      "id": "1445054805",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1445054805",
+      "attributes": {
+        "albumName": "Fly Away (feat. Anjulie) - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 194268,
+        "releaseDate": "2017-06-02",
+        "isrc": "SEUM71700411",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/c8/80/ccc880b1-f353-2483-131a-2dc12a4fbb2d/00602557718584.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0c0d11",
+          "textColor1": "c2d2e2",
+          "textColor2": "aebfd2",
+          "textColor3": "9dabb8",
+          "textColor4": "8e9bab"
+        },
+        "composerName": "Christian F.J. B\u00fcttner & John Dang",
+        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
+        "playParams": {
+          "id": "1445054805",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Fly Away (feat. Anjulie)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/7e/ff/8c7effbc-234b-261a-3c55-abe0bb98d8a9/mzaf_7876143572502840434.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "TheFatRat"
       }
     },
     {
@@ -160,8 +160,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pyro",
         "previews": [
           {
@@ -218,8 +218,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
       "attributes": {
-        "discNumber": 0,
         "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "discNumber": 0,
         "genreNames": [
           ""
         ],
@@ -231,7 +231,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T213603Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230622%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=6524c56222e436c0fd3986eba925136b3617745de4f28abc0417d6407c68054f"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T214417Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230622%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=e965a5d9a613a94d729a44abd3426a518ee4258982a5bc173bb5fcb7bf6c49f5"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -273,8 +273,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -310,14 +310,14 @@
           "textColor4": "c07c09"
         },
         "composerName": "Ronny Svendsen, Adrian Thesen, Anne Judith Wik & Sevn Dayz",
+        "url": "https://music.apple.com/us/album/broken-melodies/1692205876?i=1692205877",
         "playParams": {
           "id": "1692205877",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/broken-melodies/1692205876?i=1692205877",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Broken Melodies",
         "previews": [
           {
@@ -338,8 +338,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -352,14 +352,14 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -381,8 +381,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "durationInMillis": 182149,
         "releaseDate": "2023-05-01",
+        "durationInMillis": 182149,
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -467,8 +467,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 161240,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 161240,
         "isrc": "KRA392300001",
         "artwork": {
           "width": 1400,
@@ -530,8 +530,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Spicy",
         "previews": [
           {
@@ -567,11 +567,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -616,8 +616,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -639,8 +639,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "durationInMillis": 195440,
         "releaseDate": "2023-03-27",
+        "durationInMillis": 195440,
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -659,8 +659,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Kitsch",
         "previews": [
           {
@@ -702,8 +702,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super",
         "previews": [
           {
@@ -744,8 +744,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -767,8 +767,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2015-03-06",
         "durationInMillis": 249286,
+        "releaseDate": "2015-03-06",
         "isrc": "TCACE1531588",
         "artwork": {
           "width": 1600,
@@ -780,14 +780,14 @@
           "textColor3": "c3ced6",
           "textColor4": "937fbf"
         },
+        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "playParams": {
           "id": "973530281",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Unity",
         "previews": [
           {
@@ -850,8 +850,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 188360,
         "releaseDate": "2007-07-11",
+        "durationInMillis": 188360,
         "isrc": "GBLNL0700282",
         "artwork": {
           "width": 1500,
@@ -863,11 +863,11 @@
           "textColor3": "6ab643",
           "textColor4": "ca0476"
         },
-        "url": "https://music.apple.com/us/album/highlife/1170913652?i=1170913966",
         "playParams": {
           "id": "1170913966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/highlife/1170913652?i=1170913966",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -948,11 +948,11 @@
           "textColor4": "432e4e"
         },
         "composerName": "Dylan Maddison",
-        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
         "playParams": {
           "id": "1538159807",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -990,11 +990,11 @@
           "textColor3": "c9af96",
           "textColor4": "6ca6b4"
         },
-        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "playParams": {
           "id": "1123774055",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1018,8 +1018,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "releaseDate": "2012-08-14",
         "durationInMillis": 299402,
+        "releaseDate": "2012-08-14",
         "isrc": "USAML1222206",
         "artwork": {
           "width": 1500,
@@ -1032,14 +1032,14 @@
           "textColor4": "989ca1"
         },
         "composerName": "Sandbank",
+        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
         "playParams": {
           "id": "564404213",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In the Middle",
         "previews": [
           {
@@ -1060,8 +1060,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-03-19",
         "durationInMillis": 323107,
+        "releaseDate": "2022-03-19",
         "isrc": "HKK972207257",
         "artwork": {
           "width": 1500,
@@ -1105,8 +1105,8 @@
           "K-Pop"
         ],
         "trackNumber": 19,
-        "durationInMillis": 242640,
         "releaseDate": "2019-01-11",
+        "durationInMillis": 242640,
         "isrc": "KRA491900030",
         "artwork": {
           "width": 2400,
@@ -1118,11 +1118,11 @@
           "textColor3": "d3d2d2",
           "textColor4": "bbbbbb"
         },
-        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "playParams": {
           "id": "1449088263",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -1146,8 +1146,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165606,
         "releaseDate": "2013-09-18",
+        "durationInMillis": 165606,
         "isrc": "ROROT1313101",
         "artwork": {
           "width": 1440,
@@ -1160,11 +1160,11 @@
           "textColor4": "b59633"
         },
         "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "playParams": {
           "id": "1438719770",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1245,14 +1245,14 @@
           "textColor4": "abc9ab"
         },
         "composerName": "Young K, Hong Ji Sang, Woo Min Lee \u201ccollapsedone\u201d & WONPIL",
+        "url": "https://music.apple.com/us/album/you-were-beautiful/1689328375?i=1689329128",
         "playParams": {
           "id": "1689329128",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/you-were-beautiful/1689328375?i=1689329128",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "You Were Beautiful",
         "previews": [
           {
