@@ -2,6 +2,132 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1502627615",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1502627615",
+      "attributes": {
+        "albumName": "Earth Groove - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2016-11-15",
+        "durationInMillis": 267122,
+        "isrc": "IT0311600102",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "360900",
+          "textColor2": "601202",
+          "textColor3": "5e3a33",
+          "textColor4": "804134"
+        },
+        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
+        "playParams": {
+          "id": "1502627615",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Earth Groove (Extended Mix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vijay & Sofia & Notte"
+      }
+    },
+    {
+      "id": "1485814678",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1485814678",
+      "attributes": {
+        "albumName": "Baian\u00e1 - Single",
+        "genreNames": [
+          "House",
+          "Music",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-07-26",
+        "durationInMillis": 180843,
+        "isrc": "NLE801900440",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
+          "bgColor": "74c5bf",
+          "textColor1": "0b0416",
+          "textColor2": "212528",
+          "textColor3": "202a38",
+          "textColor4": "314546"
+        },
+        "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
+        "playParams": {
+          "id": "1485814678",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Baian\u00e1",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/6a/52/7e6a5226-7c7a-d023-3afe-3a73c4a86204/mzaf_4036404580000631993.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Bakermat"
+      }
+    },
+    {
+      "id": "1170913966",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1170913966",
+      "attributes": {
+        "albumName": "Electroclash",
+        "genreNames": [
+          "Electronic",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2007-07-11",
+        "durationInMillis": 188360,
+        "isrc": "GBLNL0700282",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/2f/6e/8a/2f6e8ae8-6c7a-d9bb-2c40-02641494b928/191018258429.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0d0b0c",
+          "textColor1": "81e151",
+          "textColor2": "fa0391",
+          "textColor3": "6ab643",
+          "textColor4": "ca0476"
+        },
+        "url": "https://music.apple.com/us/album/highlife/1170913652?i=1170913966",
+        "playParams": {
+          "id": "1170913966",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Highlife",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1d/b3/30/1db330e4-539b-9b44-6ae1-47674100caca/mzaf_14894569307581108282.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Josh Powell"
+      }
+    },
+    {
       "id": "1476872517",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1476872517",
@@ -18,7 +144,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/35/bf/37/35bf3776-4311-3cb0-f30d-3894ef5bbcae/886447902363.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/35/bf/37/35bf3776-4311-3cb0-f30d-3894ef5bbcae/886447902363.jpg/{w}x{h}bb.jpg",
           "bgColor": "0c184b",
           "textColor1": "fff5fd",
           "textColor2": "eb2cde",
@@ -32,8 +158,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In A Club",
         "previews": [
           {
@@ -61,7 +187,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/63/89/f063894e-6842-c464-40da-e013d05fc42b/artwork.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/63/89/f063894e-6842-c464-40da-e013d05fc42b/artwork.jpg/{w}x{h}bb.jpg",
           "bgColor": "9d95fe",
           "textColor1": "080610",
           "textColor2": "2d1423",
@@ -75,8 +201,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Among Us",
         "previews": [
           {
@@ -104,7 +230,7 @@
         "artwork": {
           "width": 2000,
           "height": 2000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/e7/9d/90e79d72-1a14-9027-de23-b2a8c1a57977/859717382349_cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/90/e7/9d/90e79d72-1a14-9027-de23-b2a8c1a57977/859717382349_cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "161b2f",
           "textColor1": "f6d4b0",
           "textColor2": "82c8d6",
@@ -117,8 +243,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nevada (feat. Cozi Zuehlsdorff)",
         "previews": [
           {
@@ -146,7 +272,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6e/6c/a8/6e6ca824-faee-73c5-c510-825a453c37aa/5059137773412_cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/6e/6c/a8/6e6ca824-faee-73c5-c510-825a453c37aa/5059137773412_cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "ffffff",
           "textColor1": "000000",
           "textColor2": "3f3216",
@@ -159,8 +285,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Breathe",
         "previews": [
           {
@@ -175,8 +301,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
       "attributes": {
-        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "genreNames": [
           ""
         ],
@@ -188,7 +314,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T053601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230622%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=bcb1ec51da4386dabc4a4d1d89262af070307fe9776fcec929368c8bb2b592d4"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T054407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230622%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=e982bae50a2bbec96e72d776bd335216f1372e12e7dd2987c004f22ebb8275df"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -215,7 +341,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/c8/80/ccc880b1-f353-2483-131a-2dc12a4fbb2d/00602557718584.rgb.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/cc/c8/80/ccc880b1-f353-2483-131a-2dc12a4fbb2d/00602557718584.rgb.jpg/{w}x{h}bb.jpg",
           "bgColor": "0c0d11",
           "textColor1": "c2d2e2",
           "textColor2": "aebfd2",
@@ -229,8 +355,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fly Away (feat. Anjulie)",
         "previews": [
           {
@@ -257,7 +383,7 @@
         "artwork": {
           "width": 1500,
           "height": 1500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/de/c1/b7/dec1b731-3206-21c0-1503-d3f06d338dc5/887396479494.tif/{w}x{h}bb.jpg",
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/de/c1/b7/dec1b731-3206-21c0-1503-d3f06d338dc5/887396479494.tif/{w}x{h}bb.jpg",
           "bgColor": "010006",
           "textColor1": "d6d8da",
           "textColor2": "bec4c8",
@@ -271,8 +397,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In the Middle",
         "previews": [
           {
@@ -300,7 +426,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4f/e6/0e4fe600-7ffc-51e2-da47-fbe65d7988a4/8718522271236.png/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4f/e6/0e4fe600-7ffc-51e2-da47-fbe65d7988a4/8718522271236.png/{w}x{h}bb.jpg",
           "bgColor": "9d4600",
           "textColor1": "f3eaeb",
           "textColor2": "fdba3e",
@@ -314,8 +440,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pyro",
         "previews": [
           {
@@ -343,7 +469,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/95/6e/f5956e8e-22c7-f626-591c-59900b924a1d/5059805770040_cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f5/95/6e/f5956e8e-22c7-f626-591c-59900b924a1d/5059805770040_cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "0b181c",
           "textColor1": "fbffff",
           "textColor2": "8bbfc8",
@@ -356,8 +482,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -372,8 +498,8 @@
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.WmYQkggixo4rAzD",
       "attributes": {
-        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "discNumber": 0,
+        "albumName": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
         "genreNames": [
           ""
         ],
@@ -385,7 +511,7 @@
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T053601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230622%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=e9ec5d64b63db05d57836ac62938fd8ba6ff52410c24cb8350efb68a57e255ee"
+          "url": "https://store-030.blobstore.apple.com/sq-mq-us-030-000002/e1/65/00/e1650006-7f59-82e5-79cd-3e61dc18c06c/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T054407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIA24RSZ22BB0LZX9JT%2F20230622%2Fstore-030%2Fs3%2Faws4_request&X-Amz-Signature=70da75b3c8130072ebf33d0efd65f69166144d0604fc3eeae3115ac8f856aedf"
         },
         "playParams": {
           "id": "i.WmYQkggixo4rAzD",
@@ -413,7 +539,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/89/45/d68945f4-a69c-2e47-1834-ee4037a9d796/artwork.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/d6/89/45/d68945f4-a69c-2e47-1834-ee4037a9d796/artwork.jpg/{w}x{h}bb.jpg",
           "bgColor": "000000",
           "textColor1": "f2e8e3",
           "textColor2": "d6cdc3",
@@ -427,8 +553,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Gloria Filio (Mom's Heart)",
         "previews": [
           {
@@ -469,8 +595,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -511,8 +637,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Nights",
         "previews": [
           {
@@ -520,49 +646,6 @@
           }
         ],
         "artistName": "Avicii"
-      }
-    },
-    {
-      "id": "1485814678",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1485814678",
-      "attributes": {
-        "albumName": "Baian\u00e1 - Single",
-        "genreNames": [
-          "House",
-          "Music",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-07-26",
-        "durationInMillis": 180843,
-        "isrc": "NLE801900440",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
-          "bgColor": "74c5bf",
-          "textColor1": "0b0416",
-          "textColor2": "212528",
-          "textColor3": "202a38",
-          "textColor4": "314546"
-        },
-        "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
-        "playParams": {
-          "id": "1485814678",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Baian\u00e1",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/6a/52/7e6a5226-7c7a-d023-3afe-3a73c4a86204/mzaf_4036404580000631993.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Bakermat"
       }
     },
     {
@@ -585,7 +668,7 @@
         "artwork": {
           "width": 2400,
           "height": 2400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/58/58/b058580b-ad78-f5e7-a8bc-74e1b20a3ee5/r4r4.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b0/58/58/b058580b-ad78-f5e7-a8bc-74e1b20a3ee5/r4r4.jpg/{w}x{h}bb.jpg",
           "bgColor": "272727",
           "textColor1": "fffdfe",
           "textColor2": "e0e0e0",
@@ -598,8 +681,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Parachute",
         "previews": [
           {
@@ -626,7 +709,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
           "bgColor": "130a3e",
           "textColor1": "ffffff",
           "textColor2": "ff00fe",
@@ -640,8 +723,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Idol",
         "previews": [
           {
@@ -649,48 +732,6 @@
           }
         ],
         "artistName": "YOASOBI"
-      }
-    },
-    {
-      "id": "1502627615",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1502627615",
-      "attributes": {
-        "albumName": "Earth Groove - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2016-11-15",
-        "durationInMillis": 267122,
-        "isrc": "IT0311600102",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "360900",
-          "textColor2": "601202",
-          "textColor3": "5e3a33",
-          "textColor4": "804134"
-        },
-        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
-        "playParams": {
-          "id": "1502627615",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Earth Groove (Extended Mix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vijay & Sofia & Notte"
       }
     },
     {
@@ -710,7 +751,7 @@
         "artwork": {
           "width": 1440,
           "height": 1440,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "000000",
           "textColor1": "e5e1e2",
           "textColor2": "e3bc40",
@@ -724,8 +765,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -752,7 +793,7 @@
         "artwork": {
           "width": 2000,
           "height": 2000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/43/3e/01433eb1-c6f8-3591-7149-da14ba1a4f70/190296479311.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/01/43/3e/01433eb1-c6f8-3591-7149-da14ba1a4f70/190296479311.jpg/{w}x{h}bb.jpg",
           "bgColor": "181818",
           "textColor1": "f5f5f5",
           "textColor2": "d6ff1a",
@@ -766,8 +807,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not The One",
         "previews": [
           {
@@ -808,8 +849,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Unity",
         "previews": [
           {
@@ -817,47 +858,6 @@
           }
         ],
         "artistName": "TheFatRat"
-      }
-    },
-    {
-      "id": "1170913966",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1170913966",
-      "attributes": {
-        "albumName": "Electroclash",
-        "genreNames": [
-          "Electronic",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2007-07-11",
-        "durationInMillis": 188360,
-        "isrc": "GBLNL0700282",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/2f/6e/8a/2f6e8ae8-6c7a-d9bb-2c40-02641494b928/191018258429.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0d0b0c",
-          "textColor1": "81e151",
-          "textColor2": "fa0391",
-          "textColor3": "6ab643",
-          "textColor4": "ca0476"
-        },
-        "url": "https://music.apple.com/us/album/highlife/1170913652?i=1170913966",
-        "playParams": {
-          "id": "1170913966",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Highlife",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1d/b3/30/1db330e4-539b-9b44-6ae1-47674100caca/mzaf_14894569307581108282.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Josh Powell"
       }
     },
     {
@@ -878,7 +878,7 @@
         "artwork": {
           "width": 1400,
           "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/56/7c/bc567cda-5ed2-635a-56a4-f088c773624b/738676856729_Cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/bc/56/7c/bc567cda-5ed2-635a-56a4-f088c773624b/738676856729_Cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "2b6080",
           "textColor1": "f4ffff",
           "textColor2": "cbe3b6",
@@ -892,8 +892,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "You Were Beautiful",
         "previews": [
           {
@@ -920,7 +920,7 @@
         "artwork": {
           "width": 1425,
           "height": 1425,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/{w}x{h}bb.jpg",
           "bgColor": "dadad8",
           "textColor1": "040404",
           "textColor2": "2c2c2b",
@@ -934,16 +934,16 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "That's Hilarious",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/78/ac/8378ac90-8aa7-fd0e-e5e9-b0713454f39c/mzaf_16193074131465976322.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Charlie Puth"
+        "artistName": "Charlie Puth",
+        "contentRating": "explicit"
       }
     },
     {
@@ -964,7 +964,7 @@
         "artwork": {
           "width": 1400,
           "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "dedede",
           "textColor1": "090909",
           "textColor2": "0c0c0c",
@@ -978,8 +978,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super",
         "previews": [
           {
@@ -1007,7 +1007,7 @@
         "artwork": {
           "width": 1400,
           "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
           "bgColor": "dedede",
           "textColor1": "090909",
           "textColor2": "0c0c0c",
@@ -1021,8 +1021,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "F*ck My Life",
         "previews": [
           {
@@ -1050,7 +1050,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/64/c3/de/64c3de97-2049-06e5-9411-e0723a1d25b1/196589704559.jpg/{w}x{h}bb.jpg",
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/64/c3/de/64c3de97-2049-06e5-9411-e0723a1d25b1/196589704559.jpg/{w}x{h}bb.jpg",
           "bgColor": "981329",
           "textColor1": "f8c4cf",
           "textColor2": "f195b0",
@@ -1064,8 +1064,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -1093,7 +1093,7 @@
         "artwork": {
           "width": 4000,
           "height": 4000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/83/31578320-668c-39ac-9b69-20beba684835/03_INVU.jpg/{w}x{h}bb.jpg",
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/83/31578320-668c-39ac-9b69-20beba684835/03_INVU.jpg/{w}x{h}bb.jpg",
           "bgColor": "1a1a1a",
           "textColor1": "c9be8a",
           "textColor2": "a7bbd8",
@@ -1107,8 +1107,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -1136,7 +1136,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ea/fd/33/eafd33e7-381c-adfb-0f40-b4788f458a5b/5054197636479.jpg/{w}x{h}bb.jpg",
           "bgColor": "fde3aa",
           "textColor1": "000000",
           "textColor2": "333333",
@@ -1150,8 +1150,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid (Twin Ver.)",
         "previews": [
           {
@@ -1180,7 +1180,7 @@
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c0/f6/ed/c0f6ed15-120e-c8f7-3142-17d5e65e922b/cover_KM0015466_1.jpg/{w}x{h}bb.jpg",
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/c0/f6/ed/c0f6ed15-120e-c8f7-3142-17d5e65e922b/cover_KM0015466_1.jpg/{w}x{h}bb.jpg",
           "bgColor": "3b5eaf",
           "textColor1": "fdf4ed",
           "textColor2": "f5f2fa",
@@ -1193,8 +1193,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Romance Symphony (feat. CHANGMO & Jay Park)",
         "previews": [
           {
@@ -1222,7 +1222,7 @@
         "artwork": {
           "width": 2000,
           "height": 2000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/94/b6/96/94b696c4-63be-8196-cae6-1f81be0a4cbe/22UM1IM01017.rgb.jpg/{w}x{h}bb.jpg",
           "bgColor": "e8e8e8",
           "textColor1": "0f0609",
           "textColor2": "2d2d2d",
@@ -1236,8 +1236,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Shut Down",
         "previews": [
           {
