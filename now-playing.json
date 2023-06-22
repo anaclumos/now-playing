@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1440829549",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1440829549",
+      "attributes": {
+        "albumName": "The Days/Nights - EP",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 176658,
+        "releaseDate": "2014-01-01",
+        "isrc": "CH3131340464",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/4d/a0/354da058-972b-dcf9-feec-609895ba8cb2/14UMGIM56567.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "292929",
+          "textColor1": "f1f1f1",
+          "textColor2": "cbcbcb",
+          "textColor3": "c9c9c9",
+          "textColor4": "aaaaaa"
+        },
+        "composerName": "Nicholas Furlong, Gabriel Benjamin, Jordan Suecof, John Feldmann, Tim Bergling & Ash Pournouri",
+        "playParams": {
+          "id": "1440829549",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "name": "The Nights",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cf/a9/cd/cfa9cdf2-5265-8998-754f-62723c183b6a/mzaf_728754204524600097.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Avicii"
+      }
+    },
+    {
       "id": "i.XMD6xg4ivEldPV2",
       "type": "library-songs",
       "href": "/v1/me/library/songs/i.XMD6xg4ivEldPV2",
@@ -11,15 +53,15 @@
         "genreNames": [
           ""
         ],
-        "hasLyrics": false,
         "trackNumber": 0,
+        "hasLyrics": false,
         "durationInMillis": 185448,
         "name": "\ub274\uc9c4\uc2a4 RENAI CIRCULATION",
         "artistName": "\ub274\uc9c4\uc2a4",
         "artwork": {
           "width": null,
           "height": null,
-          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T211844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230622%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=3b64240ad31de36b6300d90e4c191ed5a9ba15fe96017dcdf08807ede892d465"
+          "url": "https://store-033.blobstore.apple.com/sq-mq-us-033-000002/98/6a/fd/986afd33-4a25-189c-8654-cdd4501c92a8/image?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T212721Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=MKIAU0HKO2RBEAT0UMZS%2F20230622%2Fstore-033%2Fs3%2Faws4_request&X-Amz-Signature=9ad501bb3920c6afff7ea30193aec5505e180fa817bbb4f4e59cb5e69e898e83"
         },
         "playParams": {
           "id": "i.XMD6xg4ivEldPV2",
@@ -41,8 +83,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-07-26",
         "durationInMillis": 180843,
+        "releaseDate": "2019-07-26",
         "isrc": "NLE801900440",
         "artwork": {
           "width": 3000,
@@ -55,11 +97,11 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": true,
@@ -126,8 +168,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -169,8 +211,8 @@
           "Pop"
         ],
         "trackNumber": 8,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 182149,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310663",
         "artwork": {
           "width": 1400,
@@ -183,14 +225,14 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -212,8 +254,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-10",
         "durationInMillis": 183853,
+        "releaseDate": "2023-04-10",
         "isrc": "QM4TX2337764",
         "artwork": {
           "width": 3000,
@@ -232,8 +274,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I AM",
         "previews": [
           {
@@ -255,8 +297,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 161240,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300001",
         "artwork": {
           "width": 1400,
@@ -269,14 +311,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Queencard",
         "previews": [
           {
@@ -298,8 +340,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 197040,
+        "releaseDate": "2023-05-08",
         "isrc": "KRA302300145",
         "artwork": {
           "width": 4000,
@@ -312,14 +354,14 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Spicy",
         "previews": [
           {
@@ -341,8 +383,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -361,8 +403,8 @@
         },
         "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -384,8 +426,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-01-05",
         "durationInMillis": 195480,
+        "releaseDate": "2023-01-05",
         "isrc": "KRB462201620",
         "artwork": {
           "width": 3000,
@@ -404,8 +446,8 @@
         },
         "url": "https://music.apple.com/us/album/rose-blossom/1661207539?i=1661207542",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -427,8 +469,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-03-27",
         "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -470,8 +512,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-24",
         "durationInMillis": 200387,
+        "releaseDate": "2023-04-24",
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -490,8 +532,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super",
         "previews": [
           {
@@ -513,8 +555,8 @@
           "Easy Listening"
         ],
         "trackNumber": 5,
-        "releaseDate": "2020-03-16",
         "durationInMillis": 191466,
+        "releaseDate": "2020-03-16",
         "isrc": "GX3HH2179630",
         "artwork": {
           "width": 3000,
@@ -555,8 +597,8 @@
           "Dance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-10-07",
         "durationInMillis": 148364,
+        "releaseDate": "2019-10-07",
         "isrc": "NLG3N1900048",
         "artwork": {
           "width": 3000,
@@ -569,14 +611,14 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "playParams": {
           "id": "1483357101",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pyro",
         "previews": [
           {
@@ -598,8 +640,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2015-03-06",
         "durationInMillis": 249286,
+        "releaseDate": "2015-03-06",
         "isrc": "TCACE1531588",
         "artwork": {
           "width": 1600,
@@ -617,8 +659,8 @@
         },
         "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Unity",
         "previews": [
           {
@@ -639,8 +681,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-11-15",
         "durationInMillis": 267122,
+        "releaseDate": "2016-11-15",
         "isrc": "IT0311600102",
         "artwork": {
           "width": 3000,
@@ -736,11 +778,11 @@
           "textColor4": "bf28c0"
         },
         "composerName": "Aleksandr Gorokhov",
-        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "playParams": {
           "id": "1476872517",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "discNumber": 1,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
@@ -808,8 +850,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-06-24",
         "durationInMillis": 208562,
+        "releaseDate": "2016-06-24",
         "isrc": "CA6D21600175",
         "artwork": {
           "width": 2000,
@@ -821,14 +863,14 @@
           "textColor3": "c9af96",
           "textColor4": "6ca6b4"
         },
+        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "playParams": {
           "id": "1123774055",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nevada (feat. Cozi Zuehlsdorff)",
         "previews": [
           {
@@ -850,8 +892,8 @@
           "Fitness & Workout"
         ],
         "trackNumber": 6,
-        "releaseDate": "2018-12-28",
         "durationInMillis": 189585,
+        "releaseDate": "2018-12-28",
         "isrc": "GBSMU6422393",
         "artwork": {
           "width": 3000,
@@ -863,14 +905,14 @@
           "textColor3": "333333",
           "textColor4": "655b44"
         },
+        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "playParams": {
           "id": "1464893090",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Breathe",
         "previews": [
           {
@@ -891,8 +933,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-06-02",
         "durationInMillis": 194268,
+        "releaseDate": "2017-06-02",
         "isrc": "SEUM71700411",
         "artwork": {
           "width": 3000,
@@ -933,8 +975,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "releaseDate": "2012-08-14",
         "durationInMillis": 299402,
+        "releaseDate": "2012-08-14",
         "isrc": "USAML1222206",
         "artwork": {
           "width": 1500,
@@ -953,8 +995,8 @@
         },
         "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In the Middle",
         "previews": [
           {
@@ -976,8 +1018,8 @@
           "Alternative"
         ],
         "trackNumber": 8,
-        "releaseDate": "2016-12-24",
         "durationInMillis": 202051,
+        "releaseDate": "2016-12-24",
         "isrc": "QZ4JJ1683939",
         "artwork": {
           "width": 3000,
@@ -990,14 +1032,14 @@
           "textColor4": "aba49c"
         },
         "composerName": "Mudeth",
+        "url": "https://music.apple.com/us/album/gloria-filio-moms-heart/1189772211?i=1189772224",
         "playParams": {
           "id": "1189772224",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/gloria-filio-moms-heart/1189772211?i=1189772224",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Gloria Filio (Mom's Heart)",
         "previews": [
           {
@@ -1047,48 +1089,6 @@
           }
         ],
         "artistName": "Qu\u00e1ch Tr?ng & Minh Th\u00e0nh"
-      }
-    },
-    {
-      "id": "1440829549",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1440829549",
-      "attributes": {
-        "albumName": "The Days/Nights - EP",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2014-01-01",
-        "durationInMillis": 176658,
-        "isrc": "CH3131340464",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/4d/a0/354da058-972b-dcf9-feec-609895ba8cb2/14UMGIM56567.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "292929",
-          "textColor1": "f1f1f1",
-          "textColor2": "cbcbcb",
-          "textColor3": "c9c9c9",
-          "textColor4": "aaaaaa"
-        },
-        "composerName": "Nicholas Furlong, Gabriel Benjamin, Jordan Suecof, John Feldmann, Tim Bergling & Ash Pournouri",
-        "playParams": {
-          "id": "1440829549",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
-        "discNumber": 1,
-        "isAppleDigitalMaster": true,
-        "hasLyrics": true,
-        "name": "The Nights",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cf/a9/cd/cfa9cdf2-5265-8998-754f-62723c183b6a/mzaf_728754204524600097.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Avicii"
       }
     },
     {
@@ -1188,8 +1188,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-08-23",
         "durationInMillis": 191411,
+        "releaseDate": "2021-08-23",
         "isrc": "AUBEC2009349",
         "artwork": {
           "width": 2000,
@@ -1231,8 +1231,8 @@
           "Pop"
         ],
         "trackNumber": 13,
-        "releaseDate": "2017-02-06",
         "durationInMillis": 283160,
+        "releaseDate": "2017-02-06",
         "isrc": "US5TA1700019",
         "artwork": {
           "width": 1400,
@@ -1251,8 +1251,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "You Were Beautiful",
         "previews": [
           {
