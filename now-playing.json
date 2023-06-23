@@ -2,90 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "564404213",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/564404213",
-      "attributes": {
-        "albumName": "Organic Electronica",
-        "genreNames": [
-          "Electronic",
-          "Music"
-        ],
-        "trackNumber": 6,
-        "releaseDate": "2012-08-14",
-        "durationInMillis": 299402,
-        "isrc": "USAML1222206",
-        "artwork": {
-          "width": 1500,
-          "height": 1500,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/de/c1/b7/dec1b731-3206-21c0-1503-d3f06d338dc5/887396479494.tif/{w}x{h}bb.jpg",
-          "bgColor": "010006",
-          "textColor1": "d6d8da",
-          "textColor2": "bec4c8",
-          "textColor3": "acacb0",
-          "textColor4": "989ca1"
-        },
-        "composerName": "Sandbank",
-        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
-        "playParams": {
-          "id": "564404213",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "In the Middle",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/01/86/a9/mzi.xdqkxlmj.aac.p.m4a"
-          }
-        ],
-        "artistName": "Sandbank"
-      }
-    },
-    {
-      "id": "1123774055",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1123774055",
-      "attributes": {
-        "albumName": "Nevada (feat. Cozi Zuehlsdorff) - Single",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Electronic"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2016-06-24",
-        "durationInMillis": 208562,
-        "isrc": "CA6D21600175",
-        "artwork": {
-          "width": 2000,
-          "height": 2000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/e7/9d/90e79d72-1a14-9027-de23-b2a8c1a57977/859717382349_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "161b2f",
-          "textColor1": "f6d4b0",
-          "textColor2": "82c8d6",
-          "textColor3": "c9af96",
-          "textColor4": "6ca6b4"
-        },
-        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
-        "playParams": {
-          "id": "1123774055",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Nevada (feat. Cozi Zuehlsdorff)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/70/c1/0a/70c10a12-8396-664a-1e26-9d90abc3f8c6/mzaf_17415194040220380688.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vicetone"
-      }
-    },
-    {
       "id": "1682502472",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502472",
@@ -203,8 +119,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I AM",
         "previews": [
           {
@@ -289,8 +205,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Queencard",
         "previews": [
           {
@@ -417,8 +333,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Spicy",
         "previews": [
           {
@@ -544,8 +460,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Unity",
         "previews": [
           {
@@ -586,8 +502,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -629,8 +545,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -767,6 +683,48 @@
       }
     },
     {
+      "id": "1123774055",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1123774055",
+      "attributes": {
+        "albumName": "Nevada (feat. Cozi Zuehlsdorff) - Single",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Electronic"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2016-06-24",
+        "durationInMillis": 208562,
+        "isrc": "CA6D21600175",
+        "artwork": {
+          "width": 2000,
+          "height": 2000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/e7/9d/90e79d72-1a14-9027-de23-b2a8c1a57977/859717382349_cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "161b2f",
+          "textColor1": "f6d4b0",
+          "textColor2": "82c8d6",
+          "textColor3": "c9af96",
+          "textColor4": "6ca6b4"
+        },
+        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
+        "playParams": {
+          "id": "1123774055",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Nevada (feat. Cozi Zuehlsdorff)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/70/c1/0a/70c10a12-8396-664a-1e26-9d90abc3f8c6/mzaf_17415194040220380688.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vicetone"
+      }
+    },
+    {
       "id": "1464893090",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1464893090",
@@ -848,6 +806,48 @@
           }
         ],
         "artistName": "TheFatRat"
+      }
+    },
+    {
+      "id": "564404213",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/564404213",
+      "attributes": {
+        "albumName": "Organic Electronica",
+        "genreNames": [
+          "Electronic",
+          "Music"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2012-08-14",
+        "durationInMillis": 299402,
+        "isrc": "USAML1222206",
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/de/c1/b7/dec1b731-3206-21c0-1503-d3f06d338dc5/887396479494.tif/{w}x{h}bb.jpg",
+          "bgColor": "010006",
+          "textColor1": "d6d8da",
+          "textColor2": "bec4c8",
+          "textColor3": "acacb0",
+          "textColor4": "989ca1"
+        },
+        "composerName": "Sandbank",
+        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
+        "playParams": {
+          "id": "564404213",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "In the Middle",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/01/86/a9/mzi.xdqkxlmj.aac.p.m4a"
+          }
+        ],
+        "artistName": "Sandbank"
       }
     },
     {
@@ -966,8 +966,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Nights",
         "previews": [
           {
@@ -1010,8 +1010,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Parachute",
         "previews": [
           {
@@ -1052,8 +1052,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -1094,8 +1094,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not The One",
         "previews": [
           {
@@ -1137,8 +1137,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "You Were Beautiful",
         "previews": [
           {
@@ -1187,8 +1187,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/78/ac/8378ac90-8aa7-fd0e-e5e9-b0713454f39c/mzaf_16193074131465976322.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Charlie Puth",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Charlie Puth"
       }
     },
     {
@@ -1223,8 +1223,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "F*ck My Life",
         "previews": [
           {
