@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1476872517",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1476872517",
+      "attributes": {
+        "albumName": "In A Club - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2019-08-16",
+        "durationInMillis": 180880,
+        "isrc": "DEE861903105",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/35/bf/37/35bf3776-4311-3cb0-f30d-3894ef5bbcae/886447902363.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0c184b",
+          "textColor1": "fff5fd",
+          "textColor2": "eb2cde",
+          "textColor3": "cec8d9",
+          "textColor4": "bf28c0"
+        },
+        "composerName": "Aleksandr Gorokhov",
+        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
+        "playParams": {
+          "id": "1476872517",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "In A Club",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/cb/8f/becb8f06-82ee-61a6-2ddd-9f738cd01e34/mzaf_11185562377102822665.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Volac, illusionize & Andre Longo"
+      }
+    },
+    {
+      "id": "1449088263",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1449088263",
+      "attributes": {
+        "albumName": "P.M.C. The Bunker (Original Motion Picture Soundtrack)",
+        "genreNames": [
+          "Original Score",
+          "Music",
+          "Soundtrack",
+          "Pop",
+          "K-Pop"
+        ],
+        "trackNumber": 19,
+        "durationInMillis": 242640,
+        "releaseDate": "2019-01-11",
+        "isrc": "KRA491900030",
+        "artwork": {
+          "width": 2400,
+          "height": 2400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/58/58/b058580b-ad78-f5e7-a8bc-74e1b20a3ee5/r4r4.jpg/{w}x{h}bb.jpg",
+          "bgColor": "272727",
+          "textColor1": "fffdfe",
+          "textColor2": "e0e0e0",
+          "textColor3": "d3d2d2",
+          "textColor4": "bbbbbb"
+        },
+        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
+        "playParams": {
+          "id": "1449088263",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Parachute",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/03/06/b4/0306b4cc-794f-b176-6d14-d402cd0a3cc1/mzaf_5161138046275346659.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "JUUNO"
+      }
+    },
+    {
+      "id": "1485814678",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1485814678",
+      "attributes": {
+        "albumName": "Baian\u00e1 - Single",
+        "genreNames": [
+          "House",
+          "Music",
+          "Dance"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 180843,
+        "releaseDate": "2019-07-26",
+        "isrc": "NLE801900440",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
+          "bgColor": "74c5bf",
+          "textColor1": "0b0416",
+          "textColor2": "212528",
+          "textColor3": "202a38",
+          "textColor4": "314546"
+        },
+        "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
+        "playParams": {
+          "id": "1485814678",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Baian\u00e1",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/6a/52/7e6a5226-7c7a-d023-3afe-3a73c4a86204/mzaf_4036404580000631993.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Bakermat"
+      }
+    },
+    {
       "id": "1679278167",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1679278167",
@@ -12,8 +141,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -32,8 +161,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -74,8 +203,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -97,8 +226,8 @@
           "Easy Listening"
         ],
         "trackNumber": 5,
-        "releaseDate": "2020-03-16",
         "durationInMillis": 191466,
+        "releaseDate": "2020-03-16",
         "isrc": "GX3HH2179630",
         "artwork": {
           "width": 3000,
@@ -110,14 +239,14 @@
           "textColor3": "cad0d1",
           "textColor4": "719ea6"
         },
+        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "playParams": {
           "id": "1573916009",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -153,14 +282,14 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "playParams": {
           "id": "1483357101",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pyro",
         "previews": [
           {
@@ -195,14 +324,14 @@
           "textColor4": "8e9bab"
         },
         "composerName": "Christian F.J. B\u00fcttner & John Dang",
+        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
         "playParams": {
           "id": "1445054805",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Away (feat. Anjulie)",
         "previews": [
           {
@@ -224,8 +353,8 @@
           "Alternative"
         ],
         "trackNumber": 8,
-        "releaseDate": "2016-12-24",
         "durationInMillis": 202051,
+        "releaseDate": "2016-12-24",
         "isrc": "QZ4JJ1683939",
         "artwork": {
           "width": 3000,
@@ -244,8 +373,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Gloria Filio (Mom's Heart)",
         "previews": [
           {
@@ -267,8 +396,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-06-24",
         "durationInMillis": 208562,
+        "releaseDate": "2016-06-24",
         "isrc": "CA6D21600175",
         "artwork": {
           "width": 2000,
@@ -280,14 +409,14 @@
           "textColor3": "c9af96",
           "textColor4": "6ca6b4"
         },
+        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "playParams": {
           "id": "1123774055",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Nevada (feat. Cozi Zuehlsdorff)",
         "previews": [
           {
@@ -308,8 +437,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2014-01-01",
         "durationInMillis": 176658,
+        "releaseDate": "2014-01-01",
         "isrc": "CH3131340464",
         "artwork": {
           "width": 1500,
@@ -328,8 +457,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -364,14 +493,14 @@
           "textColor4": "b59633"
         },
         "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "playParams": {
           "id": "1438719770",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Toca Toca (Radio Edit)",
         "previews": [
           {
@@ -406,14 +535,14 @@
           "textColor4": "afd01a"
         },
         "composerName": "Tuan Nguyen Manh",
+        "url": "https://music.apple.com/us/album/not-the-one/1582461676?i=1582461679",
         "playParams": {
           "id": "1582461679",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/not-the-one/1582461676?i=1582461679",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not The One",
         "previews": [
           {
@@ -421,49 +550,6 @@
           }
         ],
         "artistName": "DJ HAI CENA"
-      }
-    },
-    {
-      "id": "1485814678",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1485814678",
-      "attributes": {
-        "albumName": "Baian\u00e1 - Single",
-        "genreNames": [
-          "House",
-          "Music",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2019-07-26",
-        "durationInMillis": 180843,
-        "isrc": "NLE801900440",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/49/24/624924da-0dfa-0c97-deb2-41f5e552bd65/0617465010460.png/{w}x{h}bb.jpg",
-          "bgColor": "74c5bf",
-          "textColor1": "0b0416",
-          "textColor2": "212528",
-          "textColor3": "202a38",
-          "textColor4": "314546"
-        },
-        "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "playParams": {
-          "id": "1485814678",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Baian\u00e1",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/6a/52/7e6a5226-7c7a-d023-3afe-3a73c4a86204/mzaf_4036404580000631993.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Bakermat"
       }
     },
     {
@@ -492,14 +578,14 @@
           "textColor4": "414e59"
         },
         "composerName": "Nodayouzirou",
+        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "playParams": {
           "id": "1647112151",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Suzume (feat. Toaka)",
         "previews": [
           {
@@ -520,8 +606,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2023-05-17",
         "durationInMillis": 229360,
+        "releaseDate": "2023-05-17",
         "isrc": "JPU902301823",
         "artwork": {
           "width": 3000,
@@ -534,14 +620,14 @@
           "textColor4": "9daee5"
         },
         "composerName": "Avu Barazono",
+        "url": "https://music.apple.com/us/album/mephisto-off-vocal-version/1685606155?i=1685606416",
         "playParams": {
           "id": "1685606416",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/mephisto-off-vocal-version/1685606155?i=1685606416",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "Mephisto (off vocal version)",
         "previews": [
           {
@@ -577,14 +663,14 @@
           "textColor4": "4b352f"
         },
         "composerName": "Zee, Jeong Dayong & Oh Juhwan",
+        "url": "https://music.apple.com/us/album/grace/1516624305?i=1516624312",
         "playParams": {
           "id": "1516624312",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/grace/1516624305?i=1516624312",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Grace",
         "previews": [
           {
@@ -606,8 +692,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 190947,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300006",
         "artwork": {
           "width": 1400,
@@ -626,8 +712,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Peter Pan",
         "previews": [
           {
@@ -649,8 +735,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 162787,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -669,8 +755,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -692,8 +778,8 @@
           "Fitness & Workout"
         ],
         "trackNumber": 6,
-        "releaseDate": "2018-12-28",
         "durationInMillis": 189585,
+        "releaseDate": "2018-12-28",
         "isrc": "GBSMU6422393",
         "artwork": {
           "width": 3000,
@@ -711,8 +797,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Breathe",
         "previews": [
           {
@@ -753,8 +839,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "\ub300\uc131\ub2f9\ub4e4\uc758 \uc2dc\ub300",
         "previews": [
           {
@@ -776,8 +862,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-01-05",
         "durationInMillis": 195480,
+        "releaseDate": "2023-01-05",
         "isrc": "KRB462201620",
         "artwork": {
           "width": 3000,
@@ -796,8 +882,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -819,8 +905,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-07-28",
         "durationInMillis": 215347,
+        "releaseDate": "2022-07-28",
         "isrc": "KRA382206389",
         "artwork": {
           "width": 3000,
@@ -838,8 +924,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pop? Pop!",
         "previews": [
           {
@@ -860,8 +946,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-06-02",
         "durationInMillis": 191779,
+        "releaseDate": "2023-06-02",
         "isrc": "USWD12326770",
         "artwork": {
           "width": 3000,
@@ -880,8 +966,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -922,8 +1008,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Bohemian Rhapsody",
         "previews": [
           {
@@ -945,8 +1031,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2015-03-06",
         "durationInMillis": 249286,
+        "releaseDate": "2015-03-06",
         "isrc": "TCACE1531588",
         "artwork": {
           "width": 1600,
@@ -964,8 +1050,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Unity",
         "previews": [
           {
@@ -1001,14 +1087,14 @@
           "textColor4": "432e4e"
         },
         "composerName": "Dylan Maddison",
+        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
         "playParams": {
           "id": "1538159807",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Among Us",
         "previews": [
           {
@@ -1044,14 +1130,14 @@
           "textColor3": "363331",
           "textColor4": "534a44"
         },
+        "url": "https://music.apple.com/us/album/shampoo/514888019?i=514888416",
         "playParams": {
           "id": "514888416",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/shampoo/514888019?i=514888416",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Shampoo",
         "previews": [
           {
@@ -1073,8 +1159,8 @@
           "Rock"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-05-29",
         "durationInMillis": 137553,
+        "releaseDate": "2020-05-29",
         "isrc": "KRA0R2000005",
         "artwork": {
           "width": 3000,
@@ -1093,8 +1179,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Catch a Rabbit",
         "previews": [
           {
@@ -1130,14 +1216,14 @@
           "textColor4": "b2adac"
         },
         "composerName": "Tablo",
+        "url": "https://music.apple.com/us/album/umbrella/1675478651?i=1675478652",
         "playParams": {
           "id": "1675478652",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/umbrella/1675478651?i=1675478652",
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Umbrella",
         "previews": [
           {
@@ -1179,8 +1265,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The Ballad of Hamantha",
         "previews": [
           {
@@ -1188,92 +1274,6 @@
           }
         ],
         "artistName": "Jack Stauber's Micropop"
-      }
-    },
-    {
-      "id": "1302822165",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1302822165",
-      "attributes": {
-        "albumName": "JUST DANCE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Dance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2017-10-29",
-        "durationInMillis": 176976,
-        "isrc": "KRA401700329",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/46/1f/53/461f533a-eada-d38e-45a0-7ee8be4f03b1/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "c0171c",
-          "textColor1": "fbfbfb",
-          "textColor2": "e8e8e8",
-          "textColor3": "efcecf",
-          "textColor4": "e0bebf"
-        },
-        "playParams": {
-          "id": "1302822165",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/just-dance/1302821718?i=1302822165",
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "JUST DANCE",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/82/a9/d9/82a9d9cc-bb4d-90ac-94c5-d8554e1fb358/mzaf_13343413682462775663.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "MIXNINE"
-      }
-    },
-    {
-      "id": "956529003",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/956529003",
-      "attributes": {
-        "albumName": "Ready for Love (Claude Pinoteau's Original Motion Picture Soundtrack)",
-        "genreNames": [
-          "Original Score",
-          "Music",
-          "Soundtrack"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "1980-01-01",
-        "durationInMillis": 289733,
-        "isrc": "NLF360801720",
-        "artwork": {
-          "width": 1440,
-          "height": 1440,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/d5/f2/bed5f298-0a82-69b9-22a4-76b77d5f8d1d/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fefefe",
-          "textColor1": "0b0c07",
-          "textColor2": "5c1e11",
-          "textColor3": "3b3c38",
-          "textColor4": "7c4a40"
-        },
-        "composerName": "Vladimir Cosma & Jeff Jordan",
-        "url": "https://music.apple.com/us/album/reality/956529001?i=956529003",
-        "playParams": {
-          "id": "956529003",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Reality",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c7/13/3e/c7133efc-2800-28b4-7a4c-e6791b453ff4/mzaf_8828663357666629639.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Richard Sanderson"
       }
     }
   ]
