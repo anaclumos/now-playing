@@ -2,6 +2,48 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1438719770",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1438719770",
+      "attributes": {
+        "albumName": "Toca Toca (Remixes)",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 165606,
+        "releaseDate": "2013-09-18",
+        "isrc": "ROROT1313101",
+        "artwork": {
+          "width": 1440,
+          "height": 1440,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "e5e1e2",
+          "textColor2": "e3bc40",
+          "textColor3": "b7b4b5",
+          "textColor4": "b59633"
+        },
+        "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
+        "playParams": {
+          "id": "1438719770",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Toca Toca (Radio Edit)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5d/e6/4b/5de64b02-a183-1051-e7cc-0f71d0f1d8dc/mzaf_14149449640921313679.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Fly Project"
+      }
+    },
+    {
       "id": "1170913966",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1170913966",
@@ -25,11 +67,11 @@
           "textColor3": "6ab643",
           "textColor4": "ca0476"
         },
-        "url": "https://music.apple.com/us/album/highlife/1170913652?i=1170913966",
         "playParams": {
           "id": "1170913966",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/highlife/1170913652?i=1170913966",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -54,8 +96,8 @@
           "Fitness & Workout"
         ],
         "trackNumber": 6,
-        "releaseDate": "2018-12-28",
         "durationInMillis": 189585,
+        "releaseDate": "2018-12-28",
         "isrc": "GBSMU6422393",
         "artwork": {
           "width": 3000,
@@ -96,8 +138,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2015-03-06",
         "durationInMillis": 249286,
+        "releaseDate": "2015-03-06",
         "isrc": "TCACE1531588",
         "artwork": {
           "width": 1600,
@@ -115,8 +157,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Unity",
         "previews": [
           {
@@ -138,8 +180,8 @@
           "Children's Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-11-01",
         "durationInMillis": 90508,
+        "releaseDate": "2020-11-01",
         "isrc": "QZNWQ2008975",
         "artwork": {
           "width": 3000,
@@ -194,11 +236,11 @@
           "textColor4": "989ca1"
         },
         "composerName": "Sandbank",
-        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
         "playParams": {
           "id": "564404213",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -236,14 +278,14 @@
           "textColor4": "bf28c0"
         },
         "composerName": "Aleksandr Gorokhov",
-        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "playParams": {
           "id": "1476872517",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In A Club",
         "previews": [
           {
@@ -280,14 +322,14 @@
           "textColor3": "d3d2d2",
           "textColor4": "bbbbbb"
         },
-        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "playParams": {
           "id": "1449088263",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Parachute",
         "previews": [
           {
@@ -323,11 +365,11 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -365,11 +407,11 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -407,11 +449,11 @@
           "textColor4": "6ea7be"
         },
         "composerName": "Qu\u00e1ch Tr\u1ecdng",
-        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "playParams": {
           "id": "1615205534",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -436,8 +478,8 @@
           "Easy Listening"
         ],
         "trackNumber": 5,
-        "releaseDate": "2020-03-16",
         "durationInMillis": 191466,
+        "releaseDate": "2020-03-16",
         "isrc": "GX3HH2179630",
         "artwork": {
           "width": 3000,
@@ -492,11 +534,11 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "playParams": {
           "id": "1483357101",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -520,8 +562,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-06-02",
         "durationInMillis": 194268,
+        "releaseDate": "2017-06-02",
         "isrc": "SEUM71700411",
         "artwork": {
           "width": 3000,
@@ -563,8 +605,8 @@
           "Alternative"
         ],
         "trackNumber": 8,
-        "releaseDate": "2016-12-24",
         "durationInMillis": 202051,
+        "releaseDate": "2016-12-24",
         "isrc": "QZ4JJ1683939",
         "artwork": {
           "width": 3000,
@@ -583,8 +625,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Gloria Filio (Mom's Heart)",
         "previews": [
           {
@@ -606,8 +648,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2016-06-24",
         "durationInMillis": 208562,
+        "releaseDate": "2016-06-24",
         "isrc": "CA6D21600175",
         "artwork": {
           "width": 2000,
@@ -647,8 +689,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2014-01-01",
         "durationInMillis": 176658,
+        "releaseDate": "2014-01-01",
         "isrc": "CH3131340464",
         "artwork": {
           "width": 1500,
@@ -667,8 +709,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -676,48 +718,6 @@
           }
         ],
         "artistName": "Avicii"
-      }
-    },
-    {
-      "id": "1438719770",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1438719770",
-      "attributes": {
-        "albumName": "Toca Toca (Remixes)",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2013-09-18",
-        "durationInMillis": 165606,
-        "isrc": "ROROT1313101",
-        "artwork": {
-          "width": 1440,
-          "height": 1440,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "e5e1e2",
-          "textColor2": "e3bc40",
-          "textColor3": "b7b4b5",
-          "textColor4": "b59633"
-        },
-        "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
-        "playParams": {
-          "id": "1438719770",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Toca Toca (Radio Edit)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5d/e6/4b/5de64b02-a183-1051-e7cc-0f71d0f1d8dc/mzaf_14149449640921313679.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Fly Project"
       }
     },
     {
@@ -731,8 +731,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-08-23",
         "durationInMillis": 191411,
+        "releaseDate": "2021-08-23",
         "isrc": "AUBEC2009349",
         "artwork": {
           "width": 2000,
@@ -788,14 +788,14 @@
           "textColor4": "414e59"
         },
         "composerName": "Nodayouzirou",
-        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "playParams": {
           "id": "1647112151",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Suzume (feat. Toaka)",
         "previews": [
           {
@@ -830,14 +830,14 @@
           "textColor4": "9daee5"
         },
         "composerName": "Avu Barazono",
-        "url": "https://music.apple.com/us/album/mephisto-off-vocal-version/1685606155?i=1685606416",
         "playParams": {
           "id": "1685606416",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/mephisto-off-vocal-version/1685606155?i=1685606416",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
+        "isAppleDigitalMaster": true,
         "name": "Mephisto (off vocal version)",
         "previews": [
           {
@@ -873,11 +873,11 @@
           "textColor4": "4b352f"
         },
         "composerName": "Zee, Jeong Dayong & Oh Juhwan",
-        "url": "https://music.apple.com/us/album/grace/1516624305?i=1516624312",
         "playParams": {
           "id": "1516624312",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/grace/1516624305?i=1516624312",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -916,14 +916,14 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Peter Pan",
         "previews": [
           {
@@ -959,11 +959,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -988,8 +988,8 @@
           "Soundtrack"
         ],
         "trackNumber": 1,
-        "releaseDate": "2009-07-15",
         "durationInMillis": 200556,
+        "releaseDate": "2009-07-15",
         "isrc": "KRZ291803748",
         "artwork": {
           "width": 3000,
@@ -1007,8 +1007,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "\ub300\uc131\ub2f9\ub4e4\uc758 \uc2dc\ub300",
         "previews": [
           {
@@ -1030,8 +1030,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-01-05",
         "durationInMillis": 195480,
+        "releaseDate": "2023-01-05",
         "isrc": "KRB462201620",
         "artwork": {
           "width": 3000,
@@ -1073,8 +1073,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-07-28",
         "durationInMillis": 215347,
+        "releaseDate": "2022-07-28",
         "isrc": "KRA382206389",
         "artwork": {
           "width": 3000,
@@ -1092,8 +1092,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pop? Pop!",
         "previews": [
           {
@@ -1114,8 +1114,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-06-02",
         "durationInMillis": 191779,
+        "releaseDate": "2023-06-02",
         "isrc": "USWD12326770",
         "artwork": {
           "width": 3000,
@@ -1156,8 +1156,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "1974-01-01",
         "durationInMillis": 355145,
+        "releaseDate": "1974-01-01",
         "isrc": "GBUM71029604",
         "artwork": {
           "width": 1500,
@@ -1213,11 +1213,11 @@
           "textColor3": "363331",
           "textColor4": "534a44"
         },
-        "url": "https://music.apple.com/us/album/shampoo/514888019?i=514888416",
         "playParams": {
           "id": "514888416",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/shampoo/514888019?i=514888416",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -1242,8 +1242,8 @@
           "Rock"
         ],
         "trackNumber": 2,
-        "releaseDate": "2020-05-29",
         "durationInMillis": 137553,
+        "releaseDate": "2020-05-29",
         "isrc": "KRA0R2000005",
         "artwork": {
           "width": 3000,
@@ -1262,8 +1262,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Catch a Rabbit",
         "previews": [
           {
