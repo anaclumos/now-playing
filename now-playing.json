@@ -2,6 +2,134 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1684674682",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674682",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 190947,
+        "isrc": "KRA392300006",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
+        "playParams": {
+          "id": "1684674682",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Peter Pan",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/40/94/b6/4094b6ed-428e-8c7e-d29a-a99c58616134/mzaf_2673819179159095395.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1684674429",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1684674429",
+      "attributes": {
+        "albumName": "I feel - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-05-15",
+        "durationInMillis": 162787,
+        "isrc": "KRA392300002",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "000000",
+          "textColor1": "faa9c7",
+          "textColor2": "e59eb8",
+          "textColor3": "c8879f",
+          "textColor4": "b77e93"
+        },
+        "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
+        "playParams": {
+          "id": "1684674429",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Allergy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/8b/34/368b347e-8f8d-c32a-7f2e-8f1e95c987e1/mzaf_2445626033044542318.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "(G)I-DLE"
+      }
+    },
+    {
+      "id": "1464893090",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1464893090",
+      "attributes": {
+        "albumName": "Best Shuffle Dance Music 2019, Best Electro House & Bass Boosted Mix",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Fitness & Workout"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2018-12-28",
+        "durationInMillis": 189585,
+        "isrc": "GBSMU6422393",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6e/6c/a8/6e6ca824-faee-73c5-c510-825a453c37aa/5059137773412_cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "000000",
+          "textColor2": "3f3216",
+          "textColor3": "333333",
+          "textColor4": "655b44"
+        },
+        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
+        "playParams": {
+          "id": "1464893090",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Breathe",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/ba/83/ffba83cf-331a-69b0-990d-93728b3c9248/mzaf_5366204411550802161.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vijay & Sofia"
+      }
+    },
+    {
       "id": "1598740748",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1598740748",
@@ -243,8 +371,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -285,8 +413,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Bohemian Rhapsody",
         "previews": [
           {
@@ -327,8 +455,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Unity",
         "previews": [
           {
@@ -369,8 +497,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -412,8 +540,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Gloria Filio (Mom's Heart)",
         "previews": [
           {
@@ -583,8 +711,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Catch a Rabbit",
         "previews": [
           {
@@ -669,8 +797,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "The Ballad of Hamantha",
         "previews": [
           {
@@ -755,8 +883,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Reality",
         "previews": [
           {
@@ -797,8 +925,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
         "previews": [
           {
@@ -847,134 +975,6 @@
           }
         ],
         "artistName": "Piano Dreamers"
-      }
-    },
-    {
-      "id": "1684674682",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1684674682",
-      "attributes": {
-        "albumName": "I feel - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 6,
-        "releaseDate": "2023-05-15",
-        "durationInMillis": 190947,
-        "isrc": "KRA392300006",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "faa9c7",
-          "textColor2": "e59eb8",
-          "textColor3": "c8879f",
-          "textColor4": "b77e93"
-        },
-        "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
-        "playParams": {
-          "id": "1684674682",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Peter Pan",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/40/94/b6/4094b6ed-428e-8c7e-d29a-a99c58616134/mzaf_2673819179159095395.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
-      }
-    },
-    {
-      "id": "1684674429",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1684674429",
-      "attributes": {
-        "albumName": "I feel - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-05-15",
-        "durationInMillis": 162787,
-        "isrc": "KRA392300002",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "faa9c7",
-          "textColor2": "e59eb8",
-          "textColor3": "c8879f",
-          "textColor4": "b77e93"
-        },
-        "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
-        "playParams": {
-          "id": "1684674429",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Allergy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/8b/34/368b347e-8f8d-c32a-7f2e-8f1e95c987e1/mzaf_2445626033044542318.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
-      }
-    },
-    {
-      "id": "1464893090",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1464893090",
-      "attributes": {
-        "albumName": "Best Shuffle Dance Music 2019, Best Electro House & Bass Boosted Mix",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Fitness & Workout"
-        ],
-        "trackNumber": 6,
-        "releaseDate": "2018-12-28",
-        "durationInMillis": 189585,
-        "isrc": "GBSMU6422393",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6e/6c/a8/6e6ca824-faee-73c5-c510-825a453c37aa/5059137773412_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "000000",
-          "textColor2": "3f3216",
-          "textColor3": "333333",
-          "textColor4": "655b44"
-        },
-        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
-        "playParams": {
-          "id": "1464893090",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Breathe",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/ba/83/ffba83cf-331a-69b0-990d-93728b3c9248/mzaf_5366204411550802161.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vijay & Sofia"
       }
     },
     {
@@ -1051,8 +1051,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "In A Club",
         "previews": [
           {
@@ -1135,8 +1135,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -1177,8 +1177,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -1220,8 +1220,8 @@
           "kind": "song"
         },
         "discNumber": 1,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
