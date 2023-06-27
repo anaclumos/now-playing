@@ -2,6 +2,90 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1573916009",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1573916009",
+      "attributes": {
+        "albumName": "Not the One - Best of the Best",
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Easy Listening"
+        ],
+        "trackNumber": 5,
+        "durationInMillis": 191466,
+        "releaseDate": "2020-03-16",
+        "isrc": "GX3HH2179630",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/95/6e/f5956e8e-22c7-f626-591c-59900b924a1d/5059805770040_cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "0b181c",
+          "textColor1": "fbffff",
+          "textColor2": "8bbfc8",
+          "textColor3": "cad0d1",
+          "textColor4": "719ea6"
+        },
+        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
+        "playParams": {
+          "id": "1573916009",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Not the One (Original Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/82/04/80820444-fadb-2b30-b512-76fd2209bac9/mzaf_7858095879557268956.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "DJ HAI CENA"
+      }
+    },
+    {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "564404213",
       "type": "songs",
       "href": "/v1/catalog/us/songs/564404213",
@@ -12,8 +96,8 @@
           "Music"
         ],
         "trackNumber": 6,
-        "releaseDate": "2012-08-14",
         "durationInMillis": 299402,
+        "releaseDate": "2012-08-14",
         "isrc": "USAML1222206",
         "artwork": {
           "width": 1500,
@@ -26,14 +110,14 @@
           "textColor4": "989ca1"
         },
         "composerName": "Sandbank",
+        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
         "playParams": {
           "id": "564404213",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/in-the-middle/564403598?i=564404213",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In the Middle",
         "previews": [
           {
@@ -55,8 +139,8 @@
           "Children's Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 90508,
         "releaseDate": "2020-11-01",
+        "durationInMillis": 90508,
         "isrc": "QZNWQ2008975",
         "artwork": {
           "width": 3000,
@@ -69,11 +153,11 @@
           "textColor4": "432e4e"
         },
         "composerName": "Dylan Maddison",
-        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
         "playParams": {
           "id": "1538159807",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/among-us/1538159806?i=1538159807",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -97,8 +181,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 323107,
         "releaseDate": "2022-03-19",
+        "durationInMillis": 323107,
         "isrc": "HKK972207257",
         "artwork": {
           "width": 1500,
@@ -111,11 +195,11 @@
           "textColor4": "6ea7be"
         },
         "composerName": "Qu\u00e1ch Tr\u1ecdng",
-        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "playParams": {
           "id": "1615205534",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -139,8 +223,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-06-02",
         "durationInMillis": 194268,
+        "releaseDate": "2017-06-02",
         "isrc": "SEUM71700411",
         "artwork": {
           "width": 3000,
@@ -153,14 +237,14 @@
           "textColor4": "8e9bab"
         },
         "composerName": "Christian F.J. B\u00fcttner & John Dang",
+        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
         "playParams": {
           "id": "1445054805",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fly Away (feat. Anjulie)",
         "previews": [
           {
@@ -168,6 +252,48 @@
           }
         ],
         "artistName": "TheFatRat"
+      }
+    },
+    {
+      "id": "1502627615",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1502627615",
+      "attributes": {
+        "albumName": "Earth Groove - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 267122,
+        "releaseDate": "2016-11-15",
+        "isrc": "IT0311600102",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "360900",
+          "textColor2": "601202",
+          "textColor3": "5e3a33",
+          "textColor4": "804134"
+        },
+        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
+        "playParams": {
+          "id": "1502627615",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Earth Groove (Extended Mix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Vijay & Sofia & Notte"
       }
     },
     {
@@ -182,8 +308,8 @@
           "Alternative"
         ],
         "trackNumber": 8,
-        "durationInMillis": 202051,
         "releaseDate": "2016-12-24",
+        "durationInMillis": 202051,
         "isrc": "QZ4JJ1683939",
         "artwork": {
           "width": 3000,
@@ -196,11 +322,11 @@
           "textColor4": "aba49c"
         },
         "composerName": "Mudeth",
-        "url": "https://music.apple.com/us/album/gloria-filio-moms-heart/1189772211?i=1189772224",
         "playParams": {
           "id": "1189772224",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/gloria-filio-moms-heart/1189772211?i=1189772224",
         "discNumber": 1,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
@@ -244,8 +370,8 @@
         },
         "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Nevada (feat. Cozi Zuehlsdorff)",
         "previews": [
           {
@@ -266,8 +392,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 165606,
         "releaseDate": "2013-09-18",
+        "durationInMillis": 165606,
         "isrc": "ROROT1313101",
         "artwork": {
           "width": 1440,
@@ -280,11 +406,11 @@
           "textColor4": "b59633"
         },
         "composerName": "Ionescu Tudor, Parghel Tudor, Denes Dan, Tudor Silviu & Filipidescu Adrian Viorel",
-        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "playParams": {
           "id": "1438719770",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/toca-toca-radio-edit/1438719622?i=1438719770",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -308,8 +434,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-06-02",
         "durationInMillis": 191779,
+        "releaseDate": "2023-06-02",
         "isrc": "USWD12326770",
         "artwork": {
           "width": 3000,
@@ -322,14 +448,14 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -371,8 +497,8 @@
         },
         "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -394,8 +520,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 226160,
         "releaseDate": "2023-06-19",
+        "durationInMillis": 226160,
         "isrc": "KRA302300198",
         "artwork": {
           "width": 4000,
@@ -408,11 +534,11 @@
           "textColor4": "c07c09"
         },
         "composerName": "Ronny Svendsen, Adrian Thesen, Anne Judith Wik & Sevn Dayz",
-        "url": "https://music.apple.com/us/album/broken-melodies/1692205876?i=1692205877",
         "playParams": {
           "id": "1692205877",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/broken-melodies/1692205876?i=1692205877",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": true,
@@ -423,48 +549,6 @@
           }
         ],
         "artistName": "NCT DREAM"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 213234,
-        "releaseDate": "2023-04-12",
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -499,8 +583,8 @@
         },
         "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Hype Boy",
         "previews": [
           {
@@ -522,8 +606,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-24",
         "durationInMillis": 200387,
+        "releaseDate": "2023-04-24",
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -536,14 +620,14 @@
           "textColor4": "363636"
         },
         "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "playParams": {
           "id": "1681324047",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super",
         "previews": [
           {
@@ -608,8 +692,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-10",
         "durationInMillis": 183853,
+        "releaseDate": "2023-04-10",
         "isrc": "QM4TX2337764",
         "artwork": {
           "width": 3000,
@@ -622,14 +706,14 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
+        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "playParams": {
           "id": "1680047366",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I AM",
         "previews": [
           {
@@ -651,8 +735,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 161240,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 161240,
         "isrc": "KRA392300001",
         "artwork": {
           "width": 1400,
@@ -665,11 +749,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
         "hasLyrics": true,
         "isAppleDigitalMaster": false,
@@ -714,8 +798,8 @@
         },
         "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Spicy",
         "previews": [
           {
@@ -800,8 +884,8 @@
         },
         "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Romance Symphony (feat. CHANGMO & Jay Park)",
         "previews": [
           {
@@ -939,48 +1023,6 @@
       }
     },
     {
-      "id": "1502627615",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1502627615",
-      "attributes": {
-        "albumName": "Earth Groove - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2016-11-15",
-        "durationInMillis": 267122,
-        "isrc": "IT0311600102",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a5/b8/bb/a5b8bb14-66cf-2ffc-2d97-46fd713106a1/79.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "360900",
-          "textColor2": "601202",
-          "textColor3": "5e3a33",
-          "textColor4": "804134"
-        },
-        "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "playParams": {
-          "id": "1502627615",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
-        "discNumber": 1,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Earth Groove (Extended Mix)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/19/3f/de193f49-8a21-2fbe-019c-4c9c362d5379/mzaf_13116454781166315656.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Vijay & Sofia & Notte"
-      }
-    },
-    {
       "id": "1464893090",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1464893090",
@@ -1011,8 +1053,8 @@
         },
         "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Breathe",
         "previews": [
           {
@@ -1034,8 +1076,8 @@
           "Electronic"
         ],
         "trackNumber": 1,
-        "releaseDate": "2015-03-06",
         "durationInMillis": 249286,
+        "releaseDate": "2015-03-06",
         "isrc": "TCACE1531588",
         "artwork": {
           "width": 1600,
@@ -1047,14 +1089,14 @@
           "textColor3": "c3ced6",
           "textColor4": "937fbf"
         },
+        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "playParams": {
           "id": "973530281",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/unity/973530182?i=973530281",
         "discNumber": 1,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Unity",
         "previews": [
           {
@@ -1150,48 +1192,6 @@
       }
     },
     {
-      "id": "1573916009",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1573916009",
-      "attributes": {
-        "albumName": "Not the One - Best of the Best",
-        "genreNames": [
-          "Dance",
-          "Music",
-          "Easy Listening"
-        ],
-        "trackNumber": 5,
-        "durationInMillis": 191466,
-        "releaseDate": "2020-03-16",
-        "isrc": "GX3HH2179630",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/95/6e/f5956e8e-22c7-f626-591c-59900b924a1d/5059805770040_cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0b181c",
-          "textColor1": "fbffff",
-          "textColor2": "8bbfc8",
-          "textColor3": "cad0d1",
-          "textColor4": "719ea6"
-        },
-        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
-        "playParams": {
-          "id": "1573916009",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Not the One (Original Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/82/04/80820444-fadb-2b30-b512-76fd2209bac9/mzaf_7858095879557268956.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "DJ HAI CENA"
-      }
-    },
-    {
       "id": "1483357101",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1483357101",
@@ -1265,8 +1265,8 @@
         },
         "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "discNumber": 1,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "The Nights",
         "previews": [
           {
