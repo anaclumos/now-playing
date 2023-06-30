@@ -2,6 +2,137 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1681324047",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1681324047",
+      "attributes": {
+        "albumName": "SEVENTEEN 10th Mini Album 'FML' - EP",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-04-24",
+        "durationInMillis": 200387,
+        "isrc": "USA2P2310675",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "dedede",
+          "textColor1": "090909",
+          "textColor2": "0c0c0c",
+          "textColor3": "343434",
+          "textColor4": "363636"
+        },
+        "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
+        "playParams": {
+          "id": "1681324047",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Super",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/bd/81/87bd81ee-6097-2378-9cb0-4112a67c57cc/mzaf_10176775218568565545.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "SEVENTEEN"
+      }
+    },
+    {
+      "id": "1635469851",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1635469851",
+      "attributes": {
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-01",
+        "durationInMillis": 179027,
+        "isrc": "USA2P2230222",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "playParams": {
+          "id": "1635469851",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Hype Boy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1679278167",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1679278167",
+      "attributes": {
+        "albumName": "Idol - Single",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-12",
+        "durationInMillis": 213234,
+        "isrc": "JPP302300157",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
+          "bgColor": "130a3e",
+          "textColor1": "ffffff",
+          "textColor2": "ff00fe",
+          "textColor3": "cfced8",
+          "textColor4": "cf02d7"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
+        "playParams": {
+          "id": "1679278167",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Idol",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "1682502472",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502472",
@@ -34,8 +165,8 @@
         "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -70,15 +201,15 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -114,15 +245,15 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily & Likey",
+        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "playParams": {
           "id": "1684674427",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Queencard",
         "previews": [
           {
@@ -165,8 +296,8 @@
         "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I AM",
         "previews": [
           {
@@ -202,15 +333,15 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Spicy",
         "previews": [
           {
@@ -253,8 +384,8 @@
         "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -297,8 +428,8 @@
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ditto",
         "previews": [
           {
@@ -334,15 +465,15 @@
           "textColor4": "c07c09"
         },
         "composerName": "Ronny Svendsen, Adrian Thesen, Anne Judith Wik & Sevn Dayz",
-        "url": "https://music.apple.com/us/album/broken-melodies/1692205876?i=1692205877",
         "playParams": {
           "id": "1692205877",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/broken-melodies/1692205876?i=1692205877",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Broken Melodies",
         "previews": [
           {
@@ -385,8 +516,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "OMG",
         "previews": [
           {
@@ -429,8 +560,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Kitsch",
         "previews": [
           {
@@ -438,137 +569,6 @@
           }
         ],
         "artistName": "IVE"
-      }
-    },
-    {
-      "id": "1635469851",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1635469851",
-      "attributes": {
-        "albumName": "NewJeans 1st EP 'New Jeans'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2022-08-01",
-        "durationInMillis": 179027,
-        "isrc": "USA2P2230222",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbfffc",
-          "textColor1": "111431",
-          "textColor2": "13172c",
-          "textColor3": "3f435a",
-          "textColor4": "424556"
-        },
-        "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
-        "playParams": {
-          "id": "1635469851",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Hype Boy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/cc/b8/43ccb8f7-fc0a-2a2f-c119-472f602773b4/mzaf_17285312710782684304.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1681324047",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1681324047",
-      "attributes": {
-        "albumName": "SEVENTEEN 10th Mini Album 'FML' - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-04-24",
-        "durationInMillis": 200387,
-        "isrc": "USA2P2310675",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/66/eb/d166eb7e-7210-b3ff-be39-638cd37bfc89/196922401282_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "dedede",
-          "textColor1": "090909",
-          "textColor2": "0c0c0c",
-          "textColor3": "343434",
-          "textColor4": "363636"
-        },
-        "composerName": "WOOZI, BUMZU, August Rigo, S.COUPS & Vernon",
-        "playParams": {
-          "id": "1681324047",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Super",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/bd/81/87bd81ee-6097-2378-9cb0-4112a67c57cc/mzaf_10176775218568565545.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "SEVENTEEN"
-      }
-    },
-    {
-      "id": "1679278167",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1679278167",
-      "attributes": {
-        "albumName": "Idol - Single",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-04-12",
-        "durationInMillis": 213234,
-        "isrc": "JPP302300157",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/{w}x{h}bb.jpg",
-          "bgColor": "130a3e",
-          "textColor1": "ffffff",
-          "textColor2": "ff00fe",
-          "textColor3": "cfced8",
-          "textColor4": "cf02d7"
-        },
-        "composerName": "Ayase",
-        "playParams": {
-          "id": "1679278167",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Idol",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/55/49/145549f7-fd69-18d5-a8bf-0321f8c521e0/mzaf_12856629452582601836.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -604,8 +604,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Boat",
         "previews": [
           {
@@ -643,15 +643,15 @@
           "textColor4": "cba368"
         },
         "composerName": "B.I, \uac15\uc6b1\uc9c4, Diggy & BIG Naughty",
-        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "playParams": {
           "id": "1690289238",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dare to Love (feat. BIG Naughty)",
         "previews": [
           {
@@ -693,8 +693,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Perfect Strangers",
         "previews": [
           {
@@ -730,15 +730,15 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid-twin-version-snack/1693945950?i=1693945951",
         "playParams": {
           "id": "1693945951",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid-twin-version-snack/1693945950?i=1693945951",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Cupid \u2013 Twin Version (Snack)",
         "previews": [
           {
@@ -773,15 +773,15 @@
           "textColor4": "cbca00"
         },
         "composerName": "imase",
-        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "playParams": {
           "id": "1639023912",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/night-dancer/1639023911?i=1639023912",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "NIGHT DANCER",
         "previews": [
           {
@@ -824,8 +824,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "For Lovers Who Hesitate",
         "previews": [
           {
@@ -868,8 +868,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -911,8 +911,8 @@
         "url": "https://music.apple.com/us/album/thats-what-i-like/1161503945?i=1161504043",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "That's What I Like",
         "previews": [
           {
@@ -950,15 +950,15 @@
           "textColor4": "424545"
         },
         "composerName": "Aimyon",
-        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "playParams": {
           "id": "1218860394",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ai-wo-tsutaetaidatoka/1218860381?i=1218860394",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Ai Wo Tsutaetaidatoka",
         "previews": [
           {
@@ -994,15 +994,15 @@
           "textColor4": "005800"
         },
         "composerName": "Ji Eum Seo, RYAN JHUN, Anders Nilsen, Andre Jensen, Iselin Solheim, F. Perren & D Fekaris",
+        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "playParams": {
           "id": "1639416903",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "After LIKE",
         "previews": [
           {
@@ -1038,15 +1038,15 @@
           "textColor4": "a9b2c3"
         },
         "composerName": "Andrew Choi, No2zcat & KENZIE",
+        "url": "https://music.apple.com/us/album/hard/1693341635?i=1693341636",
         "playParams": {
           "id": "1693341636",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hard/1693341635?i=1693341636",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "HARD",
         "previews": [
           {
@@ -1082,15 +1082,15 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "playParams": {
           "id": "1679292892",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid-twin-ver/1679292890?i=1679292892",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid (Twin Ver.)",
         "previews": [
           {
@@ -1126,15 +1126,15 @@
           "textColor4": "4e4e4e"
         },
         "composerName": "SCORE(13), MEGATONE(13), Paulina \u201cPAU\u201d Cerrilla, Nathalie Boone, Danke, Isabella Lovestory, Kyler Niko, Ronnie Icon, \"Hitman\" Bang, Shintaro Yasuda & Supreme Boi",
+        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "playParams": {
           "id": "1647830390",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "ANTIFRAGILE",
         "previews": [
           {
@@ -1169,15 +1169,15 @@
           "textColor4": "515811"
         },
         "composerName": "Alexander Izquierdo, Charlie Puth, Infamous, James Abrahart & Jonathan Rotem",
+        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "playParams": {
           "id": "1031416180",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dangerously/1031416178?i=1031416180",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Dangerously",
         "previews": [
           {
@@ -1213,15 +1213,15 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid",
         "previews": [
           {
@@ -1263,8 +1263,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I Don\u2019t Think That I Like Her",
         "previews": [
           {
@@ -1307,8 +1307,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Let's Say Goodbye",
         "previews": [
           {
