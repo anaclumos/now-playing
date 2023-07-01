@@ -2,48 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1549545978",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1549545978",
-      "attributes": {
-        "albumName": "Zankoku na Tenshi no Thesis/Tamashii no Refrain - EP",
-        "genreNames": [
-          "Anime",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "1995-10-25",
-        "durationInMillis": 247747,
-        "isrc": "JPKI09519950",
-        "artwork": {
-          "width": 1890,
-          "height": 1890,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/03/6f/0c/036f0c36-5dc0-a4c6-e2ab-42f09c93cbe7/KICM-3340.jpg/{w}x{h}bb.jpg",
-          "bgColor": "5fb533",
-          "textColor1": "081009",
-          "textColor2": "27192e",
-          "textColor3": "193111",
-          "textColor4": "32382f"
-        },
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis/1549545977?i=1549545978",
-        "playParams": {
-          "id": "1549545978",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Zankoku na Tenshi no Thesis",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/38/81/b9/3881b9e8-19cd-1d73-451e-98c1a6bd63ba/mzaf_15040342889335804695.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yoko Takahashi"
-      }
-    },
-    {
       "id": "1500836562",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1500836562",
@@ -87,6 +45,48 @@
       }
     },
     {
+      "id": "1549545978",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1549545978",
+      "attributes": {
+        "albumName": "Zankoku na Tenshi no Thesis/Tamashii no Refrain - EP",
+        "genreNames": [
+          "Anime",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1995-10-25",
+        "durationInMillis": 247747,
+        "isrc": "JPKI09519950",
+        "artwork": {
+          "width": 1890,
+          "height": 1890,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/03/6f/0c/036f0c36-5dc0-a4c6-e2ab-42f09c93cbe7/KICM-3340.jpg/{w}x{h}bb.jpg",
+          "bgColor": "5fb533",
+          "textColor1": "081009",
+          "textColor2": "27192e",
+          "textColor3": "193111",
+          "textColor4": "32382f"
+        },
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis/1549545977?i=1549545978",
+        "playParams": {
+          "id": "1549545978",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Zankoku na Tenshi no Thesis",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/38/81/b9/3881b9e8-19cd-1d73-451e-98c1a6bd63ba/mzaf_15040342889335804695.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yoko Takahashi"
+      }
+    },
+    {
       "id": "1520099813",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1520099813",
@@ -101,8 +101,8 @@
         "trackNumber": 1,
         "releaseDate": "2020-10-23",
         "durationInMillis": 136001,
-        "movementNumber": 0,
         "isrc": "GBBTF2000060",
+        "movementNumber": 0,
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -150,8 +150,8 @@
         "trackNumber": 1,
         "releaseDate": "2017-03-24",
         "durationInMillis": 101600,
-        "movementNumber": 0,
         "isrc": "GBDYG1601569",
+        "movementNumber": 0,
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -172,8 +172,8 @@
         "discNumber": 1,
         "movementCount": 0,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "Pictures at an Exhibition (Orch. by Ravel): Promenade I",
         "attribution": "Modest Mussorgsky",
         "previews": [
@@ -223,8 +223,8 @@
         "hasCredits": false,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
-        "attribution": "Henrik Lindstrand",
         "name": "Bl\u00e5 Berget",
+        "attribution": "Henrik Lindstrand",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/b6/20/eeb62080-a85d-1e8f-4a8c-ea1001ea8e19/mzaf_12268484376123821873.plus.aac.p.m4a"
@@ -248,8 +248,8 @@
         "trackNumber": 2,
         "releaseDate": "2020-10-23",
         "durationInMillis": 190323,
-        "movementNumber": 0,
         "isrc": "GBBTF2000061",
+        "movementNumber": 0,
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -270,8 +270,8 @@
         "discNumber": 1,
         "movementCount": 0,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Jum-Jum",
         "attribution": "Henrik Lindstrand",
         "previews": [
@@ -315,8 +315,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Gradation",
         "previews": [
           {
@@ -408,8 +408,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "HOME IS FAR AWAY (feat. OH HYUK)",
         "previews": [
           {
@@ -495,8 +495,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "MISSING U",
         "previews": [
           {
@@ -539,8 +539,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "i'M THE TREND",
         "previews": [
           {
@@ -671,8 +671,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -715,8 +715,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -758,8 +758,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -802,8 +802,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -845,8 +845,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -976,8 +976,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "As It Was",
         "previews": [
           {
@@ -1019,8 +1019,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Shivers",
         "previews": [
           {
@@ -1282,8 +1282,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dare to Love (feat. BIG Naughty)",
         "previews": [
           {
