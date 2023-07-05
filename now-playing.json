@@ -2,6 +2,92 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1500836562",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1500836562",
+      "attributes": {
+        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1995-12-06",
+        "durationInMillis": 245093,
+        "isrc": "JPKI09522450",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
+          "bgColor": "05080d",
+          "textColor1": "4db8e9",
+          "textColor2": "5ba4db",
+          "textColor3": "3f95bd",
+          "textColor4": "4985b2"
+        },
+        "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
+        "playParams": {
+          "id": "1500836562",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "A Cruel Angel's Thesis (Director's Edit Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/de/ee/9cdeee60-4087-e848-7fe5-bd1ba8000795/mzaf_12533848052351672003.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yoko Takahashi"
+      }
+    },
+    {
+      "id": "1540549629",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1540549629",
+      "attributes": {
+        "albumName": "Evangelion Finally",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2020-10-07",
+        "durationInMillis": 466481,
+        "isrc": "JPKI09716710",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/55/6c/91/556c9165-2fd3-a88b-3044-44e186de3c28/886448880608.jpg/{w}x{h}bb.jpg",
+          "bgColor": "64c4a9",
+          "textColor1": "0e0001",
+          "textColor2": "210a09",
+          "textColor3": "1f2722",
+          "textColor4": "2f2f29"
+        },
+        "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1540549370?i=1540549629",
+        "playParams": {
+          "id": "1540549629",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/48/0e/d6/480ed63b-03f4-45b1-ae03-bff935e1e6fe/mzaf_2588112532456071331.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Arianne"
+      }
+    },
+    {
       "id": "1503454854",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1503454854",
@@ -26,11 +112,11 @@
           "textColor4": "d3746e"
         },
         "composerName": "Arianne",
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "playParams": {
           "id": "1503454854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -69,15 +155,15 @@
           "textColor4": "bf2caf"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "playParams": {
           "id": "1517091646",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Me to the Moon",
         "previews": [
           {
@@ -112,11 +198,11 @@
           "textColor3": "333333",
           "textColor4": "655b44"
         },
-        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "playParams": {
           "id": "1464893090",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -162,8 +248,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -205,8 +291,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "In A Club",
         "previews": [
           {
@@ -214,49 +300,6 @@
           }
         ],
         "artistName": "Volac, illusionize & Andre Longo"
-      }
-    },
-    {
-      "id": "1500836562",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1500836562",
-      "attributes": {
-        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "1995-12-06",
-        "durationInMillis": 245093,
-        "isrc": "JPKI09522450",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
-          "bgColor": "05080d",
-          "textColor1": "4db8e9",
-          "textColor2": "5ba4db",
-          "textColor3": "3f95bd",
-          "textColor4": "4985b2"
-        },
-        "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
-        "playParams": {
-          "id": "1500836562",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "A Cruel Angel's Thesis (Director's Edit Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/de/ee/9cdeee60-4087-e848-7fe5-bd1ba8000795/mzaf_12533848052351672003.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yoko Takahashi"
       }
     },
     {
@@ -293,8 +336,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
         "previews": [
           {
@@ -336,8 +379,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -391,49 +434,6 @@
       }
     },
     {
-      "id": "1540549629",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1540549629",
-      "attributes": {
-        "albumName": "Evangelion Finally",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 5,
-        "releaseDate": "2020-10-07",
-        "durationInMillis": 466481,
-        "isrc": "JPKI09716710",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/55/6c/91/556c9165-2fd3-a88b-3044-44e186de3c28/886448880608.jpg/{w}x{h}bb.jpg",
-          "bgColor": "64c4a9",
-          "textColor1": "0e0001",
-          "textColor2": "210a09",
-          "textColor3": "1f2722",
-          "textColor4": "2f2f29"
-        },
-        "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1540549370?i=1540549629",
-        "playParams": {
-          "id": "1540549629",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/48/0e/d6/480ed63b-03f4-45b1-ae03-bff935e1e6fe/mzaf_2588112532456071331.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Arianne"
-      }
-    },
-    {
       "id": "1661207542",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1661207542",
@@ -466,8 +466,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -502,15 +502,15 @@
           "textColor3": "383735",
           "textColor4": "605535"
         },
-        "url": "https://music.apple.com/us/album/pop-pop/1636410849?i=1636410851",
         "playParams": {
           "id": "1636410851",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pop-pop/1636410849?i=1636410851",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pop? Pop!",
         "previews": [
           {
@@ -545,15 +545,15 @@
           "textColor4": "c97435"
         },
         "composerName": "Warren \"Oak\" Felder, Jane \"Jin Jin\" Bennett, Oliver Heldens, Lee Seuran, Penomeco & Kang Eunjung",
-        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "playParams": {
           "id": "1608253225",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TING TING TING",
         "previews": [
           {
@@ -588,15 +588,15 @@
           "textColor4": "aaaaaa"
         },
         "composerName": "Nicholas Furlong, Gabriel Benjamin, Jordan Suecof, John Feldmann, Tim Bergling & Ash Pournouri",
-        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "playParams": {
           "id": "1440829549",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-nights/1440829274?i=1440829549",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -631,11 +631,11 @@
           "textColor4": "804134"
         },
         "composerName": "Pierlot Oliver & Ghjuvan Francescu Ottavi",
-        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "playParams": {
           "id": "1502627615",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/earth-groove-extended-mix/1502627612?i=1502627615",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -675,15 +675,15 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -727,8 +727,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Parachute",
         "previews": [
           {
@@ -764,15 +764,15 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "playParams": {
           "id": "1483357101",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pyro",
         "previews": [
           {
@@ -807,15 +807,15 @@
           "textColor3": "c9af96",
           "textColor4": "6ca6b4"
         },
-        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "playParams": {
           "id": "1123774055",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Nevada (feat. Cozi Zuehlsdorff)",
         "previews": [
           {
@@ -901,8 +901,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Gloria Filio (Mom's Heart)",
         "previews": [
           {
@@ -944,8 +944,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -987,16 +987,16 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "edamame (feat. Rich Brian)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/5c/25/a15c25c8-afb6-1667-d761-cc98c49cec35/mzaf_481508780141671620.plus.aac.p.m4a"
           }
         ],
-        "artistName": "bbno$",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "bbno$"
       }
     },
     {
@@ -1068,15 +1068,15 @@
           "textColor4": "2c5a6e"
         },
         "composerName": "Toshimi Murata and Hidetoshi Satou",
-        "url": "https://music.apple.com/us/album/cruel-angels-thesis-from-evangelion-remix/1545714344?i=1545714351",
         "playParams": {
           "id": "1545714351",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/cruel-angels-thesis-from-evangelion-remix/1545714344?i=1545714351",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cruel Angels Thesis (From \"Evangelion) [Remix]",
         "previews": [
           {
@@ -1119,8 +1119,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Grace",
         "previews": [
           {
@@ -1164,8 +1164,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Awaken, My Masters!",
         "previews": [
           {
@@ -1200,15 +1200,15 @@
           "textColor4": "edcab3"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "playParams": {
           "id": "1671675878",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
         "previews": [
           {
@@ -1243,11 +1243,11 @@
           "textColor3": "443d3c",
           "textColor4": "594043"
         },
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-from-the-end-of-evangelion-violin-impact/1151620071?i=1151620077",
         "playParams": {
           "id": "1151620077",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-from-the-end-of-evangelion-violin-impact/1151620071?i=1151620077",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1287,15 +1287,15 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Peter Pan",
         "previews": [
           {
