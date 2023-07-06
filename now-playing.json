@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1689688059",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1689688059",
-      "attributes": {
-        "albumName": "Steal The Show (From \"Elemental\") - Single",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-06-02",
-        "durationInMillis": 191779,
-        "isrc": "USWD12326770",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/65/33/726533bf-25f1-094e-d818-3c85167664a0/23UMGIM58540.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "00000a",
-          "textColor1": "5e90ed",
-          "textColor2": "f95515",
-          "textColor3": "4b73bf",
-          "textColor4": "c74413"
-        },
-        "composerName": "Ari Leff & Thomas Newman",
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
-        "playParams": {
-          "id": "1689688059",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Steal The Show (From \"Elemental\")",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/92/14/da/9214da9d-9e2c-739d-62b7-c2169abbc718/mzaf_11404069632033699784.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Lauv"
-      }
-    },
-    {
       "id": "1529040991",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1529040991",
@@ -90,6 +47,49 @@
       }
     },
     {
+      "id": "1689688059",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1689688059",
+      "attributes": {
+        "albumName": "Steal The Show (From \"Elemental\") - Single",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-06-02",
+        "durationInMillis": 191779,
+        "isrc": "USWD12326770",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/65/33/726533bf-25f1-094e-d818-3c85167664a0/23UMGIM58540.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "00000a",
+          "textColor1": "5e90ed",
+          "textColor2": "f95515",
+          "textColor3": "4b73bf",
+          "textColor4": "c74413"
+        },
+        "composerName": "Ari Leff & Thomas Newman",
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
+        "playParams": {
+          "id": "1689688059",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Steal The Show (From \"Elemental\")",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/92/14/da/9214da9d-9e2c-739d-62b7-c2169abbc718/mzaf_11404069632033699784.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lauv"
+      }
+    },
+    {
       "id": "1500836562",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1500836562",
@@ -114,15 +114,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "playParams": {
           "id": "1500836562",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -158,15 +158,15 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -217,8 +217,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/25/1b/dd/251bdd40-2713-9505-e378-049969e86265/mzaf_12239210419735309667.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Beenzino"
+        "artistName": "Beenzino",
+        "contentRating": "explicit"
       }
     },
     {
@@ -254,8 +254,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -297,8 +297,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -334,11 +334,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -377,11 +377,11 @@
           "textColor4": "d3746e"
         },
         "composerName": "Arianne",
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "playParams": {
           "id": "1503454854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -470,8 +470,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Perfect Strangers",
         "previews": [
           {
@@ -506,11 +506,11 @@
           "textColor3": "383735",
           "textColor4": "605535"
         },
+        "url": "https://music.apple.com/us/album/pop-pop/1636410849?i=1636410851",
         "playParams": {
           "id": "1636410851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pop-pop/1636410849?i=1636410851",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -550,15 +550,15 @@
           "textColor4": "414e59"
         },
         "composerName": "Nodayouzirou",
+        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "playParams": {
           "id": "1647112151",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Suzume (feat. Toaka)",
         "previews": [
           {
@@ -594,15 +594,15 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -644,8 +644,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Me to the Moon",
         "previews": [
           {
@@ -687,8 +687,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Breathe",
         "previews": [
           {
@@ -723,15 +723,15 @@
           "textColor3": "cad0d1",
           "textColor4": "719ea6"
         },
+        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "playParams": {
           "id": "1573916009",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -766,11 +766,11 @@
           "textColor4": "bf28c0"
         },
         "composerName": "Aleksandr Gorokhov",
+        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "playParams": {
           "id": "1476872517",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/in-a-club/1476872303?i=1476872517",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -817,8 +817,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -903,8 +903,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -983,15 +983,15 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -1028,15 +1028,15 @@
           "textColor3": "d3d2d2",
           "textColor4": "bbbbbb"
         },
+        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "playParams": {
           "id": "1449088263",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Parachute",
         "previews": [
           {
@@ -1072,11 +1072,11 @@
           "textColor4": "e9a332"
         },
         "composerName": "Demchenko Dmitriy & Antonio Castrillo",
+        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "playParams": {
           "id": "1483357101",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pyro/1483357100?i=1483357101",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1158,11 +1158,11 @@
           "textColor4": "8e9bab"
         },
         "composerName": "Christian F.J. B\u00fcttner & John Dang",
+        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
         "playParams": {
           "id": "1445054805",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fly-away-feat-anjulie/1445054803?i=1445054805",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1245,15 +1245,15 @@
           "textColor4": "6ea7be"
         },
         "composerName": "Qu\u00e1ch Tr\u1ecdng",
+        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "playParams": {
           "id": "1615205534",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -1295,8 +1295,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "edamame (feat. Rich Brian)",
         "previews": [
           {
