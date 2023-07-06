@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1500836562",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1500836562",
-      "attributes": {
-        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "1995-12-06",
-        "durationInMillis": 245093,
-        "isrc": "JPKI09522450",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
-          "bgColor": "05080d",
-          "textColor1": "4db8e9",
-          "textColor2": "5ba4db",
-          "textColor3": "3f95bd",
-          "textColor4": "4985b2"
-        },
-        "composerName": "Shiro SAGISU",
-        "playParams": {
-          "id": "1500836562",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "A Cruel Angel's Thesis (Director's Edit Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/de/ee/9cdeee60-4087-e848-7fe5-bd1ba8000795/mzaf_12533848052351672003.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yoko Takahashi"
-      }
-    },
-    {
       "id": "1529040991",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1529040991",
@@ -78,8 +35,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
         "previews": [
           {
@@ -87,6 +44,92 @@
           }
         ],
         "artistName": "Berioska"
+      }
+    },
+    {
+      "id": "1503454854",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1503454854",
+      "attributes": {
+        "albumName": "Komm, s\u00fcsser Tod (feat. Marina Rios) - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-03-16",
+        "durationInMillis": 335250,
+        "isrc": "QZFZ72030210",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/04/81/dc048192-91ee-8389-64e2-2f421b422315/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "711a7b",
+          "textColor1": "fffafe",
+          "textColor2": "eb8a6b",
+          "textColor3": "e2cde3",
+          "textColor4": "d3746e"
+        },
+        "composerName": "Arianne",
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
+        "playParams": {
+          "id": "1503454854",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/0b/63/550b630f-de95-4a2a-7967-ae9147ca25f8/mzaf_15156720044411420849.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Astrophysics"
+      }
+    },
+    {
+      "id": "1500836562",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1500836562",
+      "attributes": {
+        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1995-12-06",
+        "durationInMillis": 245093,
+        "isrc": "JPKI09522450",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
+          "bgColor": "05080d",
+          "textColor1": "4db8e9",
+          "textColor2": "5ba4db",
+          "textColor3": "3f95bd",
+          "textColor4": "4985b2"
+        },
+        "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
+        "playParams": {
+          "id": "1500836562",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "A Cruel Angel's Thesis (Director's Edit Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/de/ee/9cdeee60-4087-e848-7fe5-bd1ba8000795/mzaf_12533848052351672003.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yoko Takahashi"
       }
     },
     {
@@ -121,8 +164,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -165,8 +208,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -209,8 +252,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Travel Again (feat. Cautious Clay)",
         "previews": [
           {
@@ -254,8 +297,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -290,15 +333,15 @@
           "textColor4": "cf02d7"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "playParams": {
           "id": "1679278167",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/idol/1679278166?i=1679278167",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -341,8 +384,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -350,49 +393,6 @@
           }
         ],
         "artistName": "LE SSERAFIM"
-      }
-    },
-    {
-      "id": "1503454854",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1503454854",
-      "attributes": {
-        "albumName": "Komm, s\u00fcsser Tod (feat. Marina Rios) - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-03-16",
-        "durationInMillis": 335250,
-        "isrc": "QZFZ72030210",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/04/81/dc048192-91ee-8389-64e2-2f421b422315/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "711a7b",
-          "textColor1": "fffafe",
-          "textColor2": "eb8a6b",
-          "textColor3": "e2cde3",
-          "textColor4": "d3746e"
-        },
-        "composerName": "Arianne",
-        "playParams": {
-          "id": "1503454854",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/0b/63/550b630f-de95-4a2a-7967-ae9147ca25f8/mzaf_15156720044411420849.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Astrophysics"
       }
     },
     {
@@ -420,15 +420,15 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1540549370?i=1540549629",
         "playParams": {
           "id": "1540549629",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1540549370?i=1540549629",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
         "previews": [
           {
@@ -463,15 +463,15 @@
           "textColor4": "2572ce"
         },
         "composerName": "Guy James Robin, John Paul Cooper & Alex Smith",
+        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "playParams": {
           "id": "1543303911",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Perfect Strangers",
         "previews": [
           {
@@ -513,8 +513,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pop? Pop!",
         "previews": [
           {
@@ -550,15 +550,15 @@
           "textColor4": "414e59"
         },
         "composerName": "Nodayouzirou",
+        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "playParams": {
           "id": "1647112151",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Suzume (feat. Toaka)",
         "previews": [
           {
@@ -594,15 +594,15 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -644,8 +644,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Me to the Moon",
         "previews": [
           {
@@ -687,8 +687,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Breathe",
         "previews": [
           {
@@ -730,8 +730,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -773,8 +773,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "In A Club",
         "previews": [
           {
@@ -810,15 +810,15 @@
           "textColor4": "df7b95"
         },
         "composerName": "Hong Ji Sang",
+        "url": "https://music.apple.com/us/album/rose-blossom/1661207539?i=1661207542",
         "playParams": {
           "id": "1661207542",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rose-blossom/1661207539?i=1661207542",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -853,15 +853,15 @@
           "textColor4": "c97435"
         },
         "composerName": "Warren \"Oak\" Felder, Jane \"Jin Jin\" Bennett, Oliver Heldens, Lee Seuran, Penomeco & Kang Eunjung",
+        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "playParams": {
           "id": "1608253225",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/ting-ting-ting/1608253207?i=1608253225",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "TING TING TING",
         "previews": [
           {
@@ -903,8 +903,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "The Nights",
         "previews": [
           {
@@ -946,8 +946,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Earth Groove (Extended Mix)",
         "previews": [
           {
@@ -983,15 +983,15 @@
           "textColor4": "314546"
         },
         "composerName": "Mauricio De Oliveira Maas, Joao Paulo Simao, Fernando Barboza Ferraz, Andre Hideki Hosoi, Daniela Fried, Vera Lucia Barbosa De Melo, Renato Epstein, Luciana Horta Lemos Effori, Mairah Brito Rocha, Bruno Borges Buarq, Marcelo Pereira Neves Pretto & All Writers",
+        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "playParams": {
           "id": "1485814678",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/baian%C3%A1/1485814677?i=1485814678",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Baian\u00e1",
         "previews": [
           {
@@ -1028,15 +1028,15 @@
           "textColor3": "d3d2d2",
           "textColor4": "bbbbbb"
         },
+        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "playParams": {
           "id": "1449088263",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/parachute/1449088244?i=1449088263",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Parachute",
         "previews": [
           {
@@ -1079,8 +1079,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pyro",
         "previews": [
           {
@@ -1115,15 +1115,15 @@
           "textColor3": "c9af96",
           "textColor4": "6ca6b4"
         },
+        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "playParams": {
           "id": "1123774055",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nevada-feat-cozi-zuehlsdorff/1123774024?i=1123774055",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Nevada (feat. Cozi Zuehlsdorff)",
         "previews": [
           {
@@ -1165,8 +1165,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Away (feat. Anjulie)",
         "previews": [
           {
@@ -1209,8 +1209,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Gloria Filio (Mom's Heart)",
         "previews": [
           {
@@ -1245,15 +1245,15 @@
           "textColor4": "6ea7be"
         },
         "composerName": "Qu\u00e1ch Tr\u1ecdng",
+        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "playParams": {
           "id": "1615205534",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -1288,15 +1288,15 @@
           "textColor4": "484e51"
         },
         "composerName": "Alex Gumuchian, Brian Imanuel & Christian Dold",
+        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
         "playParams": {
           "id": "1575996416",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/edamame-feat-rich-brian/1575996409?i=1575996416",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "edamame (feat. Rich Brian)",
         "previews": [
           {
