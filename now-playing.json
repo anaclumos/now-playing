@@ -2,6 +2,50 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1692686518",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1692686518",
+      "attributes": {
+        "albumName": "NewJeans 'Super Shy' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-07-07",
+        "durationInMillis": 154667,
+        "isrc": "USA2P2330068",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "8fc1e2",
+          "textColor1": "000000",
+          "textColor2": "0c244b",
+          "textColor3": "1c272d",
+          "textColor4": "264369"
+        },
+        "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
+        "playParams": {
+          "id": "1692686518",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Super Shy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/66/db/9866dbb4-6e6f-eedd-ea1c-4832542b8f3e/mzaf_1940197871229851903.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1692686265",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1692686265",
@@ -27,15 +71,15 @@
           "textColor4": "264369"
         },
         "composerName": "Erika de Casier, Fine Glindvad Jensen, Jinsu Park, Frankie Scoca, Gigi & HAERIN",
-        "url": "https://music.apple.com/us/album/new-jeans/1692686264?i=1692686265",
         "playParams": {
           "id": "1692686265",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/new-jeans/1692686264?i=1692686265",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "New Jeans",
         "previews": [
           {
@@ -77,8 +121,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Uptown Funk (feat. Bruno Mars)",
         "previews": [
           {
@@ -117,15 +161,15 @@
           "textColor3": "babab8",
           "textColor4": "c26326"
         },
-        "url": "https://music.apple.com/us/album/%ED%94%BC%EC%B9%B4%EB%B6%80-peek-a-boo/1314273377?i=1314275552",
         "playParams": {
           "id": "1314275552",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%ED%94%BC%EC%B9%B4%EB%B6%80-peek-a-boo/1314273377?i=1314275552",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "\ud53c\uce74\ubd80 Peek-A-Boo",
         "previews": [
           {
@@ -167,8 +211,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Eastside",
         "previews": [
           {
@@ -191,8 +235,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 252461,
         "releaseDate": "2017-05-30",
+        "durationInMillis": 252461,
         "isrc": "KRA381701208",
         "artwork": {
           "width": 3000,
@@ -205,11 +249,11 @@
           "textColor4": "5d5328"
         },
         "composerName": "Oohyo",
-        "url": "https://music.apple.com/us/album/dandelion-single-version/1673935737?i=1673935738",
         "playParams": {
           "id": "1673935738",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dandelion-single-version/1673935737?i=1673935738",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -236,8 +280,8 @@
           "Rock"
         ],
         "trackNumber": 7,
-        "releaseDate": "2011-10-04",
         "durationInMillis": 213640,
+        "releaseDate": "2011-10-04",
         "isrc": "USHM81166602",
         "artwork": {
           "width": 3000,
@@ -300,8 +344,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
         "previews": [
           {
@@ -324,8 +368,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 232195,
         "releaseDate": "2017-04-27",
+        "durationInMillis": 232195,
         "isrc": "KRA381700927",
         "artwork": {
           "width": 2000,
@@ -338,11 +382,11 @@
           "textColor4": "373435"
         },
         "composerName": "SUGA",
-        "url": "https://music.apple.com/us/album/wine-feat-%EC%B0%BD%EB%AA%A8/1230793489?i=1230793491",
         "playParams": {
           "id": "1230793491",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/wine-feat-%EC%B0%BD%EB%AA%A8/1230793489?i=1230793491",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -367,8 +411,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 245093,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 245093,
         "isrc": "JPKI09522450",
         "artwork": {
           "width": 3000,
@@ -381,11 +425,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "playParams": {
           "id": "1500836562",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -400,50 +444,6 @@
       }
     },
     {
-      "id": "1692686518",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1692686518",
-      "attributes": {
-        "albumName": "NewJeans 'Super Shy' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-07-07",
-        "durationInMillis": 154667,
-        "isrc": "USA2P2330068",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "8fc1e2",
-          "textColor1": "000000",
-          "textColor2": "0c244b",
-          "textColor3": "1c272d",
-          "textColor4": "264369"
-        },
-        "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
-        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
-        "playParams": {
-          "id": "1692686518",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Super Shy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/66/db/9866dbb4-6e6f-eedd-ea1c-4832542b8f3e/mzaf_1940197871229851903.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
       "id": "1689688059",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1689688059",
@@ -454,8 +454,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 191779,
         "releaseDate": "2023-06-02",
+        "durationInMillis": 191779,
         "isrc": "USWD12326770",
         "artwork": {
           "width": 3000,
@@ -468,11 +468,11 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -520,8 +520,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
         "previews": [
           {
@@ -542,8 +542,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 196613,
         "releaseDate": "2016-06-03",
+        "durationInMillis": 196613,
         "isrc": "GBUM71602437",
         "artwork": {
           "width": 3000,
@@ -556,11 +556,11 @@
           "textColor4": "2572ce"
         },
         "composerName": "Guy James Robin, John Paul Cooper & Alex Smith",
-        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "playParams": {
           "id": "1543303911",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -585,8 +585,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "releaseDate": "2020-10-07",
         "durationInMillis": 466481,
+        "releaseDate": "2020-10-07",
         "isrc": "JPKI09716710",
         "artwork": {
           "width": 3000,
@@ -642,15 +642,15 @@
           "textColor4": "bf2caf"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "playParams": {
           "id": "1517091646",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fly Me to the Moon",
         "previews": [
           {
@@ -686,15 +686,15 @@
           "textColor3": "272726",
           "textColor4": "3b3a39"
         },
-        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "playParams": {
           "id": "1619757892",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/beyond-love-feat-10cm/1619757891?i=1619757892",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Beyond Love (feat. 10cm)",
         "previews": [
           {
@@ -737,8 +737,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "INVU",
         "previews": [
           {
@@ -774,15 +774,15 @@
           "textColor4": "46443e"
         },
         "composerName": "Lim Young Woong, \uae40\uc218\ud615 & HWANG SEON HO",
-        "url": "https://music.apple.com/us/album/grain-of-sand/1689728384?i=1689728575",
         "playParams": {
           "id": "1689728575",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/grain-of-sand/1689728384?i=1689728575",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Grain of Sand",
         "previews": [
           {
@@ -825,8 +825,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Illusion",
         "previews": [
           {
@@ -849,8 +849,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-09",
         "durationInMillis": 240840,
+        "releaseDate": "2022-06-09",
         "isrc": "KRA382205622",
         "artwork": {
           "width": 3000,
@@ -892,8 +892,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-05-17",
         "durationInMillis": 221573,
+        "releaseDate": "2021-05-17",
         "isrc": "KRA302100169",
         "artwork": {
           "width": 4000,
@@ -957,8 +957,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Event Horizon",
         "previews": [
           {
@@ -980,8 +980,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -1024,8 +1024,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -1068,8 +1068,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 2,
-        "durationInMillis": 158520,
         "releaseDate": "2023-07-03",
+        "durationInMillis": 158520,
         "isrc": "QM7282397278",
         "artwork": {
           "width": 3000,
@@ -1082,11 +1082,11 @@
           "textColor4": "41473e"
         },
         "composerName": "Beenzino & DPR CREAM",
-        "url": "https://music.apple.com/us/album/monet/1694479639?i=1694479647",
         "playParams": {
           "id": "1694479647",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/monet/1694479639?i=1694479647",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1097,8 +1097,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/93/f5/9b/93f59b16-9f23-63b4-5ccf-68694daef37d/mzaf_1541273838720861553.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Beenzino",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Beenzino"
       }
     },
     {
@@ -1113,8 +1113,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 185507,
         "releaseDate": "2022-12-19",
+        "durationInMillis": 185507,
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
@@ -1127,11 +1127,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1157,8 +1157,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-04-24",
         "durationInMillis": 200387,
+        "releaseDate": "2023-04-24",
         "isrc": "USA2P2310675",
         "artwork": {
           "width": 1400,
@@ -1222,8 +1222,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Hype Boy",
         "previews": [
           {
@@ -1244,8 +1244,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -1288,8 +1288,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 197040,
         "releaseDate": "2023-05-08",
+        "durationInMillis": 197040,
         "isrc": "KRA302300145",
         "artwork": {
           "width": 4000,
@@ -1302,11 +1302,11 @@
           "textColor4": "7798c7"
         },
         "composerName": "Emily Yeonseo Kim, Jonatan Gusmark, Ludvig Evers & Moa \u201cCazzi Opeia\u201d Carlebecker",
-        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "playParams": {
           "id": "1685400184",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/spicy/1685399618?i=1685400184",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
