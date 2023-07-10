@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1500836562",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1500836562",
-      "attributes": {
-        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "1995-12-06",
-        "durationInMillis": 245093,
-        "isrc": "JPKI09522450",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
-          "bgColor": "05080d",
-          "textColor1": "4db8e9",
-          "textColor2": "5ba4db",
-          "textColor3": "3f95bd",
-          "textColor4": "4985b2"
-        },
-        "composerName": "Shiro SAGISU",
-        "playParams": {
-          "id": "1500836562",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "A Cruel Angel's Thesis (Director's Edit Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/de/ee/9cdeee60-4087-e848-7fe5-bd1ba8000795/mzaf_12533848052351672003.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yoko Takahashi"
-      }
-    },
-    {
       "id": "1529040991",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1529040991",
@@ -71,11 +28,11 @@
           "textColor4": "cb1e23"
         },
         "composerName": "Yoko Takahashi",
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "playParams": {
           "id": "1529040991",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -90,6 +47,49 @@
       }
     },
     {
+      "id": "1500836562",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1500836562",
+      "attributes": {
+        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 245093,
+        "releaseDate": "1995-12-06",
+        "isrc": "JPKI09522450",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
+          "bgColor": "05080d",
+          "textColor1": "4db8e9",
+          "textColor2": "5ba4db",
+          "textColor3": "3f95bd",
+          "textColor4": "4985b2"
+        },
+        "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
+        "playParams": {
+          "id": "1500836562",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "A Cruel Angel's Thesis (Director's Edit Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/de/ee/9cdeee60-4087-e848-7fe5-bd1ba8000795/mzaf_12533848052351672003.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yoko Takahashi"
+      }
+    },
+    {
       "id": "1517091646",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517091646",
@@ -100,8 +100,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-06-01",
         "durationInMillis": 234791,
+        "releaseDate": "2020-06-01",
         "isrc": "QZHN52088998",
         "artwork": {
           "width": 3000,
@@ -114,11 +114,11 @@
           "textColor4": "bf2caf"
         },
         "composerName": "Bart Howard",
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "playParams": {
           "id": "1517091646",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -143,8 +143,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "1997-09-26",
         "durationInMillis": 466333,
+        "releaseDate": "1997-09-26",
         "isrc": "JPKI09716710",
         "artwork": {
           "width": 3000,
@@ -186,8 +186,8 @@
           "Music"
         ],
         "trackNumber": 22,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 230480,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI09522470",
         "artwork": {
           "width": 3000,
@@ -200,11 +200,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Bart Howard",
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
         "playParams": {
           "id": "1500836583",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -229,8 +229,8 @@
           "Music"
         ],
         "trackNumber": 14,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 120400,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI00312156",
         "artwork": {
           "width": 3000,
@@ -243,11 +243,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/eva-02/1500836561?i=1500836575",
         "playParams": {
           "id": "1500836575",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eva-02/1500836561?i=1500836575",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -286,11 +286,11 @@
           "textColor4": "d3746e"
         },
         "composerName": "Arianne",
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "playParams": {
           "id": "1503454854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -330,11 +330,11 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Supreme Boi, Maia Wright, Max Thulin, Benjmn, Gusten Dahlqvist, Arineh Karimi, HUH YUNJIN, Lee Hyungsuk(PNP) & Danke",
-        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "playParams": {
           "id": "1682502483",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -359,8 +359,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-06-02",
         "durationInMillis": 191779,
+        "releaseDate": "2023-06-02",
         "isrc": "USWD12326770",
         "artwork": {
           "width": 3000,
@@ -373,11 +373,11 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -461,11 +461,11 @@
           "textColor4": "264369"
         },
         "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
-        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
         "playParams": {
           "id": "1692686518",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -504,11 +504,11 @@
           "textColor4": "585857"
         },
         "composerName": "Mark Ronson, Lonnie Simmons, Ronnie Wilson, Charles Wilson, Jeff Bhasker, Rudolph Taylor, Robert Wilson, Nicholaus Williams, Devon Gallaspy, Philip Lawrence & Peter Hernandez",
-        "url": "https://music.apple.com/us/album/uptown-funk-feat-bruno-mars/943946661?i=943946671",
         "playParams": {
           "id": "943946671",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/uptown-funk-feat-bruno-mars/943946661?i=943946671",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -551,11 +551,11 @@
           "textColor3": "babab8",
           "textColor4": "c26326"
         },
-        "url": "https://music.apple.com/us/album/%ED%94%BC%EC%B9%B4%EB%B6%80-peek-a-boo/1314273377?i=1314275552",
         "playParams": {
           "id": "1314275552",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%ED%94%BC%EC%B9%B4%EB%B6%80-peek-a-boo/1314273377?i=1314275552",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -580,8 +580,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-07-13",
         "durationInMillis": 170770,
+        "releaseDate": "2018-07-13",
         "isrc": "USUM71809132",
         "artwork": {
           "width": 3000,
@@ -625,8 +625,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-05-30",
         "durationInMillis": 252461,
+        "releaseDate": "2017-05-30",
         "isrc": "KRA381701208",
         "artwork": {
           "width": 3000,
@@ -670,8 +670,8 @@
           "Rock"
         ],
         "trackNumber": 7,
-        "releaseDate": "2011-10-04",
         "durationInMillis": 213640,
+        "releaseDate": "2011-10-04",
         "isrc": "USHM81166602",
         "artwork": {
           "width": 3000,
@@ -684,11 +684,11 @@
           "textColor4": "c1b8b1"
         },
         "composerName": "Mindy Gledhill",
+        "url": "https://music.apple.com/us/album/winter-moon/1506778424?i=1506778628",
         "playParams": {
           "id": "1506778628",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/winter-moon/1506778424?i=1506778628",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -729,11 +729,11 @@
           "textColor4": "373435"
         },
         "composerName": "SUGA",
-        "url": "https://music.apple.com/us/album/wine-feat-%EC%B0%BD%EB%AA%A8/1230793489?i=1230793491",
         "playParams": {
           "id": "1230793491",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/wine-feat-%EC%B0%BD%EB%AA%A8/1230793489?i=1230793491",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -758,8 +758,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-06-03",
         "durationInMillis": 196613,
+        "releaseDate": "2016-06-03",
         "isrc": "GBUM71602437",
         "artwork": {
           "width": 3000,
@@ -772,11 +772,11 @@
           "textColor4": "2572ce"
         },
         "composerName": "Guy James Robin, John Paul Cooper & Alex Smith",
+        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "playParams": {
           "id": "1543303911",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -903,11 +903,11 @@
           "textColor4": "8a9bb2"
         },
         "composerName": "Peter Wallevik, Daniel Davidsen, Rachel Furner & Jess Morgan",
-        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "playParams": {
           "id": "1609049613",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/invu/1609049611?i=1609049613",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -947,11 +947,11 @@
           "textColor4": "46443e"
         },
         "composerName": "Lim Young Woong, \uae40\uc218\ud615 & HWANG SEON HO",
-        "url": "https://music.apple.com/us/album/grain-of-sand/1689728384?i=1689728575",
         "playParams": {
           "id": "1689728575",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/grain-of-sand/1689728384?i=1689728575",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -977,8 +977,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-01",
         "durationInMillis": 195053,
+        "releaseDate": "2022-06-01",
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -991,11 +991,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1022,8 +1022,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-09",
         "durationInMillis": 240840,
+        "releaseDate": "2022-06-09",
         "isrc": "KRA382205622",
         "artwork": {
           "width": 3000,
@@ -1065,8 +1065,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2021-05-17",
         "durationInMillis": 221573,
+        "releaseDate": "2021-05-17",
         "isrc": "KRA302100169",
         "artwork": {
           "width": 4000,
@@ -1123,11 +1123,11 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1153,8 +1153,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -1167,11 +1167,11 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1241,8 +1241,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-07-03",
         "durationInMillis": 158520,
+        "releaseDate": "2023-07-03",
         "isrc": "QM7282397278",
         "artwork": {
           "width": 3000,
@@ -1255,11 +1255,11 @@
           "textColor4": "41473e"
         },
         "composerName": "Beenzino & DPR CREAM",
+        "url": "https://music.apple.com/us/album/monet/1694479639?i=1694479647",
         "playParams": {
           "id": "1694479647",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/monet/1694479639?i=1694479647",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1286,8 +1286,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-12-19",
         "durationInMillis": 185507,
+        "releaseDate": "2022-12-19",
         "isrc": "USA2P2254487",
         "artwork": {
           "width": 1400,
