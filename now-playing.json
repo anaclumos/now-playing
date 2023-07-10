@@ -2,6 +2,94 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1692686265",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1692686265",
+      "attributes": {
+        "albumName": "NewJeans 'Super Shy' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-07-07",
+        "durationInMillis": 108987,
+        "isrc": "USA2P2330067",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "8fc1e2",
+          "textColor1": "000000",
+          "textColor2": "0c244b",
+          "textColor3": "1c272d",
+          "textColor4": "264369"
+        },
+        "composerName": "Erika de Casier, Fine Glindvad Jensen, Jinsu Park, Frankie Scoca, Gigi & HAERIN",
+        "playParams": {
+          "id": "1692686265",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/new-jeans/1692686264?i=1692686265",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "New Jeans",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ab/08/6b/ab086bea-d6e2-49b4-56e0-301b2ca25c0a/mzaf_5442052313401262510.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1692686518",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1692686518",
+      "attributes": {
+        "albumName": "NewJeans 'Super Shy' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-07-07",
+        "durationInMillis": 154667,
+        "isrc": "USA2P2330068",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "8fc1e2",
+          "textColor1": "000000",
+          "textColor2": "0c244b",
+          "textColor3": "1c272d",
+          "textColor4": "264369"
+        },
+        "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
+        "playParams": {
+          "id": "1692686518",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Super Shy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/66/db/9866dbb4-6e6f-eedd-ea1c-4832542b8f3e/mzaf_1940197871229851903.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1671675878",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1671675878",
@@ -12,8 +100,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "1997-09-26",
         "durationInMillis": 466333,
+        "releaseDate": "1997-09-26",
         "isrc": "JPKI09716710",
         "artwork": {
           "width": 3000,
@@ -26,15 +114,15 @@
           "textColor4": "edcab3"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "playParams": {
           "id": "1671675878",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
         "previews": [
           {
@@ -77,8 +165,8 @@
         "url": "https://music.apple.com/us/album/komm-susser-tod-from-the-end-of-evangelion/1490023433?i=1490023435",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Komm Susser Tod (From \"the End of Evangelion\")",
         "previews": [
           {
@@ -142,8 +230,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 272294,
         "releaseDate": "2020-10-07",
+        "durationInMillis": 272294,
         "isrc": "JPKI02010668",
         "artwork": {
           "width": 3000,
@@ -156,11 +244,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-2020-version/1540549370?i=1540549747",
         "playParams": {
           "id": "1540549747",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-2020-version/1540549370?i=1540549747",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -185,8 +273,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "1997-08-01",
         "durationInMillis": 289654,
+        "releaseDate": "1997-08-01",
         "isrc": "JPKI09713040",
         "artwork": {
           "width": 3000,
@@ -199,15 +287,15 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/thanatos-if-i-cant-be-yours/1540549370?i=1540549627",
         "playParams": {
           "id": "1540549627",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/thanatos-if-i-cant-be-yours/1540549370?i=1540549627",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "THANATOS -IF I CAN'T BE YOURS-",
         "previews": [
           {
@@ -271,8 +359,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 230681,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 230681,
         "isrc": "JPKI09522470",
         "artwork": {
           "width": 3000,
@@ -285,11 +373,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1540549370?i=1540549384",
         "playParams": {
           "id": "1540549384",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1540549370?i=1540549384",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -314,8 +402,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 246362,
         "releaseDate": "1995-10-25",
+        "durationInMillis": 246362,
         "isrc": "JPKI09519950",
         "artwork": {
           "width": 3000,
@@ -328,11 +416,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Hidetoshi Sato",
-        "url": "https://music.apple.com/us/album/the-cruel-angels-thesis/1540549370?i=1540549381",
         "playParams": {
           "id": "1540549381",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/the-cruel-angels-thesis/1540549370?i=1540549381",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -357,8 +445,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-03-16",
         "durationInMillis": 335250,
+        "releaseDate": "2020-03-16",
         "isrc": "QZFZ72030210",
         "artwork": {
           "width": 3000,
@@ -371,15 +459,15 @@
           "textColor4": "d3746e"
         },
         "composerName": "Arianne",
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "playParams": {
           "id": "1503454854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
         "previews": [
           {
@@ -387,50 +475,6 @@
           }
         ],
         "artistName": "Astrophysics"
-      }
-    },
-    {
-      "id": "1692686265",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1692686265",
-      "attributes": {
-        "albumName": "NewJeans 'Super Shy' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-07-07",
-        "durationInMillis": 108987,
-        "isrc": "USA2P2330067",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "8fc1e2",
-          "textColor1": "000000",
-          "textColor2": "0c244b",
-          "textColor3": "1c272d",
-          "textColor4": "264369"
-        },
-        "composerName": "Erika de Casier, Fine Glindvad Jensen, Jinsu Park, Frankie Scoca, Gigi & HAERIN",
-        "playParams": {
-          "id": "1692686265",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/new-jeans/1692686264?i=1692686265",
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "New Jeans",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ab/08/6b/ab086bea-d6e2-49b4-56e0-301b2ca25c0a/mzaf_5442052313401262510.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     },
     {
@@ -519,50 +563,6 @@
           }
         ],
         "artistName": "Berioska"
-      }
-    },
-    {
-      "id": "1692686518",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1692686518",
-      "attributes": {
-        "albumName": "NewJeans 'Super Shy' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 154667,
-        "releaseDate": "2023-07-07",
-        "isrc": "USA2P2330068",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "8fc1e2",
-          "textColor1": "000000",
-          "textColor2": "0c244b",
-          "textColor3": "1c272d",
-          "textColor4": "264369"
-        },
-        "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
-        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
-        "playParams": {
-          "id": "1692686518",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Super Shy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/66/db/9866dbb4-6e6f-eedd-ea1c-4832542b8f3e/mzaf_1940197871229851903.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     },
     {
@@ -687,8 +687,8 @@
         "url": "https://music.apple.com/us/album/eastside/1445073664?i=1445073665",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eastside",
         "previews": [
           {
@@ -756,8 +756,8 @@
           "Rock"
         ],
         "trackNumber": 7,
-        "durationInMillis": 213640,
         "releaseDate": "2011-10-04",
+        "durationInMillis": 213640,
         "isrc": "USHM81166602",
         "artwork": {
           "width": 3000,
@@ -770,11 +770,11 @@
           "textColor4": "c1b8b1"
         },
         "composerName": "Mindy Gledhill",
-        "url": "https://music.apple.com/us/album/winter-moon/1506778424?i=1506778628",
         "playParams": {
           "id": "1506778628",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/winter-moon/1506778424?i=1506778628",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -822,8 +822,8 @@
         "url": "https://music.apple.com/us/album/wine-feat-%EC%B0%BD%EB%AA%A8/1230793489?i=1230793491",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Wine (feat. \ucc3d\ubaa8)",
         "previews": [
           {
@@ -844,8 +844,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-06-02",
         "durationInMillis": 191779,
+        "releaseDate": "2023-06-02",
         "isrc": "USWD12326770",
         "artwork": {
           "width": 3000,
@@ -858,15 +858,15 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -908,8 +908,8 @@
         "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Perfect Strangers",
         "previews": [
           {
@@ -930,8 +930,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 234791,
         "releaseDate": "2020-06-01",
+        "durationInMillis": 234791,
         "isrc": "QZHN52088998",
         "artwork": {
           "width": 3000,
@@ -944,11 +944,11 @@
           "textColor4": "bf2caf"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "playParams": {
           "id": "1517091646",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1083,8 +1083,8 @@
         "url": "https://music.apple.com/us/album/grain-of-sand/1689728384?i=1689728575",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Grain of Sand",
         "previews": [
           {
@@ -1106,8 +1106,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 195053,
         "releaseDate": "2022-06-01",
+        "durationInMillis": 195053,
         "isrc": "KRA302200095",
         "artwork": {
           "width": 4000,
@@ -1120,11 +1120,11 @@
           "textColor4": "c39da8"
         },
         "composerName": "G'harah \"PK\" Degeddingseze, Patricia \"Tricia\" Battani & Steve Octave",
-        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "playParams": {
           "id": "1626752986",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/illusion/1626752981?i=1626752986",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1151,8 +1151,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-06-09",
         "durationInMillis": 240840,
+        "releaseDate": "2022-06-09",
         "isrc": "KRA382205622",
         "artwork": {
           "width": 3000,
@@ -1164,15 +1164,15 @@
           "textColor3": "d6d6e1",
           "textColor4": "d0d5eb"
         },
+        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "playParams": {
           "id": "1628243993",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Romance Symphony (feat. CHANGMO & Jay Park)",
         "previews": [
           {
@@ -1215,8 +1215,8 @@
         "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Next Level",
         "previews": [
           {
@@ -1239,8 +1239,8 @@
           "Rock"
         ],
         "trackNumber": 11,
-        "releaseDate": "2022-03-30",
         "durationInMillis": 300787,
+        "releaseDate": "2022-03-30",
         "isrc": "KRA382204244",
         "artwork": {
           "width": 3000,
@@ -1252,15 +1252,15 @@
           "textColor3": "403e34",
           "textColor4": "694e46"
         },
+        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "playParams": {
           "id": "1616649362",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Event Horizon",
         "previews": [
           {
@@ -1282,8 +1282,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-02-24",
         "durationInMillis": 174253,
+        "releaseDate": "2023-02-24",
         "isrc": "KSA012239180",
         "artwork": {
           "width": 3000,
@@ -1296,15 +1296,15 @@
           "textColor4": "5c564b"
         },
         "composerName": "Adam von Mentzer, Louise Udin & Mac Fell\u00e4nder-Tsai",
+        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "playParams": {
           "id": "1679292891",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/cupid/1679292890?i=1679292891",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid",
         "previews": [
           {
