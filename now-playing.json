@@ -2,6 +2,135 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1500836575",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1500836575",
+      "attributes": {
+        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 14,
+        "releaseDate": "1995-12-06",
+        "durationInMillis": 120400,
+        "isrc": "JPKI00312156",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
+          "bgColor": "05080d",
+          "textColor1": "4db8e9",
+          "textColor2": "5ba4db",
+          "textColor3": "3f95bd",
+          "textColor4": "4985b2"
+        },
+        "composerName": "Shiro SAGISU",
+        "playParams": {
+          "id": "1500836575",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/eva-02/1500836561?i=1500836575",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "EVA-02",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b6/d8/c4/b6d8c4f4-98c1-73ac-e7a2-0c5810d1c2ae/mzaf_13584448002567216628.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Shiro SAGISU"
+      }
+    },
+    {
+      "id": "1500836583",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1500836583",
+      "attributes": {
+        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 22,
+        "releaseDate": "1995-12-06",
+        "durationInMillis": 230480,
+        "isrc": "JPKI09522470",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
+          "bgColor": "05080d",
+          "textColor1": "4db8e9",
+          "textColor2": "5ba4db",
+          "textColor3": "3f95bd",
+          "textColor4": "4985b2"
+        },
+        "composerName": "Bart Howard",
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
+        "playParams": {
+          "id": "1500836583",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Fly Me To the Moon (Yoko Takahashi Acid Bossa Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/e1/fa/98e1faae-cf9d-1473-f571-be5af9393f20/mzaf_13966178778333504102.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Shiro SAGISU & Yoko Takahashi"
+      }
+    },
+    {
+      "id": "1671675878",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1671675878",
+      "attributes": {
+        "albumName": "THE END OF EVANGELION (Original Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "1997-09-26",
+        "durationInMillis": 466333,
+        "isrc": "JPKI09716710",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/15/5f/13155fa2-2de0-73b3-b503-a9bd082a5281/196589902917.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ab2113",
+          "textColor1": "fffcf7",
+          "textColor2": "fef4db",
+          "textColor3": "eed0c9",
+          "textColor4": "edcab3"
+        },
+        "composerName": "Shiro SAGISU",
+        "playParams": {
+          "id": "1671675878",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d5/31/90/d5319083-01d0-70ff-08a8-e8617872e6ed/mzaf_2624103204191811222.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Arianne"
+      }
+    },
+    {
       "id": "1682502483",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1682502483",
@@ -56,8 +185,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 191779,
         "releaseDate": "2023-06-02",
+        "durationInMillis": 191779,
         "isrc": "USWD12326770",
         "artwork": {
           "width": 3000,
@@ -77,8 +206,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -100,8 +229,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 108987,
         "releaseDate": "2023-07-07",
+        "durationInMillis": 108987,
         "isrc": "USA2P2330067",
         "artwork": {
           "width": 1400,
@@ -121,8 +250,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "New Jeans",
         "previews": [
           {
@@ -174,49 +303,6 @@
           }
         ],
         "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1671675878",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1671675878",
-      "attributes": {
-        "albumName": "THE END OF EVANGELION (Original Soundtrack)",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "1997-09-26",
-        "durationInMillis": 466333,
-        "isrc": "JPKI09716710",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/15/5f/13155fa2-2de0-73b3-b503-a9bd082a5281/196589902917.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ab2113",
-          "textColor1": "fffcf7",
-          "textColor2": "fef4db",
-          "textColor3": "eed0c9",
-          "textColor4": "edcab3"
-        },
-        "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
-        "playParams": {
-          "id": "1671675878",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d5/31/90/d5319083-01d0-70ff-08a8-e8617872e6ed/mzaf_2624103204191811222.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Arianne"
       }
     },
     {
@@ -274,8 +360,8 @@
           "Music"
         ],
         "trackNumber": 12,
-        "durationInMillis": 430828,
         "releaseDate": "2014-12-24",
+        "durationInMillis": 430828,
         "isrc": "JPKI01418455",
         "artwork": {
           "width": 3000,
@@ -288,11 +374,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Shiro Sagi",
-        "url": "https://music.apple.com/us/album/come-sweet-death-second-impact/1540549370?i=1540549758",
         "playParams": {
           "id": "1540549758",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/come-sweet-death-second-impact/1540549370?i=1540549758",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -317,8 +403,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 272294,
         "releaseDate": "2020-10-07",
+        "durationInMillis": 272294,
         "isrc": "JPKI02010668",
         "artwork": {
           "width": 3000,
@@ -331,11 +417,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-2020-version/1540549370?i=1540549747",
         "playParams": {
           "id": "1540549747",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-2020-version/1540549370?i=1540549747",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -360,8 +446,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 289654,
         "releaseDate": "1997-08-01",
+        "durationInMillis": 289654,
         "isrc": "JPKI09713040",
         "artwork": {
           "width": 3000,
@@ -374,11 +460,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/thanatos-if-i-cant-be-yours/1540549370?i=1540549627",
         "playParams": {
           "id": "1540549627",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/thanatos-if-i-cant-be-yours/1540549370?i=1540549627",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -403,8 +489,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 466481,
         "releaseDate": "2020-10-07",
+        "durationInMillis": 466481,
         "isrc": "JPKI09716710",
         "artwork": {
           "width": 3000,
@@ -424,8 +510,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
         "previews": [
           {
@@ -446,8 +532,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 230681,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 230681,
         "isrc": "JPKI09522470",
         "artwork": {
           "width": 3000,
@@ -460,11 +546,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1540549370?i=1540549384",
         "playParams": {
           "id": "1540549384",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1540549370?i=1540549384",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -546,15 +632,15 @@
           "textColor4": "d3746e"
         },
         "composerName": "Arianne",
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "playParams": {
           "id": "1503454854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
         "previews": [
           {
@@ -575,8 +661,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 245093,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 245093,
         "isrc": "JPKI09522450",
         "artwork": {
           "width": 3000,
@@ -596,8 +682,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -620,8 +706,8 @@
           "Trance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 268820,
         "releaseDate": "2020-09-15",
+        "durationInMillis": 268820,
         "isrc": "QZK6L2035146",
         "artwork": {
           "width": 3000,
@@ -634,11 +720,11 @@
           "textColor4": "cb1e23"
         },
         "composerName": "Yoko Takahashi",
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "playParams": {
           "id": "1529040991",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -692,8 +778,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/19/75/50/1975503b-8180-3bbe-7eea-e442a2504686/mzaf_6522968826050054830.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
         "artistName": "Mark Ronson",
+        "contentRating": "explicit",
         "editorialNotes": {
           "short": "Brassy blasts, funky riffs, and a hook that beckons you to the dance floor."
         }
@@ -724,15 +810,15 @@
           "textColor3": "babab8",
           "textColor4": "c26326"
         },
-        "url": "https://music.apple.com/us/album/%ED%94%BC%EC%B9%B4%EB%B6%80-peek-a-boo/1314273377?i=1314275552",
         "playParams": {
           "id": "1314275552",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%ED%94%BC%EC%B9%B4%EB%B6%80-peek-a-boo/1314273377?i=1314275552",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "\ud53c\uce74\ubd80 Peek-A-Boo",
         "previews": [
           {
@@ -753,8 +839,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 170770,
         "releaseDate": "2018-07-13",
+        "durationInMillis": 170770,
         "isrc": "USUM71809132",
         "artwork": {
           "width": 3000,
@@ -767,11 +853,11 @@
           "textColor4": "ebb595"
         },
         "composerName": "benny blanco, Nathan Perez, Khalid Robinson, Ashley Frangipane & Ed Sheeran",
-        "url": "https://music.apple.com/us/album/eastside/1445073664?i=1445073665",
         "playParams": {
           "id": "1445073665",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eastside/1445073664?i=1445073665",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -843,8 +929,8 @@
           "Rock"
         ],
         "trackNumber": 7,
-        "durationInMillis": 213640,
         "releaseDate": "2011-10-04",
+        "durationInMillis": 213640,
         "isrc": "USHM81166602",
         "artwork": {
           "width": 3000,
@@ -857,11 +943,11 @@
           "textColor4": "c1b8b1"
         },
         "composerName": "Mindy Gledhill",
-        "url": "https://music.apple.com/us/album/winter-moon/1506778424?i=1506778628",
         "playParams": {
           "id": "1506778628",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/winter-moon/1506778424?i=1506778628",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -888,8 +974,8 @@
           "R&B/Soul"
         ],
         "trackNumber": 1,
-        "durationInMillis": 232195,
         "releaseDate": "2017-04-27",
+        "durationInMillis": 232195,
         "isrc": "KRA381700927",
         "artwork": {
           "width": 2000,
@@ -909,8 +995,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Wine (feat. \ucc3d\ubaa8)",
         "previews": [
           {
@@ -945,15 +1031,15 @@
           "textColor4": "2572ce"
         },
         "composerName": "Guy James Robin, John Paul Cooper & Alex Smith",
-        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "playParams": {
           "id": "1543303911",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Perfect Strangers",
         "previews": [
           {
@@ -974,8 +1060,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 234791,
         "releaseDate": "2020-06-01",
+        "durationInMillis": 234791,
         "isrc": "QZHN52088998",
         "artwork": {
           "width": 3000,
@@ -988,11 +1074,11 @@
           "textColor4": "bf2caf"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "playParams": {
           "id": "1517091646",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1106,8 +1192,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 220309,
         "releaseDate": "2023-06-05",
+        "durationInMillis": 220309,
         "isrc": "KSA012251070",
         "artwork": {
           "width": 3000,
@@ -1127,8 +1213,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Grain of Sand",
         "previews": [
           {
@@ -1208,15 +1294,15 @@
           "textColor3": "d6d6e1",
           "textColor4": "d0d5eb"
         },
-        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "playParams": {
           "id": "1628243993",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/romance-symphony-feat-changmo-jay-park/1628243989?i=1628243993",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Romance Symphony (feat. CHANGMO & Jay Park)",
         "previews": [
           {
@@ -1224,94 +1310,6 @@
           }
         ],
         "artistName": "BIG Naughty"
-      }
-    },
-    {
-      "id": "1567326688",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1567326688",
-      "attributes": {
-        "albumName": "Next Level - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 221573,
-        "releaseDate": "2021-05-17",
-        "isrc": "KRA302100169",
-        "artwork": {
-          "width": 4000,
-          "height": 4000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/8d/ac/608dacc2-d6d6-462d-26f0-d693e4364751/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "0b0b0d",
-          "textColor1": "ffe4a8",
-          "textColor2": "f2ab70",
-          "textColor3": "ceb888",
-          "textColor4": "c48b5c"
-        },
-        "composerName": "Mario Marchetti, Adam McInnis, YOO YOUNG JIN & Sophie Curtis",
-        "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
-        "playParams": {
-          "id": "1567326688",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Next Level",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/1e/0a/431e0a24-2c04-e738-2632-87462a20984d/mzaf_3158159453623406671.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "aespa"
-      }
-    },
-    {
-      "id": "1616649362",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1616649362",
-      "attributes": {
-        "albumName": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop",
-          "Rock"
-        ],
-        "trackNumber": 11,
-        "durationInMillis": 300787,
-        "releaseDate": "2022-03-30",
-        "isrc": "KRA382204244",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/cd/c8/43cdc862-d91b-de64-9d21-e6f6a16fbf61/cover_KM0014976_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "110d01",
-          "textColor2": "442217",
-          "textColor3": "403e34",
-          "textColor4": "694e46"
-        },
-        "url": "https://music.apple.com/us/album/event-horizon/1616649347?i=1616649362",
-        "playParams": {
-          "id": "1616649362",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Event Horizon",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/a8/bb/18a8bb14-c776-1e64-06f8-636e624c86d3/mzaf_10852494709540318183.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Younha"
       }
     }
   ]
