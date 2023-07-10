@@ -2,48 +2,46 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1529040991",
+      "id": "1500836575",
       "type": "songs",
-      "href": "/v1/catalog/us/songs/1529040991",
+      "href": "/v1/catalog/us/songs/1500836575",
       "attributes": {
-        "albumName": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening] - Single",
+        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
         "genreNames": [
-          "Techno",
-          "Music",
-          "Dance",
-          "Trance"
+          "Soundtrack",
+          "Music"
         ],
-        "trackNumber": 1,
-        "releaseDate": "2020-09-15",
-        "durationInMillis": 268820,
-        "isrc": "QZK6L2035146",
+        "trackNumber": 14,
+        "releaseDate": "1995-12-06",
+        "durationInMillis": 120400,
+        "isrc": "JPKI00312156",
         "artwork": {
           "width": 3000,
           "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/f4/dc/2bf4dc49-173f-cec1-db6b-bd015c6b394f/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "101e3c",
-          "textColor1": "fafafa",
-          "textColor2": "f91d1d",
-          "textColor3": "ccced4",
-          "textColor4": "cb1e23"
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
+          "bgColor": "05080d",
+          "textColor1": "4db8e9",
+          "textColor2": "5ba4db",
+          "textColor3": "3f95bd",
+          "textColor4": "4985b2"
         },
-        "composerName": "Yoko Takahashi",
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
+        "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/eva-02/1500836561?i=1500836575",
         "playParams": {
-          "id": "1529040991",
+          "id": "1500836575",
           "kind": "song"
         },
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
-        "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
+        "name": "EVA-02",
         "previews": [
           {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/d1/54/8dd154d3-4a5e-5c5d-d483-32f57b893635/mzaf_17446899005263229000.plus.aac.p.m4a"
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b6/d8/c4/b6d8c4f4-98c1-73ac-e7a2-0c5810d1c2ae/mzaf_13584448002567216628.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Berioska"
+        "artistName": "Shiro SAGISU"
       }
     },
     {
@@ -78,8 +76,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -87,6 +85,51 @@
           }
         ],
         "artistName": "Yoko Takahashi"
+      }
+    },
+    {
+      "id": "1529040991",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1529040991",
+      "attributes": {
+        "albumName": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening] - Single",
+        "genreNames": [
+          "Techno",
+          "Music",
+          "Dance",
+          "Trance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-09-15",
+        "durationInMillis": 268820,
+        "isrc": "QZK6L2035146",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/f4/dc/2bf4dc49-173f-cec1-db6b-bd015c6b394f/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "101e3c",
+          "textColor1": "fafafa",
+          "textColor2": "f91d1d",
+          "textColor3": "ccced4",
+          "textColor4": "cb1e23"
+        },
+        "composerName": "Yoko Takahashi",
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
+        "playParams": {
+          "id": "1529040991",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/d1/54/8dd154d3-4a5e-5c5d-d483-32f57b893635/mzaf_17446899005263229000.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Berioska"
       }
     },
     {
@@ -133,49 +176,6 @@
       }
     },
     {
-      "id": "1500836575",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1500836575",
-      "attributes": {
-        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 14,
-        "releaseDate": "1995-12-06",
-        "durationInMillis": 120400,
-        "isrc": "JPKI00312156",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
-          "bgColor": "05080d",
-          "textColor1": "4db8e9",
-          "textColor2": "5ba4db",
-          "textColor3": "3f95bd",
-          "textColor4": "4985b2"
-        },
-        "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/eva-02/1500836561?i=1500836575",
-        "playParams": {
-          "id": "1500836575",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "EVA-02",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b6/d8/c4/b6d8c4f4-98c1-73ac-e7a2-0c5810d1c2ae/mzaf_13584448002567216628.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Shiro SAGISU"
-      }
-    },
-    {
       "id": "1517091646",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517091646",
@@ -207,8 +207,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fly Me to the Moon",
         "previews": [
           {
@@ -250,8 +250,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
         "previews": [
           {
@@ -337,8 +337,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eve, Psyche & The Bluebeard\u2019s wife",
         "previews": [
           {
@@ -424,8 +424,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "New Jeans",
         "previews": [
           {
@@ -468,8 +468,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super Shy",
         "previews": [
           {
@@ -519,8 +519,8 @@
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/19/75/50/1975503b-8180-3bbe-7eea-e442a2504686/mzaf_6522968826050054830.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
         "artistName": "Mark Ronson",
+        "contentRating": "explicit",
         "editorialNotes": {
           "short": "Brassy blasts, funky riffs, and a hook that beckons you to the dance floor."
         }
@@ -558,8 +558,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "\ud53c\uce74\ubd80 Peek-A-Boo",
         "previews": [
           {
@@ -601,8 +601,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Eastside",
         "previews": [
           {
@@ -646,8 +646,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dandelion (single version)",
         "previews": [
           {
@@ -691,8 +691,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Winter Moon",
         "previews": [
           {
@@ -910,8 +910,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "INVU",
         "previews": [
           {
@@ -954,8 +954,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Grain of Sand",
         "previews": [
           {
@@ -1174,8 +1174,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Cupid",
         "previews": [
           {
@@ -1218,8 +1218,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Attention",
         "previews": [
           {
@@ -1262,16 +1262,16 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Monet",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/93/f5/9b/93f59b16-9f23-63b4-5ccf-68694daef37d/mzaf_1541273838720861553.plus.aac.p.m4a"
           }
         ],
-        "artistName": "Beenzino",
-        "contentRating": "explicit"
+        "contentRating": "explicit",
+        "artistName": "Beenzino"
       }
     },
     {
