@@ -2,50 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1583126662",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1583126662",
-      "attributes": {
-        "albumName": "The Australian Ballet - The Music of the Dance: Celebrating 50 Years",
-        "genreNames": [
-          "Classical",
-          "Music"
-        ],
-        "trackNumber": 22,
-        "releaseDate": "2012-01-06",
-        "durationInMillis": 210547,
-        "isrc": "AUAB00250019",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/f7/ab/14f7abea-c2e7-f75a-225f-43ebe3c0ab9c/196292150513.jpg/{w}x{h}bb.jpg",
-          "bgColor": "1f191b",
-          "textColor1": "faf8f9",
-          "textColor2": "f9392c",
-          "textColor3": "cecccd",
-          "textColor4": "cd3328"
-        },
-        "composerName": "Johann Sebastian Bach",
-        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583125384?i=1583126662",
-        "playParams": {
-          "id": "1583126662",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "attribution": "Johann Sebastian Bach",
-        "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/61/93/3f619381-dd99-4a68-29a8-4e8e939bd576/mzaf_6912831454169360897.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Tasmanian Symphony Orchestra & David Stanhope"
-      }
-    },
-    {
       "id": "1500836575",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1500836575",
@@ -56,8 +12,8 @@
           "Music"
         ],
         "trackNumber": 14,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 120400,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI00312156",
         "artwork": {
           "width": 3000,
@@ -89,6 +45,50 @@
       }
     },
     {
+      "id": "1583126662",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1583126662",
+      "attributes": {
+        "albumName": "The Australian Ballet - The Music of the Dance: Celebrating 50 Years",
+        "genreNames": [
+          "Classical",
+          "Music"
+        ],
+        "trackNumber": 22,
+        "releaseDate": "2012-01-06",
+        "durationInMillis": 210547,
+        "isrc": "AUAB00250019",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/f7/ab/14f7abea-c2e7-f75a-225f-43ebe3c0ab9c/196292150513.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1f191b",
+          "textColor1": "faf8f9",
+          "textColor2": "f9392c",
+          "textColor3": "cecccd",
+          "textColor4": "cd3328"
+        },
+        "composerName": "Johann Sebastian Bach",
+        "playParams": {
+          "id": "1583126662",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583125384?i=1583126662",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "attribution": "Johann Sebastian Bach",
+        "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/61/93/3f619381-dd99-4a68-29a8-4e8e939bd576/mzaf_6912831454169360897.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Tasmanian Symphony Orchestra & David Stanhope"
+      }
+    },
+    {
       "id": "1583140766",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1583140766",
@@ -113,11 +113,11 @@
           "textColor4": "9f9fd0"
         },
         "composerName": "Johann Sebastian Bach",
-        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-air/1583138846?i=1583140766",
         "playParams": {
           "id": "1583140766",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-air/1583138846?i=1583140766",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -143,8 +143,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2002-11-09",
         "durationInMillis": 209987,
+        "releaseDate": "2002-11-09",
         "isrc": "AUAB00250019",
         "artwork": {
           "width": 3000,
@@ -187,8 +187,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2002-11-09",
         "durationInMillis": 207845,
+        "releaseDate": "2002-11-09",
         "isrc": "AUAB00250019",
         "artwork": {
           "width": 3000,
@@ -245,11 +245,11 @@
           "textColor4": "46433d"
         },
         "composerName": "Johann Sebastian Bach",
-        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-ii-air-arr/1533390468?i=1533390476",
         "playParams": {
           "id": "1533390476",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-ii-air-arr/1533390468?i=1533390476",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -275,8 +275,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2005-01-01",
         "durationInMillis": 190733,
+        "releaseDate": "2005-01-01",
         "isrc": "KYCC20002305",
         "artwork": {
           "width": 1500,
@@ -321,8 +321,8 @@
           "Contemporary Era"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-10-23",
         "durationInMillis": 136001,
+        "releaseDate": "2020-10-23",
         "movementNumber": 0,
         "isrc": "GBBTF2000060",
         "artwork": {
@@ -370,8 +370,8 @@
           "Trance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-09-15",
         "durationInMillis": 268820,
+        "releaseDate": "2020-09-15",
         "isrc": "QZK6L2035146",
         "artwork": {
           "width": 3000,
@@ -427,11 +427,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "playParams": {
           "id": "1500836562",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -470,11 +470,11 @@
           "textColor4": "bf2caf"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "playParams": {
           "id": "1517091646",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -513,11 +513,11 @@
           "textColor4": "edcab3"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "playParams": {
           "id": "1671675878",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -556,11 +556,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
         "playParams": {
           "id": "1500836583",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -599,11 +599,11 @@
           "textColor4": "d3746e"
         },
         "composerName": "Arianne",
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "playParams": {
           "id": "1503454854",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -629,8 +629,8 @@
           "Pop"
         ],
         "trackNumber": 10,
-        "releaseDate": "2023-05-01",
         "durationInMillis": 185539,
+        "releaseDate": "2023-05-01",
         "isrc": "USA2P2310665",
         "artwork": {
           "width": 1400,
@@ -686,11 +686,11 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -716,8 +716,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-07-07",
         "durationInMillis": 108987,
+        "releaseDate": "2023-07-07",
         "isrc": "USA2P2330067",
         "artwork": {
           "width": 1400,
@@ -774,11 +774,11 @@
           "textColor4": "264369"
         },
         "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
-        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
         "playParams": {
           "id": "1692686518",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -804,8 +804,8 @@
           "Instrumental"
         ],
         "trackNumber": 1,
-        "releaseDate": "2019-12-02",
         "durationInMillis": 258351,
+        "releaseDate": "2019-12-02",
         "isrc": "QZGWW1998447",
         "artwork": {
           "width": 1577,
@@ -847,8 +847,8 @@
           "Music"
         ],
         "trackNumber": 12,
-        "releaseDate": "2014-12-24",
         "durationInMillis": 430828,
+        "releaseDate": "2014-12-24",
         "isrc": "JPKI01418455",
         "artwork": {
           "width": 3000,
@@ -890,8 +890,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "releaseDate": "2020-10-07",
         "durationInMillis": 272294,
+        "releaseDate": "2020-10-07",
         "isrc": "JPKI02010668",
         "artwork": {
           "width": 3000,
@@ -933,8 +933,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "1997-08-01",
         "durationInMillis": 289654,
+        "releaseDate": "1997-08-01",
         "isrc": "JPKI09713040",
         "artwork": {
           "width": 3000,
@@ -990,11 +990,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1540549370?i=1540549629",
         "playParams": {
           "id": "1540549629",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1540549370?i=1540549629",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -1033,11 +1033,11 @@
           "textColor4": "2f2f29"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1540549370?i=1540549384",
         "playParams": {
           "id": "1540549384",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1540549370?i=1540549384",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1062,8 +1062,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-10-25",
         "durationInMillis": 246362,
+        "releaseDate": "1995-10-25",
         "isrc": "JPKI09519950",
         "artwork": {
           "width": 3000,
@@ -1105,8 +1105,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "2014-11-10",
         "durationInMillis": 269658,
+        "releaseDate": "2014-11-10",
         "isrc": "GBARL1401524",
         "artwork": {
           "width": 1500,
@@ -1166,11 +1166,11 @@
           "textColor3": "babab8",
           "textColor4": "c26326"
         },
-        "url": "https://music.apple.com/us/album/%ED%94%BC%EC%B9%B4%EB%B6%80-peek-a-boo/1314273377?i=1314275552",
         "playParams": {
           "id": "1314275552",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/%ED%94%BC%EC%B9%B4%EB%B6%80-peek-a-boo/1314273377?i=1314275552",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1195,8 +1195,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2018-07-13",
         "durationInMillis": 170770,
+        "releaseDate": "2018-07-13",
         "isrc": "USUM71809132",
         "artwork": {
           "width": 3000,
@@ -1240,8 +1240,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-05-30",
         "durationInMillis": 252461,
+        "releaseDate": "2017-05-30",
         "isrc": "KRA381701208",
         "artwork": {
           "width": 3000,
@@ -1299,11 +1299,11 @@
           "textColor4": "c1b8b1"
         },
         "composerName": "Mindy Gledhill",
-        "url": "https://music.apple.com/us/album/winter-moon/1506778424?i=1506778628",
         "playParams": {
           "id": "1506778628",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/winter-moon/1506778424?i=1506778628",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
