@@ -2,92 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1671675878",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1671675878",
-      "attributes": {
-        "albumName": "THE END OF EVANGELION (Original Soundtrack)",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 11,
-        "releaseDate": "1997-09-26",
-        "durationInMillis": 466333,
-        "isrc": "JPKI09716710",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/15/5f/13155fa2-2de0-73b3-b503-a9bd082a5281/196589902917.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ab2113",
-          "textColor1": "fffcf7",
-          "textColor2": "fef4db",
-          "textColor3": "eed0c9",
-          "textColor4": "edcab3"
-        },
-        "composerName": "Shiro SAGISU",
-        "playParams": {
-          "id": "1671675878",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d5/31/90/d5319083-01d0-70ff-08a8-e8617872e6ed/mzaf_2624103204191811222.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Arianne"
-      }
-    },
-    {
-      "id": "1503454854",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1503454854",
-      "attributes": {
-        "albumName": "Komm, s\u00fcsser Tod (feat. Marina Rios) - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 335250,
-        "releaseDate": "2020-03-16",
-        "isrc": "QZFZ72030210",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/04/81/dc048192-91ee-8389-64e2-2f421b422315/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "711a7b",
-          "textColor1": "fffafe",
-          "textColor2": "eb8a6b",
-          "textColor3": "e2cde3",
-          "textColor4": "d3746e"
-        },
-        "composerName": "Arianne",
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
-        "playParams": {
-          "id": "1503454854",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/0b/63/550b630f-de95-4a2a-7967-ae9147ca25f8/mzaf_15156720044411420849.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Astrophysics"
-      }
-    },
-    {
       "id": "1517091646",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517091646",
@@ -112,11 +26,11 @@
           "textColor4": "bf2caf"
         },
         "composerName": "Bart Howard",
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "playParams": {
           "id": "1517091646",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon/1517091645?i=1517091646",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -142,8 +56,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 108987,
         "releaseDate": "2023-07-07",
+        "durationInMillis": 108987,
         "isrc": "USA2P2330067",
         "artwork": {
           "width": 1400,
@@ -163,8 +77,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "New Jeans",
         "previews": [
           {
@@ -186,8 +100,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 154667,
         "releaseDate": "2023-07-07",
+        "durationInMillis": 154667,
         "isrc": "USA2P2330068",
         "artwork": {
           "width": 1400,
@@ -207,8 +121,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super Shy",
         "previews": [
           {
@@ -216,6 +130,92 @@
           }
         ],
         "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1671675878",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1671675878",
+      "attributes": {
+        "albumName": "THE END OF EVANGELION (Original Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "1997-09-26",
+        "durationInMillis": 466333,
+        "isrc": "JPKI09716710",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/15/5f/13155fa2-2de0-73b3-b503-a9bd082a5281/196589902917.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ab2113",
+          "textColor1": "fffcf7",
+          "textColor2": "fef4db",
+          "textColor3": "eed0c9",
+          "textColor4": "edcab3"
+        },
+        "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
+        "playParams": {
+          "id": "1671675878",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d5/31/90/d5319083-01d0-70ff-08a8-e8617872e6ed/mzaf_2624103204191811222.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Arianne"
+      }
+    },
+    {
+      "id": "1503454854",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1503454854",
+      "attributes": {
+        "albumName": "Komm, s\u00fcsser Tod (feat. Marina Rios) - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-03-16",
+        "durationInMillis": 335250,
+        "isrc": "QZFZ72030210",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/04/81/dc048192-91ee-8389-64e2-2f421b422315/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "711a7b",
+          "textColor1": "fffafe",
+          "textColor2": "eb8a6b",
+          "textColor3": "e2cde3",
+          "textColor4": "d3746e"
+        },
+        "composerName": "Arianne",
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
+        "playParams": {
+          "id": "1503454854",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/0b/63/550b630f-de95-4a2a-7967-ae9147ca25f8/mzaf_15156720044411420849.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Astrophysics"
       }
     },
     {
@@ -229,8 +229,8 @@
           "Music"
         ],
         "trackNumber": 22,
-        "durationInMillis": 230480,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 230480,
         "isrc": "JPKI09522470",
         "artwork": {
           "width": 3000,
@@ -250,8 +250,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Me To the Moon (Yoko Takahashi Acid Bossa Version)",
         "previews": [
           {
@@ -272,8 +272,8 @@
           "Music"
         ],
         "trackNumber": 14,
-        "durationInMillis": 120400,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 120400,
         "isrc": "JPKI00312156",
         "artwork": {
           "width": 3000,
@@ -293,8 +293,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "EVA-02",
         "previews": [
           {
@@ -315,8 +315,8 @@
           "Music"
         ],
         "trackNumber": 22,
-        "durationInMillis": 210547,
         "releaseDate": "2012-01-06",
+        "durationInMillis": 210547,
         "isrc": "AUAB00250019",
         "artwork": {
           "width": 3000,
@@ -336,8 +336,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "attribution": "Johann Sebastian Bach",
         "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
         "previews": [
@@ -359,8 +359,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 203059,
         "releaseDate": "1997-08-01",
+        "durationInMillis": 203059,
         "isrc": "USJ3V2108711",
         "artwork": {
           "width": 3000,
@@ -379,8 +379,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Air",
         "previews": [
           {
@@ -401,8 +401,8 @@
           "Music"
         ],
         "trackNumber": 5,
-        "durationInMillis": 157027,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 157027,
         "isrc": "JPKI00312164",
         "artwork": {
           "width": 3000,
@@ -422,8 +422,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Barefoot In The Park",
         "previews": [
           {
@@ -444,8 +444,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 151773,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 151773,
         "isrc": "JPKI00028690",
         "artwork": {
           "width": 3000,
@@ -465,8 +465,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Angel Attack",
         "previews": [
           {
@@ -487,8 +487,8 @@
           "Music"
         ],
         "trackNumber": 21,
-        "durationInMillis": 32933,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 32933,
         "isrc": "JPKI09531210",
         "artwork": {
           "width": 3000,
@@ -508,8 +508,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Next Episode",
         "previews": [
           {
@@ -544,11 +544,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/rei-ii/1500836561?i=1500836580",
         "playParams": {
           "id": "1500836580",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/rei-ii/1500836561?i=1500836580",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -587,11 +587,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/marking-time-waiting-for-death/1500836561?i=1500836579",
         "playParams": {
           "id": "1500836579",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/marking-time-waiting-for-death/1500836561?i=1500836579",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -616,8 +616,8 @@
           "Music"
         ],
         "trackNumber": 17,
-        "durationInMillis": 100773,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 100773,
         "isrc": "JPKI00307718",
         "artwork": {
           "width": 3000,
@@ -637,8 +637,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "The Beast",
         "previews": [
           {
@@ -675,11 +675,11 @@
           "textColor4": "cb1e23"
         },
         "composerName": "Yoko Takahashi",
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "playParams": {
           "id": "1529040991",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -718,11 +718,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "playParams": {
           "id": "1500836571",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -747,8 +747,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 323107,
         "releaseDate": "2022-03-19",
+        "durationInMillis": 323107,
         "isrc": "HKK972207257",
         "artwork": {
           "width": 1500,
@@ -768,8 +768,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -804,11 +804,11 @@
           "textColor3": "d8d9da",
           "textColor4": "b4bcc6"
         },
+        "url": "https://music.apple.com/us/album/%EB%8C%80%EC%84%B1%EB%8B%B9%EB%93%A4%EC%9D%98-%EC%8B%9C%EB%8C%80/1598740747?i=1598740748",
         "playParams": {
           "id": "1598740748",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/%EB%8C%80%EC%84%B1%EB%8B%B9%EB%93%A4%EC%9D%98-%EC%8B%9C%EB%8C%80/1598740747?i=1598740748",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -833,8 +833,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 143640,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 143640,
         "isrc": "JPKI00307724",
         "artwork": {
           "width": 3000,
@@ -854,8 +854,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Asuka Strikes!",
         "previews": [
           {
@@ -890,11 +890,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/decisive-battle/1500836561?i=1500836576",
         "playParams": {
           "id": "1500836576",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/decisive-battle/1500836561?i=1500836576",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -933,11 +933,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "playParams": {
           "id": "1500836562",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -976,11 +976,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/hedgehogs-dilemma/1500836561?i=1500836565",
         "playParams": {
           "id": "1500836565",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hedgehogs-dilemma/1500836561?i=1500836565",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1005,8 +1005,8 @@
           "Music"
         ],
         "trackNumber": 13,
-        "durationInMillis": 114800,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 114800,
         "isrc": "JPKI00312159",
         "artwork": {
           "width": 3000,
@@ -1026,8 +1026,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "A Step Forward Into Terror",
         "previews": [
           {
@@ -1048,8 +1048,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "durationInMillis": 122360,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 122360,
         "isrc": "JPKI00312181",
         "artwork": {
           "width": 3000,
@@ -1069,8 +1069,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "I. Shinji",
         "previews": [
           {
@@ -1105,11 +1105,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/misato/1500836561?i=1500836568",
         "playParams": {
           "id": "1500836568",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/misato/1500836561?i=1500836568",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1148,11 +1148,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/eva-00/1500836561?i=1500836577",
         "playParams": {
           "id": "1500836577",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eva-00/1500836561?i=1500836577",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1191,11 +1191,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/eva-01/1500836561?i=1500836573",
         "playParams": {
           "id": "1500836573",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/eva-01/1500836561?i=1500836573",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1234,11 +1234,11 @@
           "textColor4": "9f9fd0"
         },
         "composerName": "Johann Sebastian Bach",
+        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-air/1583138846?i=1583140766",
         "playParams": {
           "id": "1583140766",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-air/1583138846?i=1583140766",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1264,8 +1264,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 209987,
         "releaseDate": "2002-11-09",
+        "durationInMillis": 209987,
         "isrc": "AUAB00250019",
         "artwork": {
           "width": 3000,
@@ -1285,10 +1285,10 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
-        "attribution": "Johann Sebastian Bach",
+        "hasLyrics": false,
         "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
+        "attribution": "Johann Sebastian Bach",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/49/4e/1c494e10-d16a-8da4-f475-49552ef71b5d/mzaf_5145184082417172087.plus.aac.p.m4a"
