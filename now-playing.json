@@ -2,6 +2,94 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1529040991",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1529040991",
+      "attributes": {
+        "albumName": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening] - Single",
+        "genreNames": [
+          "Techno",
+          "Music",
+          "Dance",
+          "Trance"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-09-15",
+        "durationInMillis": 268820,
+        "isrc": "QZK6L2035146",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/f4/dc/2bf4dc49-173f-cec1-db6b-bd015c6b394f/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "101e3c",
+          "textColor1": "fafafa",
+          "textColor2": "f91d1d",
+          "textColor3": "ccced4",
+          "textColor4": "cb1e23"
+        },
+        "composerName": "Yoko Takahashi",
+        "playParams": {
+          "id": "1529040991",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/d1/54/8dd154d3-4a5e-5c5d-d483-32f57b893635/mzaf_17446899005263229000.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Berioska"
+      }
+    },
+    {
+      "id": "1503454854",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1503454854",
+      "attributes": {
+        "albumName": "Komm, s\u00fcsser Tod (feat. Marina Rios) - Single",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2020-03-16",
+        "durationInMillis": 335250,
+        "isrc": "QZFZ72030210",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/04/81/dc048192-91ee-8389-64e2-2f421b422315/artwork.jpg/{w}x{h}bb.jpg",
+          "bgColor": "711a7b",
+          "textColor1": "fffafe",
+          "textColor2": "eb8a6b",
+          "textColor3": "e2cde3",
+          "textColor4": "d3746e"
+        },
+        "composerName": "Arianne",
+        "playParams": {
+          "id": "1503454854",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/0b/63/550b630f-de95-4a2a-7967-ae9147ca25f8/mzaf_15156720044411420849.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Astrophysics"
+      }
+    },
+    {
       "id": "1517091646",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1517091646",
@@ -176,49 +264,6 @@
       }
     },
     {
-      "id": "1503454854",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1503454854",
-      "attributes": {
-        "albumName": "Komm, s\u00fcsser Tod (feat. Marina Rios) - Single",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-03-16",
-        "durationInMillis": 335250,
-        "isrc": "QZFZ72030210",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/04/81/dc048192-91ee-8389-64e2-2f421b422315/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "711a7b",
-          "textColor1": "fffafe",
-          "textColor2": "eb8a6b",
-          "textColor3": "e2cde3",
-          "textColor4": "d3746e"
-        },
-        "composerName": "Arianne",
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
-        "playParams": {
-          "id": "1503454854",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/0b/63/550b630f-de95-4a2a-7967-ae9147ca25f8/mzaf_15156720044411420849.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Astrophysics"
-      }
-    },
-    {
       "id": "1500836583",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1500836583",
@@ -243,15 +288,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Bart Howard",
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
         "playParams": {
           "id": "1500836583",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fly Me To the Moon (Yoko Takahashi Acid Bossa Version)",
         "previews": [
           {
@@ -286,15 +331,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/eva-02/1500836561?i=1500836575",
         "playParams": {
           "id": "1500836575",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eva-02/1500836561?i=1500836575",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "EVA-02",
         "previews": [
           {
@@ -329,15 +374,15 @@
           "textColor4": "cd3328"
         },
         "composerName": "Johann Sebastian Bach",
-        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583125384?i=1583126662",
         "playParams": {
           "id": "1583126662",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583125384?i=1583126662",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "attribution": "Johann Sebastian Bach",
         "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
         "previews": [
@@ -415,15 +460,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/barefoot-in-the-park/1500836561?i=1500836566",
         "playParams": {
           "id": "1500836566",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/barefoot-in-the-park/1500836561?i=1500836566",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Barefoot In The Park",
         "previews": [
           {
@@ -458,15 +503,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/angel-attack/1500836561?i=1500836563",
         "playParams": {
           "id": "1500836563",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/angel-attack/1500836561?i=1500836563",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Angel Attack",
         "previews": [
           {
@@ -649,51 +694,6 @@
       }
     },
     {
-      "id": "1529040991",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1529040991",
-      "attributes": {
-        "albumName": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening] - Single",
-        "genreNames": [
-          "Techno",
-          "Music",
-          "Dance",
-          "Trance"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2020-09-15",
-        "durationInMillis": 268820,
-        "isrc": "QZK6L2035146",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/f4/dc/2bf4dc49-173f-cec1-db6b-bd015c6b394f/artwork.jpg/{w}x{h}bb.jpg",
-          "bgColor": "101e3c",
-          "textColor1": "fafafa",
-          "textColor2": "f91d1d",
-          "textColor3": "ccced4",
-          "textColor4": "cb1e23"
-        },
-        "composerName": "Yoko Takahashi",
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
-        "playParams": {
-          "id": "1529040991",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": false,
-        "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/d1/54/8dd154d3-4a5e-5c5d-d483-32f57b893635/mzaf_17446899005263229000.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Berioska"
-      }
-    },
-    {
       "id": "1500836571",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1500836571",
@@ -761,15 +761,15 @@
           "textColor4": "6ea7be"
         },
         "composerName": "Qu\u00e1ch Tr\u1ecdng",
-        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "playParams": {
           "id": "1615205534",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/introduce-friend-dance/1615205533?i=1615205534",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -890,15 +890,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/decisive-battle/1500836561?i=1500836576",
         "playParams": {
           "id": "1500836576",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/decisive-battle/1500836561?i=1500836576",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Decisive Battle",
         "previews": [
           {
@@ -933,15 +933,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "playParams": {
           "id": "1500836562",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -1062,15 +1062,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/i-shinji/1500836561?i=1500836572",
         "playParams": {
           "id": "1500836572",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/i-shinji/1500836561?i=1500836572",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "I. Shinji",
         "previews": [
           {
@@ -1105,15 +1105,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/misato/1500836561?i=1500836568",
         "playParams": {
           "id": "1500836568",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/misato/1500836561?i=1500836568",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Misato",
         "previews": [
           {
@@ -1191,15 +1191,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/eva-01/1500836561?i=1500836573",
         "playParams": {
           "id": "1500836573",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/eva-01/1500836561?i=1500836573",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "EVA-01",
         "previews": [
           {
@@ -1243,8 +1243,8 @@
         "hasCredits": false,
         "isAppleDigitalMaster": false,
         "hasLyrics": false,
-        "name": "Orchestral Suite No. 3 in D Major, BWV 1068: 2. Air \"Air on the G-String\" (Arr. August Wilhelmj)",
         "attribution": "Johann Sebastian Bach",
+        "name": "Orchestral Suite No. 3 in D Major, BWV 1068: 2. Air \"Air on the G-String\" (Arr. August Wilhelmj)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5f/3c/01/5f3c012b-eb38-04af-8236-6b8cc8e89226/mzaf_16698183412297966677.plus.aac.p.m4a"
@@ -1278,17 +1278,17 @@
           "textColor4": "7c4457"
         },
         "composerName": "Johann Sebastian Bach",
-        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583679405?i=1583679410",
         "playParams": {
           "id": "1583679410",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583679405?i=1583679410",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
-        "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
+        "isAppleDigitalMaster": false,
         "attribution": "Johann Sebastian Bach",
+        "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/49/4e/1c494e10-d16a-8da4-f475-49552ef71b5d/mzaf_5145184082417172087.plus.aac.p.m4a"
