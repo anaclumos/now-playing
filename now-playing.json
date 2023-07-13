@@ -2,6 +2,50 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1583126662",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1583126662",
+      "attributes": {
+        "albumName": "The Australian Ballet - The Music of the Dance: Celebrating 50 Years",
+        "genreNames": [
+          "Classical",
+          "Music"
+        ],
+        "trackNumber": 22,
+        "releaseDate": "2012-01-06",
+        "durationInMillis": 210547,
+        "isrc": "AUAB00250019",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/f7/ab/14f7abea-c2e7-f75a-225f-43ebe3c0ab9c/196292150513.jpg/{w}x{h}bb.jpg",
+          "bgColor": "1f191b",
+          "textColor1": "faf8f9",
+          "textColor2": "f9392c",
+          "textColor3": "cecccd",
+          "textColor4": "cd3328"
+        },
+        "composerName": "Johann Sebastian Bach",
+        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583125384?i=1583126662",
+        "playParams": {
+          "id": "1583126662",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "attribution": "Johann Sebastian Bach",
+        "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/61/93/3f619381-dd99-4a68-29a8-4e8e939bd576/mzaf_6912831454169360897.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Tasmanian Symphony Orchestra & David Stanhope"
+      }
+    },
+    {
       "id": "1671675878",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1671675878",
@@ -77,8 +121,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super Shy",
         "previews": [
           {
@@ -120,8 +164,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "Mephisto (off vocal version)",
         "previews": [
           {
@@ -251,8 +295,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Breathe",
         "previews": [
           {
@@ -295,8 +339,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -338,8 +382,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "\ub300\uc131\ub2f9\ub4e4\uc758 \uc2dc\ub300",
         "previews": [
           {
@@ -467,8 +511,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Decisive Battle",
         "previews": [
           {
@@ -509,8 +553,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Air",
         "previews": [
           {
@@ -595,8 +639,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -725,8 +769,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -811,8 +855,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -899,8 +943,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
         "previews": [
           {
@@ -986,8 +1030,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Me To the Moon (Yoko Takahashi Acid Bossa Version)",
         "previews": [
           {
@@ -995,50 +1039,6 @@
           }
         ],
         "artistName": "Shiro SAGISU & Yoko Takahashi"
-      }
-    },
-    {
-      "id": "1583126662",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1583126662",
-      "attributes": {
-        "albumName": "The Australian Ballet - The Music of the Dance: Celebrating 50 Years",
-        "genreNames": [
-          "Classical",
-          "Music"
-        ],
-        "trackNumber": 22,
-        "releaseDate": "2012-01-06",
-        "durationInMillis": 210547,
-        "isrc": "AUAB00250019",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/f7/ab/14f7abea-c2e7-f75a-225f-43ebe3c0ab9c/196292150513.jpg/{w}x{h}bb.jpg",
-          "bgColor": "1f191b",
-          "textColor1": "faf8f9",
-          "textColor2": "f9392c",
-          "textColor3": "cecccd",
-          "textColor4": "cd3328"
-        },
-        "composerName": "Johann Sebastian Bach",
-        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583125384?i=1583126662",
-        "playParams": {
-          "id": "1583126662",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": false,
-        "isAppleDigitalMaster": false,
-        "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
-        "attribution": "Johann Sebastian Bach",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/61/93/3f619381-dd99-4a68-29a8-4e8e939bd576/mzaf_6912831454169360897.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Tasmanian Symphony Orchestra & David Stanhope"
       }
     },
     {
@@ -1202,8 +1202,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Rei II",
         "previews": [
           {
@@ -1245,8 +1245,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Marking Time, Waiting For Death",
         "previews": [
           {
@@ -1288,8 +1288,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "The Beast",
         "previews": [
           {
