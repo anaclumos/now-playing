@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1542182772",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1542182772",
+      "attributes": {
+        "albumName": "THE BOOK",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2020-12-18",
+        "durationInMillis": 243613,
+        "isrc": "JPP302000676",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/ba/5b/4bba5b81-c56e-1513-4326-e24daf4a7bff/195497666737.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbb3b4",
+          "textColor1": "000000",
+          "textColor2": "2f2120",
+          "textColor3": "322324",
+          "textColor4": "583e3e"
+        },
+        "composerName": "Ayase",
+        "playParams": {
+          "id": "1542182772",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Haruka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/82/c3/f382c352-d7a2-5847-5bd8-9f2d5973a98e/mzaf_3097056711403685485.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "1542182776",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1542182776",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "releaseDate": "2019-12-15",
         "durationInMillis": 258840,
+        "releaseDate": "2019-12-15",
         "isrc": "JPP301900716",
         "artwork": {
           "width": 3000,
@@ -33,12 +76,55 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Yoru ni kakeru",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/c9/bd/40c9bd72-8745-4af2-9edc-f564f333c48a/mzaf_16253265679552252207.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
+      "id": "1542182779",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1542182779",
+      "attributes": {
+        "albumName": "THE BOOK",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 9,
+        "durationInMillis": 35707,
+        "releaseDate": "2021-01-06",
+        "isrc": "JPP302000679",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/ba/5b/4bba5b81-c56e-1513-4326-e24daf4a7bff/195497666737.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbb3b4",
+          "textColor1": "000000",
+          "textColor2": "2f2120",
+          "textColor3": "322324",
+          "textColor4": "583e3e"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/prologue/1542182291?i=1542182779",
+        "playParams": {
+          "id": "1542182779",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "name": "Prologue",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/5c/8d/6e5c8da0-4c82-eb97-3243-f45deb2c7979/mzaf_16206543062193346470.plus.aac.p.m4a"
           }
         ],
         "artistName": "YOASOBI"
@@ -69,11 +155,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "playParams": {
           "id": "1500836562",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -100,8 +186,8 @@
           "Trance"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-09-15",
         "durationInMillis": 268820,
+        "releaseDate": "2020-09-15",
         "isrc": "QZK6L2035146",
         "artwork": {
           "width": 3000,
@@ -114,11 +200,11 @@
           "textColor4": "cb1e23"
         },
         "composerName": "Yoko Takahashi",
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "playParams": {
           "id": "1529040991",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -165,8 +251,8 @@
         "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super Shy",
         "previews": [
           {
@@ -208,8 +294,8 @@
         "url": "https://music.apple.com/us/album/a-yo-feat-beenzino/1696924799?i=1696924918",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "A Yo (feat. Beenzino)",
         "previews": [
           {
@@ -232,8 +318,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-11-17",
         "durationInMillis": 191995,
+        "releaseDate": "2017-11-17",
         "isrc": "KRNAR1709235",
         "artwork": {
           "width": 3000,
@@ -253,8 +339,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Boat",
         "previews": [
           {
@@ -297,8 +383,8 @@
         "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Allergy",
         "previews": [
           {
@@ -341,8 +427,8 @@
         "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -384,8 +470,8 @@
         "url": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Kill Bill",
         "previews": [
           {
@@ -421,11 +507,11 @@
           "textColor4": "b3b3b3"
         },
         "composerName": "Christopher E Martin, Jacques Burvick, Gaeko & Choiza",
-        "url": "https://music.apple.com/us/album/aeao/1615714661?i=1615714663",
         "playParams": {
           "id": "1615714663",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/aeao/1615714661?i=1615714663",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -450,8 +536,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-06-02",
         "durationInMillis": 191779,
+        "releaseDate": "2023-06-02",
         "isrc": "USWD12326770",
         "artwork": {
           "width": 3000,
@@ -464,11 +550,11 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -494,8 +580,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-03-27",
         "durationInMillis": 195440,
+        "releaseDate": "2023-03-27",
         "isrc": "QM4TX2337765",
         "artwork": {
           "width": 3000,
@@ -508,11 +594,11 @@
           "textColor4": "5a5a5a"
         },
         "composerName": "Lee Seu Ran, Hwang Hyun(MonoTree), RYAN JHUN, Lise Reppe, Audun Agnar Guldbrandsen, Kyle Joseph Faulkner, Tea Carpenter, Emily Harbakk, Stally & PATEKO",
+        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "playParams": {
           "id": "1680047537",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/kitsch/1680047093?i=1680047537",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -538,8 +624,8 @@
           "Pop"
         ],
         "trackNumber": 3,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 235562,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230223",
         "artwork": {
           "width": 1400,
@@ -559,8 +645,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cookie",
         "previews": [
           {
@@ -603,8 +689,8 @@
         "url": "https://music.apple.com/us/album/thirsty/1685399618?i=1685400191",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Thirsty",
         "previews": [
           {
@@ -626,8 +712,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-07-03",
         "durationInMillis": 179373,
+        "releaseDate": "2023-07-03",
         "isrc": "US5TA2300064",
         "artwork": {
           "width": 1400,
@@ -647,8 +733,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Roller Coaster",
         "previews": [
           {
@@ -672,8 +758,8 @@
           "K-Pop"
         ],
         "trackNumber": 5,
-        "releaseDate": "2023-06-01",
         "durationInMillis": 175716,
+        "releaseDate": "2023-06-01",
         "isrc": "KSA012250135",
         "artwork": {
           "width": 3000,
@@ -693,8 +779,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dare to Love (feat. BIG Naughty)",
         "previews": [
           {
@@ -737,8 +823,8 @@
         "url": "https://music.apple.com/us/album/you-were-beautiful/1689328375?i=1689329128",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "You Were Beautiful",
         "previews": [
           {
@@ -781,8 +867,8 @@
         "url": "https://music.apple.com/us/album/s-class/1686489462?i=1686489691",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "S-Class",
         "previews": [
           {
@@ -804,8 +890,8 @@
           "Hip-Hop/Rap"
         ],
         "trackNumber": 4,
-        "releaseDate": "2023-07-03",
         "durationInMillis": 257067,
+        "releaseDate": "2023-07-03",
         "isrc": "QM7282397280",
         "artwork": {
           "width": 3000,
@@ -825,16 +911,16 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Travel Again (feat. Cautious Clay)",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/25/1b/dd/251bdd40-2713-9505-e378-049969e86265/mzaf_12239210419735309667.plus.aac.p.m4a"
           }
         ],
-        "contentRating": "explicit",
-        "artistName": "Beenzino"
+        "artistName": "Beenzino",
+        "contentRating": "explicit"
       }
     },
     {
@@ -870,8 +956,8 @@
         "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super",
         "previews": [
           {
@@ -907,11 +993,11 @@
           "textColor4": "293842"
         },
         "composerName": "imsuho, NKO, MLC, Gabriel Brandes, Seo Youngjun, Danke, Cho Yunkyoung, YIYIJIN, Suh Jieum, Rum & Jeon Hyekyung",
-        "url": "https://music.apple.com/us/album/in-bloom/1694484106?i=1694484118",
         "playParams": {
           "id": "1694484118",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/in-bloom/1694484106?i=1694484118",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -937,8 +1023,8 @@
           "K-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-07-10",
         "durationInMillis": 185320,
+        "releaseDate": "2023-07-10",
         "isrc": "KRA302300245",
         "artwork": {
           "width": 4000,
@@ -958,8 +1044,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Cream Soda",
         "previews": [
           {
@@ -981,8 +1067,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 180067,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230221",
         "artwork": {
           "width": 1400,
@@ -1002,8 +1088,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Attention",
         "previews": [
           {
@@ -1025,8 +1111,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-01-02",
         "durationInMillis": 212253,
+        "releaseDate": "2023-01-02",
         "isrc": "USA2P2251723",
         "artwork": {
           "width": 1400,
@@ -1046,8 +1132,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "OMG",
         "previews": [
           {
@@ -1069,8 +1155,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-20",
         "durationInMillis": 243853,
+        "releaseDate": "2023-04-20",
         "isrc": "KRA252300790",
         "artwork": {
           "width": 3000,
@@ -1090,8 +1176,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Let's Say Goodbye",
         "previews": [
           {
@@ -1127,11 +1213,11 @@
           "textColor4": "693b41"
         },
         "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
-        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "playParams": {
           "id": "1657231962",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1157,8 +1243,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-08-01",
         "durationInMillis": 179027,
+        "releaseDate": "2022-08-01",
         "isrc": "USA2P2230222",
         "artwork": {
           "width": 1400,
@@ -1171,11 +1257,11 @@
           "textColor4": "424556"
         },
         "composerName": "Ylva Dimberg, 250, Gigi & Hanni",
+        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "playParams": {
           "id": "1635469851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1200,8 +1286,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-04-12",
         "durationInMillis": 213234,
+        "releaseDate": "2023-04-12",
         "isrc": "JPP302300157",
         "artwork": {
           "width": 3000,
@@ -1221,8 +1307,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Idol",
         "previews": [
           {
@@ -1230,94 +1316,6 @@
           }
         ],
         "artistName": "YOASOBI"
-      }
-    },
-    {
-      "id": "1684674427",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1684674427",
-      "attributes": {
-        "albumName": "I feel - EP",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-05-15",
-        "durationInMillis": 161240,
-        "isrc": "KRA392300001",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "000000",
-          "textColor1": "faa9c7",
-          "textColor2": "e59eb8",
-          "textColor3": "c8879f",
-          "textColor4": "b77e93"
-        },
-        "composerName": "So-yeon, Pop Time, Daily & Likey",
-        "url": "https://music.apple.com/us/album/queencard/1684674424?i=1684674427",
-        "playParams": {
-          "id": "1684674427",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Queencard",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/01/a4/8c/01a48c35-a92a-5fde-818c-eac44bc08825/mzaf_9694690388777143301.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "(G)I-DLE"
-      }
-    },
-    {
-      "id": "1680047366",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1680047366",
-      "attributes": {
-        "albumName": "I've IVE",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-04-10",
-        "durationInMillis": 183853,
-        "isrc": "QM4TX2337764",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3a/23/b7/3a23b7f4-0b43-df9d-b7e4-14f992443324/197188335663.jpg/{w}x{h}bb.jpg",
-          "bgColor": "f9f9f9",
-          "textColor1": "131313",
-          "textColor2": "323232",
-          "textColor3": "414141",
-          "textColor4": "5a5a5a"
-        },
-        "composerName": "Kim Ina, RYAN JHUN, Kristrin Marie, Audun Agnar Guldbrandsen & Eline Noelia Myreng",
-        "playParams": {
-          "id": "1680047366",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "I AM",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/af/45/c0/af45c08e-9368-8679-9516-3a2238cd0ba3/mzaf_742897824559319104.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
       }
     }
   ]
