@@ -2,6 +2,93 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1692686518",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1692686518",
+      "attributes": {
+        "albumName": "NewJeans 'Super Shy' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-07-07",
+        "durationInMillis": 154667,
+        "isrc": "USA2P2330068",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "8fc1e2",
+          "textColor1": "000000",
+          "textColor2": "0c244b",
+          "textColor3": "1c272d",
+          "textColor4": "264369"
+        },
+        "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
+        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
+        "playParams": {
+          "id": "1692686518",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Super Shy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/66/db/9866dbb4-6e6f-eedd-ea1c-4832542b8f3e/mzaf_1940197871229851903.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
+      "id": "1671675878",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1671675878",
+      "attributes": {
+        "albumName": "THE END OF EVANGELION (Original Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 11,
+        "releaseDate": "1997-09-26",
+        "durationInMillis": 466333,
+        "isrc": "JPKI09716710",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/15/5f/13155fa2-2de0-73b3-b503-a9bd082a5281/196589902917.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ab2113",
+          "textColor1": "fffcf7",
+          "textColor2": "fef4db",
+          "textColor3": "eed0c9",
+          "textColor4": "edcab3"
+        },
+        "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
+        "playParams": {
+          "id": "1671675878",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d5/31/90/d5319083-01d0-70ff-08a8-e8617872e6ed/mzaf_2624103204191811222.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Arianne"
+      }
+    },
+    {
       "id": "1500836583",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1500836583",
@@ -33,8 +120,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Fly Me To the Moon (Yoko Takahashi Acid Bossa Version)",
         "previews": [
           {
@@ -55,8 +142,8 @@
           "Music"
         ],
         "trackNumber": 14,
-        "durationInMillis": 120400,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 120400,
         "isrc": "JPKI00312156",
         "artwork": {
           "width": 3000,
@@ -76,8 +163,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "EVA-02",
         "previews": [
           {
@@ -119,10 +206,10 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
-        "attribution": "Johann Sebastian Bach",
+        "isAppleDigitalMaster": false,
         "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
+        "attribution": "Johann Sebastian Bach",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/61/93/3f619381-dd99-4a68-29a8-4e8e939bd576/mzaf_6912831454169360897.plus.aac.p.m4a"
@@ -142,8 +229,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 144973,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI00312180",
         "artwork": {
           "width": 3000,
@@ -156,15 +243,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "playParams": {
           "id": "1500836571",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Tokyo-3",
         "previews": [
           {
@@ -185,8 +272,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 167307,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 167307,
         "isrc": "JPKI09531190",
         "artwork": {
           "width": 3000,
@@ -206,8 +293,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Hedgehog's Dilemma",
         "previews": [
           {
@@ -249,8 +336,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Asuka Strikes!",
         "previews": [
           {
@@ -292,8 +379,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Decisive Battle",
         "previews": [
           {
@@ -327,15 +414,15 @@
           "textColor3": "392e22",
           "textColor4": "413024"
         },
+        "url": "https://music.apple.com/us/album/air/1605640852?i=1605640860",
         "playParams": {
           "id": "1605640860",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/air/1605640852?i=1605640860",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Air",
         "previews": [
           {
@@ -370,15 +457,15 @@
           "textColor4": "343125"
         },
         "composerName": "Aster & Jeiff",
+        "url": "https://music.apple.com/us/album/gucci-boy-feat-emetsound-asid/1685831730?i=1685831731",
         "playParams": {
           "id": "1685831731",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/gucci-boy-feat-emetsound-asid/1685831730?i=1685831731",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Gucci Boy (feat. Emetsound & Asid)",
         "previews": [
           {
@@ -421,8 +508,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Roller Coaster",
         "previews": [
           {
@@ -467,8 +554,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Dare to Love (feat. BIG Naughty)",
         "previews": [
           {
@@ -489,8 +576,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "releaseDate": "2019-12-15",
         "durationInMillis": 258840,
+        "releaseDate": "2019-12-15",
         "isrc": "JPP301900716",
         "artwork": {
           "width": 3000,
@@ -503,15 +590,15 @@
           "textColor4": "583e3e"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/yoru-ni-kakeru/1542182291?i=1542182776",
         "playParams": {
           "id": "1542182776",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/yoru-ni-kakeru/1542182291?i=1542182776",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Yoru ni kakeru",
         "previews": [
           {
@@ -536,8 +623,8 @@
         "trackNumber": 3,
         "releaseDate": "2023-07-14",
         "durationInMillis": 292600,
-        "isrc": "DEN962300363",
         "movementNumber": 3,
+        "isrc": "DEN962300363",
         "artwork": {
           "width": 3000,
           "height": 3000,
@@ -550,16 +637,16 @@
         },
         "workName": "6 Sonatas for Violin Solo, Op. 27: Sonata No. 1 in G Minor",
         "composerName": "Eug\u00e8ne Ysa\u00ffe",
+        "url": "https://music.apple.com/us/album/6-sonatas-for-violin-solo-op-27-sonata-no-1-in-g-minor/1684506488?i=1684507252",
         "playParams": {
           "id": "1684507252",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/6-sonatas-for-violin-solo-op-27-sonata-no-1-in-g-minor/1684506488?i=1684507252",
         "discNumber": 1,
         "movementCount": 4,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
+        "isAppleDigitalMaster": true,
         "name": "6 Sonatas for Violin Solo, Op. 27: Sonata No. 1 in G Minor: III. Allegretto poco scherzoso",
         "attribution": "Eug\u00e8ne Ysa\u00ffe",
         "previews": [
@@ -583,8 +670,8 @@
           "Violin"
         ],
         "trackNumber": 2,
-        "durationInMillis": 253720,
         "releaseDate": "2023-07-14",
+        "durationInMillis": 253720,
         "movementNumber": 2,
         "isrc": "DEN962300362",
         "artwork": {
@@ -607,10 +694,10 @@
         "discNumber": 1,
         "movementCount": 4,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "attribution": "Eug\u00e8ne Ysa\u00ffe",
+        "isAppleDigitalMaster": true,
         "name": "6 Sonatas for Violin Solo, Op. 27: Sonata No. 1 in G Minor: II. Fugato",
+        "attribution": "Eug\u00e8ne Ysa\u00ffe",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d7/9a/e2/d79ae226-7a29-36b5-3564-bdecbe570a54/mzaf_3992548377978421047.plus.aac.p.m4a"
@@ -632,8 +719,8 @@
           "Violin"
         ],
         "trackNumber": 1,
-        "durationInMillis": 346933,
         "releaseDate": "2023-07-14",
+        "durationInMillis": 346933,
         "movementNumber": 1,
         "isrc": "DEN962300361",
         "artwork": {
@@ -656,10 +743,10 @@
         "discNumber": 1,
         "movementCount": 4,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "attribution": "Eug\u00e8ne Ysa\u00ffe",
+        "isAppleDigitalMaster": true,
         "name": "6 Sonatas for Violin Solo, Op. 27: Sonata No. 1 in G Minor: I. Grave",
+        "attribution": "Eug\u00e8ne Ysa\u00ffe",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8b/89/07/8b8907b3-3844-7f2a-dc66-ad57ee47d8b1/mzaf_13856925571764032914.plus.aac.p.m4a"
@@ -682,8 +769,8 @@
           "Classical"
         ],
         "trackNumber": 12,
-        "durationInMillis": 275556,
         "releaseDate": "2010-07-09",
+        "durationInMillis": 275556,
         "isrc": "USRE11000577",
         "artwork": {
           "width": 1425,
@@ -703,8 +790,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
+        "isAppleDigitalMaster": true,
         "name": "Time",
         "previews": [
           {
@@ -739,15 +826,15 @@
           "textColor3": "cdca0e",
           "textColor4": "1fa9c5"
         },
+        "url": "https://music.apple.com/us/album/tech-no-ledge/1512758255?i=1512758438",
         "playParams": {
           "id": "1512758438",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tech-no-ledge/1512758255?i=1512758438",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Tech No Ledge",
         "previews": [
           {
@@ -789,10 +876,10 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
-        "attribution": "Dmitri Shostakovich",
+        "isAppleDigitalMaster": true,
         "name": "Jazz Suite No. 1: I. Waltz",
+        "attribution": "Dmitri Shostakovich",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/00/0a/26/000a267c-6088-653c-bed0-3fc0f5977008/mzaf_16831465480248394868.plus.aac.p.m4a"
@@ -826,15 +913,15 @@
           "textColor4": "48372d"
         },
         "composerName": "Fr\u00e9d\u00e9ric Chopin",
+        "url": "https://music.apple.com/us/album/nocturne-no-2-in-e-flat-op-9-no-2/1532272879?i=1532273014",
         "playParams": {
           "id": "1532273014",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/nocturne-no-2-in-e-flat-op-9-no-2/1532272879?i=1532273014",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Nocturne No. 2 in E Flat, Op. 9 No. 2",
         "attribution": "Fr\u00e9d\u00e9ric Chopin",
         "previews": [
@@ -877,8 +964,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Prologue",
         "previews": [
           {
@@ -899,8 +986,8 @@
           "Music"
         ],
         "trackNumber": 7,
-        "releaseDate": "2020-12-18",
         "durationInMillis": 243613,
+        "releaseDate": "2020-12-18",
         "isrc": "JPP302000676",
         "artwork": {
           "width": 3000,
@@ -913,15 +1000,15 @@
           "textColor4": "583e3e"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
         "playParams": {
           "id": "1542182772",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Haruka",
         "previews": [
           {
@@ -963,8 +1050,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -1008,8 +1095,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
         "previews": [
           {
@@ -1017,50 +1104,6 @@
           }
         ],
         "artistName": "Berioska"
-      }
-    },
-    {
-      "id": "1692686518",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1692686518",
-      "attributes": {
-        "albumName": "NewJeans 'Super Shy' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-07-07",
-        "durationInMillis": 154667,
-        "isrc": "USA2P2330068",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "8fc1e2",
-          "textColor1": "000000",
-          "textColor2": "0c244b",
-          "textColor3": "1c272d",
-          "textColor4": "264369"
-        },
-        "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
-        "playParams": {
-          "id": "1692686518",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Super Shy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/66/db/9866dbb4-6e6f-eedd-ea1c-4832542b8f3e/mzaf_1940197871229851903.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
       }
     },
     {
@@ -1074,8 +1117,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "releaseDate": "2023-07-13",
         "durationInMillis": 232000,
+        "releaseDate": "2023-07-13",
         "isrc": "KRMIM2352429",
         "artwork": {
           "width": 1400,
@@ -1088,15 +1131,15 @@
           "textColor4": "a7a7a9"
         },
         "composerName": "Hukky Shibaseki, Maalib, E SENS & Beenzino",
+        "url": "https://music.apple.com/us/album/a-yo-feat-beenzino/1696924799?i=1696924918",
         "playParams": {
           "id": "1696924918",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/a-yo-feat-beenzino/1696924799?i=1696924918",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "A Yo (feat. Beenzino)",
         "previews": [
           {
@@ -1133,15 +1176,15 @@
           "textColor4": "8a8ab1"
         },
         "composerName": "george & Deepshower",
+        "url": "https://music.apple.com/us/album/boat/1656636779?i=1656636785",
         "playParams": {
           "id": "1656636785",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/boat/1656636779?i=1656636785",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Boat",
         "previews": [
           {
@@ -1163,8 +1206,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 162787,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -1177,15 +1220,15 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Allergy",
         "previews": [
           {
@@ -1221,15 +1264,15 @@
           "textColor4": "733a4a"
         },
         "composerName": "SCORE(13), MEGATONE(13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik(Dsign Music), Nermin Harambasic(Dsign Music), Benjmn, Feli Ferraro, Kris Jana, Kyler Niko, Young Chance, Belle, Glenda \"GIZZLE\" Proby, Makaila J Garcia, Believve & Ennio Morricone",
+        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "playParams": {
           "id": "1682502472",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "UNFORGIVEN",
         "previews": [
           {
@@ -1271,8 +1314,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Kill Bill",
         "previews": [
           {
@@ -1280,50 +1323,6 @@
           }
         ],
         "artistName": "SZA"
-      }
-    },
-    {
-      "id": "1615714663",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1615714663",
-      "attributes": {
-        "albumName": "A Giant Step - Single",
-        "genreNames": [
-          "Hip-Hop",
-          "Music",
-          "Hip-Hop/Rap"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2014-07-16",
-        "durationInMillis": 316944,
-        "isrc": "KRA381208477",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/19/90/eb199068-bebf-179c-4b3b-4099619e4726/8809603542342_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "222021",
-          "textColor1": "fafafa",
-          "textColor2": "d7d7d7",
-          "textColor3": "cecece",
-          "textColor4": "b3b3b3"
-        },
-        "composerName": "Christopher E Martin, Jacques Burvick, Gaeko & Choiza",
-        "playParams": {
-          "id": "1615714663",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/aeao/1615714661?i=1615714663",
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Aeao",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/64/da/16/64da16fe-a645-a137-56ff-96e67da86f0c/mzaf_6847606205009456561.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Dynamicduo & DJ Premier"
       }
     }
   ]
