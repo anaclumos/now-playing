@@ -2,6 +2,49 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1542182776",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1542182776",
+      "attributes": {
+        "albumName": "THE BOOK",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "2019-12-15",
+        "durationInMillis": 258840,
+        "isrc": "JPP301900716",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/ba/5b/4bba5b81-c56e-1513-4326-e24daf4a7bff/195497666737.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbb3b4",
+          "textColor1": "000000",
+          "textColor2": "2f2120",
+          "textColor3": "322324",
+          "textColor4": "583e3e"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/yoru-ni-kakeru/1542182291?i=1542182776",
+        "playParams": {
+          "id": "1542182776",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Yoru ni kakeru",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/c9/bd/40c9bd72-8745-4af2-9edc-f564f333c48a/mzaf_16253265679552252207.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "1685831731",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1685831731",
@@ -12,8 +55,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-05-08",
         "durationInMillis": 219581,
+        "releaseDate": "2023-05-08",
         "isrc": "KRMIM2351121",
         "artwork": {
           "width": 3000,
@@ -26,15 +69,15 @@
           "textColor4": "343125"
         },
         "composerName": "Aster & Jeiff",
+        "url": "https://music.apple.com/us/album/gucci-boy-feat-emetsound-asid/1685831730?i=1685831731",
         "playParams": {
           "id": "1685831731",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/gucci-boy-feat-emetsound-asid/1685831730?i=1685831731",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Gucci Boy (feat. Emetsound & Asid)",
         "previews": [
           {
@@ -71,15 +114,15 @@
           "textColor4": "cb1e23"
         },
         "composerName": "Yoko Takahashi",
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "playParams": {
           "id": "1529040991",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
         "previews": [
           {
@@ -121,8 +164,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
         "previews": [
           {
@@ -157,15 +200,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "playParams": {
           "id": "1500836571",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Tokyo-3",
         "previews": [
           {
@@ -207,8 +250,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Asuka Strikes!",
         "previews": [
           {
@@ -229,8 +272,8 @@
           "Music"
         ],
         "trackNumber": 15,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 145027,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI00028700",
         "artwork": {
           "width": 3000,
@@ -250,8 +293,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Decisive Battle",
         "previews": [
           {
@@ -293,8 +336,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
         "attribution": "Johann Sebastian Bach",
         "previews": [
@@ -303,49 +346,6 @@
           }
         ],
         "artistName": "Tasmanian Symphony Orchestra & David Stanhope"
-      }
-    },
-    {
-      "id": "1542182776",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1542182776",
-      "attributes": {
-        "albumName": "THE BOOK",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 8,
-        "releaseDate": "2019-12-15",
-        "durationInMillis": 258840,
-        "isrc": "JPP301900716",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/ba/5b/4bba5b81-c56e-1513-4326-e24daf4a7bff/195497666737.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbb3b4",
-          "textColor1": "000000",
-          "textColor2": "2f2120",
-          "textColor3": "322324",
-          "textColor4": "583e3e"
-        },
-        "composerName": "Ayase",
-        "playParams": {
-          "id": "1542182776",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/yoru-ni-kakeru/1542182291?i=1542182776",
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Yoru ni kakeru",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/c9/bd/40c9bd72-8745-4af2-9edc-f564f333c48a/mzaf_16253265679552252207.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -373,15 +373,15 @@
           "textColor4": "d3746e"
         },
         "composerName": "Arianne",
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "playParams": {
           "id": "1503454854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
         "previews": [
           {
@@ -402,8 +402,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 245093,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI09522450",
         "artwork": {
           "width": 3000,
@@ -416,15 +416,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "playParams": {
           "id": "1500836562",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -469,8 +469,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dare to Love (feat. BIG Naughty)",
         "previews": [
           {
@@ -492,8 +492,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2023-07-13",
         "durationInMillis": 180627,
+        "releaseDate": "2023-07-13",
         "isrc": "KRA382318567",
         "artwork": {
           "width": 3000,
@@ -512,8 +512,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "I WANT",
         "previews": [
           {
@@ -534,8 +534,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "releaseDate": "2022-06-12",
         "durationInMillis": 181813,
+        "releaseDate": "2022-06-12",
         "isrc": "KRMIM2222354",
         "artwork": {
           "width": 3000,
@@ -555,8 +555,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Summertime (feat. Ashley Alisha)",
         "previews": [
           {
@@ -578,8 +578,8 @@
           "J-Pop"
         ],
         "trackNumber": 1,
-        "releaseDate": "2022-09-30",
         "durationInMillis": 236391,
+        "releaseDate": "2022-09-30",
         "isrc": "JPV972200075",
         "artwork": {
           "width": 3000,
@@ -599,8 +599,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Suzume (feat. Toaka)",
         "previews": [
           {
@@ -642,8 +642,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "Mephisto (off vocal version)",
         "previews": [
           {
@@ -665,8 +665,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "releaseDate": "2017-05-17",
         "durationInMillis": 245280,
+        "releaseDate": "2017-05-17",
         "isrc": "KRNAR1702870",
         "artwork": {
           "width": 3000,
@@ -686,8 +686,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Grace",
         "previews": [
           {
@@ -709,8 +709,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "releaseDate": "2023-05-15",
         "durationInMillis": 190947,
+        "releaseDate": "2023-05-15",
         "isrc": "KRA392300006",
         "artwork": {
           "width": 1400,
@@ -730,8 +730,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Peter Pan",
         "previews": [
           {
@@ -767,15 +767,15 @@
           "textColor4": "b77e93"
         },
         "composerName": "So-yeon, Pop Time, Daily, Likey & Kako",
+        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "playParams": {
           "id": "1684674429",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/allergy/1684674424?i=1684674429",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -797,8 +797,8 @@
           "Fitness & Workout"
         ],
         "trackNumber": 6,
-        "releaseDate": "2018-12-28",
         "durationInMillis": 189585,
+        "releaseDate": "2018-12-28",
         "isrc": "GBSMU6422393",
         "artwork": {
           "width": 3000,
@@ -817,8 +817,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Breathe",
         "previews": [
           {
@@ -840,8 +840,8 @@
           "Soundtrack"
         ],
         "trackNumber": 1,
-        "releaseDate": "2009-07-15",
         "durationInMillis": 200556,
+        "releaseDate": "2009-07-15",
         "isrc": "KRZ291803748",
         "artwork": {
           "width": 3000,
@@ -853,15 +853,15 @@
           "textColor3": "d8d9da",
           "textColor4": "b4bcc6"
         },
+        "url": "https://music.apple.com/us/album/%EB%8C%80%EC%84%B1%EB%8B%B9%EB%93%A4%EC%9D%98-%EC%8B%9C%EB%8C%80/1598740747?i=1598740748",
         "playParams": {
           "id": "1598740748",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/%EB%8C%80%EC%84%B1%EB%8B%B9%EB%93%A4%EC%9D%98-%EC%8B%9C%EB%8C%80/1598740747?i=1598740748",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "\ub300\uc131\ub2f9\ub4e4\uc758 \uc2dc\ub300",
         "previews": [
           {
@@ -903,8 +903,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -926,8 +926,8 @@
           "Easy Listening"
         ],
         "trackNumber": 5,
-        "releaseDate": "2020-03-16",
         "durationInMillis": 191466,
+        "releaseDate": "2020-03-16",
         "isrc": "GX3HH2179630",
         "artwork": {
           "width": 3000,
@@ -939,15 +939,15 @@
           "textColor3": "cad0d1",
           "textColor4": "719ea6"
         },
+        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "playParams": {
           "id": "1573916009",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/not-the-one-original-version/1573916002?i=1573916009",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -969,8 +969,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2023-01-05",
         "durationInMillis": 195480,
+        "releaseDate": "2023-01-05",
         "isrc": "KRB462201620",
         "artwork": {
           "width": 3000,
@@ -990,8 +990,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Rose Blossom",
         "previews": [
           {
@@ -1013,8 +1013,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-07-28",
         "durationInMillis": 215347,
+        "releaseDate": "2022-07-28",
         "isrc": "KRA382206389",
         "artwork": {
           "width": 3000,
@@ -1026,15 +1026,15 @@
           "textColor3": "383735",
           "textColor4": "605535"
         },
+        "url": "https://music.apple.com/us/album/pop-pop/1636410849?i=1636410851",
         "playParams": {
           "id": "1636410851",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/pop-pop/1636410849?i=1636410851",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Pop? Pop!",
         "previews": [
           {
@@ -1069,15 +1069,15 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Steal The Show (From \"Elemental\")",
         "previews": [
           {
@@ -1098,8 +1098,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-06-03",
         "durationInMillis": 196613,
+        "releaseDate": "2016-06-03",
         "isrc": "GBUM71602437",
         "artwork": {
           "width": 3000,
@@ -1112,15 +1112,15 @@
           "textColor4": "2572ce"
         },
         "composerName": "Guy James Robin, John Paul Cooper & Alex Smith",
+        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "playParams": {
           "id": "1543303911",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Perfect Strangers",
         "previews": [
           {
@@ -1156,15 +1156,15 @@
           "textColor4": "264369"
         },
         "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
+        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
         "playParams": {
           "id": "1692686518",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Super Shy",
         "previews": [
           {
@@ -1199,15 +1199,15 @@
           "textColor4": "4985b2"
         },
         "composerName": "Bart Howard",
+        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
         "playParams": {
           "id": "1500836583",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/fly-me-to-the-moon-yoko-takahashi-acid-bossa-version/1500836561?i=1500836583",
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Me To the Moon (Yoko Takahashi Acid Bossa Version)",
         "previews": [
           {
@@ -1228,8 +1228,8 @@
           "Music"
         ],
         "trackNumber": 14,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 120400,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI00312156",
         "artwork": {
           "width": 3000,
@@ -1249,8 +1249,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "EVA-02",
         "previews": [
           {
@@ -1271,8 +1271,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 167307,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI09531190",
         "artwork": {
           "width": 3000,
@@ -1292,8 +1292,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Hedgehog's Dilemma",
         "previews": [
           {
