@@ -2,92 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1543303911",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1543303911",
-      "attributes": {
-        "albumName": "Royal - EP",
-        "genreNames": [
-          "Dance",
-          "Music"
-        ],
-        "trackNumber": 2,
-        "durationInMillis": 196613,
-        "releaseDate": "2016-06-03",
-        "isrc": "GBUM71602437",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/87/07/2e870760-cbb2-7362-7c4a-767bcb2721c3/20UM1IM11102.rgb.jpg/{w}x{h}bb.jpg",
-          "bgColor": "04040c",
-          "textColor1": "428dfa",
-          "textColor2": "2e8efe",
-          "textColor3": "3572cb",
-          "textColor4": "2572ce"
-        },
-        "composerName": "Guy James Robin, John Paul Cooper & Alex Smith",
-        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
-        "playParams": {
-          "id": "1543303911",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": true,
-        "name": "Perfect Strangers",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/12/7b/ab/127babae-485e-703b-1044-9c6e5ebcde7c/mzaf_16890823378465507740.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Jonas Blue & JP Cooper"
-      }
-    },
-    {
-      "id": "1500836562",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1500836562",
-      "attributes": {
-        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
-        "genreNames": [
-          "Soundtrack",
-          "Music"
-        ],
-        "trackNumber": 1,
-        "durationInMillis": 245093,
-        "releaseDate": "1995-12-06",
-        "isrc": "JPKI09522450",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
-          "bgColor": "05080d",
-          "textColor1": "4db8e9",
-          "textColor2": "5ba4db",
-          "textColor3": "3f95bd",
-          "textColor4": "4985b2"
-        },
-        "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
-        "playParams": {
-          "id": "1500836562",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "A Cruel Angel's Thesis (Director's Edit Version)",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/de/ee/9cdeee60-4087-e848-7fe5-bd1ba8000795/mzaf_12533848052351672003.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Yoko Takahashi"
-      }
-    },
-    {
       "id": "1529040991",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1529040991",
@@ -114,11 +28,11 @@
           "textColor4": "cb1e23"
         },
         "composerName": "Yoko Takahashi",
+        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "playParams": {
           "id": "1529040991",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/zankoku-na-tenshi-no-thesis-neon-genesis-evangelion/1529040989?i=1529040991",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -130,6 +44,92 @@
           }
         ],
         "artistName": "Berioska"
+      }
+    },
+    {
+      "id": "1500836562",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1500836562",
+      "attributes": {
+        "albumName": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "genreNames": [
+          "Soundtrack",
+          "Music"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1995-12-06",
+        "durationInMillis": 245093,
+        "isrc": "JPKI09522450",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/65/fa/7765fa66-2af8-dce3-fb4c-18cc68d6ba77/886448179139.jpg/{w}x{h}bb.jpg",
+          "bgColor": "05080d",
+          "textColor1": "4db8e9",
+          "textColor2": "5ba4db",
+          "textColor3": "3f95bd",
+          "textColor4": "4985b2"
+        },
+        "composerName": "Shiro SAGISU",
+        "playParams": {
+          "id": "1500836562",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/a-cruel-angels-thesis-directors-edit-version/1500836561?i=1500836562",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "A Cruel Angel's Thesis (Director's Edit Version)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/de/ee/9cdeee60-4087-e848-7fe5-bd1ba8000795/mzaf_12533848052351672003.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Yoko Takahashi"
+      }
+    },
+    {
+      "id": "1543303911",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1543303911",
+      "attributes": {
+        "albumName": "Royal - EP",
+        "genreNames": [
+          "Dance",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2016-06-03",
+        "durationInMillis": 196613,
+        "isrc": "GBUM71602437",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/87/07/2e870760-cbb2-7362-7c4a-767bcb2721c3/20UM1IM11102.rgb.jpg/{w}x{h}bb.jpg",
+          "bgColor": "04040c",
+          "textColor1": "428dfa",
+          "textColor2": "2e8efe",
+          "textColor3": "3572cb",
+          "textColor4": "2572ce"
+        },
+        "composerName": "Guy James Robin, John Paul Cooper & Alex Smith",
+        "url": "https://music.apple.com/us/album/perfect-strangers/1543303908?i=1543303911",
+        "playParams": {
+          "id": "1543303911",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "name": "Perfect Strangers",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/12/7b/ab/127babae-485e-703b-1044-9c6e5ebcde7c/mzaf_16890823378465507740.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Jonas Blue & JP Cooper"
       }
     },
     {
@@ -164,8 +164,8 @@
         "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
         "previews": [
           {
@@ -200,11 +200,11 @@
           "textColor4": "edcab3"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "playParams": {
           "id": "1671675878",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -229,8 +229,8 @@
           "Music"
         ],
         "trackNumber": 15,
-        "durationInMillis": 145027,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 145027,
         "isrc": "JPKI00028700",
         "artwork": {
           "width": 3000,
@@ -243,11 +243,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/decisive-battle/1500836561?i=1500836576",
         "playParams": {
           "id": "1500836576",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/decisive-battle/1500836561?i=1500836576",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -293,8 +293,8 @@
         "url": "https://music.apple.com/us/album/i-want/1697073400?i=1697073401",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "I WANT",
         "previews": [
           {
@@ -315,8 +315,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 258840,
         "releaseDate": "2019-12-15",
+        "durationInMillis": 258840,
         "isrc": "JPP301900716",
         "artwork": {
           "width": 3000,
@@ -336,8 +336,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Yoru ni kakeru",
         "previews": [
           {
@@ -379,8 +379,8 @@
         "url": "https://music.apple.com/us/album/gucci-boy-feat-emetsound-asid/1685831730?i=1685831731",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Gucci Boy (feat. Emetsound & Asid)",
         "previews": [
           {
@@ -423,8 +423,8 @@
         "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Super Shy",
         "previews": [
           {
@@ -446,8 +446,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 108987,
         "releaseDate": "2023-07-07",
+        "durationInMillis": 108987,
         "isrc": "USA2P2330067",
         "artwork": {
           "width": 1400,
@@ -467,8 +467,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "New Jeans",
         "previews": [
           {
@@ -504,11 +504,11 @@
           "textColor4": "474548"
         },
         "composerName": "Gavin Jones, Hayden Chapman, Taet Chesterton, Greg Bonnick, Lee Hye Jun(ONCLASSA), Jennifer Eunsoo Kim, Eunji Jang(153/Joombas Publishing), SHIN HYE MI(PNP), Oh Hyunsun(lalala studio) & Wkly",
+        "url": "https://music.apple.com/us/album/love-me-like-this/1689309595?i=1689309607",
         "playParams": {
           "id": "1689309607",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/love-me-like-this/1689309595?i=1689309607",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -533,8 +533,8 @@
           "Music"
         ],
         "trackNumber": 3,
-        "durationInMillis": 198600,
         "releaseDate": "2020-05-11",
+        "durationInMillis": 198600,
         "isrc": "JPP302000218",
         "artwork": {
           "width": 3000,
@@ -547,11 +547,11 @@
           "textColor4": "583e3e"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/harujion/1542182291?i=1542182540",
         "playParams": {
           "id": "1542182540",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/harujion/1542182291?i=1542182540",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -576,8 +576,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "durationInMillis": 271440,
         "releaseDate": "2021-01-06",
+        "durationInMillis": 271440,
         "isrc": "JPP302000677",
         "artwork": {
           "width": 3000,
@@ -590,11 +590,11 @@
           "textColor4": "583e3e"
         },
         "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/encore/1542182291?i=1542182311",
         "playParams": {
           "id": "1542182311",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/encore/1542182291?i=1542182311",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -640,8 +640,8 @@
         "url": "https://music.apple.com/us/album/epilogue/1542182291?i=1542182299",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Epilogue",
         "previews": [
           {
@@ -683,8 +683,8 @@
         "url": "https://music.apple.com/us/album/prologue/1542182291?i=1542182779",
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Prologue",
         "previews": [
           {
@@ -706,8 +706,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179373,
         "releaseDate": "2023-07-03",
+        "durationInMillis": 179373,
         "isrc": "US5TA2300064",
         "artwork": {
           "width": 1400,
@@ -720,11 +720,11 @@
           "textColor4": "98cedb"
         },
         "composerName": "Justin Reinstein, Suhyppy, Anna Timgren & Seo Ji Eum",
-        "url": "https://music.apple.com/us/album/roller-coaster/1693911798?i=1693911799",
         "playParams": {
           "id": "1693911799",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/roller-coaster/1693911798?i=1693911799",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -752,8 +752,8 @@
           "K-Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 175716,
         "releaseDate": "2023-06-01",
+        "durationInMillis": 175716,
         "isrc": "KSA012250135",
         "artwork": {
           "width": 3000,
@@ -766,11 +766,11 @@
           "textColor4": "cba368"
         },
         "composerName": "B.I, \uac15\uc6b1\uc9c4, Diggy & BIG Naughty",
-        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "playParams": {
           "id": "1690289238",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -809,11 +809,11 @@
           "textColor4": "583e3e"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
         "playParams": {
           "id": "1542182772",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -838,8 +838,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "durationInMillis": 144973,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 144973,
         "isrc": "JPKI00312180",
         "artwork": {
           "width": 3000,
@@ -852,11 +852,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
-        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "playParams": {
           "id": "1500836571",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -881,8 +881,8 @@
           "Music"
         ],
         "trackNumber": 8,
-        "durationInMillis": 143640,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 143640,
         "isrc": "JPKI00307724",
         "artwork": {
           "width": 3000,
@@ -902,8 +902,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Asuka Strikes!",
         "previews": [
           {
@@ -938,11 +938,11 @@
           "textColor4": "cd3328"
         },
         "composerName": "Johann Sebastian Bach",
+        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583125384?i=1583126662",
         "playParams": {
           "id": "1583126662",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/orchestral-suite-no-3-in-d-major-bwv-1068-2-air-arr/1583125384?i=1583126662",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -982,11 +982,11 @@
           "textColor4": "4e3b34"
         },
         "composerName": "Dept, Ashley Alisha, jazzer & Sonny Zero",
+        "url": "https://music.apple.com/us/album/summertime-feat-ashley-alisha/1656020011?i=1656020186",
         "playParams": {
           "id": "1656020186",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/summertime-feat-ashley-alisha/1656020011?i=1656020186",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1026,11 +1026,11 @@
           "textColor4": "414e59"
         },
         "composerName": "Nodayouzirou",
+        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "playParams": {
           "id": "1647112151",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": true,
@@ -1055,8 +1055,8 @@
           "Music"
         ],
         "trackNumber": 4,
-        "durationInMillis": 229360,
         "releaseDate": "2023-05-17",
+        "durationInMillis": 229360,
         "isrc": "JPU902301823",
         "artwork": {
           "width": 3000,
@@ -1076,8 +1076,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": true,
+        "hasLyrics": false,
         "name": "Mephisto (off vocal version)",
         "previews": [
           {
@@ -1099,8 +1099,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "durationInMillis": 245280,
         "releaseDate": "2017-05-17",
+        "durationInMillis": 245280,
         "isrc": "KRNAR1702870",
         "artwork": {
           "width": 3000,
@@ -1120,8 +1120,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Grace",
         "previews": [
           {
@@ -1143,8 +1143,8 @@
           "Pop"
         ],
         "trackNumber": 6,
-        "durationInMillis": 190947,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 190947,
         "isrc": "KRA392300006",
         "artwork": {
           "width": 1400,
@@ -1157,11 +1157,11 @@
           "textColor4": "b77e93"
         },
         "composerName": "YUQI, Siixk Jun, WOOSEOK & So-yeon",
-        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "playParams": {
           "id": "1684674682",
           "kind": "song"
         },
+        "url": "https://music.apple.com/us/album/peter-pan/1684674424?i=1684674682",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1187,8 +1187,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "durationInMillis": 162787,
         "releaseDate": "2023-05-15",
+        "durationInMillis": 162787,
         "isrc": "KRA392300002",
         "artwork": {
           "width": 1400,
@@ -1208,8 +1208,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Allergy",
         "previews": [
           {
@@ -1244,11 +1244,11 @@
           "textColor3": "333333",
           "textColor4": "655b44"
         },
+        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "playParams": {
           "id": "1464893090",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/breathe/1464893084?i=1464893090",
         "discNumber": 1,
         "hasCredits": false,
         "isAppleDigitalMaster": false,
@@ -1274,8 +1274,8 @@
           "Soundtrack"
         ],
         "trackNumber": 1,
-        "durationInMillis": 200556,
         "releaseDate": "2009-07-15",
+        "durationInMillis": 200556,
         "isrc": "KRZ291803748",
         "artwork": {
           "width": 3000,
@@ -1294,8 +1294,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "\ub300\uc131\ub2f9\ub4e4\uc758 \uc2dc\ub300",
         "previews": [
           {
