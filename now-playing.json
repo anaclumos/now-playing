@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1697073401",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1697073401",
-      "attributes": {
-        "albumName": "I WANT - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-07-13",
-        "durationInMillis": 180627,
-        "isrc": "KRA382318567",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/09/80/e90980f1-de81-6b00-4784-22a724cb6a27/cover_KM0017857_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e9e9e9",
-          "textColor1": "101010",
-          "textColor2": "0d1940",
-          "textColor3": "3b3b3b",
-          "textColor4": "394262"
-        },
-        "url": "https://music.apple.com/us/album/i-want/1697073400?i=1697073401",
-        "playParams": {
-          "id": "1697073401",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "I WANT",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f7/03/20/f7032086-6f57-a696-7784-dff2e5496e2a/mzaf_12072413882302188691.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
       "id": "1542182776",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1542182776",
@@ -88,6 +45,92 @@
       }
     },
     {
+      "id": "1697073401",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1697073401",
+      "attributes": {
+        "albumName": "I WANT - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 180627,
+        "releaseDate": "2023-07-13",
+        "isrc": "KRA382318567",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/09/80/e90980f1-de81-6b00-4784-22a724cb6a27/cover_KM0017857_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e9e9e9",
+          "textColor1": "101010",
+          "textColor2": "0d1940",
+          "textColor3": "3b3b3b",
+          "textColor4": "394262"
+        },
+        "url": "https://music.apple.com/us/album/i-want/1697073400?i=1697073401",
+        "playParams": {
+          "id": "1697073401",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I WANT",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f7/03/20/f7032086-6f57-a696-7784-dff2e5496e2a/mzaf_12072413882302188691.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
+      }
+    },
+    {
+      "id": "1542182772",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1542182772",
+      "attributes": {
+        "albumName": "THE BOOK",
+        "genreNames": [
+          "J-Pop",
+          "Music"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2020-12-18",
+        "durationInMillis": 243613,
+        "isrc": "JPP302000676",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/ba/5b/4bba5b81-c56e-1513-4326-e24daf4a7bff/195497666737.jpg/{w}x{h}bb.jpg",
+          "bgColor": "fbb3b4",
+          "textColor1": "000000",
+          "textColor2": "2f2120",
+          "textColor3": "322324",
+          "textColor4": "583e3e"
+        },
+        "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
+        "playParams": {
+          "id": "1542182772",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "name": "Haruka",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/82/c3/f382c352-d7a2-5847-5bd8-9f2d5973a98e/mzaf_3097056711403685485.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "YOASOBI"
+      }
+    },
+    {
       "id": "1500836562",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1500836562",
@@ -98,8 +141,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 245093,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI09522450",
         "artwork": {
           "width": 3000,
@@ -119,8 +162,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -143,8 +186,8 @@
           "Trance"
         ],
         "trackNumber": 1,
-        "durationInMillis": 268820,
         "releaseDate": "2020-09-15",
+        "durationInMillis": 268820,
         "isrc": "QZK6L2035146",
         "artwork": {
           "width": 3000,
@@ -164,8 +207,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
         "previews": [
           {
@@ -186,8 +229,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "releaseDate": "2020-03-16",
         "durationInMillis": 335250,
+        "releaseDate": "2020-03-16",
         "isrc": "QZFZ72030210",
         "artwork": {
           "width": 3000,
@@ -207,8 +250,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Komm, s\u00fcsser Tod (feat. Marina Rios)",
         "previews": [
           {
@@ -275,8 +318,8 @@
           "K-Pop"
         ],
         "trackNumber": 5,
-        "durationInMillis": 175716,
         "releaseDate": "2023-06-01",
+        "durationInMillis": 175716,
         "isrc": "KSA012250135",
         "artwork": {
           "width": 3000,
@@ -296,8 +339,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Dare to Love (feat. BIG Naughty)",
         "previews": [
           {
@@ -305,49 +348,6 @@
           }
         ],
         "artistName": "B.I"
-      }
-    },
-    {
-      "id": "1542182772",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1542182772",
-      "attributes": {
-        "albumName": "THE BOOK",
-        "genreNames": [
-          "J-Pop",
-          "Music"
-        ],
-        "trackNumber": 7,
-        "releaseDate": "2020-12-18",
-        "durationInMillis": 243613,
-        "isrc": "JPP302000676",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/ba/5b/4bba5b81-c56e-1513-4326-e24daf4a7bff/195497666737.jpg/{w}x{h}bb.jpg",
-          "bgColor": "fbb3b4",
-          "textColor1": "000000",
-          "textColor2": "2f2120",
-          "textColor3": "322324",
-          "textColor4": "583e3e"
-        },
-        "composerName": "Ayase",
-        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
-        "playParams": {
-          "id": "1542182772",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Haruka",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/82/c3/f382c352-d7a2-5847-5bd8-9f2d5973a98e/mzaf_3097056711403685485.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "YOASOBI"
       }
     },
     {
@@ -361,8 +361,8 @@
           "Music"
         ],
         "trackNumber": 15,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 145027,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI00028700",
         "artwork": {
           "width": 3000,
@@ -382,8 +382,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Decisive Battle",
         "previews": [
           {
@@ -405,8 +405,8 @@
           "Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 179373,
         "releaseDate": "2023-07-03",
+        "durationInMillis": 179373,
         "isrc": "US5TA2300064",
         "artwork": {
           "width": 1400,
@@ -426,8 +426,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Roller Coaster",
         "previews": [
           {
@@ -448,8 +448,8 @@
           "Music"
         ],
         "trackNumber": 2,
-        "releaseDate": "2016-06-03",
         "durationInMillis": 196613,
+        "releaseDate": "2016-06-03",
         "isrc": "GBUM71602437",
         "artwork": {
           "width": 3000,
@@ -469,8 +469,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Perfect Strangers",
         "previews": [
           {
@@ -491,8 +491,8 @@
           "Music"
         ],
         "trackNumber": 11,
-        "releaseDate": "1997-09-26",
         "durationInMillis": 466333,
+        "releaseDate": "1997-09-26",
         "isrc": "JPKI09716710",
         "artwork": {
           "width": 3000,
@@ -512,8 +512,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "KOMM, SUSSER TOD (M-10 Director's Edit Version)",
         "previews": [
           {
@@ -534,8 +534,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "releaseDate": "1995-12-06",
         "durationInMillis": 144973,
+        "releaseDate": "1995-12-06",
         "isrc": "JPKI00312180",
         "artwork": {
           "width": 3000,
@@ -555,8 +555,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Tokyo-3",
         "previews": [
           {
@@ -643,8 +643,8 @@
         "hasCredits": false,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
-        "attribution": "Johann Sebastian Bach",
         "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
+        "attribution": "Johann Sebastian Bach",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/61/93/3f619381-dd99-4a68-29a8-4e8e939bd576/mzaf_6912831454169360897.plus.aac.p.m4a"
@@ -664,8 +664,8 @@
           "Music"
         ],
         "trackNumber": 10,
-        "durationInMillis": 181813,
         "releaseDate": "2022-06-12",
+        "durationInMillis": 181813,
         "isrc": "KRMIM2222354",
         "artwork": {
           "width": 3000,
@@ -685,8 +685,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Summertime (feat. Ashley Alisha)",
         "previews": [
           {
@@ -708,8 +708,8 @@
           "J-Pop"
         ],
         "trackNumber": 1,
-        "durationInMillis": 236391,
         "releaseDate": "2022-09-30",
+        "durationInMillis": 236391,
         "isrc": "JPV972200075",
         "artwork": {
           "width": 3000,
@@ -729,8 +729,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": true,
+        "hasLyrics": true,
         "name": "Suzume (feat. Toaka)",
         "previews": [
           {
@@ -795,8 +795,8 @@
           "Alternative"
         ],
         "trackNumber": 1,
-        "durationInMillis": 245280,
         "releaseDate": "2017-05-17",
+        "durationInMillis": 245280,
         "isrc": "KRNAR1702870",
         "artwork": {
           "width": 3000,
@@ -816,8 +816,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Grace",
         "previews": [
           {
@@ -927,8 +927,8 @@
           "Fitness & Workout"
         ],
         "trackNumber": 6,
-        "durationInMillis": 189585,
         "releaseDate": "2018-12-28",
+        "durationInMillis": 189585,
         "isrc": "GBSMU6422393",
         "artwork": {
           "width": 3000,
@@ -947,8 +947,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Breathe",
         "previews": [
           {
@@ -1012,8 +1012,8 @@
           "Music"
         ],
         "trackNumber": 1,
-        "durationInMillis": 323107,
         "releaseDate": "2022-03-19",
+        "durationInMillis": 323107,
         "isrc": "HKK972207257",
         "artwork": {
           "width": 1500,
@@ -1033,8 +1033,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": false,
         "isAppleDigitalMaster": false,
+        "hasLyrics": false,
         "name": "Introduce Friend Dance",
         "previews": [
           {
@@ -1056,8 +1056,8 @@
           "Easy Listening"
         ],
         "trackNumber": 5,
-        "releaseDate": "2020-03-16",
         "durationInMillis": 191466,
+        "releaseDate": "2020-03-16",
         "isrc": "GX3HH2179630",
         "artwork": {
           "width": 3000,
@@ -1076,8 +1076,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Not the One (Original Version)",
         "previews": [
           {
@@ -1143,8 +1143,8 @@
           "Pop"
         ],
         "trackNumber": 2,
-        "releaseDate": "2022-07-28",
         "durationInMillis": 215347,
+        "releaseDate": "2022-07-28",
         "isrc": "KRA382206389",
         "artwork": {
           "width": 3000,
@@ -1163,8 +1163,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Pop? Pop!",
         "previews": [
           {
@@ -1272,8 +1272,8 @@
           "Music"
         ],
         "trackNumber": 22,
-        "durationInMillis": 230480,
         "releaseDate": "1995-12-06",
+        "durationInMillis": 230480,
         "isrc": "JPKI09522470",
         "artwork": {
           "width": 3000,
@@ -1293,8 +1293,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "hasLyrics": true,
         "isAppleDigitalMaster": false,
+        "hasLyrics": true,
         "name": "Fly Me To the Moon (Yoko Takahashi Acid Bossa Version)",
         "previews": [
           {
