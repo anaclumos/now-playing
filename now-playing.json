@@ -2,49 +2,6 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
-      "id": "1697073401",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1697073401",
-      "attributes": {
-        "albumName": "I WANT - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-07-13",
-        "durationInMillis": 180627,
-        "isrc": "KRA382318567",
-        "artwork": {
-          "width": 3000,
-          "height": 3000,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/09/80/e90980f1-de81-6b00-4784-22a724cb6a27/cover_KM0017857_1.jpg/{w}x{h}bb.jpg",
-          "bgColor": "e9e9e9",
-          "textColor1": "101010",
-          "textColor2": "0d1940",
-          "textColor3": "3b3b3b",
-          "textColor4": "394262"
-        },
-        "url": "https://music.apple.com/us/album/i-want/1697073400?i=1697073401",
-        "playParams": {
-          "id": "1697073401",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "I WANT",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f7/03/20/f7032086-6f57-a696-7784-dff2e5496e2a/mzaf_12072413882302188691.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "IVE"
-      }
-    },
-    {
       "id": "1542182776",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1542182776",
@@ -85,6 +42,49 @@
           }
         ],
         "artistName": "YOASOBI"
+      }
+    },
+    {
+      "id": "1697073401",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1697073401",
+      "attributes": {
+        "albumName": "I WANT - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-07-13",
+        "durationInMillis": 180627,
+        "isrc": "KRA382318567",
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/09/80/e90980f1-de81-6b00-4784-22a724cb6a27/cover_KM0017857_1.jpg/{w}x{h}bb.jpg",
+          "bgColor": "e9e9e9",
+          "textColor1": "101010",
+          "textColor2": "0d1940",
+          "textColor3": "3b3b3b",
+          "textColor4": "394262"
+        },
+        "url": "https://music.apple.com/us/album/i-want/1697073400?i=1697073401",
+        "playParams": {
+          "id": "1697073401",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "I WANT",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f7/03/20/f7032086-6f57-a696-7784-dff2e5496e2a/mzaf_12072413882302188691.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "IVE"
       }
     },
     {
@@ -1164,8 +1164,8 @@
         "hasCredits": false,
         "hasLyrics": false,
         "isAppleDigitalMaster": false,
-        "attribution": "Johann Sebastian Bach",
         "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
+        "attribution": "Johann Sebastian Bach",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/61/93/3f619381-dd99-4a68-29a8-4e8e939bd576/mzaf_6912831454169360897.plus.aac.p.m4a"
