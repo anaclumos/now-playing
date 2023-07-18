@@ -2,6 +2,95 @@
   "next": "/v1/me/recent/played/tracks?offset=30",
   "data": [
     {
+      "id": "1697147752",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1697147752",
+      "attributes": {
+        "albumName": "Seven - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2023-07-14",
+        "durationInMillis": 185295,
+        "isrc": "USA2P2330092",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/a6/56/a5a6561a-f570-2fb1-5a3a-95b150c18f18/196922550928_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "ffffff",
+          "textColor1": "0f0f0f",
+          "textColor2": "252525",
+          "textColor3": "3f3f3f",
+          "textColor4": "505050"
+        },
+        "composerName": "Andrew Watt, Jon Bellion, Henry Walter, Theron Makiel Thomas & Latto",
+        "url": "https://music.apple.com/us/album/seven/1697147751?i=1697147752",
+        "playParams": {
+          "id": "1697147752",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Seven",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/b2/c6/24b2c6fc-2f64-4446-2efc-b0204a200196/mzaf_11386174141133605880.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "clean",
+        "artistName": "Jung Kook & Latto"
+      }
+    },
+    {
+      "id": "1692686518",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1692686518",
+      "attributes": {
+        "albumName": "NewJeans 'Super Shy' - Single",
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2023-07-07",
+        "durationInMillis": 154667,
+        "isrc": "USA2P2330068",
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
+          "bgColor": "8fc1e2",
+          "textColor1": "000000",
+          "textColor2": "0c244b",
+          "textColor3": "1c272d",
+          "textColor4": "264369"
+        },
+        "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
+        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
+        "playParams": {
+          "id": "1692686518",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "name": "Super Shy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/66/db/9866dbb4-6e6f-eedd-ea1c-4832542b8f3e/mzaf_1940197871229851903.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "NewJeans"
+      }
+    },
+    {
       "id": "1542182776",
       "type": "songs",
       "href": "/v1/catalog/us/songs/1542182776",
@@ -33,8 +122,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Yoru ni kakeru",
         "previews": [
           {
@@ -69,11 +158,11 @@
           "textColor3": "3b3b3b",
           "textColor4": "394262"
         },
+        "url": "https://music.apple.com/us/album/i-want/1697073400?i=1697073401",
         "playParams": {
           "id": "1697073401",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/i-want/1697073400?i=1697073401",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -112,11 +201,11 @@
           "textColor4": "583e3e"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
         "playParams": {
           "id": "1542182772",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/haruka/1542182291?i=1542182772",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -155,11 +244,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/hedgehogs-dilemma/1500836561?i=1500836565",
         "playParams": {
           "id": "1500836565",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/hedgehogs-dilemma/1500836561?i=1500836565",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -198,11 +287,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/asuka-strikes/1500836561?i=1500836569",
         "playParams": {
           "id": "1500836569",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/asuka-strikes/1500836561?i=1500836569",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -248,8 +337,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Decisive Battle",
         "previews": [
           {
@@ -290,8 +379,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Air",
         "previews": [
           {
@@ -333,8 +422,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Gucci Boy (feat. Emetsound & Asid)",
         "previews": [
           {
@@ -369,11 +458,11 @@
           "textColor4": "c74413"
         },
         "composerName": "Ari Leff & Thomas Newman",
+        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "playParams": {
           "id": "1689688059",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/steal-the-show-from-elemental/1689688058?i=1689688059",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -419,8 +508,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": true,
+        "isAppleDigitalMaster": true,
         "name": "Perfect Strangers",
         "previews": [
           {
@@ -462,8 +551,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "A Cruel Angel's Thesis (Director's Edit Version)",
         "previews": [
           {
@@ -507,8 +596,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Zankoku Na Tenshi No Thesis (Neon Genesis Evangelion) [feat. Astrophysics] [Opening]",
         "previews": [
           {
@@ -551,56 +640,12 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "New Jeans",
         "previews": [
           {
             "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ab/08/6b/ab086bea-d6e2-49b4-56e0-301b2ca25c0a/mzaf_5442052313401262510.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "NewJeans"
-      }
-    },
-    {
-      "id": "1692686518",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1692686518",
-      "attributes": {
-        "albumName": "NewJeans 'Super Shy' - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 2,
-        "releaseDate": "2023-07-07",
-        "durationInMillis": 154667,
-        "isrc": "USA2P2330068",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "8fc1e2",
-          "textColor1": "000000",
-          "textColor2": "0c244b",
-          "textColor3": "1c272d",
-          "textColor4": "264369"
-        },
-        "composerName": "Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim & Danielle",
-        "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
-        "playParams": {
-          "id": "1692686518",
-          "kind": "song"
-        },
-        "discNumber": 1,
-        "hasCredits": false,
-        "isAppleDigitalMaster": false,
-        "hasLyrics": true,
-        "name": "Super Shy",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/98/66/db/9866dbb4-6e6f-eedd-ea1c-4832542b8f3e/mzaf_1940197871229851903.plus.aac.p.m4a"
           }
         ],
         "artistName": "NewJeans"
@@ -631,11 +676,11 @@
           "textColor4": "d3746e"
         },
         "composerName": "Arianne",
+        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "playParams": {
           "id": "1503454854",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/komm-s%C3%BCsser-tod-feat-marina-rios/1503454853?i=1503454854",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -677,11 +722,11 @@
           "textColor4": "cba368"
         },
         "composerName": "B.I, \uac15\uc6b1\uc9c4, Diggy & BIG Naughty",
+        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "playParams": {
           "id": "1690289238",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/dare-to-love-feat-big-naughty/1690288742?i=1690289238",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -693,51 +738,6 @@
           }
         ],
         "artistName": "B.I"
-      }
-    },
-    {
-      "id": "1697147752",
-      "type": "songs",
-      "href": "/v1/catalog/us/songs/1697147752",
-      "attributes": {
-        "albumName": "Seven - Single",
-        "genreNames": [
-          "K-Pop",
-          "Music",
-          "Pop"
-        ],
-        "trackNumber": 1,
-        "releaseDate": "2023-07-14",
-        "durationInMillis": 185295,
-        "isrc": "USA2P2330092",
-        "artwork": {
-          "width": 1400,
-          "height": 1400,
-          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/a6/56/a5a6561a-f570-2fb1-5a3a-95b150c18f18/196922550928_Cover.jpg/{w}x{h}bb.jpg",
-          "bgColor": "ffffff",
-          "textColor1": "0f0f0f",
-          "textColor2": "252525",
-          "textColor3": "3f3f3f",
-          "textColor4": "505050"
-        },
-        "composerName": "Andrew Watt, Jon Bellion, Henry Walter, Theron Makiel Thomas & Latto",
-        "playParams": {
-          "id": "1697147752",
-          "kind": "song"
-        },
-        "url": "https://music.apple.com/us/album/seven/1697147751?i=1697147752",
-        "discNumber": 1,
-        "hasCredits": false,
-        "hasLyrics": true,
-        "isAppleDigitalMaster": false,
-        "name": "Seven",
-        "previews": [
-          {
-            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/b2/c6/24b2c6fc-2f64-4446-2efc-b0204a200196/mzaf_11386174141133605880.plus.aac.p.m4a"
-          }
-        ],
-        "artistName": "Jung Kook & Latto",
-        "contentRating": "clean"
       }
     },
     {
@@ -765,11 +765,11 @@
           "textColor4": "edcab3"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "playParams": {
           "id": "1671675878",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/komm-susser-tod-m-10-directors-edit-version/1671675665?i=1671675878",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -816,8 +816,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Love Me Like This",
         "previews": [
           {
@@ -859,8 +859,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Harujion",
         "previews": [
           {
@@ -902,8 +902,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Encore",
         "previews": [
           {
@@ -938,11 +938,11 @@
           "textColor4": "583e3e"
         },
         "composerName": "Ayase",
+        "url": "https://music.apple.com/us/album/epilogue/1542182291?i=1542182299",
         "playParams": {
           "id": "1542182299",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/epilogue/1542182291?i=1542182299",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -988,8 +988,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Prologue",
         "previews": [
           {
@@ -1025,11 +1025,11 @@
           "textColor4": "98cedb"
         },
         "composerName": "Justin Reinstein, Suhyppy, Anna Timgren & Seo Ji Eum",
+        "url": "https://music.apple.com/us/album/roller-coaster/1693911798?i=1693911799",
         "playParams": {
           "id": "1693911799",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/roller-coaster/1693911798?i=1693911799",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1068,11 +1068,11 @@
           "textColor4": "4985b2"
         },
         "composerName": "Shiro SAGISU",
+        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "playParams": {
           "id": "1500836571",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/tokyo-3/1500836561?i=1500836571",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": false,
@@ -1118,8 +1118,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": false,
+        "isAppleDigitalMaster": false,
         "name": "Orchestral Suite No. 3 in D Major BWV 1068: 2. Air (Arr. August Wilhelmj)",
         "attribution": "Johann Sebastian Bach",
         "previews": [
@@ -1155,11 +1155,11 @@
           "textColor4": "4e3b34"
         },
         "composerName": "Dept, Ashley Alisha, jazzer & Sonny Zero",
+        "url": "https://music.apple.com/us/album/summertime-feat-ashley-alisha/1656020011?i=1656020186",
         "playParams": {
           "id": "1656020186",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/summertime-feat-ashley-alisha/1656020011?i=1656020186",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1199,11 +1199,11 @@
           "textColor4": "414e59"
         },
         "composerName": "Nodayouzirou",
+        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "playParams": {
           "id": "1647112151",
           "kind": "song"
         },
-        "url": "https://music.apple.com/us/album/suzume-feat-toaka/1647111945?i=1647112151",
         "discNumber": 1,
         "hasCredits": false,
         "hasLyrics": true,
@@ -1249,8 +1249,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": true,
         "hasLyrics": false,
+        "isAppleDigitalMaster": true,
         "name": "Mephisto (off vocal version)",
         "previews": [
           {
@@ -1293,8 +1293,8 @@
         },
         "discNumber": 1,
         "hasCredits": false,
-        "isAppleDigitalMaster": false,
         "hasLyrics": true,
+        "isAppleDigitalMaster": false,
         "name": "Grace",
         "previews": [
           {
