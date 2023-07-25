@@ -1,7 +1,7 @@
 name: Find out what Sunghyun is listening to
 on:
-  schedule:
-    - cron: '*/5 * * * *'
+  #   schedule:
+  #   - cron: '*/5 * * * *'
   push:
     branches:
       - main
